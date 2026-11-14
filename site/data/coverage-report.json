@@ -1,4 +1,133 @@
 {
+  "placeRenamings": [
+    {
+      "id": "city-dnipro",
+      "kind": "city",
+      "formerName": "Dnipropetrovsk",
+      "currentName": "Dnipro",
+      "country": "UA",
+      "city": "Dnipro",
+      "district": "",
+      "aliases": [
+        "Дніпропетровськ",
+        "Днепропетровск",
+        "Dnepropetrovsk",
+        "Дніпро",
+        "Днепр"
+      ],
+      "transliterations": [],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Documented rename; live register reconciliation not performed.",
+      "events": [
+        {
+          "formerName": "Dnipropetrovsk",
+          "currentName": "Dnipro",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",
+          "locator": "Opening paragraph: Dnipropetrovsk renamed Dnipro; effective publication date not specified."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",
+          "title": "Verkhovna Rada of Ukraine",
+          "retrievedAt": "2026-11-14",
+          "reuseTerms": "Factual name mapping only. Source linked, not republished."
+        }
+      ]
+    },
+    {
+      "id": "city-kamianske",
+      "kind": "city",
+      "formerName": "Dniprodzerzhynsk",
+      "currentName": "Kamianske",
+      "country": "UA",
+      "city": "Kamianske",
+      "district": "",
+      "aliases": [
+        "Дніпродзержинськ",
+        "Кам’янське",
+        "Kamiyanske"
+      ],
+      "transliterations": [],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Documented rename; live register reconciliation not performed.",
+      "events": [
+        {
+          "formerName": "Dniprodzerzhynsk",
+          "currentName": "Kamianske",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",
+          "locator": "Second paragraph: Dniprodzerzhynsk renamed Kamiyanske."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",
+          "title": "Verkhovna Rada of Ukraine",
+          "retrievedAt": "2026-11-14",
+          "reuseTerms": "Factual name mapping only. Source linked, not republished."
+        }
+      ]
+    },
+    {
+      "id": "country-eswatini",
+      "kind": "country",
+      "formerName": "Swaziland",
+      "currentName": "Eswatini",
+      "country": "SZ",
+      "city": "",
+      "district": "",
+      "aliases": [
+        "Kingdom of Swaziland",
+        "Kingdom of Eswatini",
+        "eSwatini"
+      ],
+      "transliterations": [],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Documented rename; live register reconciliation not performed.",
+      "events": [
+        {
+          "formerName": "Swaziland",
+          "currentName": "Eswatini",
+          "date": "2018-04-19",
+          "datePrecision": "day",
+          "status": "effective",
+          "sourceUrl": "https://digitallibrary.un.org/record/1282124",
+          "locator": "UN country-name authority record: name changed effective 19 April 2018."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://digitallibrary.un.org/record/1282124",
+          "title": "United Nations Digital Library",
+          "retrievedAt": "2026-11-14",
+          "reuseTerms": "Factual name mapping only. Source linked, not republished."
+        }
+      ]
+    }
+  ],
+  "placeCoverage": {
+    "cities": 2,
+    "countries": 1,
+    "scope": "Initial selection only; street counts below exclude city and country records."
+  },
   "asOf": "2026-11-14",
   "scope": "Initial, incomplete source-backed release. Verified means the rename is supported by cited evidence, not current-live-register or geometry verification.",
   "languages": [

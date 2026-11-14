@@ -8,7 +8,8 @@ class Links(HTMLParser):
   if tag=='link':self.links.append(dict(attrs))
 for lang in langs:
  for r in [data[0],data[-1]]:
-  p=D/lang/'street'/r['id']/'index.html';parser=Links();parser.feed(p.read_text());c=[x for x in parser.links if x.get('rel')=='canonical'];assert len(c)==1 and c[0]['href'].endswith(f'/{lang}/street/{r["id"]}/')
+  kind='place' if r.get('kind') else 'street'
+  p=D/lang/kind/r['id']/'index.html';parser=Links();parser.feed(p.read_text());c=[x for x in parser.links if x.get('rel')=='canonical'];assert len(c)==1 and c[0]['href'].endswith(f'/{lang}/{kind}/{r["id"]}/')
   assert set(x.get('hreflang') for x in parser.links if x.get('rel')=='alternate' and x.get('hreflang'))==set(langs+['x-default'])
  root=ET.parse(D/f'sitemap-{lang}.xml').getroot()
  for loc in root.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc'):

@@ -11,6 +11,14 @@ As of 14 November 2026. Initial, incomplete source-backed release. A verified ro
 | Kazakhstan | 175 | 175 | 2 | 0 |
 | India | 8 | 8 | 2 | 2 |
 
+## City and country renamings
+
+Initial selection; the street counts above exclude these records.
+
+- Dnipropetrovsk → Dnipro (city); [source](https://www.rada.gov.ua/en/news/News/top_news/131134.html).
+- Dniprodzerzhynsk → Kamianske (city); [source](https://www.rada.gov.ua/en/news/News/top_news/131134.html).
+- Swaziland → Eswatini (country); [source](https://digitallibrary.un.org/record/1282124).
+
 ## Locality coverage
 
 | Country | Locality (source spelling) | Published | Events | Review |

@@ -8,9 +8,9 @@ const cityAliases = {
   'New Delhi': ['Delhi', 'नई दिल्ली'], 'Durban': ['eThekwini'], 'Pretoria': ['Tshwane'], 'Cape Town': ['Kaapstad', 'iKapa']
 };
 // Expand only unambiguous address abbreviations. "St" may mean Saint.
-const abbreviations = {rd:'road', ave:'avenue', blvd:'boulevard', ln:'lane', dr:'drive', вул:'вулиця', пров:'провулок'};
+const abbreviations = {rd:'road', ave:'avenue', blvd:'boulevard', ln:'lane', dr:'drive', pushkinskaya:'pushkinska', пушкинская:'пушкінська', вул:'вулиця', пров:'провулок'};
 const canonical = s => normalize(s).split(' ').map(t => abbreviations[t] || t).join(' ');
-const countryNames={UA:'Ukraine Україна Украина',PL:'Poland Polska',ZA:'South Africa',VN:'Vietnam Việt Nam',KZ:'Kazakhstan Қазақстан Казахстан',IN:'India भारत'};
+const countryNames={UA:'Ukraine Україна Украина',PL:'Poland Polska',ZA:'South Africa',VN:'Vietnam Việt Nam',KZ:'Kazakhstan Қазақстан Казахстан',IN:'India भारत',SZ:'Eswatini Swaziland'};
 const cache = new WeakMap();
 export function locationNames(r) { return [r.city, r.district, ...(cityAliases[r.city] || [])].filter(Boolean); }
 function indexed(r) {

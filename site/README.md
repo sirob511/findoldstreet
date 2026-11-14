@@ -97,3 +97,17 @@ sources retain year precision; announcement dates are not inferred effective dat
 
 Run `python3 tests/reviewed_data.py` after importing. The research backlog in
 `data/research-backlog.json` records promising sources and unresolved issues.
+
+### Unified place lookup
+
+The homepage uses one field for a former street, city or country name, including
+an optional locality in the same query. Results remain hidden until a query or
+country browse is selected. Ambiguous street matches expose city/district
+choices; answer rows link to history, source evidence and map searches.
+
+`data/places.json` holds the initial, manually reviewed city and country
+renamings, separately from the municipal street imports. The build and coverage
+report include these records without presenting them as street records. New
+city/country detail routes use `/{locale}/place/{id}/`; existing street URLs stay
+stable. All detail pages have a search form for the next lookup. Effective dates
+remain unknown when the cited source only confirms a decision or signature.

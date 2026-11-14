@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {search,normalize} from '../src/search.mjs';
-const countries=['UA','PL','ZA','VN','KZ','IN'];const all=countries.flatMap(c=>JSON.parse(fs.readFileSync(new URL('../data/'+c+'.json',import.meta.url))));
+const countries=['UA','PL','ZA','VN','KZ','IN','places'];const all=countries.flatMap(c=>JSON.parse(fs.readFileSync(new URL('../data/'+c+'.json',import.meta.url))));
 test('exact old-name lookup in each country',()=>{for(const [q,c,target] of [['Горького','UA','Антоновича'],['Lecha Kaczyńskiego','PL','Armii Ludowej'],['Smith Street','ZA','Anton Lembede'],['Xa lộ Hà Nội','VN','Võ Nguyên Giáp'],['Юрия Гагарина','KZ','Серкебаева'],['Aurangzeb Road','IN','Abdul Kalam']])assert.ok(search(all,q,'',c).some(r=>r.currentName.includes(target)),c)});
 test('accentless, generated transliteration, city alias, partial address',()=>{assert.ok(search(all,'Xa lo Ha Noi','Saigon').length);assert.ok(search(all,'Horkoho','Kyiv').length);assert.ok(search(all,'123 Smith Street','eThekwini').length);assert.ok(search(all,'Lecha Kaczynskiego','Warsaw').length)});
 test('Warsaw reversal remains chronological and latest name restored',()=>{const r=search(all,'Lecha Kaczyńskiego','Warsaw')[0];assert.equal(r.currentName,'Aleja Armii Ludowej');assert.equal(r.events.length,2);assert.equal(r.events[1].status,'reversal');assert.equal(r.events[1].date,'2018-12-07')});
@@ -18,4 +18,13 @@ test('numbered names remain distinct and house-number fallback stays street-leve
  assert.deepEqual(search(rows,'123 Smith Rd, South Africa').map(r=>r.id),['c']);
  assert.deepEqual(search(rows,'1 May St').map(r=>r.id),['a']);
  assert.equal(search(rows,'Smith Rd','Wrong City').length,0);
+});
+
+test('one box searches streets, cities and countries',()=>{
+ assert.ok(search(all,'Pushkinskaya, Kyiv').some(r=>r.id==='abf6965f2ba96b57'));
+ assert.ok(search(all,'Dnipropetrovsk').some(r=>r.kind==='city'&&r.currentName==='Dnipro'));
+ assert.ok(search(all,'Дніпропетровськ').some(r=>r.currentName==='Dnipro'));
+ assert.ok(search(all,'Swaziland').some(r=>r.kind==='country'&&r.currentName==='Eswatini'));
+ assert.ok(search(all,'Eswatini').some(r=>r.formerName==='Swaziland'));
+ assert.ok(search(all,'123 Smith Street, Durban').some(r=>r.currentName.includes('Anton Lembede')));
 });
