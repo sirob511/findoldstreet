@@ -37,6 +37,14 @@ Tests use real records for exact/partial/transliterated queries, disambiguation,
 
 ## Hosting and indexing
 
+For Vercel, the checked-in `vercel.json` selects the **Other** framework preset,
+runs the Python static-page generator, and publishes only `dist/`. Configuration
+is provided for either the repository root or `site/` as the Vercel Root Directory.
+No Python server entrypoint is needed. Dependency installation is skipped because
+the build uses only Python's standard library and the committed data. Set
+`SITE_ORIGIN` to your public site's HTTPS origin before deploying so canonical
+URLs and sitemaps point to the correct domain.
+
 `.openai/hosting.json` identifies the private Sites deployment; `dist/` is the static artifact. `SITE_ORIGIN` controls absolute canonicals, reciprocal hreflang and locale sitemaps (defaults to the actual Sites origin). It must be changed and rebuilt when deploying under FindOldStreet.com. DNS/custom-domain setup and public indexing are not completed: private hosting cannot be crawled publicly.
 
 Stable routes are `/{locale}/street/{id}/`. Every alias searches the same record and links to that route. City routes use stable hashes of source locality names. Source spellings are never silently translated. District labels refer to the cited decision's geography; newer administrative boundary changes may not be reconciled.
