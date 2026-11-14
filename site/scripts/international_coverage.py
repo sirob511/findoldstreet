@@ -16,7 +16,7 @@ def table(key,index=0):
 def screen(items):
     targets=collections.defaultdict(set)
     for r in items:targets[(r['city'],r.get('district'),norm(r['formerName']))].add(norm(r['currentName']))
-    oldnames={norm(r['formerName']) for r in items}
+    oldnames={(r['city'],norm(r['formerName'])) for r in items if norm(r['formerName'])!=norm(r['currentName'])}
     seen=set()
     for r in items:
         old,new=r['formerName'],r['currentName'];identity=(r['city'],r.get('district'),norm(old))
@@ -25,7 +25,7 @@ def screen(items):
         elif norm(old)==norm(new):why='Unchanged name'
         elif len(targets[identity])>1:why='Conflicting destinations for the same old name and locality'
         elif identity in seen:why='Duplicate source identity'
-        elif norm(new) in oldnames:why='Intermediate-name or reused-name chain needs independent reconciliation'
+        elif (r['city'],norm(new)) in oldnames:why='Intermediate-name or reused-name chain needs independent reconciliation'
         seen.add(identity)
         r['decision']='held' if why else 'approved'
         if why:r['reason']=why
@@ -73,5 +73,35 @@ def wroclaw():
         if any(x in old+' '+new for x in [',',';','(',')',' / ']) or 'Does not exist' in new:r['holdReason']='Vanished street, combined destinations or annotated name'
         out.append(r)
     save(7,out,'Wrocław, Poland: historical German names with exact current municipal name/type matches')
+def vilnius_register():
+    reg=collections.defaultdict(dict)
+    for p in sorted(S.glob('vilnius-road-names-*.json')):
+        for f in json.loads(p.read_text())['features']:
+            a=f['attributes']
+            if not a['vardas'] or not a['gat_kodas']:continue
+            key=norm(re.sub(r' g\.$','',a['vardas']))
+            reg[key][a['gat_kodas']]=(a,p.stem)
+    return reg
+
+def vilnius():
+    reg=vilnius_register();out=[]
+    soup=BeautifulSoup((S/'vilnius-historical-table.html').read_bytes(),'html.parser')
+    for i,tr in enumerate(soup.select('#fundsTable tr')):
+        c=[clean(x.get_text(' ',strip=True)) for x in tr.find_all('td',recursive=False)]
+        if len(c)!=4 or i==0:continue
+        new,before,location,history=c
+        district='N. Vilnios' if location.startswith('N. Vilnios.') else location.split('. ')[0]
+        candidates=list(reg.get(norm(new),{}).values())
+        names=[('pre-1987',before)]+[('historical',x.strip()) for x in history.split(',')]
+        for field,old in names:
+            if not old:continue
+            r=dict(country='LT',city='Vilnius',district=district,formerName=old,currentName=new,source='vilnius-historical-table',locator=f'Historical street table fundsTable, row {i}; {field} field',evidenceRow=i,evidenceField=field,sourceCells=c,locationAliases=['Vilnius','Wilno','Вильнюс'],language='lt',script='Cyrillic' if re.search('[А-Яа-я]',old) else 'Latin',nameNote='Historical label from the cited Vilnius street-history table, cross-checked for current name existence in the Hnit-Baltic road-name inventory. The source includes names in several languages; no legal rename date, complete event chain, historical boundary continuity or house-number continuity is inferred.')
+            if len(candidates)!=1:r['holdReason']='No unique exact current-name match in captured road-name inventory'
+            else:
+                a,key=candidates[0];r['extraSources']=[key];r['addressRegisterStreetCode']=a['gat_kodas']
+            if any(x in old+' '+new for x in ['(',')',';',' - ',' – ','/','?']) or re.search(r'\bdalis\b|\bчаст',old,re.I):r['holdReason']='Partial, combined or annotated historical label'
+            if not district or len(district)>45:r['holdReason']='Unclear locality scope'
+            out.append(r)
+    save(8,out,'Vilnius, Lithuania: pre-1987 and historical names checked against captured current road-name inventory')
 if __name__=='__main__':
-    {'6':tashkent,'7':wroclaw}[sys.argv[1]]()
+    {'6':tashkent,'7':wroclaw,'8':vilnius}[sys.argv[1]]()

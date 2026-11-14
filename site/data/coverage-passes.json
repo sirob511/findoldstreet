@@ -102,5 +102,19 @@
       "Search regression tests",
       "Static build and SEO checks"
     ]
+  },
+  {
+    "passNumber": 8,
+    "target": 500,
+    "newPublishedRecords": 1173,
+    "totalPublishedRecords": 8442,
+    "scope": "Vilnius, Lithuania: pre-1987 and historical names checked against captured current road-name inventory",
+    "heldCandidates": 981,
+    "sourceReview": "data/sources/international-pass-8-review.json",
+    "validation": [
+      "Source hash and exact-pair checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ]
   }
 ]

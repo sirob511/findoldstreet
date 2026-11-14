@@ -2,7 +2,7 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-7,269 published records across 30 countries: 7,167 streets/segments, 79 cities and 23 country-name mappings.
+8,442 published records across 31 countries: 8,340 streets/segments, 79 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
@@ -15,6 +15,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | Kazakhstan | 346 | 346 | 3 | 1 |
 | India | 8 | 8 | 2 | 2 |
 | Uzbekistan | 656 | 656 | 1 | 0 |
+| Lithuania | 1173 | 1173 | 1 | 0 |
 
 ## Expansion passes
 
@@ -27,6 +28,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 5 | 500 | 786 | 5864 | Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames |
 | 6 | 500 | 656 | 6520 | Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded |
 | 7 | 500 | 749 | 7269 | Wrocław, Poland: historical German names with exact current municipal name/type matches |
+| 8 | 500 | 1173 | 8442 | Vilnius, Lithuania: pre-1987 and historical names checked against captured current road-name inventory |
 
 ## City and country renamings
 
@@ -363,6 +365,7 @@ Initial selection; the street counts above exclude these records.
 | India | Kolkata | 1 | 1 | 1 |
 | India | New Delhi | 7 | 7 | 0 |
 | Uzbekistan | Ташкент | 656 | 656 | 0 |
+| Lithuania | Vilnius | 1173 | 1173 | 0 |
 
 ## Sources imported
 
@@ -431,6 +434,9 @@ Initial selection; the street counts above exclude these records.
 - [Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)](https://www.goldenpages.uz/streets/) — retrieved 2026-11-14T18:44:38.962536+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [WroclawGuide: historical German and present Polish street-name pairs](https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/) — retrieved 2026-11-14T18:46:24.518091+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [City of Wrocław EMUiA current street-name register](https://geoportal.wroclaw.pl/www/emuia/Ulice.zip) — retrieved 2026-11-14T18:46:24.519761+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [About Vilnius: present, pre-1987 and historical street-name table (2007, supplemented)](https://vilnius.penki.lt/ulicy_vilniusa) — retrieved 2026-11-14T18:51:08.927437+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [Hnit-Baltic Lithuania road dataset: Vilnius street names and address-register codes](https://utility.arcgis.com/usrsvcs/servers/087d2b1b6b244c31be0d060c7f7bdb09/rest/services/Hosted/Keiai_gatves/FeatureServer/0/query?f=json&where=gyv_pavad+%3D+%27Vilniaus+m.%27&outFields=vardas%2Cgat_kodas%2Cgyv_pavad&returnGeometry=false&returnDistinctValues=true&orderByFields=vardas%2Cgat_kodas&resultRecordCount=2000&resultOffset=0) — retrieved 2026-11-14T18:52:43.333394+00:00; Factual name attributes only; underlying Address Register attribution: VĮ Registrų centras, CC BY 4.0. No geometry republished.
+- [Hnit-Baltic Lithuania road dataset: Vilnius street names and address-register codes](https://utility.arcgis.com/usrsvcs/servers/087d2b1b6b244c31be0d060c7f7bdb09/rest/services/Hosted/Keiai_gatves/FeatureServer/0/query?f=json&where=gyv_pavad+%3D+%27Vilniaus+m.%27&outFields=vardas%2Cgat_kodas%2Cgyv_pavad&returnGeometry=false&returnDistinctValues=true&orderByFields=vardas%2Cgat_kodas&resultRecordCount=2000&resultOffset=2000) — retrieved 2026-11-14T18:52:44.464989+00:00; Factual name attributes only; underlying Address Register attribution: VĮ Registrų centras, CC BY 4.0. No geometry republished.
 - [Verkhovna Rada of Ukraine](https://www.rada.gov.ua/en/news/News/top_news/131134.html) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
 - [ukraine-renamed-cities](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf) — retrieved 2026-11-14T17:55:32.373201+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [United Nations Digital Library](https://digitallibrary.un.org/record/1282124) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
@@ -483,6 +489,8 @@ Initial selection; the street counts above exclude these records.
 - British Council historical table not imported; newer municipal registers not systematically compared
 ### Uzbekistan
 - Tashkent directory mappings only; legal decisions, current national register and geometry not reconciled. Numbered lanes are separate source objects; ambiguous and partial mappings held.
+### Lithuania
+- Vilnius historical names only; current-name existence cross-checked against an address-register-derived road inventory. Ambiguous labels and unmatched destinations withheld; historical geometry, complete legal chains and other Lithuanian municipalities remain gaps.
 
 ## Limits
 
