@@ -1,0 +1,713 @@
+--- PAGE 1 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+                                                          India
+
+Country name                                       India
+
+State title in English                             Republic of India
+State title in official languages                  भारत गणराज्य (Bhārat Gaṇarājya)
+(romanized in brackets)
+Name of citizen                                    Indian
+Official languages                                 Hindi, written in Devanagari script, and English1
+
+Country name in official languages                 भारत (Bhārat)
+(romanized in brackets)
+Script                                             Devanagari
+
+ISO-3166 code (alpha-2/alpha-3)                    IN/IND
+
+Capital                                            New Delhi
+Population                                         1.41 billion2
+
+
+
+Introduction
+India occupies a significant portion of South Asia. It was part of the British Empire from 1858 until 1947
+when it was split along religious lines into two nations at independence: the Hindu-majority India and the
+Muslim-majority  Pakistan3.  Its  highly  diverse  population  consists  of  thousands  of  ethnic  groups  and
+hundreds of languages.
+
+Northeast  India  comprises  the  states  of  Arunāchal  Pradesh,  Assam,  Manipur,  Meghālaya,  Mizoram,
+Nāgāland, Sikkim and Tripura. It is connected to the rest of India through a narrow corridor of the state of
+West Bengal. Along its northern boundary, India shares borders with Pakistan, China and Nepal (for more
+information  on  disputed  border  areas  see  page  11), it  also  borders  Bhutan,  Myanmar  (Burma)  and
+Bangladesh. The mostly hilly and mountainous regions are home to many hill tribes, with their own distinct
+languages and cultures.
+
+
+Geographical names policy
+PCGN policy for India is to use the Roman-script geographical names found on official India-produced
+sources. The Survey of India is responsible for the standardization of geographical names in India and
+produces official maps of the country.  These are primarily in Hindi and English (the website also has some
+maps in the official state languages).
+
+
+1 English is widely used for official and commercial purposes. Language codes given in this Factfile are ISO-639 codes.
+2 https://www.indiastat.com/ accessed 11th May 2023.
+3 From which Bangladesh later split, becoming an independent country in 1972.
+                                                                                                                                 1
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 2 ---
+                                                            OFFICIAL
+TOPONYMIC FACTFILE
+
+
+
+Languages
+The Constitution of India states that the two official languages of India are Hindi (written in Devanagari
+script) and English (which has continued to be a widely-used lingua franca post independence). The Eighth
+Schedule  of  the  Indian  Constitution          lists  a  further  22  languages,  which  are  classified  as  scheduled
+languages and given recognition, status and official encouragement in India: Assamese, Bengali, Bodo,
+Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Malayalam, Manipuri, Maithili, Marathi, Nepali, Oriya,
+Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu and Urdu. There are calls for a further 38 languages to be
+included.
+
+Hindi is the most commonly spoken language (43.6% speak it as their first language per the 2011 census)
+and it serves as the lingua franca across much of northern and western India. English is used in some parts
+of government and higher education. Bengali is the second most spoken language (around 8.3% speak it
+as their first language). It is primarily spoken and understood in the eastern and northeastern regions of
+India, particularly in the state of West Bengal where it is one of the official languages (along with English).
+The Central Institute of Indian Languages was set up in 1969 to assist and co-ordinate the development
+of Indian languages.
+
+Geographical  names  for  India’s  official maps  are  field  collected  in  the original  language,  e.g. Marathi,
+Telugu, Urdu etc. These names are then transcribed by the Survey of India into a standard Devanagari
+script form, then via the Hunterian System4 into Roman script, to produce the final official form, labelled
+“English”.    Over  recent  years,  there  has  been  an  effort  to  update  the  names  in  India  still  spelt  in  an
+anglicized manner, e.g. see under Karnātaka on page 5.
+
+Devanagari is an ‘abugida’ script, whereby each consonant has an inherent vowel (a), that can be changed
+with different vowel signs (illustrated below with the consonant ‘pa’).
+
+
+                              Devanagari script for Hindi (vowels and vowel diacritics)5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 A transliteration method developed in the late nineteenth century by William Wilson Hunter. It is the system also
+used to romanize names in Pakistan, Nepal, Bhutan, Bangladesh and Sri Lanka.
+5 For consonants see the BGN/PCGN romanization system for Nepali.
+                                                                                                                                    2
+© Crown Copyright 2026
+                                                            OFFICIAL
+--- PAGE 3 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+
+
+Administrative structure
+At first-order administrative level (ADM1), India is divided into 28 states and 8 union territories. The union
+territories are governed by administrators, appointed by the President of India. Three of the territories
+(Delhi,  Jammu  and  Kashmīr,  Puducherry)  have  partial  statehood,  with  legislatures  and  a  Lieutenant
+Governor  who  acts  as  a  representative  of  the  President  of  India.  Several  Indian  states  have  two
+administrative centres (PPLAs). Known as the summer and winter capitals, the administrative functions
+are shared between the two PPLAs depending on the season.
+
+At ADM2 level, the states and territories often use different local titles for the same level of subdivision;
+several villages or village clusters may be called tehsils, talukas, subdivisions, mandals or circles.
+
+States
+ 1. Andhra Pradesh
+ Location                                                       15° 50' 00" N, 079° 45' 00" E
+ ISO 3166-2 code                                                IN-AP
+ Centre                                                         Hyderābād (de jure) (17° 23' 03" N, 078° 27' 23" E)
+                                                                Amarāvati (de facto) (16° 34' 31" N, 080° 21' 29" E)
+ Language                                                       Telugu (has its own script), English
+ ADM2s                                                          26
+When Andhra Pradesh divided into the two states of Telangāna and Andhra Pradesh in 2015, the existing
+capital of  Andhra Pradesh, Hyderābād,  became  the  capital  of  both  states.  It  was  planned  that  after  a
+period of 10 years, Hyderābād would continue to be the capital of the state of Telangāna, and a new
+capital created for the state of Andhra Pradesh. The three cities of Visākhapatnam, Kurnool and Amarāvati
+are  set  to  become  the  administrative,  judicial  and  legislative  capitals  respectively  although  the  final
+decision is subject to ongoing deliberation.
+
+ 2. Arunāchal Pradesh
+ Location                                                       28°15' 00" N, 094°40' 00" E
+ ISO 3166-2 code                                                IN-AR
+ Centre                                                         Itānagar (27°06' 08" N, 093°41' 31" E)
+ Language                                                       English
+ ADM2s                                                          25
+ Website                                                        http://www.arunachalpradesh.gov.in/
+Formerly the North-East Frontier Agency, in 1972 it became the union territory of Arunāchal Pradesh (plus
+part of the state of Assam). It became a state in 1987. See Disputed Areas section.
+
+ 3. Assam
+ Location                                                       26° 15' 00" N, 093° 00' 00" E
+ ISO 3166-2 code                                                IN-AS
+ Centre                                                         Dispur (26° 08' 08" N, 091° 48' 02" E)
+ Language                                                       Assamese (has its own script), Bengali, Bodo
+ ADM2s                                                          35
+ Website                                                        https://assam.gov.in/
+
+
+
+
+                                                                                                                                  3
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 4 ---
+                                                          OFFICIAL
+TOPONYMIC FACTFILE
+
+
+
+ 4. Bihār
+ Location                                                     25° 45' 00" N, 085° 45' 00" E
+ ISO 3166-2 code                                              IN-BR
+ Centre                                                       Patna (25° 36' 55" N, 085° 06' 04" E)
+ Language                                                     Hindi, Maithili, Urdu
+ ADM2s                                                        9 divisions 38 districts
+ Website                                                      https://state.bihar.gov.in/main/CitizenHome.html
+On 15 November 2000, southern Bihār was ceded to form the new state of Jhārkhand.
+
+ 5. Chhattīsgarh
+ Location                                                      21° 30' 00" N, 082° 00' 00" E
+ ISO 3166-2 code                                               IN-CT
+ Centre                                                        Raipur (21° 14' 00" N, 081° 38' 00" E)
+ Languages                                                     Chhattisgarhi, Hindi
+ ADM2s                                                         5 divisions 28 districts
+ Website                                                       http://www.cgstate.gov.in
+Formed on 1 November 2000 from part of Madhya Pradesh. Chhattisgarhi is written in Devanagari script.
+A new planned state capital, Naya Raipur (or Nava Raipur), is being constructed around 17 miles outside
+of the current Raipur city.
+
+ 6. Goa
+ Location                                                       15° 20' 00" N, 074° 05' 00" E
+ ISO 3166-2 code                                                IN-GA
+ Centre                                                         Panaji (15° 29' 54" N, 073° 49' 28" E)
+ Language                                                       Konkani
+ ADM2s                                                          2
+ Website                                                        https://goaonline.gov.in/
+Formerly part of the Goa, Dāman and Diu union territory, Goa became a state in 1987, with Dāman and
+Diu remaining a union territory. Until 1961, Goa was part of Portuguese India.
+
+ 7. Gujarāt
+ Location                                                       23° 00' 00" N, 071° 45' 00" E
+ ISO 3166-2 code                                                IN-GJ
+ Centre                                                         Gāndhīnagar (23° 13' 00" N, 072° 41' 00" E)
+ Language                                                       Gujarati (has its own script), Hindi
+ ADM2s                                                          33
+ Website                                                        https://gujaratindia.gov.in
+Gujarāt  borders  the  Pakistani  province  of  Sindh,  see  Sir  Creek  in  Disputed  Areas.  The  centre  was  at
+Ahmadābād (Ahmedabad, sometimes seen as Ahmedābād) until 1970s.
+
+ 8. Haryāna
+ Location                                                       29° 15' 00" N, 076° 20' 00" E
+ ISO 3166-2 code                                                IN-HR
+
+
+
+                                                                                                                               4
+© Crown Copyright 2026
+                                                          OFFICIAL
+--- PAGE 5 ---
+                                                            OFFICIAL
+TOPONYMIC FACTFILE
+
+ Centre                                                           Chandīgarh6 (30° 44' 11" N, 076° 47' 18" E)
+ Language                                                         Hindi, English, Punjabi
+ ADM2s                                                            22
+ Website                                                          https://haryana.gov.in/index.html
+
+ 9. Himāchal Pradesh
+ Location                                                         31° 55' 00" N, 077° 15' 00" E
+ ISO 3166-2 code                                                  IN-HP
+ Centre                                                           Shimla (31° 06' 12" N, 077° 10' 20" E)        7
+ Language                                                         Hindi, Sanskrit8
+ ADM2s                                                            12
+ Website                                                          https://himachal.nic.in/en-IN/
+Following the 1947 independence from British India, the region became the province of Himāchal Pradesh
+and later a union territory. In 1966, it was merged with parts of neighboring Punjab state and was granted
+full statehood in 1971.
+
+ 10. Jhārkhand
+ Location                                                         23° 45' 00" N, 085° 30' 00" E
+ ISO 3166-2 code                                                  IN-JH
+ Centre                                                           Rānchi (23° 20' 52" N, 085° 20' 19" E)
+ Language                                                         Hindi9
+ ADM2s                                                            24
+ Website                                                          http://jharkhand.gov.in
+The state of Jhārkhand was created on 15 November 2000, from the southern portion of Bihār state.
+
+ 11. Karnātaka
+ Location                                                         14° 40' 00" N, 075° 50' 00" E
+ ISO 3166-2 code                                                  IN-KA
+ Centre                                                           Bengalūru (12° 58' 37" N, 077° 35' 14" E)
+ Language                                                         Kannada (often called Kanarese) (has its own
+                                                                  script)
+ ADM2s                                                            31
+ Website                                                          https://karnataka.gov.in/english
+In 2014, the Karnātaka government renamed 12 English settlement names, to correspond more closely
+with the local Kannada-language form, e.g. Bangalore to Bengalūru, Mangalore to Mangalūru and Mysore
+to Mysūru.10
+
+
+
+6 See Chandīgarh union territory on page 9; a city, district and union territory that serves as the capital of both Punjab
+and Haryana states.
+7 Some sources report that Dharamshāla, sometimes seen as Dharamsala (32° 12' 55" N, 076° 19' 07" E) is the winter
+capital.
+8 Made an additional official language in 2019.
+9 Jharkhand has accorded second language status to Angika, Bengali, Bhojpuri, Ho, Kharia, Kurukh, Khortha, Kurmali,
+Magahi, Maithili, Mundari, Nagpuri, Odia, Santali and Urdu.
+10 See 2014 PCGN Information Paper Karnataka State, India: Name Changes.
+                                                                                                                                  5
+© Crown Copyright 2026
+                                                            OFFICIAL
+--- PAGE 6 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+ 12. Keralam11
+ Location                                                        10° 25' 00" N, 076° 30' 00" E
+ ISO 3166-2 code                                                 IN-KL
+ Centre                                                          Thiruvananthapuram12 (08° 29' 08" N, 076° 56' 57"E)
+ Language                                                        Malayalam (has its own script), English, Tulu (has its
+                                                                 own script)
+ ADM2s                                                           14
+ Website                                                         https://kerala.gov.in
+
+ 13. Madhya Pradesh
+ Location                                                       23° 30' 00" N, 078° 30' 00" E
+ ISO 3166-2 code                                                IN-MP
+ Centre                                                         Bhopāl (23° 15' 17" N, 077° 24' 10" E)
+ Language                                                       Hindi
+ ADM2s                                                          52
+ Website                                                        https://mpdistricts.nic.in/
+
+ 14. Mahārāshtra
+ Location                                                     19° 30' 00" N, 076° 00' 00" E
+ ISO 3166-2 code                                              IN-MH
+ Centre                                                       Mumbai (18° 59' 16" N, 072° 50' 11"E)13
+ Language                                                     Marathi
+ ADM2s                                                        6 divisions 36 districts
+ Website                                                      https://www.maharashtra.gov.in/1125/Home
+
+ 15. Manipur
+ Location                                                     24° 45' 00" N, 093° 50' 00" E
+ ISO 3166-2 code                                              IN-MN
+ Centre                                                       Imphāl (24° 48' 29" N, 093° 56' 39" E)
+ Language                                                     Maitei (has its own script), English
+ ADM2s                                                        16
+ Website                                                      https://manipur.gov.in
+
+ 16. Meghālaya
+ Location                                                     25° 30' 00" N, 091° 20' 00" E
+ ISO 3166-2 code                                              IN-ML
+ Centre                                                       Shillong (25° 34' 26" N, 091° 53' 49" E)
+ Language                                                     English
+ ADM2s                                                        12
+ Website                                                      https://meghalaya.gov.in
+
+11 Keralam replaced Kerala as the official name in     August 2026, as decreed in the Kerala (Alteration of Name) Act,
+2026 (Bill no. 115).
+12 Formerly, and sometimes still known as, Trivandrum.
+13 Some sources report that Nāgpur (21° 08' 42" N, 079° 05' 10"E) is the winter capital.
+                                                                                                                                6
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 7 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+
+Previously a district of the state of Assam under British rule, it became a state in 1972.
+ 17. Mizoram
+ Location                                                     23° 20' 00" N, 092° 50' 00" E
+ ISO 3166-2 code                                              IN-MZ
+ Centre                                                       Āīzawl (23° 44' 12" N, 092° 42' 53" E)
+ Languages                                                    English, Hindi, Mizo
+ ADM2s                                                        11
+ Website                                                      https://mizoram.gov.in
+Previously a district of the state of Assam under British rule, it became a union territory in 1972 and then
+a state in 1987. It has the highest concentration of tribal people of all the states of India. The Mizo people
+and their language are protected as a scheduled tribe.
+
+ 18. Nāgāland
+ Location                                                     26° 05' 00" N, 094° 30' 00" E
+ ISO 3166-2 code                                              IN-NL
+ Centre                                                       Kohīma (25° 40' 29" N, 094° 06' 40" E)
+ Language                                                     English
+ ADM2s                                                        16
+ Website                                                      https://nagaland.gov.in/
+Other than English, Nagamese, a creole language based on Assamese, is widely spoken.
+
+ 19. Odisha
+ Location                                                     20° 30' 00" N, 084° 25' 00" E
+ ISO 3166-2 code                                              IN-OR
+ Centre                                                       Bhubaneshwar (20° 16' 21" N, 085° 50' 02" E)
+ Language                                                     Odia (has its own script)
+ ADM2s                                                        30
+ Website                                                      https://www.odisha.gov.in
+Previously known as Orissa until 2011.
+
+ 20. Punjab
+ Location                                                     30° 55' 00" N, 075° 25' 00" E
+ ISO 3166-2 code                                              IN-PB
+ Centre                                                       Chandīgarh14 (30° 44' 11" N, 076° 47' 18" E)
+ Language                                                     Punjabi (written in India with the Gurmukhi script)
+ ADM2s                                                        36
+ Website                                                      https://www.punjab.gov.pk
+Part of the larger Punjab region with the Pakistani province of Punjab to the west.
+
+ 21. Rājasthān
+ Location                                                     26° 35' 00" N, 073° 50' 00" E
+ ISO 3166-2 code                                              IN-RJ
+ Centre                                                       Jaipur (26° 54' 48" N, 075° 47' 16" E)
+
+14 See Chandīgarh union territory on page 8; a city, district and union territory that serves as the capital of both
+Punjab and Haryana states.
+                                                                                                                                7
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 8 ---
+                                                          OFFICIAL
+TOPONYMIC FACTFILE
+
+
+ Language                                                    Hindi, English
+ ADM2s                                                       33
+ Website                                                     https://rajasthan.gov.in/
+
+ 22. Sikkim
+ Location                                                    27° 35' 00" N, 088° 30' 00" E
+ ISO 3166-2 code                                             IN-SK
+ Centre                                                      Gangtok (27° 19' 33" N, 088° 36' 44" E)
+ Languages                                                   English, Nepali (the lingua franca), Sikkimese
+                                                             (written using the Tibetan script), Lepcha
+ ADM2s                                                       4
+ Website                                                     https://www.sikkim.gov.in
+Previously a sovereign territory, and then a British protectorate, Sikkim became a protectorate of India in
+1950 and then an Indian state in 1975. Part of the Eastern Himalayas, Sikkim is bordered by the Xizang
+autonomous region of China (Tibet), Bhutan and Nepal.
+
+ 23. Tamil Nādu
+ Location                                                    11° 00' 00" N, 078° 20' 00" E
+ ISO 3166-2 code                                             IN-TN
+ Centre                                                      Chennai15 (13° 05' 05" N, 080° 14' 54" E)
+ Language                                                    Tamil (has its own script), English
+ ADM2s                                                       38
+ Website                                                     https://www.tn.gov.in
+Renamed from Madras state in 1969.
+
+ 24. Telangāna
+ Location                                                    17° 50' 00" N, 079° 05' 00" E
+ ISO 3166-2 code                                             IN-TG
+ Centre                                                      Hyderābād (17° 23' 03" N, 078° 27' 23" E)
+ Language                                                    Telugu (has its own script), Urdu
+ ADM2s                                                       33
+ Website                                                     https://www.telangana.gov.in
+Created in 2015, when Andhra Pradesh was divided into two states: Telangāna and Andhra Pradesh.
+
+ 25. Tripura
+ Location                                                    23° 45' 00" N, 091° 44' 00" E
+ ISO 3166-2 code                                             IN-TR
+ Centre                                                      Agartala (23° 50' 10" N, 091° 16' 46" E)
+ Languages                                                   English, Kokborok (written in Roman script), Bengali
+ ADM2s                                                       8
+ Website                                                     https://tripura.gov.in
+
+ 26. Uttar Pradesh
+ Location                                                    27° 00' 00" N, 080° 45' 00" E
+
+15 Formerly known as Madras until 1996.
+                                                                                                                              8
+© Crown Copyright 2026
+                                                          OFFICIAL
+--- PAGE 9 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+
+ ISO 3166-2 code                                               IN-UP
+ Centre                                                        Lucknow (26° 50' 21" N, 080° 55' 23" E)
+ Language                                                      Hindi, Urdu
+ ADM2s                                                         75
+ Website                                                       http://up.gov.in
+
+ 27. Uttarākhand
+ Location                                                      30° 15' 00" N, 079° 15' 00" E
+ ISO 3166-2 code                                               IN-UT
+ Centre                                                        Dehra Dūn (30° 19' 28" N, 078° 02' 02" E)16
+ Languages                                                     Hindi, Sanskrit17
+ ADM2s                                                         13
+ Website                                                       https://uk.gov.in
+On 9 November 2000, the new state of Uttarākhand was carved out from northern Uttar Pradesh.
+
+ 28. West Bengal
+ Location                                                      24° 00' 00" N, 088° 00' 00" E
+ ISO 3166-2 code                                               IN-WB
+ Centre                                                        Kolkāta18 (22° 33' 45" N, 088° 21' 47" E)
+ Languages                                                     Bengali (has its own script), English      19
+ ADM2s                                                         23
+ Website                                                       https://www.wb.gov.in (not currently accessible)
+As part of the 1947 Partition of India, the Bengal region was split along religious lines into two separate
+entities: West Bengal, a state of India, and East Bengal, a province of Pakistan which later became the
+independent country of Bangladesh.
+
+
+Union territories
+ 1. Andaman and Nicobar Islands
+ Location                                                      10° 00' 00" N, 093° 00' 00" E
+ ISO 3166-2 code                                               IN-AN
+ Centre                                                        Sri Vijaya Puram20 (11° 40' 00" N, 092° 45' 00" E)
+ Languages                                                     English, Hindi
+ ADM2s                                                         3
+ Website                                                       https://www.andaman.gov.in/
+The Andaman Islands are an archipelago of nearly 600 islands between the Bay of Bengal and India in the
+west and the Andaman Sea and Myanmar (Burma) to the north and east                        ; 21 previously unnamed islands
+were  named  in  November  2023.            Most  of  the  islands  form  the  Andaman  and  Nicobar  Islands  union
+territory, with a few islands in the north, including the Cocos Islands, belonging to Myanmar (Burma). Only
+38 of the islands are inhabited      .
+
+16 Some sources report that Bhararisain (30° 05' 53" N, 079° 15' 55" E) is the winter capital.
+17 Sanskrit was made an additional official language in 2010.
+18 Previously known as Calcutta.
+19 Nepali, Hindi, Odia, Punjabi, Santali and Urdu were granted additional official status in Chandīgarh in 2012.
+
+20 Formerly Port Blair, until September 2024.
+                                                                                                                                 9
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 10 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+
+
+ 2. Chandīgarh
+ Location                                                     30° 43' 40" N, 076° 46' 40" E
+ ISO 3166-2 code                                              IN-CH
+ Centre                                                       Chandīgarh (30° 44' 11" N, 076° 47' 18" E)
+ Language                                                     English
+ ADM2s                                                        1
+ Website                                                      http://chandigarh.gov.in
+Chandīgarh is a city, a district and a union territory that serves as the capital of the two neighbouring
+states of Punjab and Haryāna. The city is not a part of either of the two states but is governed directly by
+the Government of India, which administers all union territories in the country.
+
+ 3. Dādra and Nagar Haveli and Damān and Diu
+ Location                                                     20° 11' 00" N, 073° 00' 00" E
+ ISO 3166-2 code                                              IN-DH
+ Centre                                                       Damān (20° 25' 12" N, 072° 51' 0" E)
+ Languages                                                    Hindi, Gujarati, English
+ ADM2s                                                        3
+ Website                                                      https://daman.nic.in/
+The  coastal  enclaves (of  the  state  of      Gujarāt)    of Damān  (Portuguese: Damão)  and  Diu  were  part  of
+Portuguese India along with Goa and Dādra and Nagar Haveli (enclaves within the state of Mahārāshtra).
+In 1954 Dādra and Nagar Haveli became             de facto independent from Portugal and in 1961 Diu and Damān
+became  part  of  India  along  with  Goa.       In  2019,  legislation  was  passed  to  merge  the  union  territory  of
+Damān and Diu with its neighbouring union territory,                Dādra and Nagar Haveli        , to form the new union
+territory of ‘ Dādra and Nagar Haveli and Damān and Diu’               with effect from 26 January 2020.
+
+ 4. Jammu and Kashmīr
+ Location                                                       33° 10' 00" N, 074° 45' 00" E
+ ISO 3166-2 code                                                IN-JK
+ Centre                                                         Srīnagar (summer) (34° 05' 08" N, 074° 48' 20"E)
+                                                                Jammu (winter) (32° 43′ 48″ N, 74° 52′ 12″ E)
+ Languages                                                      Urdu, English
+ ADM2s                                                          22
+ Website                                                        https://www.jk.gov.in/jammukashmir/
+On 31 October 2019, the state of Jammu and Kashmīr bifurcated into the union territories of ‘Jammu and
+Kashmīr’ and ‘Ladākh’. It comprises the southern portion of the larger Kashmir region, which also includes
+the Pakistani-administered territories of Gilgit-Baltistan and Azad Jammu and Kashmir, and the Chinese-
+administered territories of Aksai Chin and the Trans-Karakoram Tract, both administered by China as part
+of Xinjiang Autonomous Region.
+
+ 5. Ladākh
+ Location                                                       34° 20' 00" N, 077° 25' 00" E
+ ISO 3166-2 code                                                IN-LA
+ Centre                                                         Leh (34° 09' 58" N, 077° 35' 01" E)
+ Languages                                                      Hindi, English
+ ADM2s                                                          2
+                                                                                                                              10
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 11 ---
+                                                          OFFICIAL
+TOPONYMIC FACTFILE
+
+
+ 5. Ladākh
+ Location                                                      34° 20' 00" N, 077° 25' 00" E
+ Website                                                       https://ladakh.nic.in
+On 31 October 2019, the existing state of Jammu and Kashmīr was bifurcated into the union territories of
+‘Jammu and Kashmīr’ and ‘Ladākh’.
+
+ 6. Lakshadweep
+ Location                                                      11° 00' 00" N, 072° 30' 00" E
+ ISO 3166-2 code                                               IN-LD
+ Centre                                                        Kavaratti (10° 34' 00" N, 072° 37' 00" E)
+ Languages                                                     Malayalam, English
+ ADM2s                                                         1
+ Website                                                       https://lakshadweep.gov.in/
+The Laccadive Islands, Minicoy Island and Amindivi Islands are the three island subgroups in the union
+territory of Lakshadweep (formerly known as Laccadive, Minicoy and Amindivi Islands) off the southwest
+coast of India. It is the smallest union territory in India.
+
+ 7. National Capital Territory of Delhi
+ Location                                                      28° 40' 00" N, 077° 06' 00" E
+ ISO 3166-2 code                                               IN-DL
+ Centre                                                        New Delhi (28° 36' 00" N, 077° 12' 00" E)
+ Languages                                                     Hindi, English
+ ADM2s                                                         11
+ Website                                                       https://delhi.gov.in/
+
+ 8. Puducherry
+ Location                                                      11° 56' 00" N, 079° 49' 00" E
+ ISO 3166-2 code                                               IN-PY
+ Centre                                                        Puducherry (11° 56' 02" N, 079° 49' 47" E)
+ Languages                                                     Tamil, English, French, Telugu, Malayalam
+ ADM2s                                                         4
+ Website                                                       https://www.py.gov.in
+Was previously part of French India, when it was known as Pondichéry, until 1954. Pondicherry was the
+English name.
+
+
+International Features
+        PCGN
+  recommended                          Local Names                             Location                Feature type
+        name
+       Ganges                      Padma (Bangladesh)                       23° 22' 00" N,                 River
+                                       Ganga (India)                       090° 32' 00" E
+                                       Satluj (India)                       29° 20' 53" N,
+        Sutlej                       Sutlej (Pakistan)                     071° 01' 13" E                  River
+                                Langqên Zangbo (China)
+
+                                                                                                                            11
+© Crown Copyright 2026
+                                                          OFFICIAL
+--- PAGE 12 ---
+                                                           OFFICIAL
+TOPONYMIC FACTFILE
+
+
+        PCGN
+   recommended                          Local Names                             Location                 Feature type
+        name
+        Indus                         Yin-tu Ho (China)                      23° 59' 33" N,                   River
+                                  Indus (India, Pakistan)                    067° 26' 04" E
+                                  Himālaya (Nepal, India)                    28° 00' 00" N,
+     Himalayas                        Ximalaya (China)                       084° 00' 00" E               Mountains
+                                    Himaliya (Pakistan)
+                              Yarlung Zangbo Jiang (China)                   24° 02' 00" N,
+    Brahmaputra                        Dihang (India)                        090° 59' 00" E                   River
+                                   Jamuna (Bangladesh)
+
+Disputed Areas
+India is involved in several territorial disputes:
+
+Kashmir
+There is a complex and longstanding dispute between China, India and Pakistan of the whole Kashmir
+region. Some sections were unilaterally ceded by Pakistan to China in 1963 and are under the de facto
+control of China. PCGN recommends showing the names of the India-administered Kashmir region and
+Pakistan-administered Kashmir region in italics to acknowledge their disputed status on mapping. Please
+ask PCGN for further advice on how to label this area on mapping.
+
+Trans-Karakoram Tract
+This area between India, Pakistan and China is claimed by India, but was unilaterally ceded by Pakistan to
+China in 1963. It is de facto administered as part of Xinjiang Autonomous Region. It should be labelled on
+a map as part of China with disputed boundaries, and a label explaining that the area is ‘Claimed by India,
+ceded to China by Pakistan.’
+
+Aksai Chin
+This area is claimed by India but administered by China as part of Xinjiang Autonomous Region. It should
+be labelled on a map as part of China with disputed boundaries, and a label explaining that the area is
+‘Claimed by India, administered by China.’
+
+Arunāchal Pradesh
+A large part of this northern state of India is claimed by China. It should be shown as part of India.
+
+Doklam
+This disputed area is located near the tri-junction of China (Tibet), Bhutan and India. It is claimed by China
+and Bhutan.
+
+Sir Creek
+The boundary is disputed between Pakistan and India along Sir Creek in the Rann of Kutch, which empties
+into  the  Arabian  Sea.  The  position  of  the  final  point  of  the  boundary  will  determine  the  start  of  the
+maritime boundary, thus affecting the EEZ of both countries.
+
+Others
+
+
+                                                                                                                              12
+© Crown Copyright 2026
+                                                           OFFICIAL
+--- PAGE 13 ---
+                                                         OFFICIAL
+TOPONYMIC FACTFILE
+
+
+The border between India and China from Aksai Chin to Nepal has six smaller disputed areas: Demchok,
+Chumar,  Kaurik,  Shipki  Pass,  Jadh  Ganga  (Nelang)  and  Bara  Hoti-Iapthal. Additionally, a  sliver  of  land,
+including some passes in the area of Kalapani and Lipulekh, are contested between Nepal and India.
+
+Useful references
+
+●        BBC Country Profile (no longer updated): https://www.bbc.co.uk/news/world                    -south-asia-
+         12557384
+●        FCDO Travel Advice: https://www.gov.uk/foreign             -travel-advice/india
+●        National Portal of India:    https://www.india.gov.in
+●        International Organization for Standardization (ISO):           www.iso.org
+●        ISO Online Browsing Platform (OBP):          https://www.iso.org/obp/ui/
+●        Languages: www.ethnologue.com            ; www.omniglot.com
+●        Government of India Ministry of Statistics and Programme Implementation:
+         http://www.mospi.gov.in/
+●        Survey of India, Political Map of India 2026:
+         https://surveyofindia.gov.in/UserFiles/files/POLMAP_ENGLISH-2026.pdf
+●        US Board on Geographic Names (BGN) Geographic Names Server:
+         https://geonames.nga.mil/geonames/GNSHome/welcome.html
+
+
+
+                                                                                                       Compiled by PCGN
+                                                                                                       www.gov.uk/pcgn
+                                                                                              Updated September 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                          13
+© Crown Copyright 2026
+                                                         OFFICIAL

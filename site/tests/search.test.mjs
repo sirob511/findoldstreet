@@ -28,3 +28,14 @@ test('one box searches streets, cities and countries',()=>{
  assert.ok(search(all,'Eswatini').some(r=>r.formerName==='Swaziland'));
  assert.ok(search(all,'123 Smith Street, Durban').some(r=>r.currentName.includes('Anton Lembede')));
 });
+
+test('expanded city and country coverage works in the shared box',()=>{
+ for(const [q,target] of [['Ceylon','Sri Lanka'],['Siam','Thailand'],['Bangalore','Bengaluru'],['Nur-Sultan','Астана'],['Madras','Chennai'],['Allahabad','Prayagraj'],['Léopoldville, Democratic Republic of the Congo','Kinshasa']]){
+  assert.ok(search(all,q).some(r=>r.currentName===target),q);
+ }
+ const ambiguous=search(all,'Артемівськ').filter(r=>r.kind==='city');
+ assert.equal(ambiguous.length,2);
+ assert.equal(new Set(ambiguous.map(r=>r.district)).size,2);
+ assert.ok(search(all,'Shymkent').length>=171);
+ assert.ok(search(all,'Drohobych').length>0);
+});

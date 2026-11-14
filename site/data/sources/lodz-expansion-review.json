@@ -1,0 +1,660 @@
+[
+  {
+    "oldAnchor": "ALEKSANDRYJSKA_OLD",
+    "newAnchor": "BOJOWNIKOWGETTA",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "ARMIILUDOWEJ_OLD",
+    "newAnchor": "POW",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "ATOMOWA_OLD",
+    "newAnchor": "KSIAZKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "AUTOSTRADA_OLD",
+    "newAnchor": "STRYKOWSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "AZBESTOWA_OLD",
+    "newAnchor": "EKOLOGICZNA",
+    "sourceFile": "lodz-slownik-e.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "BAGATELA_OLD",
+    "newAnchor": "CIESZKOWSKIEGO",
+    "sourceFile": "lodz-slownik-c.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "BAZAR_OLD",
+    "newAnchor": "PLACPIASTOWSKI",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "BERTY_OLD",
+    "newAnchor": "ORMIANSKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "BICHA_OLD",
+    "newAnchor": "SIERAKOWSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "BORYSZA_OLD",
+    "newAnchor": "PIEKARSKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "BULWARYFABRYCZNE_OLD",
+    "newAnchor": "BRZEZNA",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "ALEJACMENTARNA_OLD",
+    "newAnchor": "ALEJACHRYZANTEM",
+    "sourceFile": "lodz-slownik-c.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "CYMMERA_OLD",
+    "newAnchor": "DRUKARSKA",
+    "sourceFile": "lodz-slownik-d.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "CZAJKOWSKIEGO_OLD",
+    "newAnchor": "RZEWSKIEGO",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "DOLNESTOKI_OLD",
+    "newAnchor": "BYSTRZYCKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "DZIADOWA_OLD",
+    "newAnchor": "DLUGOSZA",
+    "sourceFile": "lodz-slownik-d.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SWEMILII_OLD",
+    "newAnchor": "TYMIENIECKIEGO",
+    "sourceFile": "lodz-slownik-t.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "EWANGELICKA_OLD",
+    "newAnchor": "ROOSEVELTA",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "GAGARINA_OLD",
+    "newAnchor": "PADEREWSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "GRABSKIEGO_OLD",
+    "newAnchor": "WARNENSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "GRAFFA_OLD",
+    "newAnchor": "SIENKIEWICZA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "HALICKA_OLD",
+    "newAnchor": "RUDNICKIEGO",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "HENZELMANNA_OLD",
+    "newAnchor": "KARWINSKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "HOZA_OLD",
+    "newAnchor": "KURASIA",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "JAKOBI_OLD",
+    "newAnchor": "SIERAKOWSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "JASNOGORSKA_OLD",
+    "newAnchor": "ALBANSKA",
+    "sourceFile": "lodz-slownik-a.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "JULIUSZA_OLD",
+    "newAnchor": "DOWBORCZYKOW",
+    "sourceFile": "lodz-slownik-d.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KALBACHA_OLD",
+    "newAnchor": "SNYCERSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KALETY_OLD",
+    "newAnchor": "MILIONOWA",
+    "sourceFile": "lodz-slownik-m.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KALOWSKA_OLD",
+    "newAnchor": "RODLA",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KAROLEWSKASZOSA_OLD",
+    "newAnchor": "WILENSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KATNA_OLD",
+    "newAnchor": "WROBLEWSKIEGO",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KLINKA_OLD",
+    "newAnchor": "OBORNICKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KMIECA_OLD",
+    "newAnchor": "GIEWONT",
+    "sourceFile": "lodz-slownik-g.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KNEIPPA_OLD",
+    "newAnchor": "SARMACKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KONSTANTYNOWSKA_OLD",
+    "newAnchor": "LEGIONOW",
+    "sourceFile": "lodz-slownik-l.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KOSTRZEWY_OLD",
+    "newAnchor": "WIWULSKIEGO",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "SLOBODZKIEGO_OLD",
+    "newAnchor": "TATARCZANA",
+    "sourceFile": "lodz-slownik-t.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KOZIOLKIEWICZA_OLD",
+    "newAnchor": "SOJCZYNSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KONIGA_OLD",
+    "newAnchor": "LOKATORSKA",
+    "sourceFile": "lodz-slownik-l.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KRASINSKIEGO_OLD",
+    "newAnchor": "PROLETARIACKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "KRETA_OLD",
+    "newAnchor": "DEMOKRATYCZNA",
+    "sourceFile": "lodz-slownik-d.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "KWIECISTA_OLD",
+    "newAnchor": "BRATYSLAWSKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "LASKOWICKA_OLD",
+    "newAnchor": "LASKOWICKA",
+    "sourceFile": "lodz-slownik-l.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "LISAKULI_OLD",
+    "newAnchor": "SAWICKIEJ",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "11LISTOPADA_OLD",
+    "newAnchor": "LEGIONOW",
+    "sourceFile": "lodz-slownik-l.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "LWOWSKA_OLD",
+    "newAnchor": "SKURYSKOCZYNSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "MAGISTRACKA_OLD",
+    "newAnchor": "KAMINSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "MALAZIELONA_OLD",
+    "newAnchor": "MALA",
+    "sourceFile": "lodz-slownik-m.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "8MARCA_OLD",
+    "newAnchor": "TYMIENIECKIEGO",
+    "sourceFile": "lodz-slownik-t.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "MARIANSKA_OLD",
+    "newAnchor": "STRYKOWSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "MARTY_OLD",
+    "newAnchor": "BOROWIAK",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "MAURERA_OLD",
+    "newAnchor": "SWANTONIEGOPADEWSKIEGO",
+    "sourceFile": "lodz-slownik-a.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "MIKOLAJEWSKA_OLD",
+    "newAnchor": "SIENKIEWICZA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "MINISTRASLAWKA_OLD",
+    "newAnchor": "MIETOWA",
+    "sourceFile": "lodz-slownik-m.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "NAPIORKOWSKIEGO_OLD",
+    "newAnchor": "PRZYBYSZEWSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "NOWAKA_OLD",
+    "newAnchor": "CIESIELSKA",
+    "sourceFile": "lodz-slownik-c.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "NOWOFRANCISZKANSKA_OLD",
+    "newAnchor": "SKURYSKOCZYNSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOKATNA_OLD",
+    "newAnchor": "WROBLEWSKIEGO",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOMLYNARSKA_OLD",
+    "newAnchor": "MOSTOWSKIEGO",
+    "sourceFile": "lodz-slownik-m.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOOGRODOWA_OLD",
+    "newAnchor": "CIESZKOWSKIEGO",
+    "sourceFile": "lodz-slownik-c.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOSENATORSKA_OLD",
+    "newAnchor": "SENATORSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOPROJEKTOWANA_OLD",
+    "newAnchor": "ANTONIEWSKA",
+    "sourceFile": "lodz-slownik-a.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "NOWOTKI_OLD",
+    "newAnchor": "POMORSKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "OBRONCOWSTALINGRADU_OLD",
+    "newAnchor": "LEGIONOW",
+    "sourceFile": "lodz-slownik-l.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SWOLGI_OLD",
+    "newAnchor": "PIRAMOWICZA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "PASAZOLGINSKI_OLD",
+    "newAnchor": "PIRAMOWICZA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "PANSKA_OLD",
+    "newAnchor": "ZEROMSKIEGO",
+    "sourceFile": "lodz-slownik-z-3.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "PODROZNICZA_OLD",
+    "newAnchor": "KROLA",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "PRZYGRANICZNA_OLD",
+    "newAnchor": "CZECHOSLOWACKA",
+    "sourceFile": "lodz-slownik-c.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "ALEJAPRZYJAZNI_OLD",
+    "newAnchor": "ALEJAWUJAKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "PUCKA_OLD",
+    "newAnchor": "KOMINIARSKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "RAJTERA_OLD",
+    "newAnchor": "URZEDNICZA",
+    "sourceFile": "lodz-slownik-u.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SREDNIA_OLD",
+    "newAnchor": "POMORSKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "SERPENTYNA_OLD",
+    "newAnchor": "GIEWONT",
+    "sourceFile": "lodz-slownik-g.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "SKWEROWA_OLD",
+    "newAnchor": "POW",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "STODOLNA_OLD",
+    "newAnchor": "ZACHODNIA",
+    "sourceFile": "lodz-slownik-z.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "STOINSKIEGO_OLD",
+    "newAnchor": "WARNENSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "STRZELCOWKANIOWSKICH_OLD",
+    "newAnchor": "28PULKUSK",
+    "sourceFile": "lodz-slownik-p.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "STRZELCZYKA_OLD",
+    "newAnchor": "SENATORSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SZEFERA_OLD",
+    "newAnchor": "SZYMONOWICA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SZMITA_OLD",
+    "newAnchor": "BUKOWA",
+    "sourceFile": "lodz-slownik-b.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SZNERA_OLD",
+    "newAnchor": "SEDZIOWSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "SZTARKA_OLD",
+    "newAnchor": "RYBNA",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "WASILEWSKIEJ_OLD",
+    "newAnchor": "GROTAROWECKIEGO",
+    "sourceFile": "lodz-slownik-g.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "WERNEROWSKA_OLD",
+    "newAnchor": "OPOCZYNSKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "SWWINCENTEGO_OLD",
+    "newAnchor": "SZENDZIELARZA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "WOJENNA_OLD",
+    "newAnchor": "SKRAJNA",
+    "sourceFile": "lodz-slownik-s.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "ZORAWIA_OLD",
+    "newAnchor": "ZURAWIA",
+    "sourceFile": "lodz-slownik-z-3.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "ZAGAJNIKOWA_OLD",
+    "newAnchor": "KOPCINSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "ZAKRZEWSKIEGO_OLD",
+    "newAnchor": "GARBARSKA",
+    "sourceFile": "lodz-slownik-g.html",
+    "decision": "held",
+    "reason": "Requires geometry, later-name, variant-only or source-contradiction reconciliation."
+  },
+  {
+    "oldAnchor": "ZAWISKA_OLD",
+    "newAnchor": "ZAWISZYCZARNEGO",
+    "sourceFile": "lodz-slownik-z.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "ALEJAZMP_OLD",
+    "newAnchor": "PASAZRUBINSTEINA",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  },
+  {
+    "oldAnchor": "ALEJAZMS_OLD",
+    "newAnchor": "ALEJARYNKOWSKIEJ",
+    "sourceFile": "lodz-slownik-r.html",
+    "decision": "imported",
+    "reason": "Direct mapping with reviewed chronology."
+  }
+]

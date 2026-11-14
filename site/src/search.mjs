@@ -2,7 +2,7 @@ export function normalize(s = '') {
   return s.normalize('NFKD').replace(/\p{M}/gu, '').toLowerCase().replace(/ł/g, 'l').replace(/đ/g, 'd').replace(/['’ʼ`]/g, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 }
 const cityAliases = {
-  'Київ': ['Kyiv', 'Kiev', 'Киев'], 'Харків': ['Kharkiv', 'Kharkov', 'Харьков'], 'Одеса': ['Odesa', 'Odessa', 'Одесса'],
+  'Шымкент': ['Shymkent', 'Chimkent'], 'Львів': ['Lviv', 'Lvov'], 'Київ': ['Kyiv', 'Kiev', 'Киев'], 'Харків': ['Kharkiv', 'Kharkov', 'Харьков'], 'Одеса': ['Odesa', 'Odessa', 'Одесса'],
   'Алматы': ['Almaty', 'Alma Ata'], 'Астана': ['Astana', 'Nur Sultan', 'Нур Султан'], 'Warszawa': ['Warsaw'],
   'Hồ Chí Minh City': ['Ho Chi Minh City', 'Saigon', 'Sài Gòn', 'TP HCM'], 'Chennai': ['Madras'],
   'New Delhi': ['Delhi', 'नई दिल्ली'], 'Durban': ['eThekwini'], 'Pretoria': ['Tshwane'], 'Cape Town': ['Kaapstad', 'iKapa']
@@ -10,9 +10,9 @@ const cityAliases = {
 // Expand only unambiguous address abbreviations. "St" may mean Saint.
 const abbreviations = {rd:'road', ave:'avenue', blvd:'boulevard', ln:'lane', dr:'drive', pushkinskaya:'pushkinska', пушкинская:'пушкінська', вул:'вулиця', пров:'провулок'};
 const canonical = s => normalize(s).split(' ').map(t => abbreviations[t] || t).join(' ');
-const countryNames={UA:'Ukraine Україна Украина',PL:'Poland Polska',ZA:'South Africa',VN:'Vietnam Việt Nam',KZ:'Kazakhstan Қазақстан Казахстан',IN:'India भारत',SZ:'Eswatini Swaziland'};
+const countryNames={UA:'Ukraine Україна Украина',PL:'Poland Polska',ZA:'South Africa',VN:'Vietnam Việt Nam',KZ:'Kazakhstan Қазақстан Казахстан',IN:'India भारत',SZ:'Eswatini Swaziland',LK:"Sri Lanka",BJ:"Benin",BF:"Burkina Faso",CD:"Democratic Republic of the Congo",WS:"Samoa",TH:"Thailand",IR:"Iran",JO:"Jordan",SR:"Suriname",RO:"Romania",MM:"Myanmar",CV:"Cabo Verde",CI:"Côte d’Ivoire",TR:"Türkiye",TL:"Timor-Leste",KH:"Cambodia",CZ:"Czechia",MK:"North Macedonia",LS:"Lesotho",MW:"Malawi",BZ:"Belize",VU:"Vanuatu"};
 const cache = new WeakMap();
-export function locationNames(r) { return [r.city, r.district, ...(cityAliases[r.city] || [])].filter(Boolean); }
+export function locationNames(r) { return [r.city, r.district, ...(r.locationAliases || []), ...(cityAliases[r.city] || [])].filter(Boolean); }
 function indexed(r) {
   if (!cache.has(r)) {
     const names = [r.formerName, r.currentName, ...(r.aliases || []), ...(r.transliterations || []), ...(r.events || []).flatMap(e => [e.formerName, e.currentName])];

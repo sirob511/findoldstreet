@@ -4,6 +4,7 @@ import json
 
 def extend_reviewed(country, rows, record, sources, source):
     additions = json.loads((sources / 'reviewed-additions.json').read_text())
+    additions += json.loads((sources / 'coverage-additions.json').read_text())
     identities = {(r['city'], r['district'], r['formerName'], r['segment']) for r in rows}
     for item in additions:
         if item['country'] != country:
@@ -16,6 +17,11 @@ def extend_reviewed(country, rows, record, sources, source):
                    district=item.get('district'), segment=item.get('segment'), status=item.get('status', 'verified'),
                    document=item.get('documentNumber'))
         r['aliases'] = item.get('aliases', [])
+        if item.get('events'):
+            base = r['events'][0]
+            r['events'] = [base | event for event in item['events']]
+        if item.get('nameNote'):
+            r['nameNote'] = item['nameNote']
         if item.get('streetType'):
             r['streetType'] = item['streetType']
         if item.get('year'):

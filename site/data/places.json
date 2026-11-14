@@ -14,7 +14,10 @@
       "Дніпро",
       "Днепр"
     ],
-    "transliterations": [],
+    "transliterations": [
+      "dnipropetrovsk",
+      "dnipro"
+    ],
     "status": "verified",
     "segment": null,
     "geometry": null,
@@ -38,7 +41,20 @@
         "title": "Verkhovna Rada of Ukraine",
         "retrievedAt": "2026-11-14",
         "reuseTerms": "Factual name mapping only. Source linked, not republished."
+      },
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
       }
+    ],
+    "mapQuery": "Dnipro, Dnipro",
+    "locationAliases": [
+      "Dnipro",
+      "dnipro"
     ]
   },
   {
@@ -54,7 +70,10 @@
       "Кам’янське",
       "Kamiyanske"
     ],
-    "transliterations": [],
+    "transliterations": [
+      "dniprodzerzhynsk",
+      "kamianske"
+    ],
     "status": "verified",
     "segment": null,
     "geometry": null,
@@ -78,7 +97,20 @@
         "title": "Verkhovna Rada of Ukraine",
         "retrievedAt": "2026-11-14",
         "reuseTerms": "Factual name mapping only. Source linked, not republished."
+      },
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
       }
+    ],
+    "mapQuery": "Kamianske, Kamianske",
+    "locationAliases": [
+      "Kamianske",
+      "kamianske"
     ]
   },
   {
@@ -118,7 +150,4185 @@
         "title": "United Nations Digital Library",
         "retrievedAt": "2026-11-14",
         "reuseTerms": "Factual name mapping only. Source linked, not republished."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
       }
+    ],
+    "mapQuery": "Eswatini, ",
+    "locationAliases": []
+  },
+  {
+    "id": "city-d8ec15a73314ed4c",
+    "kind": "city",
+    "country": "UA",
+    "city": "Покров",
+    "district": "Дніпропетровська область",
+    "formerName": "Орджонікідзе",
+    "currentName": "Покров",
+    "aliases": [],
+    "transliterations": [
+      "Ordzhonikidze",
+      "Pokrov",
+      "ordzhonikidze",
+      "pokrov"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Орджонікідзе",
+        "currentName": "Покров",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 3",
+        "documentNumber": "1037-VIII",
+        "decisionDate": "2016-03-17"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Покров, Покров",
+    "locationAliases": [
+      "Pokrov",
+      "Dnipropetrovs'ka oblast'",
+      "pokrov",
+      "dnipropetrovska oblast"
+    ]
+  },
+  {
+    "id": "city-2419298993f3a6c6",
+    "kind": "city",
+    "country": "UA",
+    "city": "Залізне",
+    "district": "Донецька область",
+    "formerName": "Артемове",
+    "currentName": "Залізне",
+    "aliases": [],
+    "transliterations": [
+      "Artemove",
+      "Zalizne",
+      "artemove",
+      "zalizne"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Артемове",
+        "currentName": "Залізне",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 5",
+        "documentNumber": "1377-VIII",
+        "decisionDate": "2016-05-19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Залізне, Залізне",
+    "locationAliases": [
+      "Zalizne",
+      "Donets'ka oblast'",
+      "zalizne",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-4eb155ee5aa7d7bc",
+    "kind": "city",
+    "country": "UA",
+    "city": "Бахмут",
+    "district": "Донецька область",
+    "formerName": "Артемівськ",
+    "currentName": "Бахмут",
+    "aliases": [],
+    "transliterations": [
+      "Artemivs'k",
+      "Bakhmut",
+      "artemivsk",
+      "bakhmut"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Артемівськ",
+        "currentName": "Бахмут",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 7",
+        "documentNumber": "984-VIII",
+        "decisionDate": "2016-02-04"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Бахмут, Бахмут",
+    "locationAliases": [
+      "Bakhmut",
+      "Donets'ka oblast'",
+      "bakhmut",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-3b37f4041d766b5a",
+    "kind": "city",
+    "country": "UA",
+    "city": "Торецьк",
+    "district": "Донецька область",
+    "formerName": "Дзержинськ",
+    "currentName": "Торецьк",
+    "aliases": [],
+    "transliterations": [
+      "Dzerzhins'k",
+      "Torets'k",
+      "dzerzhynsk",
+      "toretsk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Дзержинськ",
+        "currentName": "Торецьк",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 8",
+        "documentNumber": "984-VIII",
+        "decisionDate": "2016-02-04"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Торецьк, Торецьк",
+    "locationAliases": [
+      "Torets'k",
+      "Donets'ka oblast'",
+      "toretsk",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-e10faab6922c713a",
+    "kind": "city",
+    "country": "UA",
+    "city": "Мирноград",
+    "district": "Донецька область",
+    "formerName": "Димитров",
+    "currentName": "Мирноград",
+    "aliases": [],
+    "transliterations": [
+      "Dimitrov",
+      "Mirnograd",
+      "dymytrov",
+      "myrnohrad"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Димитров",
+        "currentName": "Мирноград",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 9",
+        "documentNumber": "1353-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Мирноград, Мирноград",
+    "locationAliases": [
+      "Mirnograd",
+      "Donets'ka oblast'",
+      "myrnohrad",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-35332bae6161c084",
+    "kind": "city",
+    "country": "UA",
+    "city": "Хрестівка",
+    "district": "Донецька область",
+    "formerName": "Кіровське",
+    "currentName": "Хрестівка",
+    "aliases": [],
+    "transliterations": [
+      "Kirovs'ke",
+      "Khrestivka",
+      "kirovske",
+      "khrestivka"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Кіровське",
+        "currentName": "Хрестівка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 10",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Хрестівка, Хрестівка",
+    "locationAliases": [
+      "Khrestivka",
+      "Donets'ka oblast'",
+      "khrestivka",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-b5a592d83b1cccfb",
+    "kind": "city",
+    "country": "UA",
+    "city": "Кальміуське",
+    "district": "Донецька область",
+    "formerName": "Комсомольське",
+    "currentName": "Кальміуське",
+    "aliases": [],
+    "transliterations": [
+      "Komsomol's'ke",
+      "Kal'mius'ke",
+      "komsomolske",
+      "kalmiuske"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Комсомольське",
+        "currentName": "Кальміуське",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 11",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Кальміуське, Кальміуське",
+    "locationAliases": [
+      "Kal'mius'ke",
+      "Donets'ka oblast'",
+      "kalmiuske",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-083d44446d6c5ca3",
+    "kind": "city",
+    "country": "UA",
+    "city": "Лиман",
+    "district": "Донецька область",
+    "formerName": "Красний Лиман",
+    "currentName": "Лиман",
+    "aliases": [],
+    "transliterations": [
+      "Krasnii Liman",
+      "Liman",
+      "krasnyi lyman",
+      "lyman"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Красний Лиман",
+        "currentName": "Лиман",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 12",
+        "documentNumber": "984-VIII",
+        "decisionDate": "2016-02-04"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Лиман, Лиман",
+    "locationAliases": [
+      "Liman",
+      "Donets'ka oblast'",
+      "lyman",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-861deba041255ace",
+    "kind": "city",
+    "country": "UA",
+    "city": "Чистякове",
+    "district": "Донецька область",
+    "formerName": "Торез",
+    "currentName": "Чистякове",
+    "aliases": [],
+    "transliterations": [
+      "Torez",
+      "Chistiakove",
+      "torez",
+      "chystiakove"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Торез",
+        "currentName": "Чистякове",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 13",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Чистякове, Чистякове",
+    "locationAliases": [
+      "Chistiakove",
+      "Donets'ka oblast'",
+      "chystiakove",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-59211b1dc0c54374",
+    "kind": "city",
+    "country": "UA",
+    "city": "Бунге",
+    "district": "Донецька область",
+    "formerName": "Юнокомунарівськ",
+    "currentName": "Бунге",
+    "aliases": [],
+    "transliterations": [
+      "Iunokomunarivs'k",
+      "Bunge",
+      "iunokomunarivsk",
+      "bunhe"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Юнокомунарівськ",
+        "currentName": "Бунге",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 14",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Бунге, Бунге",
+    "locationAliases": [
+      "Bunge",
+      "Donets'ka oblast'",
+      "bunhe",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-1f07118d229d59fa",
+    "kind": "city",
+    "country": "UA",
+    "city": "Покровськ",
+    "district": "Донецька область",
+    "formerName": "Красноармійськ",
+    "currentName": "Покровськ",
+    "aliases": [],
+    "transliterations": [
+      "Krasnoarmiis'k",
+      "Pokrovs'k",
+      "krasnoarmiisk",
+      "pokrovsk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Красноармійськ",
+        "currentName": "Покровськ",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 1, row 17",
+        "documentNumber": "1353-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Покровськ, Покровськ",
+    "locationAliases": [
+      "Pokrovs'k",
+      "Donets'ka oblast'",
+      "pokrovsk",
+      "donetska oblast"
+    ]
+  },
+  {
+    "id": "city-48c7f05dc7dca1ff",
+    "kind": "city",
+    "country": "UA",
+    "city": "Кропивницький",
+    "district": "Кіровоградська область",
+    "formerName": "Кіровоград",
+    "currentName": "Кропивницький",
+    "aliases": [],
+    "transliterations": [
+      "Kirovograd",
+      "Kropivnits'kii",
+      "kirovohrad",
+      "kropyvnytskyi"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Кіровоград",
+        "currentName": "Кропивницький",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 24",
+        "documentNumber": "1468-VIII",
+        "decisionDate": "2016-07-14"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Кропивницький, Кропивницький",
+    "locationAliases": [
+      "Kropivnits'kii",
+      "Kirovograds'ka oblast'",
+      "kropyvnytskyi",
+      "kirovohradska oblast"
+    ]
+  },
+  {
+    "id": "city-c6cd8702c8fafb54",
+    "kind": "city",
+    "country": "UA",
+    "city": "Благовіщенське",
+    "district": "Кіровоградська область",
+    "formerName": "Ульяновка",
+    "currentName": "Благовіщенське",
+    "aliases": [],
+    "transliterations": [
+      "Ul'ianovka",
+      "Blagovishchens'ke",
+      "ulianovka",
+      "blahovishchenske"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Ульяновка",
+        "currentName": "Благовіщенське",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 26",
+        "documentNumber": "1377-VIII",
+        "decisionDate": "2016-05-19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Благовіщенське, Благовіщенське",
+    "locationAliases": [
+      "Blagovishchens'ke",
+      "Kirovograds'ka oblast'",
+      "blahovishchenske",
+      "kirovohradska oblast"
+    ]
+  },
+  {
+    "id": "city-9cb6db7c69838086",
+    "kind": "city",
+    "country": "UA",
+    "city": "Голубівка",
+    "district": "Луганська область",
+    "formerName": "Кіровськ",
+    "currentName": "Голубівка",
+    "aliases": [],
+    "transliterations": [
+      "Kirovs'k",
+      "Golubivka",
+      "kirovsk",
+      "holubivka"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Кіровськ",
+        "currentName": "Голубівка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 27",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Голубівка, Голубівка",
+    "locationAliases": [
+      "Golubivka",
+      "Lugans'ka oblast'",
+      "holubivka",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-345f664aa4e8b512",
+    "kind": "city",
+    "country": "UA",
+    "city": "Хрустальний",
+    "district": "Луганська область",
+    "formerName": "Красний Луч",
+    "currentName": "Хрустальний",
+    "aliases": [],
+    "transliterations": [
+      "Krasnii Luch",
+      "Khrustal'nii",
+      "krasnyi luch",
+      "khrustalnyi"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Красний Луч",
+        "currentName": "Хрустальний",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 28",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Хрустальний, Хрустальний",
+    "locationAliases": [
+      "Khrustal'nii",
+      "Lugans'ka oblast'",
+      "khrustalnyi",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-fffb04c13b724c3e",
+    "kind": "city",
+    "country": "UA",
+    "city": "Боково-Хрустальне",
+    "district": "Луганська область",
+    "formerName": "Вахрушеве",
+    "currentName": "Боково-Хрустальне",
+    "aliases": [],
+    "transliterations": [
+      "Vakhrusheve",
+      "Bokovo-Khrustal'ne",
+      "vakhrusheve",
+      "bokovo-khrustalne"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Вахрушеве",
+        "currentName": "Боково-Хрустальне",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 29",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Боково-Хрустальне, Боково-Хрустальне",
+    "locationAliases": [
+      "Bokovo-Khrustal'ne",
+      "Lugans'ka oblast'",
+      "bokovo-khrustalne",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-ddcf80c02aab8e64",
+    "kind": "city",
+    "country": "UA",
+    "city": "Петрово-Красносілля",
+    "district": "Луганська область",
+    "formerName": "Петровське",
+    "currentName": "Петрово-Красносілля",
+    "aliases": [],
+    "transliterations": [
+      "Petrovs'ke",
+      "Petrovo-Krasnosillia",
+      "petrovske",
+      "petrovo-krasnosillia"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Петровське",
+        "currentName": "Петрово-Красносілля",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 30",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Петрово-Красносілля, Петрово-Красносілля",
+    "locationAliases": [
+      "Petrovo-Krasnosillia",
+      "Lugans'ka oblast'",
+      "petrovo-krasnosillia",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-95ab0adc87bf3a66",
+    "kind": "city",
+    "country": "UA",
+    "city": "Сорокине",
+    "district": "Луганська область",
+    "formerName": "Краснодон",
+    "currentName": "Сорокине",
+    "aliases": [],
+    "transliterations": [
+      "Krasnodon",
+      "Sorokine",
+      "krasnodon",
+      "sorokyne"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Краснодон",
+        "currentName": "Сорокине",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 32",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Сорокине, Сорокине",
+    "locationAliases": [
+      "Sorokine",
+      "Lugans'ka oblast'",
+      "sorokyne",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-966ba9b9747696f6",
+    "kind": "city",
+    "country": "UA",
+    "city": "Кипуче",
+    "district": "Луганська область",
+    "formerName": "Артемівськ",
+    "currentName": "Кипуче",
+    "aliases": [],
+    "transliterations": [
+      "Artemivs'k",
+      "Kipuche",
+      "artemivsk",
+      "kypuche"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Артемівськ",
+        "currentName": "Кипуче",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 33",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Кипуче, Кипуче",
+    "locationAliases": [
+      "Kipuche",
+      "Lugans'ka oblast'",
+      "kypuche",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-129ea845658aca07",
+    "kind": "city",
+    "country": "UA",
+    "city": "Довжанськ",
+    "district": "Луганська область",
+    "formerName": "Свердловськ",
+    "currentName": "Довжанськ",
+    "aliases": [],
+    "transliterations": [
+      "Sverdlovs'k",
+      "Dovzhans'k",
+      "sverdlovsk",
+      "dovzhansk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Свердловськ",
+        "currentName": "Довжанськ",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 35",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Довжанськ, Довжанськ",
+    "locationAliases": [
+      "Dovzhans'k",
+      "Lugans'ka oblast'",
+      "dovzhansk",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-63342aefa45c3ad0",
+    "kind": "city",
+    "country": "UA",
+    "city": "Кадіївка",
+    "district": "Луганська область",
+    "formerName": "Стаханов",
+    "currentName": "Кадіївка",
+    "aliases": [],
+    "transliterations": [
+      "Stakhanov",
+      "Kadiyivka",
+      "stakhanov",
+      "kadiivka"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Стаханов",
+        "currentName": "Кадіївка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 36",
+        "documentNumber": "1351-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Кадіївка, Кадіївка",
+    "locationAliases": [
+      "Kadiyivka",
+      "Lugans'ka oblast'",
+      "kadiivka",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-a18f18f43a4bc487",
+    "kind": "city",
+    "country": "UA",
+    "city": "Вознесенівка",
+    "district": "Луганська область",
+    "formerName": "Червонопартизанськ",
+    "currentName": "Вознесенівка",
+    "aliases": [],
+    "transliterations": [
+      "Chervonopartizans'k",
+      "Voznesenivka",
+      "chervonopartyzansk",
+      "voznesenivka"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Червонопартизанськ",
+        "currentName": "Вознесенівка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 37",
+        "documentNumber": "1466-VIII",
+        "decisionDate": "2016-07-14"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Вознесенівка, Вознесенівка",
+    "locationAliases": [
+      "Voznesenivka",
+      "Lugans'ka oblast'",
+      "voznesenivka",
+      "luhanska oblast"
+    ]
+  },
+  {
+    "id": "city-d0e83ce5e636953d",
+    "kind": "city",
+    "country": "UA",
+    "city": "Чорноморськ",
+    "district": "Одеська область",
+    "formerName": "Іллічівськ",
+    "currentName": "Чорноморськ",
+    "aliases": [],
+    "transliterations": [
+      "Illichivs'k",
+      "Chornomors'k",
+      "illichivsk",
+      "chornomorsk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Іллічівськ",
+        "currentName": "Чорноморськ",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 39",
+        "documentNumber": "984-VIII",
+        "decisionDate": "2016-02-04"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Чорноморськ, Чорноморськ",
+    "locationAliases": [
+      "Chornomors'k",
+      "Odes'ka oblast'",
+      "chornomorsk",
+      "odeska oblast"
+    ]
+  },
+  {
+    "id": "city-48e987dbdf3486a1",
+    "kind": "city",
+    "country": "UA",
+    "city": "Подільськ",
+    "district": "Одеська область",
+    "formerName": "Котовськ",
+    "currentName": "Подільськ",
+    "aliases": [],
+    "transliterations": [
+      "Kotovs'k",
+      "Podil's'k",
+      "kotovsk",
+      "podilsk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Котовськ",
+        "currentName": "Подільськ",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 43",
+        "documentNumber": "1353-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Подільськ, Подільськ",
+    "locationAliases": [
+      "Podil's'k",
+      "Odes'ka oblast'",
+      "podilsk",
+      "odeska oblast"
+    ]
+  },
+  {
+    "id": "city-943a581036318aa6",
+    "kind": "city",
+    "country": "UA",
+    "city": "Горішні Плавні",
+    "district": "Полтавська область",
+    "formerName": "Комсомольськ",
+    "currentName": "Горішні Плавні",
+    "aliases": [],
+    "transliterations": [
+      "Komsomol's'k",
+      "Gorishni Plavni",
+      "komsomolsk",
+      "horishni plavni"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Комсомольськ",
+        "currentName": "Горішні Плавні",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 2, row 45",
+        "documentNumber": "1377-VIII",
+        "decisionDate": "2016-05-19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Горішні Плавні, Горішні Плавні",
+    "locationAliases": [
+      "Gorishni Plavni",
+      "Poltavs'ka oblast'",
+      "horishni plavni",
+      "poltavska oblast"
+    ]
+  },
+  {
+    "id": "city-343871ba08ea59a9",
+    "kind": "city",
+    "country": "UA",
+    "city": "Заводське",
+    "district": "Полтавська область",
+    "formerName": "Червонозаводське",
+    "currentName": "Заводське",
+    "aliases": [],
+    "transliterations": [
+      "Chervonozavods'ke",
+      "Zavods'ke",
+      "chervonozavodske",
+      "zavodske"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Червонозаводське",
+        "currentName": "Заводське",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 3, row 46",
+        "documentNumber": "984-VIII",
+        "decisionDate": "2016-02-04"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Заводське, Заводське",
+    "locationAliases": [
+      "Zavods'ke",
+      "Poltavs'ka oblast'",
+      "zavodske",
+      "poltavska oblast"
+    ]
+  },
+  {
+    "id": "city-726d71f71a4ab327",
+    "kind": "city",
+    "country": "UA",
+    "city": "Вараш",
+    "district": "Рівненська область",
+    "formerName": "Кузнецовськ",
+    "currentName": "Вараш",
+    "aliases": [],
+    "transliterations": [
+      "Kuznetsovs'k",
+      "Varash",
+      "kuznetsovsk",
+      "varash"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Кузнецовськ",
+        "currentName": "Вараш",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 3, row 47",
+        "documentNumber": "1377-VIII",
+        "decisionDate": "2016-05-19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Вараш, Вараш",
+    "locationAliases": [
+      "Varash",
+      "Rivnens'ka oblast'",
+      "varash",
+      "rivnenska oblast"
+    ]
+  },
+  {
+    "id": "city-b3aa811e25810d28",
+    "kind": "city",
+    "country": "UA",
+    "city": "Олешки",
+    "district": "Херсонська область",
+    "formerName": "Цюрупинськ",
+    "currentName": "Олешки",
+    "aliases": [],
+    "transliterations": [
+      "Tsiurupins'k",
+      "Oleshki",
+      "tsiurupynsk",
+      "oleshky"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Цюрупинськ",
+        "currentName": "Олешки",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 3, row 49",
+        "documentNumber": "1377-VIII",
+        "decisionDate": "2016-05-19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Олешки, Олешки",
+    "locationAliases": [
+      "Oleshki",
+      "Khersons'ka oblast'",
+      "oleshky",
+      "khersonska oblast"
+    ]
+  },
+  {
+    "id": "city-062d099398a7d4a2",
+    "kind": "city",
+    "country": "UA",
+    "city": "Сновськ",
+    "district": "Чернігівська область",
+    "formerName": "Щорс",
+    "currentName": "Сновськ",
+    "aliases": [],
+    "transliterations": [
+      "Shchors",
+      "Snovs'k",
+      "shchors",
+      "snovsk"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Щорс",
+        "currentName": "Сновськ",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "locator": "PDF page 3, row 51",
+        "documentNumber": "1353-VIII",
+        "decisionDate": "2016-05-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+        "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+        "title": "ukraine-renamed-cities",
+        "id": "ukraine-renamed-cities"
+      }
+    ],
+    "nameNote": "Official Ukrainian name. The cited resolution does not establish present-day control or boundaries.",
+    "mapQuery": "Сновськ, Сновськ",
+    "locationAliases": [
+      "Snovs'k",
+      "Chernigivs'ka oblast'",
+      "snovsk",
+      "chernihivska oblast"
+    ]
+  },
+  {
+    "id": "city-ee86e3000e9195de",
+    "kind": "city",
+    "country": "IN",
+    "city": "Bengaluru",
+    "district": "Karnataka",
+    "formerName": "Bangalore",
+    "currentName": "Bengaluru",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Bangalore",
+        "currentName": "Bengaluru",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 1; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Bengaluru, Bengaluru",
+    "locationAliases": [
+      "Bengaluru",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-cfcfb218d5c9a554",
+    "kind": "city",
+    "country": "IN",
+    "city": "Mangaluru",
+    "district": "Karnataka",
+    "formerName": "Mangalore",
+    "currentName": "Mangaluru",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Mangalore",
+        "currentName": "Mangaluru",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 2; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Mangaluru, Mangaluru",
+    "locationAliases": [
+      "Mangaluru",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-ed2786e475365970",
+    "kind": "city",
+    "country": "IN",
+    "city": "Ballari",
+    "district": "Karnataka",
+    "formerName": "Bellary",
+    "currentName": "Ballari",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Bellary",
+        "currentName": "Ballari",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 3; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Ballari, Ballari",
+    "locationAliases": [
+      "Ballari",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-29e777529222d482",
+    "kind": "city",
+    "country": "IN",
+    "city": "Vijayapura",
+    "district": "Karnataka",
+    "formerName": "Bijapur",
+    "currentName": "Vijayapura",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Bijapur",
+        "currentName": "Vijayapura",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 4; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Vijayapura, Vijayapura",
+    "locationAliases": [
+      "Vijayapura",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-8e54182a6c85452a",
+    "kind": "city",
+    "country": "IN",
+    "city": "Belagavi",
+    "district": "Karnataka",
+    "formerName": "Belgaum",
+    "currentName": "Belagavi",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Belgaum",
+        "currentName": "Belagavi",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 5; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Belagavi, Belagavi",
+    "locationAliases": [
+      "Belagavi",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-0287ff0bf954e538",
+    "kind": "city",
+    "country": "IN",
+    "city": "Chikkamagaluru",
+    "district": "Karnataka",
+    "formerName": "Chikmagalur",
+    "currentName": "Chikkamagaluru",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Chikmagalur",
+        "currentName": "Chikkamagaluru",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 6; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Chikkamagaluru, Chikkamagaluru",
+    "locationAliases": [
+      "Chikkamagaluru",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-549af75e274ce09e",
+    "kind": "city",
+    "country": "IN",
+    "city": "Kalaburagi",
+    "district": "Karnataka",
+    "formerName": "Gulbarga",
+    "currentName": "Kalaburagi",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Gulbarga",
+        "currentName": "Kalaburagi",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 7; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Kalaburagi, Kalaburagi",
+    "locationAliases": [
+      "Kalaburagi",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-4d469ad7d8edcb09",
+    "kind": "city",
+    "country": "IN",
+    "city": "Mysuru",
+    "district": "Karnataka",
+    "formerName": "Mysore",
+    "currentName": "Mysuru",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Mysore",
+        "currentName": "Mysuru",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 8; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Mysuru, Mysuru",
+    "locationAliases": [
+      "Mysuru",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-eb0170ae123bb27f",
+    "kind": "city",
+    "country": "IN",
+    "city": "Hosapete",
+    "district": "Karnataka",
+    "formerName": "Hospet",
+    "currentName": "Hosapete",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Hospet",
+        "currentName": "Hosapete",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 9; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Hosapete, Hosapete",
+    "locationAliases": [
+      "Hosapete",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-8763b41122b41903",
+    "kind": "city",
+    "country": "IN",
+    "city": "Shivamogga",
+    "district": "Karnataka",
+    "formerName": "Shimoga",
+    "currentName": "Shivamogga",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Shimoga",
+        "currentName": "Shivamogga",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 10; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Shivamogga, Shivamogga",
+    "locationAliases": [
+      "Shivamogga",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-a8187d8aeed8d18b",
+    "kind": "city",
+    "country": "IN",
+    "city": "Hubballi",
+    "district": "Karnataka",
+    "formerName": "Hubli",
+    "currentName": "Hubballi",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Hubli",
+        "currentName": "Hubballi",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 11; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Hubballi, Hubballi",
+    "locationAliases": [
+      "Hubballi",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-66f27cac318afffc",
+    "kind": "city",
+    "country": "IN",
+    "city": "Tumakuru",
+    "district": "Karnataka",
+    "formerName": "Tumkur",
+    "currentName": "Tumakuru",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Tumkur",
+        "currentName": "Tumakuru",
+        "date": "2014-11-01",
+        "datePrecision": "day",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "locator": "PDF page 2, table row 12; page 1 gives effective date",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+        "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+        "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+        "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+        "title": "karnataka-renames-browser",
+        "id": "karnataka-renames-browser"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Tumakuru, Tumakuru",
+    "locationAliases": [
+      "Tumakuru",
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "city-7599098bf1cf0e97",
+    "kind": "city",
+    "country": "IN",
+    "city": "Chennai",
+    "district": "",
+    "formerName": "Madras",
+    "currentName": "Chennai",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Madras",
+        "currentName": "Chennai",
+        "date": "1996",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "locator": "PDF page 8, footnote 15",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Chennai, Chennai",
+    "locationAliases": [
+      "Chennai"
+    ]
+  },
+  {
+    "id": "city-755d226891cc9331",
+    "kind": "city",
+    "country": "IN",
+    "city": "Kolkata",
+    "district": "",
+    "formerName": "Calcutta",
+    "currentName": "Kolkata",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Calcutta",
+        "currentName": "Kolkata",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "locator": "PDF page 9, footnote 18",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Kolkata, Kolkata",
+    "locationAliases": [
+      "Kolkata"
+    ]
+  },
+  {
+    "id": "city-d902e43f5953cf14",
+    "kind": "city",
+    "country": "IN",
+    "city": "Thiruvananthapuram",
+    "district": "",
+    "formerName": "Trivandrum",
+    "currentName": "Thiruvananthapuram",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Trivandrum",
+        "currentName": "Thiruvananthapuram",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "locator": "PDF page 6, footnote 12",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Thiruvananthapuram, Thiruvananthapuram",
+    "locationAliases": [
+      "Thiruvananthapuram"
+    ]
+  },
+  {
+    "id": "city-4ec91d2335c318a5",
+    "kind": "city",
+    "country": "IN",
+    "city": "Sri Vijaya Puram",
+    "district": "",
+    "formerName": "Port Blair",
+    "currentName": "Sri Vijaya Puram",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Port Blair",
+        "currentName": "Sri Vijaya Puram",
+        "date": "2024-09",
+        "datePrecision": "month",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "locator": "PDF page 9, footnote 20",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+        "title": "india-factfile",
+        "id": "india-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Sri Vijaya Puram, Sri Vijaya Puram",
+    "locationAliases": [
+      "Sri Vijaya Puram"
+    ]
+  },
+  {
+    "id": "city-670c90898950ca05",
+    "kind": "city",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": "",
+    "formerName": "Sài Gòn",
+    "currentName": "Hồ Chí Minh City",
+    "aliases": [
+      "Saigon",
+      "Ho Chi Minh City"
+    ],
+    "transliterations": [
+      "Sai Gon",
+      "Ho Chi Minh City"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Sài Gòn",
+        "currentName": "Hồ Chí Minh City",
+        "date": "1976",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a3a740deaee00074150f25f/Vietnam_Toponymic_Factfile.pdf",
+        "locator": "PDF page 6, footnote 10",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6a3a740deaee00074150f25f/Vietnam_Toponymic_Factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:32.315982+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "2afc365b452746cb3b2a28c9591a9eefdbfabed083c908a30c518f0c88ed30d2",
+        "title": "vietnam-factfile",
+        "id": "vietnam-factfile"
+      }
+    ],
+    "nameNote": "Historical city-name mapping. The 2025 administrative restructuring changed the municipality’s extent; historical boundaries are not asserted.",
+    "mapQuery": "Hồ Chí Minh City, Hồ Chí Minh City",
+    "locationAliases": [
+      "Ho Chi Minh City"
+    ]
+  },
+  {
+    "id": "city-6ab20064a1c69d62",
+    "kind": "city",
+    "country": "KZ",
+    "city": "Астана",
+    "district": "",
+    "formerName": "Нур-Султан",
+    "currentName": "Астана",
+    "aliases": [
+      "Nur-Sultan",
+      "Nur Sultan",
+      "Astana"
+    ],
+    "transliterations": [
+      "Nur-Sultan",
+      "Astana"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Нур-Султан",
+        "currentName": "Астана",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://www.akorda.kz/ru/o-pereimenovanii-goroda-nur-sultana-stolicy-respubliki-kazahstan-v-gorod-astanu-stolicu-respubliki-kazahstan-1782457",
+        "locator": "Decree 1017, clauses 1–2; effective from first official publication",
+        "documentNumber": null,
+        "decisionDate": "2022-09-17"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.akorda.kz/ru/o-pereimenovanii-goroda-nur-sultana-stolicy-respubliki-kazahstan-v-gorod-astanu-stolicu-respubliki-kazahstan-1782457",
+        "retrievedAt": "2026-11-14T17:54:19.673982+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "02edc39d99d1fc24c0e99a9885034caf37411446ce4b5806a7a27a5ae5b7ce66",
+        "title": "astana-city-decree",
+        "id": "astana-city-decree"
+      }
+    ],
+    "nameNote": "Astana is the restored name. The decree’s signature date is recorded separately from its publication-based effective date.",
+    "mapQuery": "Астана, Астана",
+    "locationAliases": [
+      "Astana"
+    ]
+  },
+  {
+    "id": "city-8dfe254dd78968e9",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Bela-Bela",
+    "district": "Limpopo",
+    "formerName": "Warmbaths",
+    "currentName": "Bela-Bela",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Warmbaths",
+        "currentName": "Bela-Bela",
+        "date": "2002",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Warmbaths",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Bela-Bela, Bela-Bela",
+    "locationAliases": [
+      "Bela-Bela",
+      "Limpopo"
+    ]
+  },
+  {
+    "id": "city-0ac56819d5229595",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Gqeberha",
+    "district": "Eastern Cape",
+    "formerName": "Port Elizabeth",
+    "currentName": "Gqeberha",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Port Elizabeth",
+        "currentName": "Gqeberha",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Port Elizabeth",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Gqeberha, Gqeberha",
+    "locationAliases": [
+      "Gqeberha",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-a1c0a7541a6b27bf",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Kariega",
+    "district": "Eastern Cape",
+    "formerName": "Uitenhage",
+    "currentName": "Kariega",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Uitenhage",
+        "currentName": "Kariega",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Uitenhage",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Kariega, Kariega",
+    "locationAliases": [
+      "Kariega",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-a584f7311ba4bbc6",
+    "kind": "city",
+    "country": "ZA",
+    "city": "KuGompo City",
+    "district": "Eastern Cape",
+    "formerName": "East London",
+    "currentName": "KuGompo City",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "East London",
+        "currentName": "KuGompo City",
+        "date": "2026",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: East London",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "KuGompo City, KuGompo City",
+    "locationAliases": [
+      "KuGompo City",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-ba8a6f92d13799f9",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Musina",
+    "district": "Limpopo",
+    "formerName": "Messina",
+    "currentName": "Musina",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Messina",
+        "currentName": "Musina",
+        "date": "2003",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Messina",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Musina, Musina",
+    "locationAliases": [
+      "Musina",
+      "Limpopo"
+    ]
+  },
+  {
+    "id": "city-ec8d813fd4d8c120",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Ngqayi",
+    "district": "Eastern Cape",
+    "formerName": "Katkop",
+    "currentName": "Ngqayi",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Katkop",
+        "currentName": "Ngqayi",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Katkop",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Ngqayi, Ngqayi",
+    "locationAliases": [
+      "Ngqayi",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-a6afe421275cf90c",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Nqanqarhu",
+    "district": "Eastern Cape",
+    "formerName": "Maclear",
+    "currentName": "Nqanqarhu",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Maclear",
+        "currentName": "Nqanqarhu",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Maclear",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Nqanqarhu, Nqanqarhu",
+    "locationAliases": [
+      "Nqanqarhu",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-4ae29c3f9d99e0c2",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Polokwane",
+    "district": "Limpopo",
+    "formerName": "Pietersburg",
+    "currentName": "Polokwane",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Pietersburg",
+        "currentName": "Polokwane",
+        "date": "2005",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Pietersburg",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Polokwane, Polokwane",
+    "locationAliases": [
+      "Polokwane",
+      "Limpopo"
+    ]
+  },
+  {
+    "id": "city-a00e16edc7116608",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Qonce",
+    "district": "Eastern Cape",
+    "formerName": "King William’s Town",
+    "currentName": "Qonce",
+    "aliases": [],
+    "transliterations": [
+      "King William's Town"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "King William’s Town",
+        "currentName": "Qonce",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: King William’s Town",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Qonce, Qonce",
+    "locationAliases": [
+      "Qonce",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-6ded8b95b172c026",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Robert Sobukwe",
+    "district": "Eastern Cape",
+    "formerName": "Graaff-Reinet",
+    "currentName": "Robert Sobukwe",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Graaff-Reinet",
+        "currentName": "Robert Sobukwe",
+        "date": "2026",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Graaff-Reinet",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Robert Sobukwe, Robert Sobukwe",
+    "locationAliases": [
+      "Robert Sobukwe",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-45e3ce36faad3f21",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Thema",
+    "district": "Gauteng",
+    "formerName": "Kudube",
+    "currentName": "Thema",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Kudube",
+        "currentName": "Thema",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Kudube",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Thema, Thema",
+    "locationAliases": [
+      "Thema",
+      "Gauteng"
+    ]
+  },
+  {
+    "id": "city-8e739a9507b3e73b",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Uhelo",
+    "district": "Mpumalanga",
+    "formerName": "Driehoek",
+    "currentName": "Uhelo",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Driehoek",
+        "currentName": "Uhelo",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Driehoek",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Uhelo, Uhelo",
+    "locationAliases": [
+      "Uhelo",
+      "Mpumalanga"
+    ]
+  },
+  {
+    "id": "city-b8d149b7ae3c974f",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Winnie Mandela",
+    "district": "Free State",
+    "formerName": "Brandfort",
+    "currentName": "Winnie Mandela",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Brandfort",
+        "currentName": "Winnie Mandela",
+        "date": "2021",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Brandfort",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Winnie Mandela, Winnie Mandela",
+    "locationAliases": [
+      "Winnie Mandela",
+      "Free State"
+    ]
+  },
+  {
+    "id": "city-a179e1c5eef1b7af",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Xamdeboo",
+    "district": "Eastern Cape",
+    "formerName": "Aberdeen",
+    "currentName": "Xamdeboo",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Aberdeen",
+        "currentName": "Xamdeboo",
+        "date": "2026",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 3, Example place name changes table: Aberdeen",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Xamdeboo, Xamdeboo",
+    "locationAliases": [
+      "Xamdeboo",
+      "Eastern Cape"
+    ]
+  },
+  {
+    "id": "city-ea2087a253d5196a",
+    "kind": "city",
+    "country": "ZA",
+    "city": "Louis Trichardt",
+    "district": "",
+    "formerName": "Makhado",
+    "currentName": "Louis Trichardt",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Makhado",
+        "currentName": "Louis Trichardt",
+        "date": "2014",
+        "datePrecision": "year",
+        "status": "reversal",
+        "sourceUrl": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "locator": "PDF page 2, paragraph on the 2014 reversal",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+        "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+        "title": "za-factfile",
+        "id": "za-factfile"
+      }
+    ],
+    "nameNote": "City-name reversal. Makhado remains the municipality name; it is not interchangeable with the city in every address.",
+    "mapQuery": "Louis Trichardt, Louis Trichardt",
+    "locationAliases": [
+      "Louis Trichardt"
+    ]
+  },
+  {
+    "id": "country-66da6aca50a007ce",
+    "kind": "country",
+    "country": "LK",
+    "city": "",
+    "district": "",
+    "formerName": "Ceylon",
+    "currentName": "Sri Lanka",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Ceylon",
+        "currentName": "Sri Lanka",
+        "date": "1972",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1972: Ceylon",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Sri Lanka, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-e1a95808657b91df",
+    "kind": "country",
+    "country": "BJ",
+    "city": "",
+    "district": "",
+    "formerName": "Dahomey",
+    "currentName": "Benin",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Dahomey",
+        "currentName": "Benin",
+        "date": "1975",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1975: Dahomey",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Benin, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-4e0123b5ca218eae",
+    "kind": "country",
+    "country": "BF",
+    "city": "",
+    "district": "",
+    "formerName": "Upper Volta",
+    "currentName": "Burkina Faso",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Upper Volta",
+        "currentName": "Burkina Faso",
+        "date": "1984",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1984: Upper Volta",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Burkina Faso, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-ecf76cf0fb98d2a3",
+    "kind": "country",
+    "country": "CD",
+    "city": "",
+    "district": "",
+    "formerName": "Zaire",
+    "currentName": "Democratic Republic of the Congo",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Zaire",
+        "currentName": "Democratic Republic of the Congo",
+        "date": "1997",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1997: Zaire",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Democratic Republic of the Congo, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-20ad1fd5f8c29199",
+    "kind": "country",
+    "country": "WS",
+    "city": "",
+    "district": "",
+    "formerName": "Western Samoa",
+    "currentName": "Samoa",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Western Samoa",
+        "currentName": "Samoa",
+        "date": "1997",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1997: Western Samoa",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Samoa, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-d99e00d45f78ca8a",
+    "kind": "country",
+    "country": "TH",
+    "city": "",
+    "district": "",
+    "formerName": "Siam",
+    "currentName": "Thailand",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Siam",
+        "currentName": "Thailand",
+        "date": "1939",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1939: Siam",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Thailand, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-7415c25c5c4a137a",
+    "kind": "country",
+    "country": "IR",
+    "city": "",
+    "district": "",
+    "formerName": "Persia",
+    "currentName": "Iran",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Persia",
+        "currentName": "Iran",
+        "date": "1935",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1935: Persia",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Iran, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-96a6606882e8003f",
+    "kind": "country",
+    "country": "JO",
+    "city": "",
+    "district": "",
+    "formerName": "Transjordan",
+    "currentName": "Jordan",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Transjordan",
+        "currentName": "Jordan",
+        "date": "1949",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1949: Transjordan",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Jordan, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-2dd05212f44adf2c",
+    "kind": "country",
+    "country": "SR",
+    "city": "",
+    "district": "",
+    "formerName": "Surinam",
+    "currentName": "Suriname",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Surinam",
+        "currentName": "Suriname",
+        "date": "2012",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 2012: Surinam",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Suriname, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-a5734bd16b24766a",
+    "kind": "country",
+    "country": "RO",
+    "city": "",
+    "district": "",
+    "formerName": "Rumania",
+    "currentName": "Romania",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Rumania",
+        "currentName": "Romania",
+        "date": "1970",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1970: Rumania",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Year follows the cited country-name timeline; adoption dates can differ between languages and governments.",
+    "mapQuery": "Romania, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-efa9e5015b42f1c9",
+    "kind": "country",
+    "country": "MM",
+    "city": "",
+    "district": "",
+    "formerName": "Burma",
+    "currentName": "Myanmar",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Burma",
+        "currentName": "Myanmar",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Burma",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Myanmar, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-9c5c67a0f944128c",
+    "kind": "country",
+    "country": "CV",
+    "city": "",
+    "district": "",
+    "formerName": "Cape Verde",
+    "currentName": "Cabo Verde",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Cape Verde",
+        "currentName": "Cabo Verde",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Cape Verde",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Cabo Verde, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-066898f91a4fc76d",
+    "kind": "country",
+    "country": "CI",
+    "city": "",
+    "district": "",
+    "formerName": "Ivory Coast",
+    "currentName": "Côte d’Ivoire",
+    "aliases": [],
+    "transliterations": [
+      "Cote d'Ivoire"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Ivory Coast",
+        "currentName": "Côte d’Ivoire",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Ivory Coast",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Côte d’Ivoire, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-f8333aba063797a2",
+    "kind": "country",
+    "country": "TR",
+    "city": "",
+    "district": "",
+    "formerName": "Turkey",
+    "currentName": "Türkiye",
+    "aliases": [],
+    "transliterations": [
+      "Turkiye"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Turkey",
+        "currentName": "Türkiye",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Turkey",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Türkiye, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-193be651103b42d9",
+    "kind": "country",
+    "country": "TL",
+    "city": "",
+    "district": "",
+    "formerName": "East Timor",
+    "currentName": "Timor-Leste",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "East Timor",
+        "currentName": "Timor-Leste",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: East Timor",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Timor-Leste, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-8ac87e9064d44c26",
+    "kind": "country",
+    "country": "KH",
+    "city": "",
+    "district": "",
+    "formerName": "Democratic Kampuchea",
+    "currentName": "Cambodia",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Democratic Kampuchea",
+        "currentName": "Cambodia",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Democratic Kampuchea",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Current short name in United Nations statistical usage. This mapping does not assert identical historical borders or universal language usage.",
+    "mapQuery": "Cambodia, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-f523997868677424",
+    "kind": "country",
+    "country": "CZ",
+    "city": "",
+    "district": "",
+    "formerName": "Czech Republic",
+    "currentName": "Czechia",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Czech Republic",
+        "currentName": "Czechia",
+        "date": "2016",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/",
+        "locator": "Name changes with no change in code since 1982: Czech Republic",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Czechia is the short country name; Czech Republic remains the formal state title.",
+    "mapQuery": "Czechia, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-ec2b5a24cf26f880",
+    "kind": "country",
+    "country": "MK",
+    "city": "",
+    "district": "",
+    "formerName": "Macedonia",
+    "currentName": "North Macedonia",
+    "aliases": [
+      "Republic of Macedonia",
+      "former Yugoslav Republic of Macedonia",
+      "FYROM"
+    ],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Macedonia",
+        "currentName": "North Macedonia",
+        "date": "2019",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 2019: Macedonia",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+        "title": "un-m49",
+        "id": "un-m49"
+      }
+    ],
+    "nameNote": "Refers to the country, not the wider geographical region of Macedonia.",
+    "mapQuery": "North Macedonia, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-77a42ca23e29d871",
+    "kind": "country",
+    "country": "LS",
+    "city": "",
+    "district": "",
+    "formerName": "Basutoland",
+    "currentName": "Lesotho",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Basutoland",
+        "currentName": "Lesotho",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1966: Basutoland",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Former territorial name associated with Lesotho at independence in 1966. The source’s independence year is not treated as an exact rename date.",
+    "mapQuery": "Lesotho, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-e7bb66de3960fdb0",
+    "kind": "country",
+    "country": "MW",
+    "city": "",
+    "district": "",
+    "formerName": "Nyasaland",
+    "currentName": "Malawi",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Nyasaland",
+        "currentName": "Malawi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1964: Nyasaland",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Former territorial name associated with Malawi at independence in 1964. The source’s independence year is not treated as an exact rename date.",
+    "mapQuery": "Malawi, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-212ff67300240618",
+    "kind": "country",
+    "country": "BZ",
+    "city": "",
+    "district": "",
+    "formerName": "British Honduras",
+    "currentName": "Belize",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "British Honduras",
+        "currentName": "Belize",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1981: British Honduras",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Former territorial name associated with Belize at independence in 1981. The source’s independence year is not treated as an exact rename date.",
+    "mapQuery": "Belize, ",
+    "locationAliases": []
+  },
+  {
+    "id": "country-ea57f97948478e45",
+    "kind": "country",
+    "country": "VU",
+    "city": "",
+    "district": "",
+    "formerName": "New Hebrides",
+    "currentName": "Vanuatu",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "New Hebrides",
+        "currentName": "Vanuatu",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Timeline heading 1980: New Hebrides",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "Former territorial name associated with Vanuatu at independence in 1980. The source’s independence year is not treated as an exact rename date.",
+    "mapQuery": "Vanuatu, ",
+    "locationAliases": []
+  },
+  {
+    "id": "city-68a1caeb2baa613c",
+    "kind": "city",
+    "country": "CD",
+    "city": "Kinshasa",
+    "district": "",
+    "formerName": "Léopoldville",
+    "currentName": "Kinshasa",
+    "aliases": [
+      "Leopoldville"
+    ],
+    "transliterations": [
+      "Leopoldville"
+    ],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Léopoldville",
+        "currentName": "Kinshasa",
+        "date": "1966",
+        "datePrecision": "year",
+        "status": "effective",
+        "sourceUrl": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "locator": "Footnote 6: capital renamed in 1966",
+        "documentNumber": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+        "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+        "title": "country-timeline",
+        "id": "country-timeline"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Kinshasa, Kinshasa",
+    "locationAliases": [
+      "Kinshasa"
+    ]
+  },
+  {
+    "id": "city-816811ce4b87e3c1",
+    "kind": "city",
+    "country": "IN",
+    "city": "Prayagraj",
+    "district": "",
+    "formerName": "Allahabad",
+    "currentName": "Prayagraj",
+    "aliases": [],
+    "transliterations": [],
+    "status": "verified",
+    "segment": null,
+    "geometry": null,
+    "houseNumbersVerified": false,
+    "currentStatusVerified": false,
+    "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+    "events": [
+      {
+        "formerName": "Allahabad",
+        "currentName": "Prayagraj",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "sourceUrl": "https://prayagrajdivision.nic.in/about-department/introduction/",
+        "locator": "Introduction: renaming via Gazette 1574/1-5-2018-72-2017, 18 October 2018",
+        "documentNumber": null,
+        "decisionDate": "2018-10-18"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://prayagrajdivision.nic.in/about-department/introduction/",
+        "retrievedAt": "2026-11-14T17:57:23.415657+00:00",
+        "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+        "sha256": "5177a61c1bd2af13c951d4cf652c0095b59807a19d18f517a9c9df26563a9630",
+        "title": "prayagraj-history",
+        "id": "prayagraj-history"
+      }
+    ],
+    "nameNote": "",
+    "mapQuery": "Prayagraj, Prayagraj",
+    "locationAliases": [
+      "Prayagraj"
     ]
   }
 ]

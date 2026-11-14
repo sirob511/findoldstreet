@@ -1,6 +1,6 @@
 # FindOldStreet
 
-Static, multilingual street-rename lookup with a repeatable, source-backed import pipeline. Source is in `src/`, adapters in `scripts/`, audit evidence in `data/sources/`. See [COVERAGE.md](COVERAGE.md) for actual locality counts, source URLs and limitations.
+Static, multilingual street, city and country rename lookup with a repeatable, source-backed import pipeline. Source is in `src/`, adapters in `scripts/`, audit evidence in `data/sources/`. See [COVERAGE.md](COVERAGE.md) for actual locality counts, source URLs and limitations.
 
 ## Run
 
@@ -9,8 +9,9 @@ python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 npm ci
 .venv/bin/python scripts/import_data.py
-npm run build
+python3 scripts/audit_sources.py
 python3 scripts/report.py
+npm run build
 npm run preview
 ```
 
@@ -29,6 +30,8 @@ Source spelling and generated transliterations remain separate. Source documents
 ```sh
 npm test
 python3 tests/seo.py
+python3 tests/reviewed_data.py
+python3 tests/expanded_data.py
 # with the preview server running:
 node tests/browser.mjs
 ```
@@ -111,3 +114,23 @@ report include these records without presenting them as street records. New
 city/country detail routes use `/{locale}/place/{id}/`; existing street URLs stay
 stable. All detail pages have a search form for the next lookup. Effective dates
 remain unknown when the cited source only confirms a decision or signature.
+
+### City, country and further street coverage
+
+`coverage-additions.json` contains reviewed Lviv appendix 2, Shymkent and further
+Łódź street mappings. `places-reviewed.json` supplies city/country mappings to
+`import_places.py`, called by the main importer; `places-seed.json` preserves
+the original public routes. The coverage-expansion manifest records successful
+captures and failed retrievals. `lodz-expansion-review.json` records candidate
+decisions and `lodz-current-checks.json` records current-name comparison.
+
+Run `python3 scripts/audit_sources.py` to inventory every repository source
+manifest and connect its URLs to published and review records. The resulting
+`data/source-audit.json` distinguishes imported evidence, background material,
+failed attempts and leads still requiring row-level review. Then regenerate
+the report before building. This audit is not a worldwide source census.
+
+Country short-name changes, historical territories and boundary limitations
+have notes on their detail pages. New country labels use English names where
+localized labels are not yet reviewed. Source-supported historical mappings
+do not imply that historical and present boundaries are identical.

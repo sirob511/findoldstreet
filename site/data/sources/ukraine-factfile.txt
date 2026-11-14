@@ -1,0 +1,437 @@
+--- PAGE 1 ---
+TOPONYMIC FACTFILE
+                                                   Ukraine
+
+ Country name                                             Ukraine
+
+ State title                                              Ukraine
+
+ Name of citizen                                          Ukrainian
+
+ Official language                                        Ukrainian
+
+ Country name in official language                        Україна (Ukraina)
+
+ State title in official language                         Україна (Ukraina)
+
+ Script                                                   Cyrillic
+ Romanization System                                      Ukrainian    national   romanization  system        (BGN/PCGN
+                                                          2019 Agreement)
+ ISO-3166 code (alpha-2/alpha-3)                          UA/UKR
+
+ Capital                                                  Kyiv
+
+ Capital in official language(s)                          Київ (Kyiv)
+
+
+Introduction
+
+Ukraine borders Russia to the east, has six European neighbours to the west and borders the Black
+Sea and Sea of Azov to the south.  Part of the Soviet Union until the Union’s break               -up in 1991, Ukraine’s
+strategic location on the boundary between            Russia and Europe plus significant mineral and agricultural
+wealth have long ensured Ukraine’s geopolitical significance.
+
+There   has long been a divide between the Russian-speaking east and the Ukrainian-speaking west,
+with  previous  declarations  of  separatist  intent  from  a  number  of  southern  and  eastern  oblasts.
+Russia’s annexation of Crimea in 2014 is not recognised by HMG, though Ukraine has no practical
+authority in the area.  Parts of the eastern Luhansk and Donetsk oblasts are similarly outside Ukraine’s
+control.
+
+
+Geographical Names Policy
+
+The Ukrainian language is written in a modified Cyrillic script (see Script and romanization, below).
+PCGN policy, in agreement with the US Board on Geographic Names (BGN),                         is to apply the Ukrainian
+national romanization       system to Ukrainian language geographical names across Ukraine.                  1
+
+Kyiv
+The capital city name should be represented as Kyiv, in accordance with the preference of Ukraine
+that this spelling be used in English      -language contexts.  This spelling also accords with the romanized
+
+1 This policy was adopted in December 2019, replacing the former policy to apply the BGN/PCGN 1965
+romanization system for Ukrainian.  See section headed Script and romanization.
+© Crown Copyright 2025
+                                                      OFFICIAL
+                                                                                                                           1
+--- PAGE 2 ---
+TOPONYMIC FACTFILE
+form  generated  from  application  of  the  Ukrainian  national  romanization  system to  the  Ukrainian
+Cyrillic, Київ. The English conventional name might still sometimes be seen as Kiev, though it should
+be noted that this form is close to the Russian (Киев, romanized Kiyev according to the BGN/PCGN
+Romanization System  for  Russian),  and  therefore may  present ambiguity  and  indeed  a  misleading
+connotation. PCGN recommends that the use of the spelling Kiev, even as a cross-reference, be limited
+if possible.
+
+Crimea
+Crimea is an autonomous republic of Ukraine (Автономна Республіка Крим/Avtonomna Respublika
+Krym), which has a majority Russian-speaking population.  Despite Russia’s annexation of Crimea and
+of the predominance of the Russian language in this region, it is PCGN/HMG policy to use Ukrainian-
+language geographical names in Crimea, including recent ‘decommunised’ names (see below), and
+new second-order administrative structure (see Administrative structure, below) in recognition of the
+sovereign authority.
+
+Donetsk and Luhansk
+It  is  also  PCGN/HMG  policy  to  reflect  Ukrainian-language  geographical  names,  including  recent
+‘decommunised’   names   (see   below),   and   new   second-order   administrative   structure   (see
+Administrative structure, below) in these oblasts.
+
+‘Decommunisation’ of geographical names
+Many  names  have  been  changed  since  independence,  principally  to  remove  references  to  the
+communist past.  A particularly concerted effort took place in 2016, whereby the Ukrainian Institute
+of National Memory (Український інститут національної пам’яті) published a list of approximately
+1000 settlements whose names would be changed: these name changes were enacted by decree.
+PCGN has details of the changed names available on request. These new names should be adopted
+across Ukraine, though the former name can be retained as a cross-reference if deemed useful.
+
+
+Language
+
+According to Article 10 of the Constitution of Ukraine, the official language of Ukraine is Ukrainian;
+Ukrainian has held this sole official status since before the fall of the Soviet Union, being the subject
+of  the  Ukrainian  SSR  law      “On  languages  in  Ukrainian  SSR”,  adopted  in  1989             .    Since  Ukraine’s
+independence      ‘official  topographic  maps  as  well  as  the  bulk  of  cartographic  products,  have  been
+published in Ukrainian     ’ [Ukraine Toponymic Guidelines          , 2011, ISBN   978-966-475-839-7].
+
+Apart from the official Ukrainian language, languages of              a number of other ethnic groups are spoken
+in Ukraine.  Russian is the mother tongue of over 30% of the population, and is spoken as a second
+language by most Ukrainians.
+
+The  subject  of  adopting      Russian  as  an  additional  state  language  has  unsurprisingly  been  closely
+correlated with the political stance of successive leaders.  The nationalist Viktor Yushchenko, president
+2005-2010, had stipulated that Ukrainian should be the sole state language, w                    hereas his pro-Russian
+successor  Viktor  Yanukovych,  president  2010          -2014,   talked  of  promising  to  hold  a  referendum  on
+making Russian official.       Since Yanukovych’s removal, the preference for Ukrainian has been strongly
+reasserted and in 2019 a new law was passed aiming to strengthen the common use of Ukrainian and
+regulating its use in the media, education, and business.
+
+Other minority languages include Crimean Tatar spoken in Crimea; Hungarian, principally spoken in
+Zakarpatska oblast; and Romanian, spoken in Chernivetska oblast and Zakarpatska oblast.  Ukrainian
+toponymy includes many influences from these and other languages, though ‘such place names have
+
+© Crown Copyright 2025
+                                                      OFFICIAL
+                                                                                                                            2
+--- PAGE 3 ---
+TOPONYMIC FACTFILE
+been  influenced  by  the  Ukrainian  language  and  assimilated  into               Ukrainian  toponymy’  [Ukraine
+Toponymic Guidelines, 2011].
+
+
+Script and romanization
+
+The modern Ukrainian alphabet consists of 33 letters, used to represent 38 phonemes sounds: Аа, Бб,
+Вв, Гг, Ґґ, Дд, Ее, Єє, Жж, Зз, Ии, Іі, Її, Йй, Кк, Лл, Мм, Нн, Оо, Пп, Рр, Сс, Тт, Уу, Фф, Хх, Цц, Чч, Шш,
+Щщ, Ьь, Юю and Яя; of these, four (Ґ, Є, І and Ї) do not feature in Russian Cyrillic.
+
+In 2019, BGN and PCGN agreed to adopt the Ukrainian national romanization system for US and UK
+government use. The previous policy had been to apply the 1965 BGN/PCGN romanization system for
+Ukrainian; in 2019 BGN and PCGN agreed that the implementation of the Ukrainian national system
+could be considered sufficiently widespread to adopt the system for UK and US use.  This national
+system was also adopted by the United Nations in 2012.
+
+For reference, the differences between the two systems are as follows:
+
+                                         Ukrainian national             Formerly used BGN/PCGN
+                      Cyrillic           system 2010 (2019                      1965 system
+                                      BGN/PCGN Agreement)
+                         ЗГ                       zgh                                  zh
+                         Є            ye initially; ie elsewhere                       ye
+                          Ї            yi initially; i elsewhere                       yi
+                         Й             y initially; i elsewhere                        y
+                         Ю            yu initially; iu elsewhere                       yu
+                         Я            ya initially; ia elsewhere                       ya
+                         Ь                 not romanized                                ’
+                          ’                not romanized                               ”
+
+The 2010 national system for Ukrainian, adopted by BGN/PCGN in 2019, does not contain any letter-
+diacritic combinations and special characters in addition to the unmodified letters of the basic Roman
+script.
+
+The Crimean Tatar language officially adopted a Roman-script orthography (replacing Cyrillic) in 2025.
+This  alphabet  includes     the  following  letter+diacritic  combinations  in  addition  to  the  basic  Roman
+script: â; ç; ğ; ñ; ö; ş; ü.
+
+
+Sources for geographical names
+
+Sources of information on standardised geographical names include the Acts of the Supreme Council
+(Verkhovna Rada) of Ukraine, state and local authorities, plus official editions of administrative maps
+of Ukraine and the oblasts, archive and statistical data, encyclopaedias and other reference materials.
+
+The  State  Service  of  Geodesy,  Cartography  and  Cadastre,              State  Scientific  Production  Enterprise
+“Kartohrafiya”     produces  many  maps  and  atlases  in  Ukrainian,  which  are  easily  accessible;  their
+website can be found here: http://www.ukrmap.com.ua/en though it should be noted that many of
+the name changes through decommunisation have not yet been reflected on the interactive mapping
+on this website.
+
+
+
+© Crown Copyright 2025
+                                                      OFFICIAL
+                                                                                                                          3
+--- PAGE 4 ---
+TOPONYMIC FACTFILE
+Ukraine’s  decentralization  reform  website        includes  good  up-to-date  mapping,         and shows the  new
+decommunised       names  and  the  new      raion boundaries (see  Administrative          structure,  below)    on  its
+interactive mapping:     https://atu.decentralization.gov.ua/#        .
+
+The UK Defence Geographic Centre has (May 2020) compiled a comprehensive list of geographical
+names capturing the many decommunised name changes and reflecting the PCGN policy for names.
+Contact PCGN for further details.
+
+The NGA GEOnet Names Server is also a good             source of names in Ukraine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Crown Copyright 2025
+                                                     OFFICIAL
+                                                                                                                        4
+--- PAGE 5 ---
+TOPONYMIC FACTFILE
+Administrative structure
+
+Ukraine is divided into 27 first-order administrative divisions, consisting of 24 oblasts (regions), one Autonomous Republic (Avtonomna Respublika Krym - Crimea),
+and two cities with special status (Misto Kyiv and Misto Sevastopol).
+
+       Region (romanized Ukrainian)            Region (Ukrainian Cyrillic)              Anglicised             ISO 3166-2 code           Centre (romanized         Centre   (Ukrainian
+                                                                                        region name2                                     Ukrainian)                Cyrillic)
+       Avtonomna Respublika Krym               Автономна Республіка Крим                Crimea                 UA-43                     Simferopol                Сімферополь
+       Cherkaska oblast                        Черкаська область                        Cherkasy               UA-71                     Cherkasy                  Черкаси
+       Chernihivska oblast                     Чернігівська область                     Chernihiv              UA-74                     Chernihiv                 Чернігів
+       Chernivetska oblast                     Чернівецька область                      Chernivtsi             UA-77                     Chernivtsi                Чернівці
+       Dnipropetrovska oblast                  Дніпропетровська область                 Dnipropetrovsk         UA-12                     Dnipro3                   Дніпро
+       Donetska oblast                         Донецка область                          Donetsk                UA-14                     Donetsk4                  Донецк
+
+       Ivano-Frankivska oblast                 Івано-Франківська область                Ivano-Frankivsk        UA-26                     Ivano-Frankivsk           Івано-Франківськ
+       Kharkivska oblast                       Харківська область                       Kharkiv                UA-63                     Kharkiv                   Харків
+       Khersonska oblast                       Херсонська область                       Kherson                UA-65                     Kherson                   Херсон
+       Khmelnytska oblast                      Хмельницька область                      Khmelnytskyi           UA-68                     Khmelnytskyi              Хмельницький
+       Kirovohradska oblast                    Кіровоградська область                   Kirovohrad             UA-35                     Kropyvnytskyi5            Кропивницький
+
+       Kyivska oblast                          Київська область                         Kyiv                   UA-32                     Kyiv                      Київ
+       Luhanska oblast                         Луганська область                        Luhansk                UA-09                     Luhansk4                  Луганськ
+
+       Lvivska oblast                          Львівська область                        Lviv                   UA-46                     Lviv                      Львів
+
+
+2 Acceptable form for use in text and likely to be encountered in e.g. press reporting, sometimes with an English generic term,             e.g. Donetsk region.
+3 Previously Dnipropetrovsk
+4 And see Other Significant Locations, below
+5 Previously Kirovohrad
+
+
+© Crown Copyright 2025
+                                                                                         OFFICIAL
+                                                                                                                                                                                                5
+--- PAGE 6 ---
+TOPONYMIC FACTFILE
+       Region (romanized Ukrainian)            Region (Ukrainian Cyrillic)            Anglicised             ISO 3166-2 code           Centre (romanized        Centre   (Ukrainian
+                                                                                      region name2                                     Ukrainian)               Cyrillic)
+       Misto Kyiv                              Місто Київ                             Kyiv City              UA-30                     Kyiv                     Київ
+       Misto Sevastopol                        Місто Севастополь                      Sevastopol City        UA-40                     Sevastopol               Севастополь
+       Mykolaivska oblast                      Миколаївська область                   Mykolaiv               UA-48                     Mykolaiv                 Миколаїв
+       Odeska oblast                           Одеська область                        Odesa                  UA-51                     Odesa                    Одеса
+       Poltavska oblast                        Полтавська область                     Poltava                UA-53                     Poltava                  Полтава
+       Rivnenska oblast                        Рівненська область                     Rivne                  UA-56                     Rivne                    Рівне
+       Sumska oblast                           Сумська область                        Sumy                   UA-59                     Sumy                     Суми
+       Ternopilska oblast                      Тернопільська область                  Ternopil               UA-61                     Ternopil                 Тернопіль
+       Vinnytska oblast                        Вінницька область                      Vinnytsia              UA-05                     Vinnytsia                Вінниця
+       Volynska oblast                         Волинська область                      Volyn                  UA-07                     Lutsk                    Луцьк
+       Zakarpatska oblast                      Закарпатська область                   Zakarpattia            UA-21                     Uzhhorod                 Ужгород
+       Zaporizka oblast                        Запорізька область                     Zaporizhzhia           UA-23                     Zaporizhzhia             Запоріжжя
+       Zhytomyrska oblast                      Житомирська область                    Zhytomyr               UA-18                     Zhytomyr                 Житомир
+
+Second-order divisions
+In 2020, as part of an ongoing decentralization policy in Ukraine, in Resolution number 3650 "On the creation and abolition of regions", the previous 490 second-
+order administrative level districts (raions and miskradas) were removed and 136 new raions were created. OPORA (a Ukrainian                             non-governmental organization
+for public oversight of elections) has created an online map of the new raions and communities in Ukraine, and Ukraine’s decentralization reform website also
+shows these raion boundaries on its interactive mapping: https://atu.decentralization.gov.ua/#
+
+
+
+
+
+
+
+
+
+© Crown Copyright 2025
+                                                                                       OFFICIAL
+                                                                                                                                                                                             6
+--- PAGE 7 ---
+TOPONYMIC FACTFILE
+
+Other Significant Locations
+
+           PCGN Approved Name                    Name in Ukrainian Cyrillic                Conventional Name                         Location                       Feature Type
+                                                                                            (where one exists)
+        Black Sea                            Чорне море (Chorne more)                   Black Sea                        43° 00'N 35° 00'E                    Inland sea
+
+        Carpathian Mountains         or      Карпати (Karpati)                          Carpathian Mountains             47° 00'N 25°30'E                     Mountains
+        Karpati see footnote6
+        Chornobyl                            Чорнобиль                                  Chernobyl                        51° 16' 25"N 30° 13' 21"E            Abandoned populated
+                                                                                                                                                              place
+        Danube or Dunay6                     Дунай (Dunay)                              Danube                           45° 20' 00"N 29° 40' 00"E            River
+
+        Dniester or Dnister6                 Дністер (Dnister)                          Dniester                         46° 18' 15"N 30° 16' 25"E            River
+
+        Dnipro or Dnieper6                   Дніпро (Dnipro)                            Dnieper                          46° 29' 51"N 32° 18' 31"E            River
+
+        Kamianets-Podilskyi                  Кам’янець-Подільський                                                       48° 41' 12"N 26° 34' 50"E            Populated place
+        Kramatorsk7                          Краматорськ                                                                 48° 43' 50"N 37° 35' 17"E            Populated place
+
+        Mariupol                             Маріуполь                                                                   47° 08' 09"N 37° 34' 02"E            Populated place
+        Mukachevo8                           Мукачево                                                                    48° 26' 29"N 22° 43' 13"E            Populated place
+
+        Sea of Azov                          Азовське море (Azovske more)               Sea of Azov                      46° 01' 47"N 36° 22' 24"E            Inland sea
+        Sievierodonetsk     9                Сєвєродонецьк                                                               48° 56' 47"N 38° 29' 10"E            Populated place
+
+
+
+
+6 PCGN may recommend transnational feature names (e           .g. rivers and mountain ranges) be shown with their conventional English name and/or the relevant local form
+according to the product.    Specific guidance is available on request.
+7 Acting administrative centre of Donetska oblast
+8 Previously Mukacheve until 2017
+9 Acting administrative centre of Luhanska oblast
+
+
+© Crown Copyright 2025
+                                                                                         OFFICIAL
+                                                                                                                                                                                                  7
+--- PAGE 8 ---
+TOPONYMIC FACTFILE
+
+Useful references
+
+    •    BBC Country Profile (no longer updated): https://www.bbc.co.uk/news/world                 -europe-
+         18018002
+    •    CIA World Factbook:      https://www.cia.gov/the     -world-factbook/countries/ukraine/
+    •    Foreign, Commonwealth and Development Office (FCDO) Travel Advice
+    •    International Organization for Standardization (ISO):        www.iso.org
+    •    Languages: www.ethnologue.com, www.omniglot.com
+    •    PCGN paper: Crimea – Second-order administrative divisions
+    •    Ukraine: administrative map and https://atu.decentralization.gov.ua/#
+    •    Ukraine “Kartohrafiya: http://www.ukrmap.com.ua/en
+    •    Unicode Consortium: www.unicode.org
+    •    US Board on Geographic Names GEOnet Names Server: http://earth-
+         info.nga.mil/gns/html/index.html
+                                                                                                              PCGN
+                                                                                          updated October 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Crown Copyright 2025
+                                                  OFFICIAL
+                                                                                                                   8

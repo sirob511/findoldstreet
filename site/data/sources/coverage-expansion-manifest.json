@@ -1,0 +1,260 @@
+[
+  {
+    "id": "country-timeline",
+    "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:52:17.949846+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "country-timeline.html",
+    "sha256": "92fa709159531379a9b9c3da7da79a6bd92763ce31ba4966a348d01d06bbf681",
+    "status": "downloaded",
+    "textFile": "country-timeline.txt"
+  },
+  {
+    "id": "un-m49",
+    "url": "https://unstats.un.org/unsd/methodology/m49/",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:52:17.950854+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "un-m49.html",
+    "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+    "status": "downloaded",
+    "textFile": "un-m49.txt"
+  },
+  {
+    "id": "lviv-appendix2",
+    "url": "https://loda.gov.ua/documents/111760",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:52:17.951169+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://loda.gov.ua/documents/111760"
+  },
+  {
+    "id": "india-city-nocs",
+    "url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2022-pdfs/LS-19072022/371.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:52:17.951581+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://www.mha.gov.in/MHA1/Par2017/pdfs/par2022-pdfs/LS-19072022/371.pdf"
+  },
+  {
+    "id": "lodz-current-streets",
+    "url": "https://nowy.log.lodz.pl/mapy-i-uslugi-online/ulice/",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:52:17.951963+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "lodz-current-streets.html",
+    "sha256": "1d0b7a93f60b433f08b94549a1678ebb0a92ff189691a693bcbb68a2e109e70f",
+    "status": "downloaded",
+    "textFile": "lodz-current-streets.txt"
+  },
+  {
+    "id": "odesa-2024-amended",
+    "url": "https://oda.od.gov.ua/strapi/uploads/0830_a24_01251505c5.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:53:23.510278+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://oda.od.gov.ua/strapi/uploads/0830_a24_01251505c5.pdf"
+  },
+  {
+    "id": "za-official-names-2021",
+    "url": "https://www.saflii.org/za/gaz/ZAGovGaz/2021/184.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:53:23.512286+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://www.saflii.org/za/gaz/ZAGovGaz/2021/184.pdf"
+  },
+  {
+    "id": "india-cities-2014",
+    "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:53:23.513514+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "india-cities-2014.html",
+    "sha256": "92aa8167da23c8ee9c9d8e24d996bacb5bc6bb341e098dd2cba9d23fe85516e6",
+    "status": "downloaded",
+    "textFile": "india-cities-2014.txt"
+  },
+  {
+    "id": "kharkiv-april-page",
+    "url": "https://city.kharkiv.ua/documents/rozporiadzennia-miskogo-golovi/pro-pereimenuvannia-objektiv-toponimiyi-mista-xarkova",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:53:23.515211+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://city.kharkiv.ua/documents/rozporiadzennia-miskogo-golovi/pro-pereimenuvannia-objektiv-toponimiyi-mista-xarkova"
+  },
+  {
+    "id": "kharkiv-april-2024",
+    "url": "https://1654.city.kharkiv.ua/files/document/12021/dodatok-120-26.04.2024.docx",
+    "country": "UA",
+    "retrievedAt": "2026-11-14T17:53:55.446715+00:00",
+    "reuseTerms": "Factual mappings only; retained for audit.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://1654.city.kharkiv.ua/files/document/12021/dodatok-120-26.04.2024.docx"
+  },
+  {
+    "id": "lodz-street-api",
+    "url": "https://log.lodz.pl/wp-content/themes/log/js/scripts.js?ver=1.1",
+    "country": "PL",
+    "retrievedAt": "2026-11-14T17:53:55.940605+00:00",
+    "reuseTerms": "Factual mappings only; retained for audit.",
+    "file": "lodz-street-api.js",
+    "sha256": "09534ad5fd170ce8f82cc665826cd8c8247fe6f206b06ad81b3b8216101f907e",
+    "status": "downloaded"
+  },
+  {
+    "id": "za-factfile",
+    "url": "https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:19.673196+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "za-factfile.pdf",
+    "sha256": "460852d6b197a14012a857dae148185f6517e32db9237525e04eaae26c169b7f",
+    "status": "downloaded",
+    "textFile": "za-factfile.txt"
+  },
+  {
+    "id": "astana-city-decree",
+    "url": "https://www.akorda.kz/ru/o-pereimenovanii-goroda-nur-sultana-stolicy-respubliki-kazahstan-v-gorod-astanu-stolicu-respubliki-kazahstan-1782457",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:19.673982+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "astana-city-decree.html",
+    "sha256": "02edc39d99d1fc24c0e99a9885034caf37411446ce4b5806a7a27a5ae5b7ce66",
+    "status": "downloaded",
+    "textFile": "astana-city-decree.txt"
+  },
+  {
+    "id": "shymkent-2014",
+    "url": "https://old.adilet.zan.kz/rus/docs/V14U0002942",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:19.676670+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "shymkent-2014.html",
+    "sha256": "31258bd35018e380e4eba6419462bb0ffdb12f73b619ef656cc7c3556cdfd17c",
+    "status": "downloaded",
+    "textFile": "shymkent-2014.txt"
+  },
+  {
+    "id": "india-factfile",
+    "url": "https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:32.313766+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "india-factfile.pdf",
+    "sha256": "701faf0c0c069089c220fc953c34d6ce452acc565425cf133c556e7e726075d0",
+    "status": "downloaded",
+    "textFile": "india-factfile.txt"
+  },
+  {
+    "id": "ukraine-factfile",
+    "url": "https://assets.publishing.service.gov.uk/media/68f0de991c9076042263ef60/Ukraine_Toponymic_Factfile.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:32.314389+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "ukraine-factfile.pdf",
+    "sha256": "9cb6a30be0972aa58f559e0e9bcb704e3c4d8011b82f4cdbc5b840fa6ab22ce1",
+    "status": "downloaded",
+    "textFile": "ukraine-factfile.txt"
+  },
+  {
+    "id": "vietnam-factfile",
+    "url": "https://assets.publishing.service.gov.uk/media/6a3a740deaee00074150f25f/Vietnam_Toponymic_Factfile.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:54:32.315982+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "vietnam-factfile.pdf",
+    "sha256": "2afc365b452746cb3b2a28c9591a9eefdbfabed083c908a30c518f0c88ed30d2",
+    "status": "downloaded",
+    "textFile": "vietnam-factfile.txt"
+  },
+  {
+    "id": "lviv-appendix2-browser",
+    "country": "UA",
+    "url": "https://loda.gov.ua/documents/111760",
+    "file": "lviv-appendix2-browser.txt",
+    "sha256": "549fb59743a3eb00d1fcc646d294ec91f2579f5eb65b19f0dfd2523f2dae6f0a",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T17:55:32.085281+00:00",
+    "reuseTerms": "CC BY 4.0 per source footer. Attribution: Lviv Regional Military Administration.",
+    "retrievalMethod": "Web tool text capture; direct HTTP blocked. Appendix 2 rows 1–128."
+  },
+  {
+    "id": "karnataka-renames",
+    "url": "https://assets.publishing.service.gov.uk/media/5a7e0e2d40f0b62305b80813/Karnataka_State_India_Name_Changes_20141112.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:55:32.371024+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "karnataka-renames.pdf",
+    "sha256": "6ff43e7de6b98ec792b3238b6c5d8baf89d9339339b1cd3791c789f6edd968f2",
+    "status": "failed",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "id": "ukraine-renamed-cities",
+    "url": "https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:55:32.373201+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "ukraine-renamed-cities.pdf",
+    "sha256": "1876c7c028923a99d2f77173d49444421a5d6c6598da13ac1a123978aac84217",
+    "status": "downloaded",
+    "textFile": "ukraine-renamed-cities.txt"
+  },
+  {
+    "id": "lodz-current-register",
+    "country": "PL",
+    "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+    "file": "lodz-current-register.json",
+    "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+    "reuseTerms": "Factual current street names only; captured for audit.",
+    "retrievalMethod": "Public street-search endpoint POST /wp-content/themes/log/streets.php; search letters recorded in capture."
+  },
+  {
+    "id": "mumbai-history",
+    "url": "https://mumbaicity.gov.in/en/history/",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:57:23.415174+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='mumbaicity.gov.in', port=443): Max retries exceeded with url: /en/history/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='mumbaicity.gov.in', port=443) at 0x74633fb16660>, 'Connection to mumbaicity.gov.in timed out. (connect timeout=25)'))"
+  },
+  {
+    "id": "prayagraj-history",
+    "url": "https://prayagrajdivision.nic.in/about-department/introduction/",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:57:23.415657+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "file": "prayagraj-history.html",
+    "sha256": "5177a61c1bd2af13c951d4cf652c0095b59807a19d18f517a9c9df26563a9630",
+    "status": "downloaded",
+    "textFile": "prayagraj-history.txt"
+  },
+  {
+    "id": "karnataka-renames-browser",
+    "country": "IN",
+    "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf",
+    "file": "karnataka-renames-browser.txt",
+    "sha256": "e2b57250b01bc70de9bd6cabb6c7e69e1097d5285f4797d9fdc7fef3e2e472dd",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T17:58:21.557845+00:00",
+    "reuseTerms": "Crown copyright; factual mappings only. Source capture retained for audit.",
+    "retrievalMethod": "Web tool PDF extraction, pages 1–2."
+  },
+  {
+    "id": "mumbai-city-profile",
+    "url": "https://dmmarathi.mcgm.gov.in/assets/pdf/city_profile.pdf",
+    "country": "MULTI",
+    "retrievedAt": "2026-11-14T17:58:47.736797+00:00",
+    "reuseTerms": "Factual mappings only; captured source retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='dmmarathi.mcgm.gov.in', port=443): Max retries exceeded with url: /assets/pdf/city_profile.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+  }
+]

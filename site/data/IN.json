@@ -41,7 +41,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "91b36deaa727036c",
@@ -85,7 +88,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "e8368e0c1a60c912",
@@ -129,7 +135,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "bb425967d7a991a5",
@@ -173,7 +182,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "bdcbd4a91807fb22",
@@ -217,7 +229,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "27e485924f86a6e0",
@@ -261,7 +276,10 @@
     "segment": null,
     "reviewReason": "Source search indexed Mount Road (Anna Salai), but downloaded PDF extraction did not retain the exact paired entry; awaiting visual review.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Chennai"
+    ]
   },
   {
     "id": "7f1a32648940fd71",
@@ -307,7 +325,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "52f97ea175373f29",
@@ -353,7 +374,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "New Delhi"
+    ]
   },
   {
     "id": "45a7f5aa84c86000",
@@ -397,7 +421,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Kolkata",
+      "E.M. Bypass"
+    ]
   },
   {
     "id": "c7d2f0228910737f",
@@ -441,6 +469,9 @@
     "segment": "Part of Moore Avenue; endpoints not specified",
     "reviewReason": "Municipal newsletter does not specify the renamed segment endpoints.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Kolkata"
+    ]
   }
 ]

@@ -42,7 +42,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bialoleka"
+    ]
   },
   {
     "id": "f99ed7a53c4c8015",
@@ -90,7 +94,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bemowo"
+    ]
   },
   {
     "id": "5c7b223392f978c8",
@@ -137,7 +145,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bielany"
+    ]
   },
   {
     "id": "ea47c623691afafa",
@@ -184,7 +196,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Targowek"
+    ]
   },
   {
     "id": "7ca647dabc6f32b2",
@@ -229,7 +245,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "5373d14e1013aec1",
@@ -276,7 +296,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursynow"
+    ]
   },
   {
     "id": "7d1b7d463ed5869e",
@@ -336,7 +360,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bielany"
+    ]
   },
   {
     "id": "797f3d9b7f747599",
@@ -395,7 +423,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Targowek"
+    ]
   },
   {
     "id": "7cfa4c197a43dcc9",
@@ -465,7 +497,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wlochy"
+    ]
   },
   {
     "id": "e99090ebce58f7e2",
@@ -524,7 +560,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Srodmiescie"
+    ]
   },
   {
     "id": "27f56e0f509eace1",
@@ -584,7 +624,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bemowo"
+    ]
   },
   {
     "id": "778cb9d4a968f2c0",
@@ -644,7 +688,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bialoleka"
+    ]
   },
   {
     "id": "f2d1f6d85f42b2e7",
@@ -701,7 +749,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wola"
+    ]
   },
   {
     "id": "93f7be550ed11fd5",
@@ -761,7 +813,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursynow"
+    ]
   },
   {
     "id": "14eb2f1e35f12023",
@@ -818,7 +874,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wawer"
+    ]
   },
   {
     "id": "db95c47b16f8ddfa",
@@ -877,7 +937,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bielany"
+    ]
   },
   {
     "id": "1ccf180b7f0c2d2a",
@@ -937,7 +1001,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursynow"
+    ]
   },
   {
     "id": "b81bd73ab10f55e0",
@@ -997,7 +1065,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Praga-Polnoc"
+    ]
   },
   {
     "id": "a69874a556ce9ef3",
@@ -1056,7 +1128,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bielany"
+    ]
   },
   {
     "id": "089cc220bef13136",
@@ -1116,7 +1192,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Targowek"
+    ]
   },
   {
     "id": "37b9d784d9a400c7",
@@ -1176,7 +1256,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursynow"
+    ]
   },
   {
     "id": "617df46795056c96",
@@ -1233,7 +1317,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bemowo"
+    ]
   },
   {
     "id": "9f1dbf6962abd890",
@@ -1293,7 +1381,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Zoliborz"
+    ]
   },
   {
     "id": "2f8125cb6f3b9f01",
@@ -1353,7 +1445,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Targowek"
+    ]
   },
   {
     "id": "b531337cb3ab42c7",
@@ -1413,7 +1509,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "3acbd6d9898daf7e",
@@ -1473,7 +1573,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bemowo"
+    ]
   },
   {
     "id": "9e6ad20efd7c069d",
@@ -1532,7 +1636,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursus"
+    ]
   },
   {
     "id": "e527306382162030",
@@ -1603,7 +1711,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wola"
+    ]
   },
   {
     "id": "ac8e51dfd5f703ce",
@@ -1663,7 +1775,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Praga-Poludnie"
+    ]
   },
   {
     "id": "71bcb50d4c8a318a",
@@ -1734,7 +1850,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wesola"
+    ]
   },
   {
     "id": "55f114a581464b33",
@@ -1793,7 +1913,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wesola"
+    ]
   },
   {
     "id": "0fd684d5e9efe060",
@@ -1850,7 +1974,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursynow"
+    ]
   },
   {
     "id": "5e602b9991b8fa1d",
@@ -1909,7 +2037,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "0035d746ec880c03",
@@ -1969,7 +2101,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wesola"
+    ]
   },
   {
     "id": "1c302a9c4627cb61",
@@ -2028,7 +2164,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Rembertow"
+    ]
   },
   {
     "id": "92fce21df4bcc246",
@@ -2096,7 +2236,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Praga-Poludnie"
+    ]
   },
   {
     "id": "5ebc4658af908936",
@@ -2155,7 +2299,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Praga-Polnoc"
+    ]
   },
   {
     "id": "9a83fd9b66f3c1f2",
@@ -2214,7 +2362,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wlochy"
+    ]
   },
   {
     "id": "6808c74bd916603f",
@@ -2273,7 +2425,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wola"
+    ]
   },
   {
     "id": "53db98cb3eea4659",
@@ -2332,7 +2488,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Srodmiescie"
+    ]
   },
   {
     "id": "32f12ebc031bb426",
@@ -2400,7 +2560,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bielany"
+    ]
   },
   {
     "id": "5a493b1f918fc852",
@@ -2470,7 +2634,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "9cb2f33d3b4829ad",
@@ -2529,7 +2697,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "f4f31b3115d76358",
@@ -2586,7 +2758,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Rembertow"
+    ]
   },
   {
     "id": "5738d9321be0ca88",
@@ -2646,7 +2822,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wawer"
+    ]
   },
   {
     "id": "39d0fd8b2dea3646",
@@ -2703,7 +2883,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wesola"
+    ]
   },
   {
     "id": "490566f6538a1d0b",
@@ -2762,7 +2946,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Srodmiescie"
+    ]
   },
   {
     "id": "90be8c3c947efc50",
@@ -2819,7 +3007,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wola"
+    ]
   },
   {
     "id": "583e05f85a5f77bd",
@@ -2879,7 +3071,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Wawer"
+    ]
   },
   {
     "id": "0e64e8ea21d0e9d3",
@@ -2936,7 +3132,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Srodmiescie"
+    ]
   },
   {
     "id": "0db5467beb261d92",
@@ -2993,7 +3193,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "337fb6d62512eff2",
@@ -3050,7 +3254,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Mokotow"
+    ]
   },
   {
     "id": "d23aefc284d156af",
@@ -3110,7 +3318,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Bialoleka"
+    ]
   },
   {
     "id": "d568e7e3bffe1446",
@@ -3170,7 +3382,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Rembertow"
+    ]
   },
   {
     "id": "77679075f2994338",
@@ -3230,7 +3446,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Zoliborz"
+    ]
   },
   {
     "id": "272948348905998a",
@@ -3290,7 +3510,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Warszawa",
+      "Ursus"
+    ]
   },
   {
     "id": "d448bab64d7b2545",
@@ -3333,7 +3557,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "786efb4b89b6a4dc",
@@ -3376,7 +3603,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "cc37a1818bda5218",
@@ -3421,7 +3651,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "7434fe9d6bb2510e",
@@ -3464,7 +3697,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "ed4e40215dfb7381",
@@ -3507,7 +3743,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "77d4d7eb1de71207",
@@ -3552,7 +3791,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Krakow"
+    ]
   },
   {
     "id": "f8641e66280220ec",
@@ -3605,7 +3847,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "f247d5d6d8c839c4",
@@ -3656,7 +3901,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "4c4199a36d8219c0",
@@ -3710,7 +3958,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "b6ae6d78469194e9",
@@ -3761,7 +4012,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "2120ecac0ccc277e",
@@ -3814,7 +4068,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "8e9b107d8e9b4386",
@@ -3865,7 +4122,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "f82b8b94788ae843",
@@ -3919,7 +4179,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a84d6fda587ce871",
@@ -3972,7 +4235,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "043722f024e99d81",
@@ -4023,7 +4289,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "c581848e855dec42",
@@ -4074,7 +4343,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d70a4ea7ff065436",
@@ -4127,7 +4399,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "b98df02f9188e16a",
@@ -4181,7 +4456,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "9b49ee798e856c70",
@@ -4234,7 +4512,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "073b73b32f6a462a",
@@ -4288,7 +4569,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "cc0b7e46d4f6a6eb",
@@ -4341,7 +4625,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "2d93812c715be364",
@@ -4395,7 +4682,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d4268cfe702a6d82",
@@ -4448,7 +4738,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "da26b8cb8e4d8d01",
@@ -4501,7 +4794,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "433ec8f1eac2eb80",
@@ -4552,7 +4848,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a104c79edc5e9537",
@@ -4605,7 +4904,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "54d65ce7b4aad4d7",
@@ -4658,7 +4960,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ebec204be1136686",
@@ -4709,7 +5014,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "55a5a2180d5ab94a",
@@ -4762,7 +5070,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "f18f9a6d320486ae",
@@ -4816,7 +5127,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ea3fada0163cb59f",
@@ -4869,7 +5183,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "767db9bdc90d3276",
@@ -4923,7 +5240,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "69d57a59f0ba9879",
@@ -4976,7 +5296,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "01af085e443a75bd",
@@ -5027,7 +5350,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "0105f0f0f8e57fa7",
@@ -5080,7 +5406,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "9e92e89b7f13a953",
@@ -5134,7 +5463,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "31e2ec1961e5aee1",
@@ -5187,7 +5519,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "8cf0d2c379adc55d",
@@ -5240,7 +5575,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "3573647994e91ccc",
@@ -5294,7 +5632,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "e3c0b02c00c3d0d7",
@@ -5347,7 +5688,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ff591965768bba93",
@@ -5400,7 +5744,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a80e8621db77ca73",
@@ -5453,7 +5800,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "112abe92729454ff",
@@ -5504,7 +5854,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "f65cf0d19bd67b3c",
@@ -5558,7 +5911,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "250be3c9700ca908",
@@ -5611,7 +5967,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "51781707ce35b14c",
@@ -5664,7 +6023,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d4eea4cdbcd1e15e",
@@ -5718,7 +6080,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ceb13f12b789bcae",
@@ -5772,7 +6137,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "3c024a15daa34972",
@@ -5826,7 +6194,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "04bcf7fcb9577464",
@@ -5877,7 +6248,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a233dc307bafb755",
@@ -5928,7 +6302,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "77d2f210ad5bacde",
@@ -5979,7 +6356,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "e271f330179d07cb",
@@ -6030,7 +6410,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "3d43654d54348956",
@@ -6084,7 +6467,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "2dd5c766fb6e8d8f",
@@ -6138,7 +6524,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "4c408c347514f8a8",
@@ -6192,7 +6581,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "7feadf4aab294061",
@@ -6243,7 +6635,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d06e0accbe3267c3",
@@ -6294,7 +6689,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "133c6fea7775d756",
@@ -6345,7 +6743,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "18a5d550180a9a9d",
@@ -6398,7 +6799,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "5b9e6be3fd1cabe3",
@@ -6449,7 +6853,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "c66b78d03c2bac63",
@@ -6502,7 +6909,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "2238ee20233d3930",
@@ -6553,7 +6963,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "b153ec4b2c180b78",
@@ -6604,7 +7017,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d98adbbaa20891c2",
@@ -6657,7 +7073,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "dd05d4ab9ad82ded",
@@ -6710,7 +7129,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d0406bf0e7b7634e",
@@ -6763,7 +7185,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d97141202bee304a",
@@ -6817,7 +7242,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "937a70992b75546e",
@@ -6868,7 +7296,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "0a3076ac2308c5c8",
@@ -6922,7 +7353,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d258bc9a15f253f6",
@@ -6975,7 +7409,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "345a18833596a2d5",
@@ -7026,7 +7463,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "0bb98cb198d55a52",
@@ -7080,7 +7520,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "3ce90e5806b15b49",
@@ -7131,7 +7574,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a5b03561c2b0ff70",
@@ -7182,7 +7628,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "90d8d30dad24cbec",
@@ -7233,7 +7682,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "82a77ae54f2feb80",
@@ -7286,7 +7738,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "f9cc88e83ebc929e",
@@ -7339,7 +7794,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d06e807e00f64f32",
@@ -7393,7 +7851,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "70820f718833e52c",
@@ -7447,7 +7908,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "4cfb12b6ab5bc2a3",
@@ -7500,7 +7964,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "d383a9a1d820e45d",
@@ -7551,7 +8018,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "5546f492db3633d2",
@@ -7604,7 +8074,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "8f163b7eaffb2daa",
@@ -7655,7 +8128,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "cb72f76565674655",
@@ -7706,7 +8182,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "db0de15864239502",
@@ -7757,7 +8236,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "79e4df62b201eb90",
@@ -7808,7 +8290,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "57d7efd11984aae4",
@@ -7861,7 +8346,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "5b49f878aaed5249",
@@ -7914,7 +8402,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "072484d3657f4fe3",
@@ -7967,7 +8458,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "2f61051850261d46",
@@ -8018,7 +8512,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "aa8b743157de3745",
@@ -8071,7 +8568,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "5a274809461f1fea",
@@ -8125,7 +8625,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "a812f4b214d43d1f",
@@ -8178,7 +8681,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "4489840a3449007d",
@@ -8232,7 +8738,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "4c7f2e85b4cdb817",
@@ -8283,7 +8792,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "5f2280f10bc35b5e",
@@ -8334,7 +8846,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "958887fddf091893",
@@ -8387,7 +8902,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "04b01c42357b833c",
@@ -8441,7 +8959,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ad8b3ad2f025837d",
@@ -8492,7 +9013,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "1d666e05ea75e2f9",
@@ -8545,7 +9069,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "b9f70b96b34129b1",
@@ -8599,7 +9126,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ef6aac01f7af0423",
@@ -8650,7 +9180,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "3f3ab04046403dc5",
@@ -8701,7 +9234,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "158d07c4b58d9d40",
@@ -8754,7 +9290,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "132cebc5a43edff8",
@@ -8808,7 +9347,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "7c3841b6e6faf3c8",
@@ -8862,7 +9404,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "0faaa055991138c1",
@@ -8915,7 +9460,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "bfcc75b43d0c0497",
@@ -8968,7 +9516,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "1d2cfc2124f4ff67",
@@ -9021,7 +9572,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   },
   {
     "id": "ac95bd924c036516",
@@ -9074,6 +9628,3002 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "e4bf44663fc7c328",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Aleksandryjska",
+    "currentName": "ul. Bojowników Getta Warszawskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Aleksandryjska",
+      "Bojowników Getta Warszawskiego"
+    ],
+    "transliterations": [
+      "ul. Bojownikow Getta Warszawskiego",
+      "ul. Zydowska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Aleksandryjska",
+        "currentName": "ul. Żydowska",
+        "date": "1933",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ALEKSANDRYJSKA_OLD → #BOJOWNIKOWGETTA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Żydowska",
+        "currentName": "ul. Bojowników Getta Warszawskiego",
+        "date": "1947",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ALEKSANDRYJSKA_OLD → #BOJOWNIKOWGETTA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+        "retrievedAt": "2026-11-14T06:35:36.461338+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "3b3cfb0ace61cbf1109e8b99af95d9a38d2f9c6484e563a3a110f10704fc67bb",
+        "title": "lodz-slownik-b",
+        "id": "lodz-slownik-b"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Bojowników Getta Warszawskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "4cc2a06c5bd80cc0",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Armii Ludowej",
+    "currentName": "ul. Polskiej Organizacji Wojskowej",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Armii Ludowej",
+      "Polskiej Organizacji Wojskowej",
+      "POW-u"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Armii Ludowej",
+        "currentName": "ul. Polskiej Organizacji Wojskowej",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ARMIILUDOWEJ_OLD → #POW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Polskiej Organizacji Wojskowej, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "ccaddbdfdcd315c4",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Azbestowa",
+    "currentName": "ul. Ekologiczna",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Azbestowa",
+      "Ekologiczna"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Azbestowa",
+        "currentName": "ul. Ekologiczna",
+        "date": "2001",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-e/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #AZBESTOWA_OLD → #EKOLOGICZNA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-e/",
+        "retrievedAt": "2026-11-14T06:35:39.817144+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "328dda76af323e1eef7688638efcb772b6649cff1993c901dcddc06b3292b1da",
+        "title": "lodz-slownik-e",
+        "id": "lodz-slownik-e"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Ekologiczna, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "a9735c96203cd7cf",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Berty",
+    "currentName": "ul. Ormiańska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Berty",
+      "Ormiańska"
+    ],
+    "transliterations": [
+      "ul. Ormianska",
+      "ul. Oszmianska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Berty",
+        "currentName": "ul. Oszmiańska",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #BERTY_OLD → #ORMIANSKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Oszmiańska",
+        "currentName": "ul. Ormiańska",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #BERTY_OLD → #ORMIANSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+        "retrievedAt": "2026-11-14T06:35:45.222566+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "f73c047cf131f9ce1466663376165d38bfb6af669eb55b0e99c5158c729c1ff6",
+        "title": "lodz-slownik-o",
+        "id": "lodz-slownik-o"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Ormiańska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "9f0908b78f3f4499",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Borysza",
+    "currentName": "ul. Piekarska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Borysza",
+      "Buresza",
+      "Piekarska"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Borysza",
+        "currentName": "ul. Piekarska",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #BORYSZA_OLD → #PIEKARSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Piekarska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "6186ba17df0b4820",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Cymmera",
+    "currentName": "ul. Drukarska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Cymmera",
+      "Zimmera",
+      "Drukarska"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Cymmera",
+        "currentName": "ul. Drukarska",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #CYMMERA_OLD → #DRUKARSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
+        "title": "lodz-slownik-d",
+        "id": "lodz-slownik-d"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Drukarska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "7209960f66a687e5",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Dziadowa",
+    "currentName": "ul. Jana Długosza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Dziadowa",
+      "Jana Długosza",
+      "ul. Długosza"
+    ],
+    "transliterations": [
+      "ul. Jana Dlugosza",
+      "ul. Zelazna"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Dziadowa",
+        "currentName": "ul. Żelazna",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #DZIADOWA_OLD → #DLUGOSZA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Żelazna",
+        "currentName": "ul. Jana Długosza",
+        "date": "1920",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #DZIADOWA_OLD → #DLUGOSZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
+        "title": "lodz-slownik-d",
+        "id": "lodz-slownik-d"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Jana Długosza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "ccd7f8b920e0a4e1",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Ewangelicka",
+    "currentName": "ul. Franklina Delano Roosevelta",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Ewangelicka",
+      "Franklina Delano Roosevelta"
+    ],
+    "transliterations": [
+      "ul. Bronislawa Pierackiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Ewangelicka",
+        "currentName": "ul. Bronisława Pierackiego",
+        "date": "1934",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #EWANGELICKA_OLD → #ROOSEVELTA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Bronisława Pierackiego",
+        "currentName": "ul. Franklina Delano Roosevelta",
+        "date": "1945",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #EWANGELICKA_OLD → #ROOSEVELTA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+        "title": "lodz-slownik-r",
+        "id": "lodz-slownik-r"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Franklina Delano Roosevelta, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "6512a2294886222b",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Jurija Gagarina",
+    "currentName": "ul. Ignacego Paderewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Jurija Gagarina",
+      "Ignacego Paderewskiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Jurija Gagarina",
+        "currentName": "ul. Ignacego Paderewskiego",
+        "date": "1992",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #GAGARINA_OLD → #PADEREWSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Ignacego Paderewskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "59922c792ea4a821",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Graffa",
+    "currentName": "ul. Henryka Sienkiewicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Graffa",
+      "Henryka Sienkiewicza"
+    ],
+    "transliterations": [
+      "ul. Mikolajewska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Graffa",
+        "currentName": "ul. Dzika",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #GRAFFA_OLD → #SIENKIEWICZA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Dzika",
+        "currentName": "ul. Mikołajewska",
+        "date": "1900",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #GRAFFA_OLD → #SIENKIEWICZA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Mikołajewska",
+        "currentName": "ul. Henryka Sienkiewicza",
+        "date": "1916",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #GRAFFA_OLD → #SIENKIEWICZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Henryka Sienkiewicza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "d02da63a9da62cfd",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Jasnogórska",
+    "currentName": "ul. Albańska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Jasnogórska",
+      "Albańska"
+    ],
+    "transliterations": [
+      "ul. Jasnogorska",
+      "ul. Albanska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Jasnogórska",
+        "currentName": "ul. Albańska",
+        "date": "1951",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #JASNOGORSKA_OLD → #ALBANSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+        "retrievedAt": "2026-11-14T06:35:36.399269+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "b60f03e0e2df663086a11b614a89de985f62aec370db89a568a6df8f2da02623",
+        "title": "lodz-slownik-a",
+        "id": "lodz-slownik-a"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Albańska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "260446b7579bf0d5",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Juliusza",
+    "currentName": "ul. Dowborczyków",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Juliusza",
+      "Dowborczyków"
+    ],
+    "transliterations": [
+      "ul. Dowborczykow"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Juliusza",
+        "currentName": "ul. Dowborczyków",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #JULIUSZA_OLD → #DOWBORCZYKOW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Dowborczyków",
+        "currentName": "ul. PKWN-u",
+        "date": "1949",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #JULIUSZA_OLD → #DOWBORCZYKOW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. PKWN-u",
+        "currentName": "ul. Dowborczyków",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #JULIUSZA_OLD → #DOWBORCZYKOW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+        "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
+        "title": "lodz-slownik-d",
+        "id": "lodz-slownik-d"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Dowborczyków, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "9cf6bc0147096616",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Kalbacha",
+    "currentName": "ul. Snycerska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Kalbacha",
+      "Kalenbacha",
+      "Kelenbacha",
+      "Kielbacha",
+      "Snycerska"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Kalbacha",
+        "currentName": "ul. Lotnicza",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KALBACHA_OLD → #SNYCERSKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Lotnicza",
+        "currentName": "ul. Snycerska",
+        "date": "1946",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KALBACHA_OLD → #SNYCERSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Snycerska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "bc4ead733b864c98",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Kałowska",
+    "currentName": "ul. Rodła",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Kałowska",
+      "Rodła"
+    ],
+    "transliterations": [
+      "ul. Kalowska",
+      "ul. Rodla"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Kałowska",
+        "currentName": "ul. Rodła",
+        "date": "1996",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KALOWSKA_OLD → #RODLA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+        "title": "lodz-slownik-r",
+        "id": "lodz-slownik-r"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Rodła, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "8c559722de7a4b97",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Karolewska Szosa",
+    "currentName": "ul. Wileńska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Karolewska Szosa",
+      "Wileńska"
+    ],
+    "transliterations": [
+      "ul. Wilenska",
+      "ul. Malgorzaty Fornalskiej"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Karolewska Szosa",
+        "currentName": "ul. Szlachecka",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KAROLEWSKASZOSA_OLD → #WILENSKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Szlachecka",
+        "currentName": "ul. Wileńska",
+        "date": "1929",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KAROLEWSKASZOSA_OLD → #WILENSKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Wileńska",
+        "currentName": "ul. Małgorzaty Fornalskiej",
+        "date": "1951",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KAROLEWSKASZOSA_OLD → #WILENSKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Małgorzaty Fornalskiej",
+        "currentName": "ul. Wileńska",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KAROLEWSKASZOSA_OLD → #WILENSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+        "retrievedAt": "2026-11-14T06:35:49.567078+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "7b31ebec4b7d7d094aeef942992e200c4c8db86cabee41034c66e127c8f76e94",
+        "title": "lodz-slownik-w",
+        "id": "lodz-slownik-w"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Wileńska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "ed1efb7ffbe7e8bd",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Klinka",
+    "currentName": "ul. Obornicka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Klinka",
+      "Obornicka"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Klinka",
+        "currentName": "ul. Obornicka",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KLINKA_OLD → #OBORNICKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+        "retrievedAt": "2026-11-14T06:35:45.222566+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "f73c047cf131f9ce1466663376165d38bfb6af669eb55b0e99c5158c729c1ff6",
+        "title": "lodz-slownik-o",
+        "id": "lodz-slownik-o"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Obornicka, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "1a4ddabc9388def2",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Konstantynowska",
+    "currentName": "ul. Legionów",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Konstantynowska",
+      "Legionów"
+    ],
+    "transliterations": [
+      "ul. Legionow",
+      "ul. Obroncow Stalingradu"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Konstantynowska",
+        "currentName": "ul. 11 Listopada",
+        "date": "1920",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KONSTANTYNOWSKA_OLD → #LEGIONOW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. 11 Listopada",
+        "currentName": "ul. Obrońców Stalingradu",
+        "date": "1946",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KONSTANTYNOWSKA_OLD → #LEGIONOW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Obrońców Stalingradu",
+        "currentName": "ul. Legionów",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KONSTANTYNOWSKA_OLD → #LEGIONOW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+        "title": "lodz-slownik-l",
+        "id": "lodz-slownik-l"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Legionów, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "65426bfed843ce21",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Franciszka Koziołkiewicza",
+    "currentName": "ul. Stanisława Sojczyńskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Franciszka Koziołkiewicza",
+      "Stanisława Sojczyńskiego",
+      "ul. Kpt. Stanisława Sojczyńskiego \"Warszyca\""
+    ],
+    "transliterations": [
+      "ul. Franciszka Koziolkiewicza",
+      "ul. Stanislawa Sojczynskiego",
+      "ul. Pawla Findera"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Franciszka Koziołkiewicza",
+        "currentName": "ul. Pawła Findera",
+        "date": "1955",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KOZIOLKIEWICZA_OLD → #SOJCZYNSKIEGO; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Pawła Findera",
+        "currentName": "ul. Stanisława Sojczyńskiego",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KOZIOLKIEWICZA_OLD → #SOJCZYNSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Stanisława Sojczyńskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "82af93bbe961422f",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Kőniga",
+    "currentName": "ul. Lokatorska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Kőniga",
+      "Keniga",
+      "Lokatorska"
+    ],
+    "transliterations": [
+      "ul. Koniga"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Kőniga",
+        "currentName": "ul. Lokatorska",
+        "date": "1929",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KONIGA_OLD → #LOKATORSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+        "title": "lodz-slownik-l",
+        "id": "lodz-slownik-l"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Lokatorska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "32f0ad9a37aee86b",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Krasińskiego",
+    "currentName": "ul. Proletariacka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Krasińskiego",
+      "Proletariacka"
+    ],
+    "transliterations": [
+      "ul. Krasinskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Krasińskiego",
+        "currentName": "ul. Hrabiowska",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KRASINSKIEGO_OLD → #PROLETARIACKA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Hrabiowska",
+        "currentName": "ul. Proletariacka",
+        "date": "1946",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #KRASINSKIEGO_OLD → #PROLETARIACKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Proletariacka, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "bc459ef99cb2b283",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. 11 Listopada",
+    "currentName": "ul. Legionów",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "11 Listopada",
+      "Legionów"
+    ],
+    "transliterations": [
+      "ul. Legionow",
+      "ul. Obroncow Stalingradu"
+    ],
+    "events": [
+      {
+        "formerName": "ul. 11 Listopada",
+        "currentName": "ul. Obrońców Stalingradu",
+        "date": "1946",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #11LISTOPADA_OLD → #LEGIONOW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Obrońców Stalingradu",
+        "currentName": "ul. Legionów",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #11LISTOPADA_OLD → #LEGIONOW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+        "title": "lodz-slownik-l",
+        "id": "lodz-slownik-l"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Legionów, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "b7990436f2eae742",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Magistracka",
+    "currentName": "ul. Aleksandra Kamińskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Magistracka",
+      "Aleksandra Kamińskiego"
+    ],
+    "transliterations": [
+      "ul. Aleksandra Kaminskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Magistracka",
+        "currentName": "ul. Mariana Buczka",
+        "date": "1951",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MAGISTRACKA_OLD → #KAMINSKIEGO; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Mariana Buczka",
+        "currentName": "ul. Aleksandra Kamińskiego",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MAGISTRACKA_OLD → #KAMINSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
+        "title": "lodz-slownik-k",
+        "id": "lodz-slownik-k"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Aleksandra Kamińskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "4a412fa1b21e7c89",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. 8 Marca",
+    "currentName": "ul. Wincentego Tymienieckiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "8 Marca",
+      "Wincentego Tymienieckiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. 8 Marca",
+        "currentName": "ul. Wincentego Tymienieckiego",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-t/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #8MARCA_OLD → #TYMIENIECKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-t/",
+        "retrievedAt": "2026-11-14T06:35:48.128246+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "3ac35912d5be06830701e8348e659ed542c989842f3a2cc25075f53267d09245",
+        "title": "lodz-slownik-t",
+        "id": "lodz-slownik-t"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Wincentego Tymienieckiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "43a945e7db372982",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Maurera",
+    "currentName": "ul. Św. Antoniego Padewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Maurera",
+      "Św. Antoniego Padewskiego"
+    ],
+    "transliterations": [
+      "ul. Sw. Antoniego Padewskiego",
+      "ul. Sw. Antoniego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Maurera",
+        "currentName": "ul. Św. Antoniego",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MAURERA_OLD → #SWANTONIEGOPADEWSKIEGO; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Św. Antoniego",
+        "currentName": "ul. Św. Antoniego Padewskiego",
+        "date": "1991",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MAURERA_OLD → #SWANTONIEGOPADEWSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+        "retrievedAt": "2026-11-14T06:35:36.399269+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "b60f03e0e2df663086a11b614a89de985f62aec370db89a568a6df8f2da02623",
+        "title": "lodz-slownik-a",
+        "id": "lodz-slownik-a"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Św. Antoniego Padewskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "df1e7f4ab89fe5b9",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Mikołajewska",
+    "currentName": "ul. Henryka Sienkiewicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Mikołajewska",
+      "Henryka Sienkiewicza"
+    ],
+    "transliterations": [
+      "ul. Mikolajewska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Mikołajewska",
+        "currentName": "ul. Henryka Sienkiewicza",
+        "date": "1916",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MIKOLAJEWSKA_OLD → #SIENKIEWICZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Henryka Sienkiewicza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "954365cea44f48de",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Ministra Sławka",
+    "currentName": "ul. Miętowa",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Ministra Sławka",
+      "Miętowa"
+    ],
+    "transliterations": [
+      "ul. Ministra Slawka",
+      "ul. Mietowa"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Ministra Sławka",
+        "currentName": "ul. Miętowa",
+        "date": "1945",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-m/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #MINISTRASLAWKA_OLD → #MIETOWA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-m/",
+        "retrievedAt": "2026-11-14T06:35:44.761753+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "c046bb3d30d5916876e0f4cad3b31d245aa5124b7f99820af006799234862ea3",
+        "title": "lodz-slownik-m",
+        "id": "lodz-slownik-m"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Miętowa, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "a003a7db35f8c3d1",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Aleksandra Napiórkowskiego",
+    "currentName": "ul. Stanisława Przybyszewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Aleksandra Napiórkowskiego",
+      "Stanisława Przybyszewskiego"
+    ],
+    "transliterations": [
+      "ul. Aleksandra Napiorkowskiego",
+      "ul. Stanislawa Przybyszewskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Aleksandra Napiórkowskiego",
+        "currentName": "ul. Stefana Przybyszewskiego",
+        "date": "1952",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #NAPIORKOWSKIEGO_OLD → #PRZYBYSZEWSKIEGO; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Stefana Przybyszewskiego",
+        "currentName": "ul. Stanisława Przybyszewskiego",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #NAPIORKOWSKIEGO_OLD → #PRZYBYSZEWSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Stanisława Przybyszewskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "c8625ccdeb367a1f",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Nowaka",
+    "currentName": "ul. Ciesielska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Nowaka",
+      "Ciesielska"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Nowaka",
+        "currentName": "ul. Ciesielska",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #NOWAKA_OLD → #CIESIELSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c/",
+        "retrievedAt": "2026-11-14T06:35:36.249139+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "97ff4a78f8a6fe2128600f70dba56dd168a49ce4c79c27865b0ebf21af725d9a",
+        "title": "lodz-slownik-c",
+        "id": "lodz-slownik-c"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Ciesielska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "eee654b84ad95270",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Marcelego Nowotki",
+    "currentName": "ul. Pomorska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Marcelego Nowotki",
+      "Pomorska"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Marcelego Nowotki",
+        "currentName": "ul. Pomorska",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #NOWOTKI_OLD → #POMORSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Pomorska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "2ee25a586068857c",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Obrońców Stalingradu",
+    "currentName": "ul. Legionów",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Obrońców Stalingradu",
+      "Legionów"
+    ],
+    "transliterations": [
+      "ul. Obroncow Stalingradu",
+      "ul. Legionow"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Obrońców Stalingradu",
+        "currentName": "ul. Legionów",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #OBRONCOWSTALINGRADU_OLD → #LEGIONOW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+        "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+        "title": "lodz-slownik-l",
+        "id": "lodz-slownik-l"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Legionów, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "256a8db1aba35370",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Św. Olgi",
+    "currentName": "ul. Grzegorza Piramowicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Św. Olgi",
+      "Grzegorza Piramowicza"
+    ],
+    "transliterations": [
+      "ul. Sw. Olgi"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Św. Olgi",
+        "currentName": "ul. Grzegorza Piramowicza",
+        "date": "1919",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SWOLGI_OLD → #PIRAMOWICZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Grzegorza Piramowicza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "878cb9ee94f9cf9d",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Olgiński Pasaż",
+    "currentName": "ul. Grzegorza Piramowicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Olgiński Pasaż",
+      "Grzegorza Piramowicza"
+    ],
+    "transliterations": [
+      "ul. Olginski Pasaz"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Olgiński Pasaż",
+        "currentName": "ul. Grzegorza Piramowicza",
+        "date": "1919",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #PASAZOLGINSKI_OLD → #PIRAMOWICZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Grzegorza Piramowicza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "7cea929a65493b28",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Pańska",
+    "currentName": "ul. Stefana Żeromskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Pańska",
+      "Stefana Żeromskiego"
+    ],
+    "transliterations": [
+      "ul. Panska",
+      "ul. Stefana Zeromskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Pańska",
+        "currentName": "ul. Stefana Żeromskiego",
+        "date": "1925",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z-3/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #PANSKA_OLD → #ZEROMSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z-3/",
+        "retrievedAt": "2026-11-14T06:35:50.938949+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "7b7707304ebe25c21d975ace0d687f4e07cb632bbbb3302046790c23f3b9aff5",
+        "title": "lodz-slownik-z-3",
+        "id": "lodz-slownik-z-3"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Stefana Żeromskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "458f3c61ced3398e",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Podróżnicza",
+    "currentName": "ul. Władysława Króla",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Podróżnicza",
+      "Władysława Króla"
+    ],
+    "transliterations": [
+      "ul. Podroznicza",
+      "ul. Wladyslawa Krola"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Podróżnicza",
+        "currentName": "ul. Leona Koczaskiego",
+        "date": "1951",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #PODROZNICZA_OLD → #KROLA; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Leona Koczaskiego",
+        "currentName": "ul. Władysława Króla",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #PODROZNICZA_OLD → #KROLA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
+        "title": "lodz-slownik-k",
+        "id": "lodz-slownik-k"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Władysława Króla, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "4af0aaf7270fe626",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Rajtera",
+    "currentName": "ul. Urzędnicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Rajtera",
+      "Urzędnicza"
+    ],
+    "transliterations": [
+      "ul. Urzednicza"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Rajtera",
+        "currentName": "ul. Urzędnicza",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-u/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #RAJTERA_OLD → #URZEDNICZA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-u/",
+        "retrievedAt": "2026-11-14T06:35:49.188199+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "0b6c9b0d7b718a428bb6fb59edc15e2e56c6667954c632da36d3089e8ab96c67",
+        "title": "lodz-slownik-u",
+        "id": "lodz-slownik-u"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Urzędnicza, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "88783247f4b9687b",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Skwerowa",
+    "currentName": "ul. Polskiej Organizacji Wojskowej",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Skwerowa",
+      "Polskiej Organizacji Wojskowej",
+      "POW-u"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Skwerowa",
+        "currentName": "ul. Polskiej Organizacji Wojskowej",
+        "date": "1934",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SKWEROWA_OLD → #POW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Polskiej Organizacji Wojskowej",
+        "currentName": "ul. Armii Ludowej",
+        "date": "1945",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SKWEROWA_OLD → #POW; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Armii Ludowej",
+        "currentName": "ul. Polskiej Organizacji Wojskowej",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SKWEROWA_OLD → #POW; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Polskiej Organizacji Wojskowej, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "01a591a59c8ffba6",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Strzelców Kaniowskich",
+    "currentName": "ul. 28. Pułku Strzelców Kaniowskich",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Strzelców Kaniowskich",
+      "28. Pułku Strzelców Kaniowskich"
+    ],
+    "transliterations": [
+      "ul. Strzelcow Kaniowskich",
+      "ul. 28. Pulku Strzelcow Kaniowskich",
+      "ul. Czeslawa Hutora"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Strzelców Kaniowskich",
+        "currentName": "ul. Czesława Hutora",
+        "date": "1952",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #STRZELCOWKANIOWSKICH_OLD → #28PULKUSK; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Czesława Hutora",
+        "currentName": "ul. 28. Pułku Strzelców Kaniowskich",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #STRZELCOWKANIOWSKICH_OLD → #28PULKUSK; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+        "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+        "title": "lodz-slownik-p",
+        "id": "lodz-slownik-p"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. 28. Pułku Strzelców Kaniowskich, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "2e6953f2b3113721",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Józefa Strzelczyka",
+    "currentName": "ul. Senatorska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Józefa Strzelczyka",
+      "Senatorska"
+    ],
+    "transliterations": [
+      "ul. Jozefa Strzelczyka"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Józefa Strzelczyka",
+        "currentName": "ul. Senatorska",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #STRZELCZYKA_OLD → #SENATORSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Senatorska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "551a771148b0824b",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Szefera",
+    "currentName": "ul. Szymona Szymonowica",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Szefera",
+      "Szejera",
+      "Szymona Szymonowica"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Szefera",
+        "currentName": "ul. Szymona Szymonowica",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SZEFERA_OLD → #SZYMONOWICA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Szymona Szymonowica, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "124d413c076db37b",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Szmita",
+    "currentName": "ul. Bukowa",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Szmita",
+      "Szmydta",
+      "Szmidta",
+      "Bukowa"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Szmita",
+        "currentName": "ul. Bukowa",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SZMITA_OLD → #BUKOWA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+        "retrievedAt": "2026-11-14T06:35:36.461338+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "3b3cfb0ace61cbf1109e8b99af95d9a38d2f9c6484e563a3a110f10704fc67bb",
+        "title": "lodz-slownik-b",
+        "id": "lodz-slownik-b"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Bukowa, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "6243a363cd265bb4",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Sznera",
+    "currentName": "ul. Sędziowska",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Sznera",
+      "Szneja",
+      "Sędziowska"
+    ],
+    "transliterations": [
+      "ul. Sedziowska"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Sznera",
+        "currentName": "ul. Sędziowska",
+        "date": "1932",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #SZNERA_OLD → #SEDZIOWSKA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+        "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+        "title": "lodz-slownik-s",
+        "id": "lodz-slownik-s"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Sędziowska, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "87b3249e8efd1d89",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Wandy Wasilewskiej",
+    "currentName": "ul. Stefana Grota-roweckiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Wandy Wasilewskiej",
+      "Stefana Grota-roweckiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Wandy Wasilewskiej",
+        "currentName": "ul. Stefana Grota-roweckiego",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-g/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #WASILEWSKIEJ_OLD → #GROTAROWECKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-g/",
+        "retrievedAt": "2026-11-14T06:35:40.941007+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "c2945eb21003072e5e2ad3cf9c516742571ab77239bccde70c68825fd0de9284",
+        "title": "lodz-slownik-g",
+        "id": "lodz-slownik-g"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Stefana Grota-roweckiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "5934d090db58aaa1",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Zagajnikowa",
+    "currentName": "ul. Stefana Kopcińskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Zagajnikowa",
+      "Podzagajnikowa",
+      "Podzagajna",
+      "Stefana Kopcińskiego"
+    ],
+    "transliterations": [
+      "ul. Stefana Kopcinskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Zagajnikowa",
+        "currentName": "ul. Stefana Kopcińskiego",
+        "date": "1936",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ZAGAJNIKOWA_OLD → #KOPCINSKIEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+        "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
+        "title": "lodz-slownik-k",
+        "id": "lodz-slownik-k"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Stefana Kopcińskiego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "9b7c8cc89c6fe98e",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Zawiska",
+    "currentName": "ul. Zawiszy Czarnego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Zawiska",
+      "Zawiszy Czarnego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Zawiska",
+        "currentName": "ul. Zawiszy",
+        "date": "1920",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ZAWISKA_OLD → #ZAWISZYCZARNEGO; chronology in current-name entry"
+      },
+      {
+        "formerName": "ul. Zawiszy",
+        "currentName": "ul. Zawiszy Czarnego",
+        "date": "1946",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ZAWISKA_OLD → #ZAWISZYCZARNEGO; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z/",
+        "retrievedAt": "2026-11-14T06:35:50.457077+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "20dd9faeabdad50de354dffd2c77da374664b459cc2f655b93d914f499cabdcc",
+        "title": "lodz-slownik-z",
+        "id": "lodz-slownik-z"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "ul. Zawiszy Czarnego, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "d0a4e52dbd67f193",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "Aleja",
+    "formerName": "Aleja ZMP",
+    "currentName": "Pasaż (aleja) Artura Rubinsteina",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Aleja Zmp",
+      "Pasaż (aleja) Artura Rubinsteina",
+      "Aleja Artura Rubinsteina"
+    ],
+    "transliterations": [
+      "Pasaz (aleja) Artura Rubinsteina"
+    ],
+    "events": [
+      {
+        "formerName": "Aleja ZMP",
+        "currentName": "Pasaż (aleja) Artura Rubinsteina",
+        "date": "1990",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ALEJAZMP_OLD → #PASAZRUBINSTEINA; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+        "title": "lodz-slownik-r",
+        "id": "lodz-slownik-r"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "Pasaż (aleja) Artura Rubinsteina, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
+  },
+  {
+    "id": "755c73bc3dcd8615",
+    "country": "PL",
+    "city": "Łódź",
+    "district": null,
+    "streetType": "Aleja",
+    "formerName": "Aleja ZMS",
+    "currentName": "Aleja im. Anny Rynkowskiej",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Aleja Zms",
+      "Aleja im. Anny Rynkowskiej",
+      "Aleja Anny Rynkowskiej"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Aleja ZMS",
+        "currentName": "Aleja im. Anny Rynkowskiej",
+        "date": "1994",
+        "datePrecision": "year",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "documentNumber": null,
+        "locator": "Dictionary anchors #ALEJAZMS_OLD → #ALEJARYNKOWSKIEJ; chronology in current-name entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+        "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+        "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+        "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+        "title": "lodz-slownik-r",
+        "id": "lodz-slownik-r"
+      },
+      {
+        "url": "https://log.lodz.pl/mapy-i-uslugi-online/ulice/",
+        "retrievedAt": "2026-11-14T17:56:49.907405+00:00",
+        "reuseTerms": "Factual current street names only; captured for audit.",
+        "sha256": "5e6c19de83cd6a4e392a1e5417f661bfca7daf54366e865f52821d279dedff54",
+        "title": "lodz-current-register",
+        "id": "lodz-current-register"
+      }
+    ],
+    "mapQuery": "Aleja im. Anny Rynkowskiej, Łódź",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "locationAliases": [
+      "Lodz"
+    ]
   }
 ]

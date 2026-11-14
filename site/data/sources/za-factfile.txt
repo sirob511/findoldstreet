@@ -1,0 +1,451 @@
+--- PAGE 1 ---
+                                                             OFFICIAL
+
+TOPONYMIC FACTFILE
+                                                  South Africa
+
+ Country name                                         South Africa
+
+ State title                                          Republic of South Africa
+
+ Name of citizen                                      South African
+                                                      Northern Sotho (nso)1; Sesotho (sot); Setswana (tsn);
+ Official languages                                   Swati (ssw); Tshivenda (ven); Xitsonga (tso);
+                                                      Afrikaans (afr); English (eng); Ndebele (nbl); Xhosa
+                                                      (xho); Zulu (zul); South African Sign Language (sfs) 2
+                                                      Afrika-Borwa (nso)
+                                                      Afrika Borwa (sot)
+                                                      Aforika Borwa (tsn)
+                                                      Ningizimu Afrika (ssw)
+                                                      Afurika Tshipembe (ven)
+ Country name in official languages                   Afrika Dzonga (tso)
+                                                      Suid-Afrika (afr)
+                                                      South Africa (eng)
+                                                      Sewula Afrika (nbl)
+                                                      Mzantsi Afrika (xho)
+                                                      Ningizimu Afrika (zul)
+ Script                                               Roman scrip     t
+
+ ISO-3166 code (alpha-2/alpha-3)                      ZA/ZAF
+                                                      Pretoria (administrative)
+ Capitals                                             Bloemfontein (judicial)
+                                                      Cape Town (legislative)3
+ Area / Population                                    1.22 million km2 / 61 million (2023 est.)4
+
+
+Introduction
+
+Lying  at  the  southern    most point      of  Africa,  the  territory  of  South     Africa   extends  to    include   the  Prince
+Edward  Islands,  two  uninhabited  islands           located  approximately 1770km  to  the  south  in  the  southern
+Indian Ocean. Completely surrounded by South Africa is the                    landlocked country of Lesotho. South Africa
+also shares land boundaries with           Botswana, Eswatini5, Mozambique, Namibia and Zimbabwe.
+
+South Africa has three capitals: Cape Town, in Western Cape province is the legislative                           and commercial
+capital where the country's Parliament is found; Bloemfontein, in Free State province is the judicial capital;
+
+1 Sometimes called Pedi or Sepedi.
+2 ISO 639 codes are given for languages mentioned in this Factfile.
+3 The South African constitution states: The seat of Parliament is Cape Town, but an Act of Parliament enacted in
+accordance with section 76(1) and (5) may determine that the seat of Parliament is elsewhere.
+4 www.statssa.gov.za
+
+5 Formerly Swaziland.
+
+
+© Crown Copyright 2026                                                                                                               1
+                                                            OFFICIAL
+--- PAGE 2 ---
+                                                           OFFICIAL
+
+TOPONYMIC FACTFILE
+Pretoria6 in Gauteng province is the administrative capital. Pretoria, Bloemfontein and Cape Town should
+all  be  shown  as  capitals,    an  explanatory  note  can  be  added  to  mapping  products.              It  is  notable  that
+Johannesburg, rather than any of the capitals, is the largest city.
+
+
+Geographical names policy
+
+Place names may derive from any of the local languages; these will be represented using Roman-script
+characters as well as special characters (see Languages below), which should be retained. For HMG use,
+geographical names should be taken from official South African sources, such as maps produced by South
+Africa's national mapping agency, the National Geo-spatial Information  or the South African Geographical
+Names Council (SAGNC) website and publications.
+
+The Africa Geoportal may be used as a helpful source of geospatial data and names7; the US Board on
+Geographic Names (BGN) Geographic Names Server can also be used as a source for names, although it
+should be noted that not all recent name changes may have been reflected.
+
+
+Place name changes
+
+Many city, town and street names in South Africa have been changed as part of post-apartheid efforts to
+promote inclusivity and better reflect the national languages’ place names. While some changes involve
+restoring the majority languages’ place names, others introduce entirely new names. It is notable that
+some  name  changes  are  more  quickly  adopted  than  others.                The   South  African  Geographical  Names
+Council (SAGNC) is the body responsible for the standardization and regulation of geographical names in
+South Africa. It was established under the South African Geographical Names Act of 1998 and works to
+ensure consistency and inclusivity in naming of places across the country. The SAGNC regularly publishes
+Government Notices regarding official geographical names on the South African Government website.
+
+On the next page are some examples of the place name changes. The previous names can be retained, if
+necessary (in brackets); however, once names are well established, PCGN usually recommends adopting
+the  new  names  alone,  with  some  exceptions such  as  Gqeberha  (Port  Elizabeth),  where  PCGN  would
+recommend continued reference to the former name.
+
+There  are  some  examples  of  name  changes  having  been  subsequently  reconsidered  or  reversed,                        for
+example, the renaming of Louis Trichardt, in Limpopo province, to Makhado (reflecting the name of the
+municipality). The change was reversed by the Supreme Court of Appeal in 2007                     , however,    in 2011, it was
+announced once more         that the name had been changed to Makhado                . This decision was appealed, and in
+2014 the name reverted to Louis Trichardt.            For clarity, PCGN recommends putting Makhado in brackets:
+Louis Trichardt (Makhado).
+
+Another  example  is  the  city  of  Durban,  within         the  eThekwini     Metropolitan Municipality  (which  also
+includes other towns and suburbs), established in 2000. Despite efforts to rename the city to eThekwini,
+
+6 There was a proposal to change the name        Pretoria to Tshwane, which is the name of the metropolitan
+municipality, however    , there has been resistance, and the change has not occurred to the city itself.
+7 This is a source collated from multiple sources, including Esri, organisations working in Africa and crowdsourced
+information.  It should be used as a supplementary reference.
+
+© Crown Copyright 2026                                                                                                          2
+                                                         OFFICIAL
+--- PAGE 3 ---
+                                                         OFFICIAL
+
+TOPONYMIC FACTFILE
+resistance persists, and the name of the city remains unchanged. Therefore, for the time being PCGN
+recommends simply using the name Durban.
+For further specific information, please contact PCGN.
+
+
+Example place name changes in South Africa
+     New name                 Former name               Feature type             Province            Year of change
+ Bela-Bela                Warmbaths                  Town                    Limpopo                       2002
+ Bishop Limba             Adendorp                   Village                 Eastern Cape                  2026
+ Bo-Kaap                  Schotchekloof              Suburb                  Western Cape                  2016
+ Chief Dawid              Port Elizabeth
+ Stuurman                 International              Airport                 Eastern Cape                  2021
+ International            Airport
+ Airport
+ Gqeberha                 Port Elizabeth             City and seaport        Eastern Cape                  2021
+ Kariega                  Uitenhage                  Town                    Eastern Cape                  2021
+ KuGompo City             East London                City                    Eastern Cape                  2026
+ Musina                   Messina                    Town                    Limpopo                       2003
+ Ngqayi                   Katkop                     Town                    Eastern Cape                  2021
+ Nqanqarhu                Maclear                    Town                    Eastern Cape                  2021
+ Polokwane                Pietersburg                City                    Limpopo                       2005
+ Qonce                    King William’s             Town                    Eastern Cape                  2021
+                          Town
+ Robert Sobukwe           Graaff-Reinet              Town                    Eastern Cape                  2026
+ Thema                    Kudube                     Town                    Gauteng                       2021
+ Uhelo                    Driehoek                   Town                    Mpumalanga                    2021
+ Winnie Mandela           Brandfort                  Town                    Free State                    2021
+ Xamdeboo                 Aberdeen                   Town                    Eastern Cape                  2026
+
+
+Languages
+
+South Africa is multilingual, with eleven official spoken languages: Northern Sotho (nso)8; Sesotho (sot)9;
+Setswana (tsn)10; Swati (ssw)11; Tshivenda (ven)12; Xitsonga (tso)13; Afrikaans (afr); English (eng); Ndebele
+(nbl)14; Xhosa (xho); Zulu (zul); plus, South African Sign Language (           sfs).  Most South Africans can speak at
+
+
+8 Northern Sotho, also known as     Sesotho sa Leboa, commonly referred to as Pedi or Sepedi.
+9 Southern Sotho, also known as Sotho.
+
+10 Also called Tswana, previously spelled Sechuana.
+11 Also called Swazi.
+12 Also called Venda.
+13 Also called Tsonga.
+14 Also called Southern Ndebele.
+
+
+© Crown Copyright 2026                                                                                                       3
+                                                        OFFICIAL
+--- PAGE 4 ---
+                                                            OFFICIAL
+
+TOPONYMIC FACTFILE
+least two or more of the official languages. Of these,             Afrikaans, Zulu, Xhosa and English are the four most
+widely    spoken     languages.       English   is  commonly   used   in   education,   government               documents       and
+communication at a national level          .15
+
+In addition to the      twelve official languages, the South African constitution makes provision for further
+non-official “national” languages which the              Pan South African Language Board             promotes, including the
+Khoi, Nama and San (khi) languages.
+
+All South Africa’s languages are written in the Roman script. However, it should be noted that some of
+South Africa’s languages include click consonants: most have between 3 and 5 separate click consonants,
+and  these  are  represented  in  differing  ways  in  the  written  form.    For  instance,  in  the  Xhosa  name
+Gqeberha, /q/ is a click; in Xhosa, typically clicks are represented with the Roman letters /c/, /q/ and /x/.16
+Others,  including  the      Khoi,  Nama  and  San        languages,  use  symbols  from  the  International  Phonetic
+Alphabet: Bilabial click /ʘ/ [Unicode encoding 0298]; dental click /ǀ/ [Unicode encoding 01C0]; Retroflex
+click /ǃ/ [Unicode encoding 01C3]; Alveolar click /ǂ/ [Unicode encoding 01C2]; Lateral click /ǁ/ [Unicode
+encoding  01C1],  so  these  should  be  reflected  in  place  names  as  appropriate.                  For  example,     the   Khoi
+language name for Cape Town is ǁHui ǃGaeb (although PCGN would not recommend using this name on
+HMG products).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 Incremental Introduction of African Languages         – ISASA
+16 “Click” sounds can be difficult for those who are not native speakers to master. There are many online examples
+of how to say the new names, including this helpful         video on YouTube.
+
+© Crown Copyright 2026                                                                                                              4
+                                                           OFFICIAL
+--- PAGE 5 ---
+                                                                                                  OFFICIAL
+
+TOPONYMIC FACTFILE
+                                                                                          Map of South Africa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          Map produced by PCGN for illustrative purposes only, and is not to be taken necessarily as representing the views of the
+
+                                                                               UK government on boundaries or political status.
+
+
+© Crown Copyright 2026                                                                                                                                                                                          5
+                                                                                                OFFICIAL
+--- PAGE 6 ---
+                                                           OFFICIAL
+
+TOPONYMIC FACTFILE
+
+
+Administrative structure
+South Africa is divided into nine provinces at the first-order level of administration.                 The provinces are
+divided into 52 districts, which are either metropolitan or district municipalities.
+
+                                 ISO          Available official language              Administrative            Location of
+  Province (English)          3166-2                 province names                         centre                  centre
+                                code
+                                            Kapa Bohlabela (nso)
+                                            Kapa Botjhabela (sot)
+                                            Kapa Botlhaba (tsn)
+                                            Kapa Vhubvaḓuvha (ven)                                               32°50’58”S
+ Eastern Cape                  ZA-EC        Kapa-Vuxa (tso)                                 Bhisho               27°26’17”E
+                                            Oos-Kaap (afr)
+                                            iPumalanga-Kapa (nbl)
+                                            Mpuma-Koloni (xho)
+                                            Mpumalanga-Kapa (zul)
+                                            Freistata (nso)
+                                            Freistata (sot)
+                                            Foreisetata (tsn)
+                                            Fureisitata (ven)                                                    29°07’00”S
+ Free State                    ZA-FS        Free State (tso)                           Bloemfontein              26°13’00”E
+                                            Vrystaat (afr)
+                                            iFreyistata (nbl)
+                                            Freyistata (xho)
+                                            Fuleyisitata (zul)
+                                            Gauteng (nso; ssw; tsn; ven;
+                                            tso; afr; zul)                                                       26°12’16”S
+ Gauteng                       ZA-GP        Kgauteng (sot)                             Johannesburg              28°02’44”E
+                                            iGauteng (nbl)
+                                            Rhawuti (xho)
+                                            GaZulu-Natala (nso)
+                                            Hazolo-Natala (sot)
+                                            KwaZulu-Natal (tsn; tso; afr)                                        29°37’00”S
+ KwaZulu-Natal                ZA-KZN        HaZulu-Natal (ven)                      Pietermaritzburg17           30°23’00”E
+                                            iKwaZulu-Natal (nbl)
+                                            KwaZulu-Natali (ssw; zul)
+                                            KwaZulu-Natala (xho)
+                                            Limpopo (afr; nbl; nso; sot;                                         23°54’00”S
+ Limpopo18                     ZA-LP        ssw; tso; tsn; xho; zul)                    Polokwane19              29°27’00”E
+                                            Vhembe (ven)
+
+
+
+17 Often shortened to Maritzburg or PMB.
+18 Formerly Northern Province until 2002.
+19 Name changed in 1995, formerly Pietersburg.
+
+
+© Crown Copyright 2026                                                                                                           6
+                                                          OFFICIAL
+--- PAGE 7 ---
+                                                         OFFICIAL
+
+TOPONYMIC FACTFILE
+                               ISO          Available official language            Administrative            Location of
+  Province (English)         3166-2                province names                        centre                centre
+                               code
+                                          Mpumalanga (afr; nso; sot;                                         25°27’57”S
+ Mpumalanga                  ZA-MP        ssw; tso; tsn; ven; xho; zul)              Mbombela20              30°59’07”E
+                                          iMpumalanga (nbl)
+                                          Kapa Leboya (nso; sot)
+                                          Kapa Bokone (tsn)
+                                          Kapa Devhula (ven)
+ Northern Cape                ZA-NC       Kapa-N’walungu (tso)                        Kimberley              28°44’18”S
+                                          Noord-Kaap (afr)                                                   24°45’50”E
+                                          iTlhagwini-Kapa (nbl)
+                                          Mntla-Koloni (xho)
+                                          Nyakatho-Kapa (zul)
+                                          Lebowa Bodikela (nso)
+                                          Leboya (le) Bophirima (sot)
+                                          Devhula-Vhukovhela (ven)
+                                          Bokone Bophirima (tsn)
+ North West                  ZA-NW        N’walungu-Vupeladyambu                      Mahikeng21             25°51’56”S
+                                          (tso)                                                              25°38’37”E
+                                          Noordwes (afr)
+                                          iTlhagwini-Tjhingalanga (nbl)
+                                          Mntla-Ntshona (xho)
+                                          Nyakatho-Ntshonalanga (zul)
+                                          Kapa Bodikela (nso)
+                                          Kapa Bophirimela (sot)
+                                          Kapa Bophirima (tsn)
+                                          Kapa Vhukovhela (ven)                                              33°55’31”S
+ Western Cape                ZA-WC        Kapa-Vupeladyambu (tso)                     Cape Town              18°25’26”E
+                                          Wes-Kaap (afr)
+                                          iTjhingalanga-Kapa (nbl)
+                                          Ntshona-Koloni (xho)
+                                          Ntshonalanga-Kapa (zul)
+
+
+Disputed areas
+
+The Orange river forms the international boundary between Namibia and South Africa. South Africa claims
+the river to the high-water level of the northern bank, but since independence from South Africa, Namibia
+has sought to change the delineation to the middle of the river. This remains disputed.
+
+
+
+
+
+
+20 Name changed in 2009, formerly Nelspruit.
+21 Previously spelt Mafikeng.
+
+
+© Crown Copyright 2026                                                                                                      7
+                                                        OFFICIAL
+--- PAGE 8 ---
+                                                          OFFICIAL
+
+TOPONYMIC FACTFILE
+
+Other Significant Locations
+
+         PCGN
+   Recommended               Variant Names/Spellings                   Location                     Feature Type
+        Name22
+Table Mountain              Huri‡oaxa (naq),                       33°57′S 18°24′E                    Mountain
+                            Tafelberg (afr)
+Cape of Good Hope           Kaap die Goeie Hoop (afr)             34°21′N 18°29′E                        Cape
+                            Gariep, Oranjerivier (afr),                                         River (South Africa,
+Orange                      Senqu (Lesotho),                      28°38’N 16°27’E                Lesotho, Namibia)
+                            Kai !Garib (naq)
+                                                                                                River (South Africa,
+Limpopo                     -                                      25°12′S 33°30′E           Botswana, Mozambique,
+                                                                                                     Zimbabwe)
+Kalahari Desert             -                                       23°00’S 22°E                 Desert (Botswana,
+                                                                                              Namibia, South Africa)
+
+
+Useful references
+
+     •    Africa Geoportal:    https://www.africageoportal.com/
+     •    BBC Country Profile      (no longer updated)     : South Africa country profile     - BBC News
+     •    Ethnologue: www.ethnologue.com (for information on languages)
+     •    FCDO Geographical Names Index (GNI):
+          https://www.gov.uk/government/publications/geographical-names-and-information
+     •    FCDO Travel Advice: South Africa travel advice - GOV.UK (www.gov.uk)
+     •    ISO Online Browsing Platform (OBP): ZA - South Africa (iso.org)
+     •    Omniglot: www.omniglot.com (for information on languages and scripts)
+     •    PCGN Country Names list: https://www.gov.uk/government/publications/country-names
+     •    South Africa Geographic Names Site: https://www.sagns.gov.za
+     •    South Africa national statistics institute: Statistics South Africa (SSA).
+     •    Unicode: www.unicode.org
+     •    US Board on Geographic Names GEOnet Names Server: GNS Search & Download WebApp
+          (nga.mil)
+
+                                                                                                         Compiled by PCGN
+                                                                                                         www.gov.uk/pcgn
+                                                                                                   updated February 2026
+
+
+
+
+
+22 PCGN usually recommends conventional English names for international features, unless national variants are
+specifically required, or the relevant countries share an official language.
+
+© Crown Copyright 2026                                                                                                        8
+                                                         OFFICIAL

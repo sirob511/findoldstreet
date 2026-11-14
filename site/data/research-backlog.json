@@ -1,9 +1,61 @@
 [
-  {"city":"Kharkiv","url":"https://city.kharkiv.ua/documents/rozporiadzennia-miskogo-golovi/pro-pereimenuvannia-objektiv-toponimiyi-mista-xarkova","status":"blocked-source","nextStep":"Retrieve and review order 120 of 26 April 2024 and its appendix; attachment returned HTTP 403. Do not substitute consultation proposals."},
-  {"city":"Łódź","url":"https://log.lodz.pl/slownik-nazewnictwa-miejskiego/","status":"partially-imported","nextStep":"Review remaining historical entries, intermediate renames and merged streets against current register. Only 105 direct mappings approved; double-star entries describe objects that ceased to exist."},
-  {"city":"Cape Town","status":"review","nextStep":"Reconcile Lansdowne Road segment boundaries across the municipal language guide and provincial evidence before publishing the three held candidates."},
-  {"city":"Pretoria","status":"review","nextStep":"Reconcile Queen Wilhemina and Elias Motswaledi spellings in the tourism map with a municipal street register."},
-  {"city":"Kolkata","status":"review","nextStep":"Find exact Moore Avenue segment endpoints in the municipal naming resolution before publishing."},
-  {"city":"Shymkent","url":"https://adilet.zan.kz/rus/docs/V14U0002942","status":"blocked-source","nextStep":"Retrieve authoritative full decision text; automated request returned an anti-bot page rather than the decision."},
-  {"city":"New York","url":"https://www.archives.nyc/blog/2024/11/8/a-wikipedia-for-street-names","status":"excluded-honorary-names","nextStep":"Honorary co-names do not establish replacement addresses. Add only with a distinct co-name data model."}
+  {
+    "city": "Kharkiv",
+    "url": "https://city.kharkiv.ua/documents/rozporiadzennia-miskogo-golovi/pro-pereimenuvannia-objektiv-toponimiyi-mista-xarkova",
+    "status": "blocked-source",
+    "nextStep": "Retrieve and review order 120 of 26 April 2024 and its appendix; attachment returned HTTP 403. Do not substitute consultation proposals."
+  },
+  {
+    "city": "Łódź",
+    "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/",
+    "status": "partially-imported",
+    "nextStep": "151 mappings published. All 94 remaining dictionary candidates reviewed in lodz-expansion-review.json; 46 added, ambiguous merged/ceased objects held. Current-register names checked for the additions."
+  },
+  {
+    "city": "Cape Town",
+    "status": "review",
+    "nextStep": "Reconcile Lansdowne Road segment boundaries across the municipal language guide and provincial evidence before publishing the three held candidates."
+  },
+  {
+    "city": "Pretoria",
+    "status": "review",
+    "nextStep": "Reconcile Queen Wilhemina and Elias Motswaledi spellings in the tourism map with a municipal street register."
+  },
+  {
+    "city": "Kolkata",
+    "status": "review",
+    "nextStep": "Find exact Moore Avenue segment endpoints in the municipal naming resolution before publishing."
+  },
+  {
+    "city": "Shymkent",
+    "url": "https://adilet.zan.kz/rus/docs/V14U0002942",
+    "status": "partially-imported",
+    "nextStep": "Recovered official full text via old.adilet.zan.kz: 171 named-street mappings published; one source typo held. Unnamed-road naming clause excluded. Reconcile later decisions and current register."
+  },
+  {
+    "city": "New York",
+    "url": "https://www.archives.nyc/blog/2024/11/8/a-wikipedia-for-street-names",
+    "status": "excluded-honorary-names",
+    "nextStep": "Honorary co-names do not establish replacement addresses. Add only with a distinct co-name data model."
+  },
+  {
+    "city": "Lviv region",
+    "status": "partially-imported",
+    "nextStep": "Appendix 2 recovered: 118 published, 10 Lviv/Briukhovychi mappings held pending later municipal decisions."
+  },
+  {
+    "city": "Odesa",
+    "status": "blocked-source",
+    "nextStep": "Amended 2024 order PDF remains inaccessible; do not replace it with unverified reports."
+  },
+  {
+    "city": "Mumbai",
+    "status": "blocked-source",
+    "nextStep": "Official history timed out and municipal PDF certificate expired; obtain captured authoritative evidence for Bombay before import."
+  },
+  {
+    "city": "Nauru",
+    "status": "conflicting-source",
+    "nextStep": "UK country timeline uses Naoero while UN M49 uses Nauru. Resolve naming authority/scope before adding a current-name mapping."
+  }
 ]

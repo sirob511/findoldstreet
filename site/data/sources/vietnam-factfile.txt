@@ -1,0 +1,473 @@
+--- PAGE 1 ---
+                                                       OFFICIAL
+
+TOPONYMIC FACTFILE
+                                                    Vietnam
+
+Country name                                        Vietnam
+State title                                         Socialist Republic of Viet Nam1
+
+Name of citizen                                     Vietnamese
+National official language                          Vietnamese
+Country name in official language                   Việt Nam (vie)2
+
+State title in official language                    Cộng hòa Xã hội chủ nghĩa Việt Nam
+
+Writing system                                      Roman script
+Romanization System                                 Not needed
+
+ISO-3166 code (alpha-2/alpha-3)                     VN/VNM
+
+Capital city                                        Hà Nội (Hanoi)
+Population/Area                                     101.1million 3 / 331, 690km2
+
+
+
+Introduction
+
+The Socialist Republic of Viet       Nam was formed on reunification of            the country    at the conclusion of the
+Vietnam     War,  also  known  as  the       Second  Indochina  War,        in  1976.    It  lies  in  southeast  Asia  ,  with
+coastline on the Gulf of Thailand, Gulf of Tonkin, and South China Sea,                     and shares land boundaries
+with China, Laos and Cambodia          .
+
+
+Geographical names policy           and recommended sources
+
+PCGN recommends using Vietnamese official sources for geographical names, retaining any diacritical
+marks employed.  Tone marks, which will also appear on Vietnamese sources, may also be shown on
+HMG  products,       if desired.    For  guidance  on  replication       of  relevant   diacritics  and  tone  marks, see
+Inventory of characters below.
+
+There are various sources of GIS data and mapping in Vietnam, both government and commercial, but
+not  all  are  freely  available  online.  The      Vietnam  Surveying,  Mapping  and  Geographic  Information
+Agency publishes an administrative map of the country, and more administrative maps are available:
+Map of Vietnam - Administrative Map of Provinces of Vietnam.
+
+
+1 Vietnam prefers that the form Viet Nam be used, and accordingly PCGN recommends this style in the state
+title (i.e. the formal name as used in the country itself, as opposed to the country name which reflects the
+usual form in British English (i.e. Vietnam)). The UN uses the form Viet Nam as both long and short form.
+2 ISO 639 language codes are used in this factfile.
+3 Vietnam Statistics Office, 2024 data.
+
+
+© Crown Copyright 2026                                                                                                        1
+--- PAGE 2 ---
+                                                      OFFICIAL
+
+TOPONYMIC FACTFILE
+
+Official mapping of Vietnam is produced by the General Department of Land Administration (GDLA):
+http://www.gdla.gov.vn/         (part  of  the  Ministry of    Natural  Resources  and Environment) and  by  the
+Cartographic Publishing House: https://bando.com.vn/en/home.
+
+Additionally,    VidaGIS:    https://www.vidagis.com/           is   a   joint   venture  between   the      Cartographic
+Publishing House and Denmark.
+
+It is understood that there is no specialist body on geographical names, rather the work is undertaken
+within the GDLA. The importance of standardised geographical names is recognised, however, with
+Decree    No.  45/2015/ND-CP         prescribing    the  accuracy  of     topographic  and      cartographic     activities,
+including geographical names        .
+
+A Vietnamese commercial company supplying geo data is                    GeoViet Consulting https://geoviet.vn/tu-
+lieu-nguon/en/436/285/baiviet/0/gis-data-and-maps.aspx.
+
+The US Board on Geographic Names (BGN) Geographic Names Server (GNS) database is also a good
+source for geographical names.
+
+It should be noted that, with competing claims across the South China Sea, Vietnamese sources should
+not be used for geographical features in this area.            Please contact PCGN for names as required.
+
+
+Languages
+
+The sole official language in Vietnam is Vietnamese            , which is spoken by almost 85% of the population
+of Vietnam as a first language (and        as a second language by        most minority language users).
+
+Additionally, there exist many minority           languages   , and   Vietnam has      presented    to the UN     Group    of
+Experts on Geographical Names (UNGEGN) that the 53 ethnic minorities of Vietnam have the right to
+develop  their  own  languages  and  script.            At  the  time    of  that  presentation     (2004),    there   were
+reportedly 28 ethnic minorities       with an established writing system          (of which 15 used the Roman script,
+and 13 a non-Roman script, though no further specification was given                  ).
+
+The largest ethnic groups (each with their own            autochthonous      language), with a population of a        round
+1 million each, are Tày (tyz), Thai (tha), Muong (mtq), Hoa (mostly Cantonese,                  zhh), Khmer (khm), and
+Nung (nut)4.     However, minority languages are unlikely to be encountered on official sources                        , and
+therefore are not required for most HMG products.
+
+English is increasingly used as a second language, and the knowledge of French, as the former colonial
+language, has diminished significantly.
+
+
+
+
+
+
+
+4 Tày, Thai, and Nung are of the Tai-Thai language group; Muong, as Vietnamese            , is of the Viet-Muong group;
+Khmer is from the Mon-Khmer group.
+
+
+© Crown Copyright 2026                                                                                                     2
+--- PAGE 3 ---
+                                                     OFFICIAL
+
+TOPONYMIC FACTFILE
+
+Inventory of characters (and their Unicode encodings5):
+
+The Roman-script used for Vietnamese employs the following letter-diacritic combinations in addition
+to the unmodified letters of the basic Roman script.
+
+   Upper-case character             Unicode encoding             Lower-case character            Unicode encoding
+
+               Ă                            0102                              ă                          0103
+                Â                           00C2                              â                          00E2
+               Ê                            00CA                              ê                          00EA
+               Ô                            00D4                              ô                          00F4
+               Ơ                            01A0                             ơ                           01A1
+               Ư                            01AF                             ư                           01B0
+               Đ                            0110                              đ                          0111
+
+Tone is also marked in Vietnamese – this is by way of 5 marks that appear on the vowel (e.g. for /a/,
+these are: /à/, /á/, /ả/, /ã/, and /ạ/).  Tone marks and diacritics can appear in conjunction                    , i.e. with
+two marks on one letter, e.g. /ấ/. These can be found with a single Unicode encoding: ấ (1EA5) or can
+be created using combining diacritical marks e.g. 00E2 plus 0301: ấ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 See www.unicode.org
+
+
+© Crown Copyright 2026                                                                                                     3
+--- PAGE 4 ---
+                                                               OFFICIAL
+
+TOPONYMIC FACTFILE
+                                                             Map of Vietnam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Map produced by PCGN for illustrative purposes only, and is not to be taken necessarily as representing the views of the UK government on
+                                                         boundaries or political status.
+
+
+
+
+
+© Crown Copyright 2026                                                                                                                           4
+--- PAGE 5 ---
+                                                       OFFICIAL
+
+TOPONYMIC FACTFILE
+
+Administrative structure
+
+In June 2025, Vietnam underwent a change to its administrative structure, replacing the former 63
+first-order   administrative      divisions    with  a  structure  comprising  28          provinces  (tỉnh     [vie])  and    6
+municipalities (thành phố [vie]6) at the first-order administrative level. These are shown in the table
+below in their short forms without the relevant generic term, with the municipalities marked with an
+asterisk*. A further 2 provinces are slated to become cities in 2030, and a useful image showing the
+mergers can be seen:         Vietnams-Map-Following-Provincial-Merger-3.jpg (900×1409). The first-order
+divisions are sub-divided into communes.
+
+
+                                                                   7        Location of administrative
+              ADM1                    Administrative centre                             centre
+
+ An Giang                            Rạch Giá                                10°01’00”N 105°01’00”E
+
+ Bắc Ninh                            Bắc Giang                               21°16’23”N 106°11’41”E
+
+ Cà Mau                               Tân Thành                              09°11’32”N 105°07’50”E
+ Cần Thơ*                            Cần Thơ 8                               10°01’57”N 105°47’03”E
+
+ Cao Bằng                            Thục Phán                               22°39’56”N 106°15’28”E
+ Đà Nẵng*                            Đà Nẵng9                                16°04’29”N 108°13’26”E
+
+ Đắk Lắk                             Buôn Ma Thuột                           12°40’27”N 108°02’37”E
+
+ Điện Biên                           Điện Biên Phủ                           21°23’07”N 103°00’58”E
+
+ Đồng Nai                            Trấn Biên                               10°57’13”N 106°49’20”E
+
+ Đồng Tháp                           Mỹ Tho                                  10°21’24”N 106°21’53”E
+
+ Gia Lai                             Quy Nhơn                                13°46’14”N 109°13’57”E
+
+ Hà Nội*                             Hà Nội                                  21°00’00”N 105°51’00”E
+
+ Hà Tĩnh                             Thành Sen                               18°20’38”N 105°54’43”E
+
+ Hải Phòng*                          Hải Phòng                               20°51’53”N 106°41’00”E
+
+
+6 Or more fully, thành phố trực thuộc trung ương meaning ‘city subordinate to the central authority’.
+7 There is some inconsistency in the representation of administrative centres, and many of the centres have
+changed in the administrative restructure.  For clarity, the table here shows the centres as captured on the
+Vietnam Publishing House of Natural Resources, Environment and Cartography’s Atlas of 34 provinces and
+cities, 2026. The municipalities often have administrative centres that are not the same place as the main city
+the municipalities are named after e.g. the new map has administrative centre symbols for Ninh Kiều in Cần
+Thơ, and Thuận Hóa in Huế. Additionally, some sources record Saigon as the centre of Hồ Chí Minh (and see
+footnote 10), while Hoàn Kiếm is given as the administrative centre of Hà Nội. Sometimes the recorded centre
+in the Atlas used as a source is a ward within the parent city (e.g. Lương Văn Tri is a ward in Lạng Sơn city).
+Nevertheless, this list reflects the source as it is felt that Vietnam considers these official.
+8 The municipality seat is within Ninh Kiều district in Cần Thơ
+9 The municipality seat is within Hải Châu ward in Đà Nẵng
+
+
+© Crown Copyright 2026                                                                                                         5
+--- PAGE 6 ---
+                                                    OFFICIAL
+
+TOPONYMIC FACTFILE
+             ADM1                   Administrative centre7             Location of administrative
+                                                                                   centre
+ Hồ Chí Minh*                      Hồ Chí Minh10                        10°46’36”N 106°42’03”E
+
+ Huế*11                            Huế                                  16°27’43”N 107°35’44”E
+
+ Hưng Yên                          Phố Hiến                             20°38’27”N 106°03’25”E
+
+ Khánh Hòa                         Nha Trang                             12°14′42″N 109°11′30″E
+
+ Lai Châu                          Tân Phong                            22°23’10”N 103°28’13”E
+
+ Lâm Đồng                          Xuân Hương – Đà Lạt                  11°57’08”N 108°26’31”E
+
+ Lạng Sơn                          Lương Văn Tri                        21°51’10”N 106°45’40”E
+
+ Lào Cai                           Yên Bái                              21°43’22”N 104°54’41”E
+
+ Nghệ An                           Trường Vinh                          18°40’24”N 105°41’32”E
+
+ Ninh Bình                         Hoa Lư                               20°15’14”N 105°58’30”E
+
+ Phú Thọ                           Việt Trì                             21°18’44”N 105°23’52”E
+
+ Quảng Ngãi                        Cẩm Thành                            15°07’26”N 108°48’06”E
+
+ Quảng Ninh                        Hạ Long                              20°57’02”N 107°04’24”E
+
+ Quảng Trị                         Đồng Hới                             17°26’53”N 106°35’15”E
+
+ Sơn La                            Chiềng Cơi                           21°18’41”N 103°54’37”E
+
+ Tây Ninh                          Long An                              10°32’34”N 106°24’20”E
+
+ Thái Nguyên                       Phan Đình Phùng                      21°35’03”N 105°50’28”E
+
+ Thanh Hóa                         Hạc Thành                            19°48’26”N 105°47’37”E
+
+ Tuyên Quang                       Minh Xuân                            21°49’35”N 105°12’50”E
+
+ Vĩnh Long                         Long Châu                            10°15’25”N 105°56’57”E
+
+
+
+
+
+
+
+
+
+
+10 The name Hồ Chí Minh has been in place since 1976, but there is some continuing          informal use of the former
+name Sài Gòn (Saigon) to refer to the city centre area.    This former name does not need to appear on HMG
+products.
+11 This became a city in the 2025 restructure, having formerly been a province:       Thừa Thiên-Huế
+
+
+© Crown Copyright 2026                                                                                                 6
+--- PAGE 7 ---
+                                                          OFFICIAL
+
+    TOPONYMIC FACTFILE
+
+    Territorial disputes
+
+    Vietnam has a number of land disputes with its neighbours, as well as an unresolved dispute over
+    sovereignty of offshore islands with Cambodia; in December 2021, Vietnam and Cambodia agreed to
+    complete the remaining border demarcation and the upgrading of border checkpoints.
+
+    There are significant maritime disputes over the South China Sea; most significant for Vietnam is the
+    claim  of  much  of  the  Paracel  and  Spratly  Islands.          These  claims  are  contested  by  neighbouring
+    countries, and care must be taken not to             employ inaccurate geographical names in order to avoid
+    assigning sovereignty on HMG products.  Please contact PCGN for further details and names guidance.
+
+    Other Significant Locations
+
+        PCGN                          Other names                            Location                      Feature Type
+  Recommended
+       Name12
+Annamite                   Chaîne Annamitique (fra);                18°35′30″N 103°48′00″E           Mountain range (Laos,
+Mountains                  Phou Louang (lao);                                                        Vietnam)
+                           Truong Son (vie)
+Gulf of Thailand           Ao Thai (tha); Chhung                    39°42'38" N 44°17'35"E           Gulf
+                           Sâmŭtrôsiĕm (khm); Teluk
+                           Siam (msa); Vịnh Thái Lan (vie)
+Mekong                     Lancang jiang (zho); Mae Nam             41°03'26"N 29°02'36"E            River (Cambodia,
+                           Khong (tha); Mèkaung Myit                                                 China, Laos, Myanmar
+                           (mya); Mékôngk (khm);                                                     (Burma), Thailand,
+                           Mekong River (Myanmar);                                                   Vietnam)
+                           Mènam Khong (lao); Sông Tiền
+                           Giang (vie)
+Red River                  Sông Hồng (vie);                         20°14'52"N 106°35'14"E           River (Vietnam, China)
+                           Hong he (zho)
+Sơn Đoòng                  -                                        17°27'25"N 106°17'15"E           Cave (world's largest
+                                                                                                     cross-sectional area/
+                                                                                                     largest known cave
+                                                                                                     passage by volume)
+South China Sea            West Philippine Sea/Dagat                15°N 115°E                       Sea
+                           Kanlurang Pilipinas
+                           (Philippines); Biển Đông
+                           (Vietnam); Nan Hai (China);
+                           Laut Cina Selatan, Laut China
+                           Selatan (msa); Dagat Timog
+                           Tsina (tgl)
+
+
+
+
+    12 PCGN usually recommends use of conventional names for international features where they exist. If there is
+    no conventional name, or if a product requires local forms, then the relevant name can be shown on the
+    appropriate side of the international boundary on cartographic products.
+
+
+    © Crown Copyright 2026                                                                                                    7
+--- PAGE 8 ---
+                                                    OFFICIAL
+
+TOPONYMIC FACTFILE
+
+Useful references
+
+    •    BBC Country Profile (no longer updated): https://www.bbc.co.uk/news/world-asia-pacific-
+         16567315
+    •    Foreign, Commonwealth and Development Office (FCDO) Travel Advice:
+         https://www.gov.uk/foreign-travel-advice
+    •    International Organization for Standardization (ISO) Online Browsing Platform (OBP):
+         https://www.iso.org/obp/ui
+    •    Languages: https://www.ethnologue.com/; www.omniglot.com
+    •    UNGEGN Working Paper 87, 22nd Session, 2004: Vietnam Country Report
+    •    Unicode Consortium: www.unicode.org
+    •    US Board on Geographic Names Server            : Geographic Names Server
+    •    Vietnam government site: https://vietnam.gov.vn/
+    •    Other    Vietnamese   sources   for   mapping   and   geonames:   General   Department   of   Land
+         Administration:          http://www.gdla.gov.vn/;          Cartographic          Publishing          House:
+         https://bando.com.vn/en/home           ; VidaGIS:    https://www.vidagis.com/;         GeoViet  Consulting:
+         https://geoviet.vn/tu-lieu-nguon/en/436/285/baiviet/0/gis-data-and-maps.aspx;                         Vietnam
+         Surveying,  Mapping  and  Geographic  Information  Agency;  Vietnam  Publishing  House  of
+         Natural Resources, Environment and Cartography: Atlas of 34 provinces and cities, 2026.
+
+
+                                                                                                  Compiled by PCGN
+                                                                                                   www.gov.uk/pcgn
+                                                                                                  updated June 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Crown Copyright 2026                                                                                                 8

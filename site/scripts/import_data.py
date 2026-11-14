@@ -105,6 +105,9 @@ def finalize(rows):
   r['mapQuery']=f"{r['currentName']}, {r['city']}"
   r['currentStatusVerified']=False
   r['geometry']=None
+  locations=[r.get('city',''),r.get('district') or '']
+  r['locationAliases']=list(dict.fromkeys(unidecode(n) for n in locations if n))
+  if r['country']=='UA':r['locationAliases']+=[''.join(ukmap.get(ch,ch) for ch in n.lower()) for n in locations if n]
   r['transliterations']=list(dict.fromkeys(r['transliterations']+[unidecode(n) for ev in r['events'] for n in [ev['formerName'],ev['currentName']] if unidecode(n)!=n]))
   if r['country']=='UA':
    r['transliterations']+=[''.join(ukmap.get(ch,ch) for ch in n.lower()) for ev in r['events'] for n in [ev['formerName'],ev['currentName']]]
@@ -116,3 +119,5 @@ def run(item):
 if __name__=='__main__':
  with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
   for result in pool.map(run,JOBS.items()):print(result)
+ from import_places import build_places
+ print(('places',build_places()))

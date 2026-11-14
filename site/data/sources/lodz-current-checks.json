@@ -1,0 +1,334 @@
+[
+  {
+    "formerName": "ul. Aleksandryjska",
+    "currentName": "ul. Bojowników Getta Warszawskiego",
+    "registerMatches": [
+      "Bojowników Getta Warszawskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Armii Ludowej",
+    "currentName": "ul. Polskiej Organizacji Wojskowej",
+    "registerMatches": [
+      "Polskiej Organizacji Wojskowej"
+    ]
+  },
+  {
+    "formerName": "ul. Azbestowa",
+    "currentName": "ul. Ekologiczna",
+    "registerMatches": [
+      "Ekologiczna"
+    ]
+  },
+  {
+    "formerName": "ul. Berty",
+    "currentName": "ul. Ormiańska",
+    "registerMatches": [
+      "Ormiańska"
+    ]
+  },
+  {
+    "formerName": "ul. Borysza",
+    "currentName": "ul. Piekarska",
+    "registerMatches": [
+      "Piekarska"
+    ]
+  },
+  {
+    "formerName": "ul. Cymmera",
+    "currentName": "ul. Drukarska",
+    "registerMatches": [
+      "Drukarska"
+    ]
+  },
+  {
+    "formerName": "ul. Dziadowa",
+    "currentName": "ul. Jana Długosza",
+    "registerMatches": [
+      "Długosza"
+    ],
+    "matchNote": "Manually reviewed shortened/title variant in the captured municipal register; retained dictionary spelling with register variant as alias."
+  },
+  {
+    "formerName": "ul. Ewangelicka",
+    "currentName": "ul. Franklina Delano Roosevelta",
+    "registerMatches": [
+      "Prezydenta Franklina Delano Roosevelta"
+    ]
+  },
+  {
+    "formerName": "ul. Jurija Gagarina",
+    "currentName": "ul. Ignacego Paderewskiego",
+    "registerMatches": [
+      "Ignacego Paderewskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Graffa",
+    "currentName": "ul. Henryka Sienkiewicza",
+    "registerMatches": [
+      "Henryka Sienkiewicza",
+      "Park Henryka Sienkiewicza"
+    ]
+  },
+  {
+    "formerName": "ul. Jasnogórska",
+    "currentName": "ul. Albańska",
+    "registerMatches": [
+      "Albańska"
+    ]
+  },
+  {
+    "formerName": "ul. Juliusza",
+    "currentName": "ul. Dowborczyków",
+    "registerMatches": [
+      "Dowborczyków"
+    ]
+  },
+  {
+    "formerName": "ul. Kalbacha",
+    "currentName": "ul. Snycerska",
+    "registerMatches": [
+      "Snycerska"
+    ]
+  },
+  {
+    "formerName": "ul. Kałowska",
+    "currentName": "ul. Rodła",
+    "registerMatches": [
+      "Rodła"
+    ]
+  },
+  {
+    "formerName": "ul. Karolewska Szosa",
+    "currentName": "ul. Wileńska",
+    "registerMatches": [
+      "Wileńska"
+    ]
+  },
+  {
+    "formerName": "ul. Klinka",
+    "currentName": "ul. Obornicka",
+    "registerMatches": [
+      "Obornicka"
+    ]
+  },
+  {
+    "formerName": "ul. Konstantynowska",
+    "currentName": "ul. Legionów",
+    "registerMatches": [
+      "Legionów",
+      "Park Legionów"
+    ]
+  },
+  {
+    "formerName": "ul. Franciszka Koziołkiewicza",
+    "currentName": "ul. Stanisława Sojczyńskiego",
+    "registerMatches": [
+      "Kpt. Stanisława Sojczyńskiego \"Warszyca\""
+    ],
+    "matchNote": "Manually reviewed shortened/title variant in the captured municipal register; retained dictionary spelling with register variant as alias."
+  },
+  {
+    "formerName": "ul. Kőniga",
+    "currentName": "ul. Lokatorska",
+    "registerMatches": [
+      "Lokatorska"
+    ]
+  },
+  {
+    "formerName": "ul. Krasińskiego",
+    "currentName": "ul. Proletariacka",
+    "registerMatches": [
+      "Proletariacka"
+    ]
+  },
+  {
+    "formerName": "ul. 11 Listopada",
+    "currentName": "ul. Legionów",
+    "registerMatches": [
+      "Legionów",
+      "Park Legionów"
+    ]
+  },
+  {
+    "formerName": "ul. Magistracka",
+    "currentName": "ul. Aleksandra Kamińskiego",
+    "registerMatches": [
+      "Harcmistrza Aleksandra Kamińskiego"
+    ]
+  },
+  {
+    "formerName": "ul. 8 Marca",
+    "currentName": "ul. Wincentego Tymienieckiego",
+    "registerMatches": [
+      "Ks. Biskupa Wincentego Tymienieckiego"
+    ]
+  },
+  {
+    "formerName": "ul. Maurera",
+    "currentName": "ul. Św. Antoniego Padewskiego",
+    "registerMatches": [
+      "św. Antoniego Padewskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Mikołajewska",
+    "currentName": "ul. Henryka Sienkiewicza",
+    "registerMatches": [
+      "Henryka Sienkiewicza",
+      "Park Henryka Sienkiewicza"
+    ]
+  },
+  {
+    "formerName": "ul. Ministra Sławka",
+    "currentName": "ul. Miętowa",
+    "registerMatches": [
+      "Miętowa"
+    ]
+  },
+  {
+    "formerName": "ul. Aleksandra Napiórkowskiego",
+    "currentName": "ul. Stanisława Przybyszewskiego",
+    "registerMatches": [
+      "Stanisława Przybyszewskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Nowaka",
+    "currentName": "ul. Ciesielska",
+    "registerMatches": [
+      "Ciesielska"
+    ]
+  },
+  {
+    "formerName": "ul. Marcelego Nowotki",
+    "currentName": "ul. Pomorska",
+    "registerMatches": [
+      "Pomorska"
+    ]
+  },
+  {
+    "formerName": "ul. Obrońców Stalingradu",
+    "currentName": "ul. Legionów",
+    "registerMatches": [
+      "Legionów",
+      "Park Legionów"
+    ]
+  },
+  {
+    "formerName": "ul. Św. Olgi",
+    "currentName": "ul. Grzegorza Piramowicza",
+    "registerMatches": [
+      "Grzegorza Piramowicza"
+    ]
+  },
+  {
+    "formerName": "ul. Olgiński Pasaż",
+    "currentName": "ul. Grzegorza Piramowicza",
+    "registerMatches": [
+      "Grzegorza Piramowicza"
+    ]
+  },
+  {
+    "formerName": "ul. Pańska",
+    "currentName": "ul. Stefana Żeromskiego",
+    "registerMatches": [
+      "Stefana Żeromskiego",
+      "Park Stefana Żeromskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Podróżnicza",
+    "currentName": "ul. Władysława Króla",
+    "registerMatches": [
+      "Władysława Króla"
+    ]
+  },
+  {
+    "formerName": "ul. Rajtera",
+    "currentName": "ul. Urzędnicza",
+    "registerMatches": [
+      "Urzędnicza"
+    ]
+  },
+  {
+    "formerName": "ul. Skwerowa",
+    "currentName": "ul. Polskiej Organizacji Wojskowej",
+    "registerMatches": [
+      "Polskiej Organizacji Wojskowej"
+    ]
+  },
+  {
+    "formerName": "ul. Strzelców Kaniowskich",
+    "currentName": "ul. 28. Pułku Strzelców Kaniowskich",
+    "registerMatches": [
+      "28 Pułku Strzelców Kaniowskich"
+    ]
+  },
+  {
+    "formerName": "ul. Józefa Strzelczyka",
+    "currentName": "ul. Senatorska",
+    "registerMatches": [
+      "Senatorska"
+    ]
+  },
+  {
+    "formerName": "ul. Szefera",
+    "currentName": "ul. Szymona Szymonowica",
+    "registerMatches": [
+      "Szymona Szymonowica"
+    ]
+  },
+  {
+    "formerName": "ul. Szmita",
+    "currentName": "ul. Bukowa",
+    "registerMatches": [
+      "Bukowa"
+    ]
+  },
+  {
+    "formerName": "ul. Sznera",
+    "currentName": "ul. Sędziowska",
+    "registerMatches": [
+      "Sędziowska"
+    ]
+  },
+  {
+    "formerName": "ul. Wandy Wasilewskiej",
+    "currentName": "ul. Stefana Grota-roweckiego",
+    "registerMatches": [
+      "Gen. Stefana Grota-Roweckiego"
+    ]
+  },
+  {
+    "formerName": "ul. Zagajnikowa",
+    "currentName": "ul. Stefana Kopcińskiego",
+    "registerMatches": [
+      "Dr Stefana Kopcińskiego"
+    ]
+  },
+  {
+    "formerName": "ul. Zawiska",
+    "currentName": "ul. Zawiszy Czarnego",
+    "registerMatches": [
+      "Zawiszy Czarnego"
+    ]
+  },
+  {
+    "formerName": "Aleja Zmp",
+    "currentName": "Pasaż (aleja) Artura Rubinsteina",
+    "registerMatches": [
+      "Aleja Artura Rubinsteina"
+    ],
+    "matchNote": "Manually reviewed shortened/title variant in the captured municipal register; retained dictionary spelling with register variant as alias."
+  },
+  {
+    "formerName": "Aleja Zms",
+    "currentName": "Aleja im. Anny Rynkowskiej",
+    "registerMatches": [
+      "Aleja Anny Rynkowskiej"
+    ],
+    "matchNote": "Manually reviewed shortened/title variant in the captured municipal register; retained dictionary spelling with register variant as alias."
+  }
+]

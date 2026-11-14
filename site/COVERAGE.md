@@ -2,13 +2,17 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
+1,645 published records across 29 countries: 1,556 streets/segments, 66 cities and 23 country-name mappings.
+
+The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
+
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
-| Ukraine | 787 | 787 | 109 | 18 |
-| Poland | 167 | 223 | 3 | 0 |
+| Ukraine | 905 | 905 | 196 | 28 |
+| Poland | 213 | 294 | 3 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
-| Kazakhstan | 175 | 175 | 2 | 0 |
+| Kazakhstan | 346 | 346 | 3 | 1 |
 | India | 8 | 8 | 2 | 2 |
 
 ## City and country renamings
@@ -18,44 +22,166 @@ Initial selection; the street counts above exclude these records.
 - Dnipropetrovsk → Dnipro (city); [source](https://www.rada.gov.ua/en/news/News/top_news/131134.html).
 - Dniprodzerzhynsk → Kamianske (city); [source](https://www.rada.gov.ua/en/news/News/top_news/131134.html).
 - Swaziland → Eswatini (country); [source](https://digitallibrary.un.org/record/1282124).
+- Орджонікідзе → Покров (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Артемове → Залізне (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Артемівськ → Бахмут (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Дзержинськ → Торецьк (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Димитров → Мирноград (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Кіровське → Хрестівка (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Комсомольське → Кальміуське (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Красний Лиман → Лиман (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Торез → Чистякове (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Юнокомунарівськ → Бунге (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Красноармійськ → Покровськ (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Кіровоград → Кропивницький (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Ульяновка → Благовіщенське (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Кіровськ → Голубівка (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Красний Луч → Хрустальний (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Вахрушеве → Боково-Хрустальне (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Петровське → Петрово-Красносілля (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Краснодон → Сорокине (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Артемівськ → Кипуче (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Свердловськ → Довжанськ (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Стаханов → Кадіївка (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Червонопартизанськ → Вознесенівка (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Іллічівськ → Чорноморськ (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Котовськ → Подільськ (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Комсомольськ → Горішні Плавні (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Червонозаводське → Заводське (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Кузнецовськ → Вараш (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Цюрупинськ → Олешки (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Щорс → Сновськ (city); [source](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf).
+- Bangalore → Bengaluru (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Mangalore → Mangaluru (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Bellary → Ballari (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Bijapur → Vijayapura (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Belgaum → Belagavi (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Chikmagalur → Chikkamagaluru (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Gulbarga → Kalaburagi (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Mysore → Mysuru (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Hospet → Hosapete (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Shimoga → Shivamogga (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Hubli → Hubballi (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Tumkur → Tumakuru (city); [source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf).
+- Madras → Chennai (city); [source](https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf).
+- Calcutta → Kolkata (city); [source](https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf).
+- Trivandrum → Thiruvananthapuram (city); [source](https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf).
+- Port Blair → Sri Vijaya Puram (city); [source](https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf).
+- Sài Gòn → Hồ Chí Minh City (city); [source](https://assets.publishing.service.gov.uk/media/6a3a740deaee00074150f25f/Vietnam_Toponymic_Factfile.pdf).
+- Нур-Султан → Астана (city); [source](https://www.akorda.kz/ru/o-pereimenovanii-goroda-nur-sultana-stolicy-respubliki-kazahstan-v-gorod-astanu-stolicu-respubliki-kazahstan-1782457).
+- Warmbaths → Bela-Bela (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Port Elizabeth → Gqeberha (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Uitenhage → Kariega (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- East London → KuGompo City (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Messina → Musina (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Katkop → Ngqayi (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Maclear → Nqanqarhu (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Pietersburg → Polokwane (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- King William’s Town → Qonce (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Graaff-Reinet → Robert Sobukwe (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Kudube → Thema (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Driehoek → Uhelo (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Brandfort → Winnie Mandela (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Aberdeen → Xamdeboo (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Makhado → Louis Trichardt (city); [source](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf).
+- Ceylon → Sri Lanka (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Dahomey → Benin (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Upper Volta → Burkina Faso (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Zaire → Democratic Republic of the Congo (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Western Samoa → Samoa (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Siam → Thailand (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Persia → Iran (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Transjordan → Jordan (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Surinam → Suriname (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Rumania → Romania (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Burma → Myanmar (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Cape Verde → Cabo Verde (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Ivory Coast → Côte d’Ivoire (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Turkey → Türkiye (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- East Timor → Timor-Leste (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Democratic Kampuchea → Cambodia (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Czech Republic → Czechia (country); [source](https://unstats.un.org/unsd/methodology/m49/).
+- Macedonia → North Macedonia (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Basutoland → Lesotho (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Nyasaland → Malawi (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- British Honduras → Belize (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- New Hebrides → Vanuatu (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Léopoldville → Kinshasa (city); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
+- Allahabad → Prayagraj (city); [source](https://prayagrajdivision.nic.in/about-department/introduction/).
 
 ## Locality coverage
 
 | Country | Locality (source spelling) | Published | Events | Review |
 |---|---|---:|---:|---:|
+| Ukraine | Івано-Франкове | 2 | 2 | 0 |
 | Ukraine | Андріянів | 1 | 1 | 0 |
 | Ukraine | Бабина | 1 | 1 | 0 |
 | Ukraine | Баня Лисовицька | 1 | 1 | 0 |
+| Ukraine | Бартатів | 2 | 2 | 0 |
+| Ukraine | Батиїв | 1 | 1 | 0 |
+| Ukraine | Бендюга | 1 | 1 | 0 |
 | Ukraine | Береги | 2 | 2 | 0 |
 | Ukraine | Берездівці | 1 | 1 | 0 |
 | Ukraine | Блищиводи | 1 | 1 | 0 |
+| Ukraine | Борислав | 4 | 4 | 0 |
 | Ukraine | Борок | 1 | 1 | 0 |
+| Ukraine | Бортники | 1 | 1 | 0 |
+| Ukraine | Боршів | 1 | 1 | 0 |
+| Ukraine | Борятин | 1 | 1 | 0 |
+| Ukraine | Брюховичі | 0 | 0 | 2 |
+| Ukraine | Буковина | 1 | 1 | 0 |
 | Ukraine | Буськ | 1 | 1 | 0 |
 | Ukraine | Бучали | 1 | 1 | 0 |
+| Ukraine | Більче | 1 | 1 | 0 |
 | Ukraine | Бісковичі | 1 | 1 | 0 |
+| Ukraine | Велика Калинка | 1 | 1 | 0 |
 | Ukraine | Великосілки | 1 | 1 | 0 |
+| Ukraine | Великі Глібовичі | 1 | 1 | 0 |
+| Ukraine | Вербиця | 1 | 1 | 0 |
+| Ukraine | Верхня Рожанка | 1 | 1 | 0 |
 | Ukraine | Викоти | 1 | 1 | 0 |
-| Ukraine | Волиця | 1 | 1 | 0 |
+| Ukraine | Вовчатичі | 1 | 1 | 0 |
+| Ukraine | Волиця | 2 | 2 | 0 |
+| Ukraine | Волосянка | 1 | 1 | 0 |
+| Ukraine | Волсвин | 1 | 1 | 0 |
+| Ukraine | Воля | 1 | 1 | 0 |
+| Ukraine | Воля-Довголуцька | 1 | 1 | 0 |
 | Ukraine | Вороблевичі | 1 | 1 | 0 |
 | Ukraine | Вороців | 2 | 2 | 0 |
+| Ukraine | Вузлове | 2 | 2 | 0 |
 | Ukraine | Вістовичі | 1 | 1 | 0 |
+| Ukraine | Гамаліївка | 1 | 1 | 0 |
 | Ukraine | Глинськ | 1 | 1 | 0 |
+| Ukraine | Головецько | 2 | 2 | 0 |
 | Ukraine | Гончарівка | 1 | 1 | 0 |
+| Ukraine | Городище | 2 | 2 | 0 |
+| Ukraine | Грусятичі | 1 | 1 | 0 |
 | Ukraine | Грімне | 2 | 2 | 0 |
+| Ukraine | Гірське | 1 | 1 | 0 |
+| Ukraine | Давидів | 1 | 1 | 0 |
 | Ukraine | Демня | 1 | 1 | 0 |
 | Ukraine | Добромиль | 1 | 1 | 0 |
+| Ukraine | Добротвір | 1 | 1 | 0 |
+| Ukraine | Добрячин | 3 | 3 | 0 |
+| Ukraine | Добрівляни | 1 | 1 | 0 |
 | Ukraine | Долішнє | 1 | 1 | 0 |
 | Ukraine | Домажир | 1 | 1 | 0 |
-| Ukraine | Дрогобич | 1 | 1 | 0 |
+| Ukraine | Дрогобич | 3 | 3 | 0 |
+| Ukraine | Дроговиж | 2 | 2 | 0 |
 | Ukraine | Дубляни | 1 | 1 | 0 |
+| Ukraine | Дуліби | 1 | 1 | 0 |
 | Ukraine | Жвирка | 1 | 1 | 0 |
-| Ukraine | Жовква | 2 | 2 | 0 |
+| Ukraine | Жидачів | 1 | 1 | 0 |
+| Ukraine | Жовква | 3 | 3 | 0 |
 | Ukraine | Жорниська | 1 | 1 | 0 |
 | Ukraine | Жуличі | 1 | 1 | 0 |
 | Ukraine | Жупани | 1 | 1 | 0 |
+| Ukraine | Журавків | 1 | 1 | 0 |
 | Ukraine | Журавно | 2 | 2 | 0 |
-| Ukraine | Заболотівці | 1 | 1 | 0 |
+| Ukraine | Заболотівці | 2 | 2 | 0 |
+| Ukraine | Загірочко | 1 | 1 | 0 |
 | Ukraine | Задністряни | 1 | 1 | 0 |
+| Ukraine | Заліски | 1 | 1 | 0 |
 | Ukraine | Замок | 1 | 1 | 0 |
 | Ukraine | Заплатин | 1 | 1 | 0 |
 | Ukraine | Зимна Вода | 2 | 2 | 0 |
@@ -63,46 +189,77 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Золотковичі | 1 | 1 | 0 |
 | Ukraine | Золочів | 1 | 1 | 0 |
 | Ukraine | Зоротовичі | 2 | 2 | 0 |
-| Ukraine | Кам’янка-Бузька | 1 | 1 | 0 |
+| Ukraine | Зіболки | 1 | 1 | 0 |
+| Ukraine | Кам’янка-Бузька | 3 | 3 | 0 |
 | Ukraine | Катериничі | 1 | 1 | 0 |
+| Ukraine | Керниця | 1 | 1 | 0 |
 | Ukraine | Київ | 617 | 617 | 18 |
 | Ukraine | Кожичі | 1 | 1 | 0 |
 | Ukraine | Колбаєвичі | 1 | 1 | 0 |
+| Ukraine | Конопниця | 1 | 1 | 0 |
 | Ukraine | Конюшки | 1 | 1 | 0 |
 | Ukraine | Кореличі | 2 | 2 | 0 |
+| Ukraine | Корчин | 3 | 3 | 0 |
 | Ukraine | Корчівка | 1 | 1 | 0 |
 | Ukraine | Криве | 1 | 1 | 0 |
+| Ukraine | Куликів | 1 | 1 | 0 |
+| Ukraine | Куровичі | 1 | 1 | 0 |
 | Ukraine | Лани | 1 | 1 | 0 |
+| Ukraine | Лапшин | 1 | 1 | 0 |
 | Ukraine | Летня | 1 | 1 | 0 |
+| Ukraine | Липівці | 1 | 1 | 0 |
+| Ukraine | Лопатин | 1 | 1 | 0 |
 | Ukraine | Лучиці | 1 | 1 | 0 |
+| Ukraine | Львів | 0 | 0 | 8 |
 | Ukraine | Любша | 1 | 1 | 0 |
 | Ukraine | Лівчиці | 1 | 1 | 0 |
+| Ukraine | Ліщини | 1 | 1 | 0 |
 | Ukraine | Малі Передримихи | 1 | 1 | 0 |
 | Ukraine | Матів | 1 | 1 | 0 |
 | Ukraine | Меденичі | 1 | 1 | 0 |
+| Ukraine | Межиріччя | 1 | 1 | 0 |
 | Ukraine | Миклашів | 1 | 1 | 0 |
+| Ukraine | Миколаїв | 2 | 2 | 0 |
 | Ukraine | Михайлевичі | 1 | 1 | 0 |
+| Ukraine | Молодинче | 1 | 1 | 0 |
 | Ukraine | Мочеради | 1 | 1 | 0 |
+| Ukraine | Муроване | 1 | 1 | 0 |
 | Ukraine | Міженець | 2 | 2 | 0 |
+| Ukraine | Нижня Рожанка | 1 | 1 | 0 |
 | Ukraine | Нижнє Синьовидне | 1 | 1 | 0 |
 | Ukraine | Нова Скварява | 1 | 1 | 0 |
+| Ukraine | Новий Витків | 1 | 1 | 0 |
 | Ukraine | Новий Калинів | 1 | 1 | 0 |
 | Ukraine | Новий Милятин | 2 | 2 | 0 |
+| Ukraine | Новий Яричів | 2 | 2 | 0 |
+| Ukraine | Оброшине | 2 | 2 | 0 |
 | Ukraine | Ожидів | 1 | 1 | 0 |
+| Ukraine | Опори | 1 | 1 | 0 |
+| Ukraine | Острів | 1 | 1 | 0 |
+| Ukraine | Павлів | 1 | 1 | 0 |
 | Ukraine | Паланки | 1 | 1 | 0 |
+| Ukraine | Перекалки | 1 | 1 | 0 |
+| Ukraine | Перемишляни | 2 | 2 | 0 |
 | Ukraine | Пиняни | 1 | 1 | 0 |
+| Ukraine | Плеників | 1 | 1 | 0 |
 | Ukraine | Поздимир | 1 | 1 | 0 |
+| Ukraine | Полове | 1 | 1 | 0 |
 | Ukraine | Поляни | 1 | 1 | 0 |
 | Ukraine | Поріччя Задвірне | 1 | 1 | 0 |
 | Ukraine | Поріччя-Грунтове | 1 | 1 | 0 |
 | Ukraine | Поториця | 1 | 1 | 0 |
 | Ukraine | Прибужани | 2 | 2 | 0 |
+| Ukraine | Присліп | 1 | 1 | 0 |
+| Ukraine | Пустомити | 1 | 1 | 0 |
+| Ukraine | Пшонець | 1 | 1 | 0 |
 | Ukraine | Підберізці | 2 | 2 | 0 |
 | Ukraine | Підгайчики | 1 | 1 | 0 |
 | Ukraine | Підгородці | 1 | 1 | 0 |
 | Ukraine | Підкамінь | 1 | 1 | 0 |
+| Ukraine | Підліски | 1 | 1 | 0 |
 | Ukraine | Рава-Руська | 1 | 1 | 0 |
 | Ukraine | Раделичі | 1 | 1 | 0 |
+| Ukraine | Радехів | 1 | 1 | 0 |
 | Ukraine | Ралівка | 2 | 2 | 0 |
 | Ukraine | Руда | 1 | 1 | 0 |
 | Ukraine | Ріпнів | 2 | 2 | 0 |
@@ -113,28 +270,50 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Сасів | 1 | 1 | 0 |
 | Ukraine | Свитазів | 1 | 1 | 0 |
 | Ukraine | Семенівка | 1 | 1 | 0 |
+| Ukraine | Синьків | 1 | 1 | 0 |
 | Ukraine | Скварява | 1 | 1 | 0 |
-| Ukraine | Сокаль | 2 | 2 | 0 |
+| Ukraine | Смереків | 1 | 1 | 0 |
+| Ukraine | Сокаль | 3 | 3 | 0 |
 | Ukraine | Соколів | 1 | 1 | 0 |
+| Ukraine | Сокільники | 1 | 1 | 0 |
+| Ukraine | Соснівка | 1 | 1 | 0 |
+| Ukraine | Ставчани | 1 | 1 | 0 |
+| Ukraine | Станин | 1 | 1 | 0 |
+| Ukraine | Старе Село | 1 | 1 | 0 |
+| Ukraine | Старий Добротвір | 1 | 1 | 0 |
+| Ukraine | Старий Самбір | 1 | 1 | 0 |
+| Ukraine | Стебник | 1 | 1 | 0 |
 | Ukraine | Стороневичі | 1 | 1 | 0 |
 | Ukraine | Струтин | 1 | 1 | 0 |
 | Ukraine | Стрілки | 1 | 1 | 0 |
 | Ukraine | Стрілковичі | 1 | 1 | 0 |
+| Ukraine | Сугрів | 1 | 1 | 0 |
+| Ukraine | Сілець | 1 | 1 | 0 |
 | Ukraine | Тамановичі | 1 | 1 | 0 |
 | Ukraine | Тершаків | 1 | 1 | 0 |
+| Ukraine | Торки | 1 | 1 | 0 |
 | Ukraine | Тулиголове | 1 | 1 | 0 |
 | Ukraine | Туринка | 1 | 1 | 0 |
 | Ukraine | Туркотин | 1 | 1 | 0 |
+| Ukraine | Тухля | 1 | 1 | 0 |
 | Ukraine | Тщенець | 1 | 1 | 0 |
 | Ukraine | Утішків | 1 | 1 | 0 |
 | Ukraine | Харків | 48 | 48 | 0 |
+| Ukraine | Ходорів | 1 | 1 | 0 |
+| Ukraine | Червоноград | 4 | 4 | 0 |
+| Ukraine | Черляни | 1 | 1 | 0 |
+| Ukraine | Черлянське Передмістя | 1 | 1 | 0 |
 | Ukraine | Чернилява | 1 | 1 | 0 |
 | Ukraine | Шегині | 1 | 1 | 0 |
+| Ukraine | Юшківці | 2 | 2 | 0 |
+| Ukraine | Яворів | 3 | 3 | 0 |
+| Ukraine | Ямпіль | 1 | 1 | 0 |
+| Ukraine | Ясениця-Сільна | 1 | 1 | 0 |
 | Ukraine | Ясенівці | 1 | 1 | 0 |
 | Ukraine | садове товариство «Явір» | 1 | 1 | 0 |
 | Poland | Kraków | 6 | 6 | 0 |
 | Poland | Warszawa | 56 | 112 | 0 |
-| Poland | Łódź | 105 | 105 | 0 |
+| Poland | Łódź | 151 | 176 | 0 |
 | South Africa | Cape Town | 8 | 8 | 3 |
 | South Africa | Durban | 45 | 45 | 4 |
 | South Africa | Johannesburg | 1 | 1 | 0 |
@@ -142,6 +321,7 @@ Initial selection; the street counts above exclude these records.
 | Vietnam | Hồ Chí Minh City | 3 | 3 | 2 |
 | Kazakhstan | Алматы | 174 | 174 | 0 |
 | Kazakhstan | Астана | 1 | 1 | 0 |
+| Kazakhstan | Шымкент | 171 | 171 | 1 |
 | India | Chennai | 0 | 0 | 1 |
 | India | Kolkata | 1 | 1 | 1 |
 | India | New Delhi | 7 | 7 | 0 |
@@ -151,6 +331,7 @@ Initial selection; the street counts above exclude these records.
 - [kyiv](https://minio.kyivcity.gov.ua/kyivcity/sites/21/uploaded-files/Perelik%20pereimenovanykh%20u%202014-2025%20rokakh%20vulyts%20mista%20Kyieva.pdf) — retrieved 2026-11-14T05:29:14.327562+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [lviv-browser](https://loda.gov.ua/documents/111759) — retrieved 2026-11-14T05:39:00+00:00; CC BY 4.0, as stated in the official page footer. Attribution: Lviv Regional Military Administration.
 - [kharkiv-july-2024](https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF) — retrieved 2026-11-14T06:33:20.301039+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
+- [lviv-appendix2-browser](https://loda.gov.ua/documents/111760) — retrieved 2026-11-14T17:55:32.085281+00:00; CC BY 4.0 per source footer. Attribution: Lviv Regional Military Administration.
 - [warsaw1](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx) — retrieved 2026-11-14T05:29:17.305724+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [warsaw2](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx) — retrieved 2026-11-14T05:29:14.328887+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [krakow-law](https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf) — retrieved 2026-11-14T05:41:41.578526+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -179,6 +360,7 @@ Initial selection; the street counts above exclude these records.
 - [lodz-slownik-c](https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c/) — retrieved 2026-11-14T06:35:36.249139+00:00; Factual mappings only; dictionary prose retained locally for audit, not republished.
 - [lodz-slownik-m](https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-m/) — retrieved 2026-11-14T06:35:44.761753+00:00; Factual mappings only; dictionary prose retained locally for audit, not republished.
 - [lodz-slownik-n](https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-n/) — retrieved 2026-11-14T06:35:44.828852+00:00; Factual mappings only; dictionary prose retained locally for audit, not republished.
+- [lodz-current-register](https://log.lodz.pl/mapy-i-uslugi-online/ulice/) — retrieved 2026-11-14T17:56:49.907405+00:00; Factual current street names only; captured for audit.
 - [durban](https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf) — retrieved 2026-11-14T05:29:14.334102+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [pretoria](https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf) — retrieved 2026-11-14T05:30:11.102182+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [johannesburg](https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf) — retrieved 2026-11-14T05:30:15.809699+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -190,20 +372,32 @@ Initial selection; the street counts above exclude these records.
 - [almaty](https://old.adilet.zan.kz/rus/docs/V24R0002332) — retrieved 2026-11-14T05:29:14.340812+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [astana](https://old.adilet.zan.kz/rus/docs/G24ABW51124) — retrieved 2026-11-14T05:30:11.100848+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [almaty2018](https://old.adilet.zan.kz/rus/docs/V18R0001521) — retrieved 2026-11-14T05:39:47.623916+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
+- [shymkent-2014](https://old.adilet.zan.kz/rus/docs/V14U0002942) — retrieved 2026-11-14T17:54:19.676670+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [delhi](https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf) — retrieved 2026-11-14T05:29:14.337104+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [chennai](https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf) — retrieved 2026-11-14T05:30:12.007608+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [kartavya-pib](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48) — retrieved 2026-11-14T05:39:09.750161+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [delhi2017](https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf) — retrieved 2026-11-14T05:39:12.216355+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [kolkata-june-2017](https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf) — retrieved 2026-11-14T06:33:20.793640+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
+- [Verkhovna Rada of Ukraine](https://www.rada.gov.ua/en/news/News/top_news/131134.html) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
+- [ukraine-renamed-cities](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf) — retrieved 2026-11-14T17:55:32.373201+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [United Nations Digital Library](https://digitallibrary.un.org/record/1282124) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
+- [un-m49](https://unstats.un.org/unsd/methodology/m49/) — retrieved 2026-11-14T17:52:17.950854+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [karnataka-renames-browser](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf) — retrieved 2026-11-14T17:58:21.557845+00:00; Crown copyright; factual mappings only. Source capture retained for audit.
+- [india-factfile](https://assets.publishing.service.gov.uk/media/6ab67e78997a4b2950ccef41/India_Toponymic_Factfile.pdf) — retrieved 2026-11-14T17:54:32.313766+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [vietnam-factfile](https://assets.publishing.service.gov.uk/media/6a3a740deaee00074150f25f/Vietnam_Toponymic_Factfile.pdf) — retrieved 2026-11-14T17:54:32.315982+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [astana-city-decree](https://www.akorda.kz/ru/o-pereimenovanii-goroda-nur-sultana-stolicy-respubliki-kazahstan-v-gorod-astanu-stolicu-respubliki-kazahstan-1782457) — retrieved 2026-11-14T17:54:19.673982+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [za-factfile](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf) — retrieved 2026-11-14T17:54:19.673196+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [country-timeline](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present) — retrieved 2026-11-14T17:52:17.949846+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [prayagraj-history](https://prayagrajdivision.nic.in/about-department/introduction/) — retrieved 2026-11-14T17:57:23.415657+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 
 ## Gaps
 
 ### Ukraine
 - Current national directory and Kyiv street register not reconciled; Kharkiv coverage limited to the 48 street entries of order 513 В (26 July 2024), not the full city register
 - Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Dnipro, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities
-- Lviv-region appendix 2 direct access failed; conflicting recent Lviv city decisions not published
+- Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation
 ### Poland
-- TERYT/ULIC current-register comparison not completed; Łódź has 105 reviewed direct mappings from the municipal dictionary, not its full historical inventory
+- TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory
 - Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported
 ### South Africa
 - No municipal GIS geometry imported; Cape Town coverage is limited to eight unambiguous mappings; conflicting Lansdowne segments held for review; Pretoria includes the visitor map table with Church Street segments preserved
@@ -215,8 +409,8 @@ Initial selection; the street counts above exclude these records.
 - Hanoi source leads mostly new naming, length changes or drafts; not published as renames
 - Huế, Hải Phòng, Cần Thơ and other municipalities not imported; historical Saigon table not reconciled
 ### Kazakhstan
-- Almaty and Astana decisions only; no GIS reconciliation
-- Shymkent, Karaganda, Pavlodar, Aktobe, Kostanay, Semey, Öskemen, Taraz, Atyrau and other municipalities not imported
+- Almaty, Astana and Shymkent decisions imported; no GIS reconciliation
+- Karaganda, Pavlodar, Aktobe, Kostanay, Semey, Öskemen, Taraz, Atyrau and other municipalities not imported
 ### India
 - Delhi historical decisions imported, proposals excluded; Chennai pending text verification; Kolkata has one municipal-newsletter mapping, with the partial Moore Avenue lead held for review
 - Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported

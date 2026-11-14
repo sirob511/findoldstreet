@@ -40,7 +40,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "6be464e4db99d214",
@@ -83,7 +86,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "ae4a280e2363a5b3",
@@ -126,7 +132,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "a590c773494285b3",
@@ -169,7 +178,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "e77ae016c251edf1",
@@ -212,7 +224,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "f4540541f4167d0c",
@@ -255,7 +270,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "ed6375ed689f8d8d",
@@ -298,7 +316,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "610a41a9e16ac9eb",
@@ -342,6 +363,9 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ],
     "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
   },
   {
@@ -385,7 +409,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "bc44c7be4450418e",
@@ -428,7 +455,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "0a3b77f59b135944",
@@ -471,7 +501,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "a2b312178a0a27a8",
@@ -514,7 +547,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "60260c6dacddd93b",
@@ -557,7 +593,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "8c06b6bcf970ee74",
@@ -600,7 +639,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "99df0a6eb447ca87",
@@ -644,6 +686,9 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ],
     "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
   },
   {
@@ -687,7 +732,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "5baf7fabf0ccd027",
@@ -730,7 +778,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "cb1aaa23beaf19d0",
@@ -773,7 +824,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "b70d2d5aa80093a2",
@@ -816,7 +870,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "8d5c5ecfea33f5e3",
@@ -859,7 +916,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "69cff64bdc6fa861",
@@ -902,7 +962,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "b0676c1db71faa57",
@@ -945,7 +1008,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "99a061fb3f9aee0b",
@@ -988,7 +1054,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "1e134e92e527812f",
@@ -1031,7 +1100,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "d40cd10ce2667e76",
@@ -1074,7 +1146,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "0b38cf8f7f7f502d",
@@ -1117,7 +1192,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "1d7784ac106d1df0",
@@ -1160,7 +1238,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "e8322450d178627f",
@@ -1203,7 +1284,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "d768ddb24704a749",
@@ -1246,7 +1330,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "95d67bdb2e3eb1ab",
@@ -1290,6 +1377,9 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ],
     "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
   },
   {
@@ -1333,7 +1423,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "eb4fafc9e79e6c44",
@@ -1376,7 +1469,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "1a65f4ad91265cab",
@@ -1419,7 +1515,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "e204d07db6e40f42",
@@ -1462,7 +1561,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "dac316b32e464db8",
@@ -1505,7 +1607,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "02c84dead6c77df8",
@@ -1548,7 +1653,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "800464396154b438",
@@ -1591,7 +1699,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "1c56e4a050d3f035",
@@ -1634,7 +1745,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "7d2942bbf6261634",
@@ -1677,7 +1791,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "93d60745fd32b05a",
@@ -1720,7 +1837,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "ef62ce63eaa743b3",
@@ -1763,7 +1883,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "66cc2ef9c3884c2d",
@@ -1806,7 +1929,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "c4fae1a7ca282929",
@@ -1850,6 +1976,9 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ],
     "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
   },
   {
@@ -1893,7 +2022,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "46c27d7a5f090d90",
@@ -1936,7 +2068,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "b2cef905892152e2",
@@ -1979,7 +2114,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "8f4a6885811dead7",
@@ -2022,7 +2160,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "0d392360ecdcef6f",
@@ -2065,7 +2206,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "1ad8a93c7a2cbcb4",
@@ -2108,7 +2252,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Durban"
+    ]
   },
   {
     "id": "d28c8e5439f4dd45",
@@ -2151,7 +2298,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "d9ebf173ec4f30a9",
@@ -2194,7 +2345,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "bf174fc3d970ec36",
@@ -2237,7 +2392,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "ca91a8fa34a93a28",
@@ -2280,7 +2439,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "81b544fa9bd3271e",
@@ -2323,7 +2486,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "18bd9fe40090caad",
@@ -2366,7 +2533,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "1d92a2a933aea068",
@@ -2409,7 +2580,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria",
+      "CBD"
+    ]
   },
   {
     "id": "e9cb5c8052bdae4d",
@@ -2453,7 +2628,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Johannesburg"
+    ]
   },
   {
     "id": "9cd466c46d28817c",
@@ -2496,7 +2674,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "0e07cc99088b5bcc",
@@ -2539,7 +2720,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "7ba512521918c8ca",
@@ -2582,7 +2766,11 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town",
+      "Parklands"
+    ]
   },
   {
     "id": "5e5386a981a28177",
@@ -2625,7 +2813,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "a53ab5e078047447",
@@ -2668,7 +2859,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "d14a4be14941a110",
@@ -2713,7 +2907,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "3729a86432840fb2",
@@ -2756,7 +2953,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "1a7e016b9cdf7cf7",
@@ -2799,7 +2999,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "6505500e83145667",
@@ -2843,7 +3046,10 @@
     "segment": "Between Turfhall Road and Palmyra Road",
     "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "6c29ab07a8d56b20",
@@ -2887,7 +3093,10 @@
     "segment": "Between Wetton Road and Swartklip Road",
     "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "441a94f98e806c91",
@@ -2931,7 +3140,10 @@
     "segment": "Between Swartklip Road and Baden Powell Road",
     "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Cape Town"
+    ]
   },
   {
     "id": "162cde8be4f95e2f",
@@ -2974,7 +3186,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "db23515d2a3f1b06",
@@ -3017,7 +3232,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "55ada386bf6e0616",
@@ -3062,7 +3280,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "bac72cb950c3634f",
@@ -3105,7 +3326,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "efd669e2810accf5",
@@ -3148,7 +3372,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "81952466fbe9bbe9",
@@ -3191,7 +3418,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "78a44740d859b1ec",
@@ -3234,7 +3464,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "fdc2dc9f5ef9c800",
@@ -3277,7 +3510,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "2a49f9d38991ee85",
@@ -3320,7 +3556,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "81ddf2d272b560dc",
@@ -3363,7 +3602,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "a98ba7b847405e03",
@@ -3406,7 +3648,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "d7130bad8726fe58",
@@ -3449,7 +3694,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "ecadb77675ff818e",
@@ -3492,7 +3740,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "1e94ee650537e1f1",
@@ -3536,7 +3787,10 @@
     "segment": null,
     "reviewReason": "Source spells former name WILHEMINA; reconcile spelling with street register.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "b87842b80671250d",
@@ -3579,7 +3833,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "dfc4701d57f68f24",
@@ -3622,7 +3879,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "24c5d5ba0d17de9a",
@@ -3665,7 +3925,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "2924bd2f4d4465d1",
@@ -3708,7 +3971,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "4ebac1e5ac58454f",
@@ -3751,7 +4017,10 @@
     "houseNumbersVerified": false,
     "segment": "From Nelson Mandela Drive eastward",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "fb42b0e2b32341ce",
@@ -3794,7 +4063,10 @@
     "houseNumbersVerified": false,
     "segment": "From Nelson Mandela Drive to Church Square",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "f545d73572759b8a",
@@ -3837,7 +4109,10 @@
     "houseNumbersVerified": false,
     "segment": "From Church Square to R511",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   },
   {
     "id": "3cc07e48d8c6a4d3",
@@ -3881,6 +4156,9 @@
     "segment": "From R511 westward",
     "reviewReason": "Tourism map spells the name Elias Motswaledi; reconcile spelling with a municipal street register before publication.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Pretoria"
+    ]
   }
 ]

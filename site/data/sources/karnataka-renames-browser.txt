@@ -1,0 +1,74 @@
+Karnataka State India Name changes  (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf)
+citeturn13view0 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 2; Source: open({"ref_id":"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/387496/Karnataka_State_India_Name_Changes_20141112.pdf","lineno":null}); Total lines: 72
+L0@P0: INFORMATION PAPER
+L1@P0: © Crown Copyright 2014
+L2@P0: Karnataka State, India: Name Changes
+L3@P0: Karnataka is a state in South West India. The official language of the state is Kannada1
+L4@P0: .
+L5@P0: Karnataka comprises 30 second-order administrative divisions, known as districts 2
+L6@P0: . The
+L7@P0: governor of Karnataka has issued a notification, which came into effect on 1st November 2014,
+L8@P0: officially changing the spellings of the names of 12 cities in the state to reflect the names in the
+L9@P0: local Kannada language. Several of these cities are the administrative seats of the districts of
+L10@P0: the same name. While the official notification refers to the cities, it appears that the district
+L11@P0: names are also changing3
+L12@P0: .
+L13@P0: These name changes are not yet reflected on all Indian government websites. The previous
+L14@P0: spellings are still used in the list of districts on the Official Website of the Government of
+L15@P0: Karnataka, but the new names are included on the National Informatics Centre (NIC) website4
+L16@P0: and they can also be found on some district and city websites (see the table on the next page).
+L17@P0: It is likely to be some time before all names on signs are updated to reflect the changes5 and
+L18@P0: institutions such as Mysore University and Bangalore University are expected to retain their
+L19@P0: existing names6
+L20@P0: .
+L21@P0: PCGN policy for India is to use the Roman-script geographical names found on official sources7
+L22@P0: .
+L23@P0: The new names listed on the next page should be used for the populated places and the
+L24@P0: districts on all future UK government products or updates. In cases where the previous name is
+L25@P0: well-known or differs significantly from the new name, e.g. Bengaluru (Bangalore), Mangaluru
+L26@P0: (Mangalore), Vijayapura (Bijapur), Kalaburagi (Gulbarga) and Mysuru (Mysore), it may be
+L27@P0: helpful to include the previous name in brackets. The bracketed names may become obsolete
+L28@P0: in the future as the new spellings gain currency.
+L29@P0: Compiled by PCGN
+L30@P0: Tel. 0207 591 3120
+L31@P0: info@pcgn.org.uk
+L32@P0: December 2014
+L33@P0:  1 http://dpal.kar.nic.in/30%20of%201981%20(E).pdf The Karnataka Local Authorities (Official Language) Act, 1981. 2 https://www.karnataka.gov.in/pages/district-list.aspx Official Website of the Government of Karnataka. 3 http://www.kar.nic.in/proj2.asp National Informatics Centre (NIC): list of Karnataka district centres. 4 http://www.kar.nic.in/nicdist.asp The National Informatics Centre, Karnataka State Unit.
+L34@P0: 5 http://www.thehindu.com/news/cities/Mangalore/city-yet-to-embrace-mangaluru/article6639333.ece 6 http://indianexpress.com/article/cities/bangalore/bangalore-is-now-bengaluru/ ,
+L35@P0-1: http://timesofindia.indiatimes.com/city/mysore/University-of-Mysore-to-retain-name-for-now/articleshow/45002894.cms 7 The primary source for names in India is Survey of India mapping.INFORMATION PAPER
+L36@P1: © Crown Copyright 2014
+L37@P1: New Roman-script Names (approved by the Ministry of Science and Technology, Government of India)
+L38@P1: Previous name New Romanscript name8
+L39@P1: Official Administrative Websites PCGN Recommended Name
+L40@P1: Bangalore Bengaluru* Bangalore Rural district website http://bangalorerural.kar.nic.in
+L41@P1: Bangalore Urban district website http://bangaloreurban.nic.in
+L42@P1: City website http://bbmp.gov.in
+L43@P1: Bengaluru (Bangalore)
+L44@P1: Mangalore Mangaluru City website http://www.mangalorecity.gov.in Mangaluru (Mangalore)
+L45@P1: Bellary Ballari* District website http://www.bellary.nic.in/home.htm
+L46@P1: City website http://bellarycity.gov.in/
+L47@P1: Ballari
+L48@P1: Bijapur Vijayapura* District website http://www.bijapur.nic.in
+L49@P1: City website http://bijapurcity.gov.in/
+L50@P1: Vijayapura (Bijapur)
+L51@P1: Belgaum Belagavi* District website http://www.belgaum.nic.in/admin.html
+L52@P1: City website http://belgaumcity.gov.in/citystaff
+L53@P1: Belagavi
+L54@P1: Chikmagalur Chikkamagaluru* District website http://www.chickmagalur.nic.in
+L55@P1: City website http://www.chickamagalurcity.gov.in/
+L56@P1: Chikkamagaluru
+L57@P1: Gulbarga Kalaburagi* District website http://www.gulbarga.nic.in
+L58@P1: City website http://www.gulbargacity.gov.in/
+L59@P1: Kalaburagi (Gulbarga)
+L60@P1: Mysore Mysuru* District website http://www.mysore.nic.in
+L61@P1: City website http://www.mysorecity.gov.in/
+L62@P1: Mysuru (Mysore)
+L63@P1: Hospet Hosapete City website http://www.hospetcity.gov.in/ Hosapete
+L64@P1: Shimoga Shivamogga* City website http://www.shimogacity.gov.in
+L65@P1: District website http://www.shimoga.nic.in
+L66@P1: Shivamogga
+L67@P1: Hubli Hubballi City website http://www.hdmc.gov.in Hubballi
+L68@P1: Tumkur Tumakuru* District website http://tumkur.nic.in
+L69@P1: City website http://www.tumkurcity.gov.in/
+L70@P1: Tumakuru
+L71@P1:  8 Names marked with an asterisk indicate that this is the name of both the district and its administrative seat.

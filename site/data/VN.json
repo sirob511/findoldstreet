@@ -44,7 +44,11 @@
     "houseNumbersVerified": false,
     "segment": "From cầu Sài Gòn to ngã tư Thủ Đức. The remaining Xa lộ Hà Nội is not included.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Ho Chi Minh City",
+      "Thu Duc (at time of decision)"
+    ]
   },
   {
     "id": "2fb606e51215fca1",
@@ -97,7 +101,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Ho Chi Minh City"
+    ]
   },
   {
     "id": "02d4784a6ce3379d",
@@ -151,7 +158,10 @@
     "houseNumbersVerified": false,
     "segment": null,
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Ho Chi Minh City"
+    ]
   },
   {
     "id": "c4de1961623e15ce",
@@ -198,7 +208,11 @@
     "segment": null,
     "reviewReason": "Historical mapping found; independent current-name confirmation not completed.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Ho Chi Minh City",
+      "Quan 5"
+    ]
   },
   {
     "id": "3ee9d2a1d524a97d",
@@ -245,6 +259,10 @@
     "segment": null,
     "reviewReason": "Historical mapping found; independent current-name confirmation not completed.",
     "currentStatusVerified": false,
-    "geometry": null
+    "geometry": null,
+    "locationAliases": [
+      "Ho Chi Minh City",
+      "Quan 1"
+    ]
   }
 ]
