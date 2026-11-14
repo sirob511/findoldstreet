@@ -1410,6 +1410,40 @@
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
+    },
+    {
+      "id": "postal-p2-cities-96cfbe084f",
+      "country": "UA",
+      "title": "Ukrposhta city search: Харків",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2",
+      "file": "postal-p2-cities-96cfbe084f.json",
+      "sha256": "6530532db5d078030b473b000dc139b450e6684ad312ad307d8bf860e31e7454",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:22:38.694829+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required.",
+      "manifest": "pass-2-manifest.json",
+      "publishedRecords": 0,
+      "reviewRecords": 0,
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "captureHashVerified": true
+    },
+    {
+      "id": "postal-p2-streets-24550",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Харків",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=280&district_id=395&city_id=24550&street_ua=",
+      "file": "postal-p2-streets-24550.json",
+      "sha256": "75ce55f68066a26c27c6ba81afda5449fda6483146176a8b89325a8983246e10",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:22:40.815700+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required.",
+      "manifest": "pass-2-manifest.json",
+      "publishedRecords": 759,
+      "reviewRecords": 0,
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "captureHashVerified": true
     }
   ],
   "additionalRecordSources": [

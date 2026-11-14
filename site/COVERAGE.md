@@ -2,13 +2,13 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-2,482 published records across 29 countries: 2,393 streets/segments, 66 cities and 23 country-name mappings.
+3,241 published records across 29 countries: 3,152 streets/segments, 66 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
-| Ukraine | 1742 | 1742 | 197 | 28 |
+| Ukraine | 2501 | 2501 | 197 | 28 |
 | Poland | 213 | 294 | 3 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
@@ -20,6 +20,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | Pass | Target | New published | Total published | Scope |
 |---|---:|---:|---:|---|
 | 1 | 500 | 837 | 2482 | Dnipro postal street-name mappings |
+| 2 | 500 | 759 | 3241 | Kharkiv postal street-name mappings |
 
 ## City and country renamings
 
@@ -305,7 +306,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Тухля | 1 | 1 | 0 |
 | Ukraine | Тщенець | 1 | 1 | 0 |
 | Ukraine | Утішків | 1 | 1 | 0 |
-| Ukraine | Харків | 48 | 48 | 0 |
+| Ukraine | Харків | 807 | 807 | 0 |
 | Ukraine | Ходорів | 1 | 1 | 0 |
 | Ukraine | Червоноград | 4 | 4 | 0 |
 | Ukraine | Черляни | 1 | 1 | 0 |
@@ -340,6 +341,7 @@ Initial selection; the street counts above exclude these records.
 - [Kharkiv regional administration order 513 В, 26 July 2024](https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF) — retrieved 2026-11-14T06:33:20.301039+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
 - [lviv-appendix2-browser](https://loda.gov.ua/documents/111760) — retrieved 2026-11-14T17:55:32.085281+00:00; CC BY 4.0 per source footer. Attribution: Lviv Regional Military Administration.
 - [Ukrposhta street address classifier: Дніпро](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=264&district_id=301&city_id=3641&street_ua=) — retrieved 2026-11-14T18:19:50.283569+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Харків](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=280&district_id=395&city_id=24550&street_ua=) — retrieved 2026-11-14T18:22:40.815700+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [warsaw1](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx) — retrieved 2026-11-14T05:29:17.305724+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [warsaw2](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx) — retrieved 2026-11-14T05:29:14.328887+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [krakow-law](https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf) — retrieved 2026-11-14T05:41:41.578526+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -401,7 +403,7 @@ Initial selection; the street counts above exclude these records.
 ## Gaps
 
 ### Ukraine
-- Current national directory and Kyiv street register not reconciled; Kharkiv coverage limited to the 48 street entries of order 513 В (26 July 2024), not the full city register
+- Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete
 - Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities
 - Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation
 ### Poland

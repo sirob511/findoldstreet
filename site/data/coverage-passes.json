@@ -12,5 +12,20 @@
       "Search regression tests",
       "Static build and SEO checks"
     ]
+  },
+  {
+    "passNumber": 2,
+    "target": 500,
+    "newPublishedRecords": 759,
+    "totalPublishedRecords": 3241,
+    "scope": "Kharkiv postal street-name mappings",
+    "heldCandidates": 76,
+    "sourceReview": "835 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names, existing-record overlaps and non-street objects excluded.",
+    "validation": [
+      "Captured-field equality and SHA-256 checks",
+      "Search regression tests",
+      "Static build and SEO checks",
+      "Mobile search → detail → source browser check"
+    ]
   }
 ]
