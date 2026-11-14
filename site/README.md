@@ -50,3 +50,32 @@ URLs and sitemaps point to the correct domain.
 Stable routes are `/{locale}/street/{id}/`. Every alias searches the same record and links to that route. City routes use stable hashes of source locality names. Source spellings are never silently translated. District labels refer to the cited decision's geography; newer administrative boundary changes may not be reconciled.
 
 This is an initial release, not exhaustive worldwide or national coverage. Maps open name/locality searches on OpenStreetMap; verified geometry, OSM object history, general OCR and municipal-register reconciliation remain unfinished. The coverage report lists these gaps explicitly. Translations need native-speaker editorial review.
+
+## Search and AI discoverability
+
+Every published street and locality has crawlable HTML, canonical URLs and
+reciprocal language links. Pages include descriptive metadata, social preview
+metadata and JSON-LD; street metadata cites original evidence. The coverage page
+identifies the downloadable dataset without claiming an unverified reuse licence.
+`robots.txt` permits crawlers, including AI search crawlers, and advertises the
+sitemap. `llms.txt` is an optional navigation guide, not an indexing requirement
+or a guarantee that an AI service will cite the site.
+
+Set `SITE_ORIGIN=https://your-public-domain` in production. On Vercel, if omitted,
+`VERCEL_PROJECT_PRODUCTION_URL` supplies the production origin. A Vercel build
+without either value fails rather than publishing canonicals for the private
+Sites host. Local builds retain the original Sites default. Preview builds use
+`noindex`; the root URL permanently redirects to `/en/` on Vercel.
+
+After deploying, ensure the production site is publicly accessible without login
+or bot challenges. Verify domain ownership in Google Search Console and Bing
+Webmaster Tools and submit `/sitemap.xml`. These account steps are separate from
+repository configuration. Indexing, ranking and AI citations are not guaranteed.
+
+Verification:
+
+```sh
+python3 tests/metadata.py
+npm run build
+python3 tests/seo.py
+```

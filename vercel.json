@@ -3,5 +3,13 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "python3 site/scripts/build.py",
-  "outputDirectory": "site/dist"
+  "outputDirectory": "site/dist",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/en/",
+      "permanent": true
+    }
+  ]
 }

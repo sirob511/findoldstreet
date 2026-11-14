@@ -18,7 +18,7 @@ def shell(l,suffix,title,body,app=False,noindex=False,description=None,record=No
  seo=metadata(ORIGIN,l,suffix,title,description,record,noindex)
  t=T[l];langs=''.join(f'<option value="{k}" {"selected" if k==l else ""}>{v["name"]}</option>' for k,v in T.items());alt=''.join(f'<link rel="alternate" hreflang="{k}" href="{ORIGIN}{path(k,suffix)}">' for k in T)
  brand=f'<a class="brand" href="/{l}/"><span class="brandmark" aria-hidden="true">↱</span>FindOldStreet<em>.</em></a>'
- return f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} | FindOldStreet</title><meta name="description" content="{e(description)}"><link rel="canonical" href="{ORIGIN}{path(l,suffix)}">{alt}<link rel="alternate" hreflang="x-default" href="{ORIGIN}{path('en',suffix)}">{seo}<meta name="theme-color" content="#245b48"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"></head><body><a class="skip" href="#main">{e(t['skip'])}</a><header><div class="wrap"><div class="nav">{brand}<nav aria-label="{e(t['home'])}"><a href="/{l}/">{e(t['search'])}</a><a href="/{l}/coverage/">{e(t['coverage'])}</a><a href="/{l}/about/">{e(t['about'])}</a></nav><label class="language-label">{e(t['languages'])}<select class="language" id="locale" aria-label="{e(t['languages'])}">{langs}</select></label></div></div></header><main class="wrap" id="main">{body}<footer class="footer">{brand}<span>{e(t['footer'])}</span><a href="/{l}/coverage/">{e(t['coverage'])} ↗</a></footer></main><script type="module" src="/app.mjs"></script></body></html>'''
+ return f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} | FindOldStreet</title><meta name="description" content="{e(description)}"><link rel="canonical" href="{ORIGIN}{path(l,suffix)}">{alt}<link rel="alternate" hreflang="x-default" href="{ORIGIN}{path('en',suffix)}">{seo}<meta name="theme-color" content="#245b48"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="application/json" href="/records.json" title="Documented street renamings"></head><body><a class="skip" href="#main">{e(t['skip'])}</a><header><div class="wrap"><div class="nav">{brand}<nav aria-label="{e(t['home'])}"><a href="/{l}/">{e(t['search'])}</a><a href="/{l}/coverage/">{e(t['coverage'])}</a><a href="/{l}/about/">{e(t['about'])}</a></nav><label class="language-label">{e(t['languages'])}<select class="language" id="locale" aria-label="{e(t['languages'])}">{langs}</select></label></div></div></header><main class="wrap" id="main">{body}<footer class="footer">{brand}<span>{e(t['footer'])}</span><a href="/{l}/coverage/">{e(t['coverage'])} ↗</a></footer></main><script type="module" src="/app.mjs"></script></body></html>'''
 def write(p,s):
  p=D/p;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(s)
 SAMPLES=[]
@@ -57,10 +57,35 @@ for l,t in T.items():
  write(f'sitemap-{l}.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{ORIGIN}/{l}/{u}</loc></url>' for u in urls)+'</urlset>')
 write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<sitemap><loc>{ORIGIN}/sitemap-{l}.xml</loc></sitemap>' for l in T)+'</sitemapindex>')
 write('robots.txt',f'User-agent: *\nAllow: /\nSitemap: {ORIGIN}/sitemap.xml\n')
+# Optional machine-readable orientation; crawlable HTML and sitemaps remain primary.
+write('llms.txt',f'''# FindOldStreet
+
+> Source-backed lookup of documented street renamings. Coverage is incomplete.
+
+## Browse
+- [Search]({ORIGIN}/en/): Search former names, aliases, and localities.
+- [Coverage]({ORIGIN}/en/coverage/): {len(DATA)} published records in {len(groups)} localities across {len(COUNTRIES)} countries.
+- [Methodology]({ORIGIN}/en/about/): Evidence standards and limitations.
+- [Sitemap]({ORIGIN}/sitemap.xml): All published locale, street, and city pages.
+
+## Data
+- [Records]({ORIGIN}/records.json): JSON with stable IDs, rename history, source URLs, dates, and verification flags.
+- [Coverage report]({ORIGIN}/coverage-report.json): Coverage counts and source limitations.
+
+## Interpretation
+- A documented rename is not proof of present-day official map identity.
+- House numbers and geometry are not verified. Do not infer house-number equivalence.
+- Partial renamings apply only to the stated segment.
+- Decision dates and ceremony dates are distinct from effective dates; unknown dates remain null.
+- Cite the relevant /en/street/{{id}}/ page and its original evidence.
+- Source-language names are preserved; transliterations are search aids.
+- The published dataset excludes records awaiting review.
+''')
 write('index.html',(D/'en/index.html').read_text().replace(f'{ORIGIN}/en/"',f'{ORIGIN}/en/"'))
 write('404.html',shell('en','','Page not found','<div class="pagehead"><h1>Page not found</h1><a class="primary" href="/en/">Find a street →</a></div>',noindex=True))
 write('records.json',json.dumps(DATA,ensure_ascii=False,separators=(',',':')))
 write('i18n.json',json.dumps(T,ensure_ascii=False))
+shutil.copy(R/'data/coverage-report.json',D/'coverage-report.json')
 for file in ['style.css','app.mjs','search.mjs']:shutil.copy(R/'src'/file,D/file)
 write('favicon.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="13" fill="#245b48"/><path d="M23 49V28h25M38 18l10 10-10 10" fill="none" stroke="#fff" stroke-width="5"/></svg>')
 print(f'Built {len(DATA)} records, {len(groups)} localities, {len(T)} locales; {len(list(D.rglob("*.html")))} HTML pages')
