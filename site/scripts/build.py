@@ -1,9 +1,10 @@
 import json,pathlib,html,shutil,os,collections,hashlib,urllib.parse
+from seo import site_origin, metadata
+ORIGIN=site_origin()
 R=pathlib.Path(__file__).resolve().parents[1];D=R/'dist'
 if D.exists():shutil.rmtree(D)
 D.mkdir()
 T=json.loads((R/'src/i18n.json').read_text()); ALL=sum([json.loads((R/'data'/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN']],[]);DATA=[r for r in ALL if r['status']=='verified']
-ORIGIN=os.getenv('SITE_ORIGIN','https://findoldstreet.amusingdelta5.chatgpt.site').rstrip('/')
 COUNTRIES=['UA','PL','ZA','VN','KZ','IN'];COUNTRY_ALIASES={'UA':'Ukraine','PL':'Poland','ZA':'South Africa','VN':'Vietnam','KZ':'Kazakhstan','IN':'India'}
 def e(x):return html.escape(str(x or ''),quote=True)
 def city_id(r):return r['country'].lower()+'-'+hashlib.sha256(r['city'].encode()).hexdigest()[:10]
@@ -12,10 +13,12 @@ def path(lang,suffix=''):return f'/{lang}/{suffix}'
 def card(r,l):
  t=T[l];url=path(l,'street/'+r['id']+'/')
  return f'''<article class="card"><div class="cardloc"><span class="countrydot">{r['country']}</span>{e(r['city'])}<span class="badge">{e(t['partial']) if r.get('segment') else ''}</span></div><a class="names" href="{url}" aria-label="{e(t['detail'])}: {e(r['formerName'])}"><span class="label">{e(t['old'])}</span><div class="oldname">{e(r['formerName'])}</div><div class="name-arrow">↓</div><span class="label">{e(t['current'])}</span><div class="currentname">{e(r['currentName'])}</div></a>{f'<span class="district">{e(r["district"])}</span>' if r['district'] else ''}<div class="cardbottom"><span class="checked">✓ {e(t['verified'])}</span><a class="maplink" href="{map_url(r)}" target="_blank" rel="noopener">{e(t['map'])} ↗</a></div></article>'''
-def shell(l,suffix,title,body,app=False,noindex=False):
+def shell(l,suffix,title,body,app=False,noindex=False,description=None,record=None):
+ description=description or (T[l]["intro"] if not suffix else title+". "+T[l]["intro"])
+ seo=metadata(ORIGIN,l,suffix,title,description,record,noindex)
  t=T[l];langs=''.join(f'<option value="{k}" {"selected" if k==l else ""}>{v["name"]}</option>' for k,v in T.items());alt=''.join(f'<link rel="alternate" hreflang="{k}" href="{ORIGIN}{path(k,suffix)}">' for k in T)
  brand=f'<a class="brand" href="/{l}/"><span class="brandmark" aria-hidden="true">↱</span>FindOldStreet<em>.</em></a>'
- return f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} | FindOldStreet</title><meta name="description" content="{e(t['intro'])}"><link rel="canonical" href="{ORIGIN}{path(l,suffix)}">{alt}<link rel="alternate" hreflang="x-default" href="{ORIGIN}{path('en',suffix)}">{'<meta name="robots" content="noindex">' if noindex else ''}<meta name="theme-color" content="#245b48"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"></head><body><a class="skip" href="#main">{e(t['skip'])}</a><header><div class="wrap"><div class="nav">{brand}<nav aria-label="{e(t['home'])}"><a href="/{l}/">{e(t['search'])}</a><a href="/{l}/coverage/">{e(t['coverage'])}</a><a href="/{l}/about/">{e(t['about'])}</a></nav><label class="language-label">{e(t['languages'])}<select class="language" id="locale" aria-label="{e(t['languages'])}">{langs}</select></label></div></div></header><main class="wrap" id="main">{body}<footer class="footer">{brand}<span>{e(t['footer'])}</span><a href="/{l}/coverage/">{e(t['coverage'])} ↗</a></footer></main><script type="module" src="/app.mjs"></script></body></html>'''
+ return f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} | FindOldStreet</title><meta name="description" content="{e(description)}"><link rel="canonical" href="{ORIGIN}{path(l,suffix)}">{alt}<link rel="alternate" hreflang="x-default" href="{ORIGIN}{path('en',suffix)}">{seo}<meta name="theme-color" content="#245b48"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"></head><body><a class="skip" href="#main">{e(t['skip'])}</a><header><div class="wrap"><div class="nav">{brand}<nav aria-label="{e(t['home'])}"><a href="/{l}/">{e(t['search'])}</a><a href="/{l}/coverage/">{e(t['coverage'])}</a><a href="/{l}/about/">{e(t['about'])}</a></nav><label class="language-label">{e(t['languages'])}<select class="language" id="locale" aria-label="{e(t['languages'])}">{langs}</select></label></div></div></header><main class="wrap" id="main">{body}<footer class="footer">{brand}<span>{e(t['footer'])}</span><a href="/{l}/coverage/">{e(t['coverage'])} ↗</a></footer></main><script type="module" src="/app.mjs"></script></body></html>'''
 def write(p,s):
  p=D/p;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(s)
 SAMPLES=[]
@@ -37,7 +40,7 @@ for l,t in T.items():
   sources=''.join(f'<div class="sourceitem"><a href="{e(s["url"])}" target="_blank" rel="noopener">{e(urllib.parse.urlparse(s["url"]).netloc)} ↗</a><small>{e(s["retrievedAt"][:10])}</small></div>' for s in r['sources'])
   seg=f'<div class="segment"><strong>{e(t["partial"])}</strong><br>{e(r["segment"])}</div>' if r.get('segment') else ''
   body=f'''<div class="pagehead"><a class="back" href="/{l}/">← {e(t['back'])}</a><h1>{e(r['formerName'])} <span>→</span><br>{e(r['currentName'])}</h1><p>{e(r['city'])} · {e(t['countryNames'][r['country']])} <span class="checked"> · ✓ {e(t['verified'])}</span></p></div><div class="detailgrid"><div><section class="panel"><h2>{e(t['history'])}</h2><ol class="timeline">{history}</ol></section><section class="panel"><h2>{e(t['evidence'])}</h2>{sources}<p>{e(t['freshness'])}</p><p>{e(t['sourceName'])}</p>{f'<details><summary>{e(t["translit"])}</summary><p>{e(" · ".join(r["transliterations"]))}</p></details>' if r['transliterations'] else ''}</section></div><aside><section class="panel"><h2>{e(t['current'])}</h2><div class="currentname">{e(r['currentName'])}</div><dl class="metadata"><div><dt>{e(t['locality'])}</dt><dd><a href="/{l}/city/{city_id(r)}/">{e(r['city'])} ↗</a></dd></div><div><dt>{e(t['district'])}</dt><dd>{e(r['district'] or t['notRecorded'])}</dd></div></dl>{seg}<a class="primary" href="{map_url(r)}" target="_blank" rel="noopener">{e(t['map'])} ↗</a><div class="note">{e(t['streetOnly'])}</div><p>{e(t['mapText'])}</p></section></aside></div>'''
-  write(f'{l}/street/{r["id"]}/index.html',shell(l,'street/'+r['id']+'/',f'{r["formerName"]} → {r["currentName"]}, {r["city"]}',body))
+  write(f'{l}/street/{r["id"]}/index.html',shell(l,'street/'+r['id']+'/',f'{r["formerName"]} → {r["currentName"]}, {r["city"]}',body,description=f'{r["formerName"]} → {r["currentName"]}, {r["city"]}. '+t['history']+'. '+t['streetOnly'],record=r))
  groups=collections.defaultdict(list)
  for r in DATA:groups[(r['country'],r['city'])].append(r)
  rows=''
