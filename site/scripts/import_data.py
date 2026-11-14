@@ -8,7 +8,7 @@ D=pathlib.Path(__file__).resolve().parents[1]/'data'; S=D/'sources'
 MAN={}
 for f in sorted(S.glob('*manifest.json'),key=lambda p:('browser' in p.name,p.name)):
  for s in json.loads(f.read_text()): MAN[s['id']]=s
-LANG={'UA':'uk','PL':'pl','ZA':'en','VN':'vi','KZ':'ru','IN':'en','UZ':'ru','EE':'et','LT':'lt','LV':'lv','DE':'de','MD':'ro'}
+LANG={'UA':'uk','PL':'pl','ZA':'en','VN':'vi','KZ':'ru','IN':'en','UZ':'ru','EE':'et','LT':'lt','LV':'lv','DE':'de','MD':'ro','CZ':'cs'}
 def source(key):
  m=MAN[key];return {k:m.get(k) for k in ['url','retrievedAt','reuseTerms','sha256']}|{'title':m.get('title',key),'id':key}
 def record(c,city,old,new,key,locator,district=None,date=None,segment=None,status='verified',document=None):

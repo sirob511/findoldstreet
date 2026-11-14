@@ -9,6 +9,8 @@ rows=json.loads((R/'data/international.json').read_text());by_id={r['id']:r for 
 assert len(by_id)==len(rows)
 man={s['id']:s for p in S.glob('*manifest.json') for s in json.loads(p.read_text())}
 tables={}
+from brno_coverage import brno_index,profile
+brno=brno_index()
 register=wroclaw_register()
 vilnius_names=vilnius_register()
 count=0
@@ -47,6 +49,14 @@ for p in S.glob('international-pass-*-additions.json'):
             from international_coverage import norm
             assert len(vilnius_names[norm(r['currentName'])])==1
             assert item['addressRegisterStreetCode'] in vilnius_names[norm(r['currentName'])]
+        if item['source'].startswith('brno-profile-'):
+            sid=item['source'].removeprefix('brno-profile-')
+            if sid not in tables:tables[sid]=profile(sid)
+            title,district,history=tables[sid]
+            assert not brno[sid]['abolished']
+            assert title==brno[sid]['name']==r['currentName']==history[-1]['label']
+            assert district==r['district'] and history==item['sourceHistory']
+            assert history[item['evidenceRow']]['label']==r['formerName']
         count+=1
 assert count==len(rows)
 for locale,t in json.loads((R/'src/i18n.json').read_text()).items():

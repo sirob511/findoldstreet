@@ -1,6 +1,6 @@
 import pathlib,json,collections,datetime
 R=pathlib.Path(__file__).resolve().parents[1];D=R/'data';rows=sum([json.loads((D/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN','international']],[])
-names={'UA':'Ukraine','PL':'Poland','ZA':'South Africa','VN':'Vietnam','KZ':'Kazakhstan','IN':'India','UZ':'Uzbekistan','LT':'Lithuania'}
+names={'UA':'Ukraine','PL':'Poland','ZA':'South Africa','VN':'Vietnam','KZ':'Kazakhstan','IN':'India','UZ':'Uzbekistan','LT':'Lithuania','CZ':'Czechia'}
 gaps={
 'UA':['Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete','Postal-classifier captures supplement the cities listed in this report; other municipalities and complete historical rename chains remain gaps','Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation'],
 'PL':['TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory','Wrocław historical pairs checked against municipal EMUiA name/type inventory; boundaries and house numbers remain unverified. Poznań, Gdańsk, Szczecin, Katowice, Lublin and Białystok remain gaps'],
@@ -10,6 +10,7 @@ gaps={
 'IN':['Delhi historical decisions imported, proposals excluded; Chennai pending text verification; Kolkata has one municipal-newsletter mapping, with the partial Moore Avenue lead held for review','Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported','British Council historical table not imported; newer municipal registers not systematically compared']}
 gaps['UZ']=['Tashkent directory mappings only; legal decisions, current national register and geometry not reconciled. Numbered lanes are separate source objects; ambiguous and partial mappings held.']
 gaps['LT']=['Vilnius historical names only; current-name existence cross-checked against an address-register-derived road inventory. Ambiguous labels and unmatched destinations withheld; historical geometry, complete legal chains and other Lithuanian municipalities remain gaps.']
+gaps['CZ']=['Brno profiles from the first 18 alphabetic index pages; remaining profiles and other cities not imported. Abolished streets and combined labels excluded. Full legal histories and geometry remain unverified.']
 city=[];countries=[]
 for c in names:
  rr=[r for r in rows if r['country']==c];verified=[r for r in rr if r['status']=='verified']

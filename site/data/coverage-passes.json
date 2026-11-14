@@ -116,5 +116,19 @@
       "Search regression tests",
       "Static build and SEO checks"
     ]
+  },
+  {
+    "passNumber": 9,
+    "target": 500,
+    "newPublishedRecords": 569,
+    "totalPublishedRecords": 9011,
+    "scope": "Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions",
+    "heldCandidates": 1292,
+    "sourceReview": "data/sources/international-pass-9-review.json",
+    "validation": [
+      "Source hash and exact-pair checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ]
   }
 ]
