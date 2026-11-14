@@ -15,6 +15,8 @@ for(const locale of ['en','uk','ru','pl','vi','zu','kk','hi','mr','bn','ta']){
 await page.goto('http://localhost:4173/en/');
 await page.waitForFunction(()=>document.querySelector('#cities').options.length>0);
 await page.locator('#query').fill('123 Smith Street');
+await page.waitForFunction(()=>document.querySelector('#resultgrid').textContent.includes('Anton Lembede') && document.querySelectorAll('#resultgrid .card').length>1);
+await page.locator('#city').fill('Durban');
 await page.waitForFunction(()=>document.querySelector('#resultgrid').textContent.includes('Anton Lembede') && document.querySelectorAll('#resultgrid .card').length===1);
 if(!(await page.locator('#resultcount').innerText()).includes('1'))throw Error('Live result count failed');
 if(!await page.locator('footer a[href="https://oddlogic.ai"]').isVisible())throw Error('Footer credit missing');
