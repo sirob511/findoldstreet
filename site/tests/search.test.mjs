@@ -39,3 +39,10 @@ test('expanded city and country coverage works in the shared box',()=>{
  assert.ok(search(all,'Shymkent').length>=171);
  assert.ok(search(all,'Drohobych').length>0);
 });
+
+
+test('postal snapshot mappings support one-box locality searches without invented dates',()=>{
+ const r=search(all,'Брюллова, Dnipro').find(r=>r.id==='postal-ua-166995');
+ assert.ok(r);assert.equal(r.currentName,'провулок Бойчуківський');
+ assert.equal(r.events[0].date,null);assert.equal(r.events[0].datePrecision,'unknown');
+});

@@ -1,7 +1,23 @@
 {
+  "expansionPasses": [
+    {
+      "passNumber": 1,
+      "target": 500,
+      "newPublishedRecords": 837,
+      "totalPublishedRecords": 2482,
+      "scope": "Dnipro postal street-name mappings",
+      "heldCandidates": 64,
+      "sourceReview": "901 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names and non-street objects excluded.",
+      "validation": [
+        "Captured-field equality and SHA-256 checks",
+        "Search regression tests",
+        "Static build and SEO checks"
+      ]
+    }
+  ],
   "publishedSummary": {
-    "records": 1645,
-    "streets": 1556,
+    "records": 2482,
+    "streets": 2393,
     "cities": 66,
     "countryNames": 23,
     "countriesRepresented": 29
@@ -4364,13 +4380,13 @@
     {
       "country": "UA",
       "name": "Ukraine",
-      "verifiedStreets": 905,
-      "renameEvents": 905,
+      "verifiedStreets": 1742,
+      "renameEvents": 1742,
       "reviewRecords": 28,
-      "publishedLocalities": 196,
+      "publishedLocalities": 197,
       "gaps": [
         "Current national directory and Kyiv street register not reconciled; Kharkiv coverage limited to the 48 street entries of order 513 В (26 July 2024), not the full city register",
-        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Dnipro, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
+        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
         "Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation"
       ]
     },
@@ -4767,6 +4783,13 @@
       "municipality": "Демня",
       "verifiedStreets": 1,
       "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Дніпро",
+      "verifiedStreets": 837,
+      "renameEvents": 837,
       "reviewRecords": 0
     },
     {
@@ -5947,7 +5970,7 @@
       "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
       "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
       "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
-      "title": "kharkiv-july-2024",
+      "title": "Kharkiv regional administration order 513 В, 26 July 2024",
       "id": "kharkiv-july-2024"
     },
     {
@@ -5957,6 +5980,14 @@
       "sha256": "549fb59743a3eb00d1fcc646d294ec91f2579f5eb65b19f0dfd2523f2dae6f0a",
       "title": "lviv-appendix2-browser",
       "id": "lviv-appendix2-browser"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=264&district_id=301&city_id=3641&street_ua=",
+      "retrievedAt": "2026-11-14T18:19:50.283569+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "0d23539177e99a1808fe598e7ed3167cce7c3aab7148d21d4d85192ea7875ce8",
+      "title": "Ukrposhta street address classifier: Дніпро",
+      "id": "postal-p1-streets-3641"
     },
     {
       "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
@@ -5987,7 +6018,7 @@
       "retrievedAt": "2026-11-14T06:35:49.567078+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "7b31ebec4b7d7d094aeef942992e200c4c8db86cabee41034c66e127c8f76e94",
-      "title": "lodz-slownik-w",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: w",
       "id": "lodz-slownik-w"
     },
     {
@@ -5995,7 +6026,7 @@
       "retrievedAt": "2026-11-14T06:35:48.128246+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "3ac35912d5be06830701e8348e659ed542c989842f3a2cc25075f53267d09245",
-      "title": "lodz-slownik-t",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: t",
       "id": "lodz-slownik-t"
     },
     {
@@ -6003,7 +6034,7 @@
       "retrievedAt": "2026-11-14T06:35:40.941007+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "c2945eb21003072e5e2ad3cf9c516742571ab77239bccde70c68825fd0de9284",
-      "title": "lodz-slownik-g",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: g",
       "id": "lodz-slownik-g"
     },
     {
@@ -6011,7 +6042,7 @@
       "retrievedAt": "2026-11-14T06:35:45.222566+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "f73c047cf131f9ce1466663376165d38bfb6af669eb55b0e99c5158c729c1ff6",
-      "title": "lodz-slownik-o",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: o",
       "id": "lodz-slownik-o"
     },
     {
@@ -6019,7 +6050,7 @@
       "retrievedAt": "2026-11-14T06:35:49.188199+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "0b6c9b0d7b718a428bb6fb59edc15e2e56c6667954c632da36d3089e8ab96c67",
-      "title": "lodz-slownik-u",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: u",
       "id": "lodz-slownik-u"
     },
     {
@@ -6027,7 +6058,7 @@
       "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
-      "title": "lodz-slownik-k",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: k",
       "id": "lodz-slownik-k"
     },
     {
@@ -6035,7 +6066,7 @@
       "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
-      "title": "lodz-slownik-d",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: d",
       "id": "lodz-slownik-d"
     },
     {
@@ -6043,7 +6074,7 @@
       "retrievedAt": "2026-11-14T06:35:50.457077+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "20dd9faeabdad50de354dffd2c77da374664b459cc2f655b93d914f499cabdcc",
-      "title": "lodz-slownik-z",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: z",
       "id": "lodz-slownik-z"
     },
     {
@@ -6051,7 +6082,7 @@
       "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
-      "title": "lodz-slownik-p",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: p",
       "id": "lodz-slownik-p"
     },
     {
@@ -6059,7 +6090,7 @@
       "retrievedAt": "2026-11-14T06:35:36.461338+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "3b3cfb0ace61cbf1109e8b99af95d9a38d2f9c6484e563a3a110f10704fc67bb",
-      "title": "lodz-slownik-b",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: b",
       "id": "lodz-slownik-b"
     },
     {
@@ -6067,7 +6098,7 @@
       "retrievedAt": "2026-11-14T06:35:40.581920+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "bbed53d8ee1643d89b44a518c6fe3e0d12895feec3d6beae55579810f7d5c47c",
-      "title": "lodz-slownik-f",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: f",
       "id": "lodz-slownik-f"
     },
     {
@@ -6075,7 +6106,7 @@
       "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
-      "title": "lodz-slownik-s",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: s",
       "id": "lodz-slownik-s"
     },
     {
@@ -6083,7 +6114,7 @@
       "retrievedAt": "2026-11-14T06:35:39.817144+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "328dda76af323e1eef7688638efcb772b6649cff1993c901dcddc06b3292b1da",
-      "title": "lodz-slownik-e",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: e",
       "id": "lodz-slownik-e"
     },
     {
@@ -6091,7 +6122,7 @@
       "retrievedAt": "2026-11-14T06:35:42.383986+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "dc5bf6fbd6dc30849613700d4151f3ed1d5e17cebe883c11f1ae6c872e352536",
-      "title": "lodz-slownik-j",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: j",
       "id": "lodz-slownik-j"
     },
     {
@@ -6099,7 +6130,7 @@
       "retrievedAt": "2026-11-14T06:35:47.849239+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "6bebd232a4c56e6c3d6285ddd19e5f8167716fd0ca8f6ed1afefd8a06e3eb27b",
-      "title": "lodz-slownik-s-2",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2",
       "id": "lodz-slownik-s-2"
     },
     {
@@ -6107,7 +6138,7 @@
       "retrievedAt": "2026-11-14T06:35:41.202672+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "c083edc47129f9aff620bc0b63e5cd12a926e4ffde705e9d3c7fd44d6f09fafb",
-      "title": "lodz-slownik-h",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: h",
       "id": "lodz-slownik-h"
     },
     {
@@ -6115,7 +6146,7 @@
       "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
-      "title": "lodz-slownik-r",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: r",
       "id": "lodz-slownik-r"
     },
     {
@@ -6123,7 +6154,7 @@
       "retrievedAt": "2026-11-14T06:35:43.802027+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "478a13e0ed15d48e9cc614a69cfd407bce484cd2605ba91acd60f5de7e540bba",
-      "title": "lodz-slownik-l-2",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2",
       "id": "lodz-slownik-l-2"
     },
     {
@@ -6131,7 +6162,7 @@
       "retrievedAt": "2026-11-14T06:35:50.938949+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "7b7707304ebe25c21d975ace0d687f4e07cb632bbbb3302046790c23f3b9aff5",
-      "title": "lodz-slownik-z-3",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 3",
       "id": "lodz-slownik-z-3"
     },
     {
@@ -6139,7 +6170,7 @@
       "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
-      "title": "lodz-slownik-l",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: l",
       "id": "lodz-slownik-l"
     },
     {
@@ -6147,7 +6178,7 @@
       "retrievedAt": "2026-11-14T06:35:36.399269+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "b60f03e0e2df663086a11b614a89de985f62aec370db89a568a6df8f2da02623",
-      "title": "lodz-slownik-a",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: a",
       "id": "lodz-slownik-a"
     },
     {
@@ -6155,7 +6186,7 @@
       "retrievedAt": "2026-11-14T06:35:42.012757+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "b9561085d1511213133dc74f260a6407394111170f4a7b426a19dffecced3c5c",
-      "title": "lodz-slownik-i",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: i",
       "id": "lodz-slownik-i"
     },
     {
@@ -6163,7 +6194,7 @@
       "retrievedAt": "2026-11-14T06:35:36.249139+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "97ff4a78f8a6fe2128600f70dba56dd168a49ce4c79c27865b0ebf21af725d9a",
-      "title": "lodz-slownik-c",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: c",
       "id": "lodz-slownik-c"
     },
     {
@@ -6171,7 +6202,7 @@
       "retrievedAt": "2026-11-14T06:35:44.761753+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "c046bb3d30d5916876e0f4cad3b31d245aa5124b7f99820af006799234862ea3",
-      "title": "lodz-slownik-m",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: m",
       "id": "lodz-slownik-m"
     },
     {
@@ -6179,7 +6210,7 @@
       "retrievedAt": "2026-11-14T06:35:44.828852+00:00",
       "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
       "sha256": "f23dcd817ad5157627eddf94dd85e7c2953863f5d06fa16902951c93a93d674b",
-      "title": "lodz-slownik-n",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: n",
       "id": "lodz-slownik-n"
     },
     {
@@ -6219,7 +6250,7 @@
       "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
       "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
       "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
-      "title": "cape-language-guide",
+      "title": "City of Cape Town Language Style Guide, street name changes",
       "id": "cape-language-guide"
     },
     {
@@ -6227,7 +6258,7 @@
       "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
       "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
       "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
-      "title": "tshwane-tourism-map",
+      "title": "Tshwane visitor attractions map, Renamed Streets table",
       "id": "tshwane-tourism-map"
     },
     {
@@ -6323,7 +6354,7 @@
       "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
       "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
       "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
-      "title": "kolkata-june-2017",
+      "title": "Kolkata Municipal Corporation newsletter June 2017",
       "id": "kolkata-june-2017"
     },
     {
@@ -7330,6 +7361,66 @@
       "status": "downloaded",
       "file": "lodz-slownik-z-3.html",
       "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 3"
+    },
+    {
+      "id": "postal-classifier-documentation",
+      "country": "UA",
+      "url": "https://dev.ukrposhta.ua/uploads/Address-classifier-v3.19-19062024.pdf",
+      "title": "Ukrposhta address classifier API documentation, version 3.19",
+      "retrievedAt": "2026-11-14T18:18:11.222495+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "postal-classifier-documentation.pdf",
+      "sha256": "5a094c55227c339712a132a81f08f90e4d31f042ad688c0b9a481b858181b390",
+      "status": "downloaded",
+      "textFile": "postal-classifier-documentation.txt"
+    },
+    {
+      "id": "dnipro-museum-index",
+      "country": "UA",
+      "url": "https://midnipro.museum/vulytsi-dnipra/",
+      "title": "Dnipro municipal museum street index",
+      "retrievedAt": "2026-11-14T18:18:11.223985+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "dnipro-museum-index.html",
+      "sha256": "b6f8dfc90e40c1da493dc6bab23b058c905b0b8df9f3bdaeb228757d60862e13",
+      "status": "downloaded",
+      "textFile": "dnipro-museum-index.txt"
+    },
+    {
+      "id": "postal-search",
+      "country": "UA",
+      "url": "https://index.ukrposhta.ua/find-post-index",
+      "title": "Ukrposhta public postal address search",
+      "retrievedAt": "2026-11-14T18:18:11.226278+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "postal-search.html",
+      "sha256": "eb2c39586f9346c14751bc29dec894176988bc3de0b77a660cccf5a2c54b447f",
+      "status": "downloaded",
+      "textFile": "postal-search.txt"
+    },
+    {
+      "id": "postal-p1-cities-cfdef25a69",
+      "country": "UA",
+      "title": "Ukrposhta city search: Дніпро",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE",
+      "file": "postal-p1-cities-cfdef25a69.json",
+      "sha256": "76247a7a0fe79a3f2a3245f5d1a700ac30827b2537a3d4fd3756b93254098ed8",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:19:47.957681+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p1-streets-3641",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Дніпро",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=264&district_id=301&city_id=3641&street_ua=",
+      "file": "postal-p1-streets-3641.json",
+      "sha256": "0d23539177e99a1808fe598e7ed3167cce7c3aab7148d21d4d85192ea7875ce8",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:19:50.283569+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
     }
   ],
   "reviewRecords": [
@@ -7630,6 +7721,7 @@
   ],
   "limitations": [
     "No exhaustive national coverage claim.",
+    "Postal-classifier imports establish explicit previous/current name pairs at capture time; dates, legal decisions and complete historical chains are not supplied.",
     "Map links are name searches, not verified geometries or coordinates.",
     "No house-number carryover claimed.",
     "Current national registers and OSM object history not reconciled.",

@@ -134,3 +134,16 @@ Country short-name changes, historical territories and boundary limitations
 have notes on their detail pages. New country labels use English names where
 localized labels are not yet reviewed. Source-supported historical mappings
 do not imply that historical and present boundaries are identical.
+
+### Five-pass postal expansion
+
+`coverage-passes.json` records the target and net additions for each expansion
+pass. `scripts/postal_coverage.py PASS CITY ...` captures the public Ukrposhta
+search responses and proposes pairs from explicit previous/current name fields.
+Review `pass-N-review.json` and `pass-N-additions.json` before importing.
+Conflicting mappings, compound names, duplicate pairs, existing-record overlaps
+and non-street objects are held instead of being counted as new coverage.
+`postal_imports.py` replays approved pairs with stable postal record IDs.
+No effective date or legal instrument is inferred from a postal snapshot.
+Run `python3 tests/postal_data.py` to compare every published pair with the
+captured source fields and hashes. Source responses remain outside `dist/`.

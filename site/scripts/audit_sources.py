@@ -13,6 +13,9 @@ for r in rows:
     for url in {s['url'] for s in r['sources']}:
         by_url[url].append(r)
 notes = {
+    'postal-classifier-documentation': 'Primary API documentation establishes OLDSTREET_UA previous-name and STREET_UA current-name field semantics.',
+    'postal-search': 'Official public lookup client; its read-only endpoint supplies the postal classifier captures.',
+    'dnipro-museum-index': '622-entry discovery index examined. Conflicting field/prose pairs found in sample articles; first-pass imports use the explicit postal classifier fields instead.',
     'india-cities-2014': 'No-objection approvals are not proof of effective renaming. Final Karnataka mappings use PCGN confirmation.',
     'ukraine-factfile': 'Background naming/transliteration policy; city mappings use the official Ukrainian renamed-cities table.',
     'lodz-street-api': 'Inspected to locate municipal search; no name mappings in this JavaScript.',

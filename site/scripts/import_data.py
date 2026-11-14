@@ -10,7 +10,7 @@ for f in sorted(S.glob('*manifest.json'),key=lambda p:('browser' in p.name,p.nam
  for s in json.loads(f.read_text()): MAN[s['id']]=s
 LANG={'UA':'uk','PL':'pl','ZA':'en','VN':'vi','KZ':'ru','IN':'en'}
 def source(key):
- m=MAN[key];return {k:m.get(k) for k in ['url','retrievedAt','reuseTerms','sha256']}|{'title':key,'id':key}
+ m=MAN[key];return {k:m.get(k) for k in ['url','retrievedAt','reuseTerms','sha256']}|{'title':m.get('title',key),'id':key}
 def record(c,city,old,new,key,locator,district=None,date=None,segment=None,status='verified',document=None):
  old=' '.join(old.split());new=' '.join(new.split());sid=hashlib.sha256(f'{c}|{city}|{district}|{old}|{segment}'.encode()).hexdigest()[:16]
  ev={'formerName':old,'currentName':new,'date':date,'datePrecision':'day' if date else 'unknown','status':'effective' if status=='verified' else 'review','segment':segment,'sourceUrl':MAN[key]['url'],'documentNumber':document,'locator':locator}
@@ -106,7 +106,7 @@ def finalize(rows):
   r['currentStatusVerified']=False
   r['geometry']=None
   locations=[r.get('city',''),r.get('district') or '']
-  r['locationAliases']=list(dict.fromkeys(unidecode(n) for n in locations if n))
+  r['locationAliases']=list(dict.fromkeys(r.get('locationAliases',[])+[unidecode(n) for n in locations if n]))
   if r['country']=='UA':r['locationAliases']+=[''.join(ukmap.get(ch,ch) for ch in n.lower()) for n in locations if n]
   r['transliterations']=list(dict.fromkeys(r['transliterations']+[unidecode(n) for ev in r['events'] for n in [ev['formerName'],ev['currentName']] if unidecode(n)!=n]))
   if r['country']=='UA':
@@ -115,7 +115,7 @@ def finalize(rows):
  return rows
 JOBS={'UA':ukraine,'PL':poland,'ZA':africa,'IN':india,'VN':vietnam,'KZ':kazakhstan}
 def run(item):
- c,fn=item;from extend_imports import extend;from reviewed_imports import extend_reviewed;rows=extend(c,fn(),record,MAN,S,source);rows=extend_reviewed(c,rows,record,S,source);rows=finalize(rows);(D/(c+'.json')).write_text(json.dumps(rows,ensure_ascii=False,indent=2));return c,len(rows)
+ c,fn=item;from extend_imports import extend;from reviewed_imports import extend_reviewed;rows=extend(c,fn(),record,MAN,S,source);rows=extend_reviewed(c,rows,record,S,source);from postal_imports import extend_postal;rows=extend_postal(c,rows,record,S);rows=finalize(rows);(D/(c+'.json')).write_text(json.dumps(rows,ensure_ascii=False,indent=2));return c,len(rows)
 if __name__=='__main__':
  with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
   for result in pool.map(run,JOBS.items()):print(result)

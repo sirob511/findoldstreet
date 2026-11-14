@@ -1,0 +1,16 @@
+[
+  {
+    "passNumber": 1,
+    "target": 500,
+    "newPublishedRecords": 837,
+    "totalPublishedRecords": 2482,
+    "scope": "Dnipro postal street-name mappings",
+    "heldCandidates": 64,
+    "sourceReview": "901 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names and non-street objects excluded.",
+    "validation": [
+      "Captured-field equality and SHA-256 checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ]
+  }
+]
