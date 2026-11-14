@@ -121,24 +121,44 @@
     {
       "passNumber": 9,
       "target": 500,
-      "newPublishedRecords": 569,
-      "totalPublishedRecords": 9011,
+      "newPublishedRecords": 510,
+      "totalPublishedRecords": 8952,
       "scope": "Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions",
-      "heldCandidates": 1292,
+      "heldCandidates": 1351,
       "sourceReview": "data/sources/international-pass-9-review.json",
       "validation": [
         "Source hash and exact-pair checks",
         "Search regression tests",
         "Static build and SEO checks"
-      ]
+      ],
+      "originalPublishedRecords": 569,
+      "originalTotalPublishedRecords": 9011,
+      "withdrawnDuringPass10": 59,
+      "revisionNote": "Final review withheld 59 combined, alternate-name-list or isolated-house labels from the original commit. Displayed totals count retained records."
+    },
+    {
+      "passNumber": 10,
+      "target": 500,
+      "newPublishedRecords": 723,
+      "totalPublishedRecords": 9675,
+      "scope": "Chișinău, Moldova and Tallinn, Estonia: municipal-library name tables and EKI documented renames",
+      "heldCandidates": 146,
+      "sourceReview": "data/sources/international-pass-10-review.json",
+      "validation": [
+        "Source hash and exact-pair checks",
+        "Search regression tests",
+        "Static build and SEO checks"
+      ],
+      "withdrawnFromEarlierPasses": 59,
+      "netChangeFromPreviousCommit": 664
     }
   ],
   "publishedSummary": {
-    "records": 9011,
-    "streets": 8909,
+    "records": 9675,
+    "streets": 9573,
     "cities": 79,
     "countryNames": 23,
-    "countriesRepresented": 31
+    "countriesRepresented": 33
   },
   "placeRenamings": [
     {
@@ -5299,12 +5319,34 @@
     {
       "country": "CZ",
       "name": "Czechia",
-      "verifiedStreets": 569,
-      "renameEvents": 569,
+      "verifiedStreets": 510,
+      "renameEvents": 510,
       "reviewRecords": 0,
       "publishedLocalities": 1,
       "gaps": [
         "Brno profiles from the first 18 alphabetic index pages; remaining profiles and other cities not imported. Abolished streets and combined labels excluded. Full legal histories and geometry remain unverified."
+      ]
+    },
+    {
+      "country": "MD",
+      "name": "Moldova",
+      "verifiedStreets": 622,
+      "renameEvents": 622,
+      "reviewRecords": 0,
+      "publishedLocalities": 1,
+      "gaps": [
+        "Chișinău: unambiguous pairs from the 2017 municipal-library guide, checked against its contemporary street index. Later changes, legal chains, geometry and other Moldovan cities remain unverified."
+      ]
+    },
+    {
+      "country": "EE",
+      "name": "Estonia",
+      "verifiedStreets": 101,
+      "renameEvents": 101,
+      "reviewRecords": 0,
+      "publishedLocalities": 1,
+      "gaps": [
+        "Tallinn: whole-street renames from the EKI 2018 snapshot, checked against its 2018 street inventory. Partial streets, later changes and other Estonian municipalities remain gaps."
       ]
     }
   ],
@@ -6887,8 +6929,22 @@
     {
       "country": "CZ",
       "municipality": "Brno",
-      "verifiedStreets": 569,
-      "renameEvents": 569,
+      "verifiedStreets": 510,
+      "renameEvents": 510,
+      "reviewRecords": 0
+    },
+    {
+      "country": "MD",
+      "municipality": "Chișinău",
+      "verifiedStreets": 622,
+      "renameEvents": 622,
+      "reviewRecords": 0
+    },
+    {
+      "country": "EE",
+      "municipality": "Tallinn",
+      "verifiedStreets": 101,
+      "renameEvents": 101,
       "reviewRecords": 0
     }
   ],
@@ -7390,6 +7446,30 @@
       "id": "kolkata-june-2017"
     },
     {
+      "url": "https://hapes.hasdeu.md/bitstream/handle/123456789/399/Chi%C8%99in%C4%83u%20Bulevarde%2C%20str%C4%83zi%2C%20pie%C8%9Be%2C%20parcuri_Ghid%20enciclopedic.pdf?isAllowed=y&sequence=1",
+      "retrievedAt": "2026-11-14T18:55:43.927602+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "7a2f872dd0678251bbe99fab34b20e4515a45ca7ab78cbff1cd377319637663c",
+      "title": "B. P. Hasdeu Municipal Library: Chișinău boulevards, streets, squares and parks encyclopedic guide",
+      "id": "chisinau-library-guide"
+    },
+    {
+      "url": "https://arhiiv.eki.ee/knab/tallinn2.htm",
+      "retrievedAt": "2026-11-14T18:55:43.929034+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "411258fabb17899dd777115d2f68a78abc6309f7ccf82d9a8260e1bba99280af",
+      "title": "Institute of the Estonian Language: Tallinn renamed streets, 1987–2018",
+      "id": "tallinn-eki-renames"
+    },
+    {
+      "url": "https://arhiiv.eki.ee/knab/tallinn1.htm",
+      "retrievedAt": "2026-11-14T18:55:43.932371+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "fd397ef78021bd0fa671fbbe6b2334580b40489efc21ef5cb69013bc918c01cc",
+      "title": "Institute of the Estonian Language: Tallinn street-name inventory, 2018",
+      "id": "tallinn-eki-names"
+    },
+    {
       "url": "https://www.goldenpages.uz/streets/",
       "retrievedAt": "2026-11-14T18:44:38.962536+00:00",
       "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
@@ -7468,14 +7548,6 @@
       "sha256": "4e1e29b205615c3511036fe6a6d1338b8a6ecc051ce972a12d85214653cb8070",
       "title": "Encyclopedia of Brno: Andrýskova",
       "id": "brno-profile-123"
-    },
-    {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=124",
-      "retrievedAt": "2026-11-14T18:53:25+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "88ae213fade9d41a3bcf0dcac6867f1df6e4b52523056a799e9bbd5138f96979",
-      "title": "Encyclopedia of Brno: Anenská",
-      "id": "brno-profile-124"
     },
     {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=131",
@@ -7750,14 +7822,6 @@
       "id": "brno-profile-1482"
     },
     {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1488",
-      "retrievedAt": "2026-11-14T18:54:32+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "3dda2990e2b8f320a69df460027efbd385589ee8601997b347e95af15694d562",
-      "title": "Encyclopedia of Brno: Habří",
-      "id": "brno-profile-1488"
-    },
-    {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1495",
       "retrievedAt": "2026-11-14T18:54:33+00:00",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
@@ -8012,14 +8076,6 @@
       "sha256": "ac1e228553465bf12852f4fbfcae12cb797c1574eef2f60abada3a44364cc1fc",
       "title": "Encyclopedia of Brno: Horákovská",
       "id": "brno-profile-1762"
-    },
-    {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1763",
-      "retrievedAt": "2026-11-14T18:54:46+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "82e8405457f2ea6c3b0468b7dccfaaf9ddf9d8d45c51afeadfd9490493cf6320",
-      "title": "Encyclopedia of Brno: Horní",
-      "id": "brno-profile-1763"
     },
     {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1785",
@@ -8510,14 +8566,6 @@
       "id": "brno-profile-2113"
     },
     {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2114",
-      "retrievedAt": "2026-11-14T18:55:08+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "3157f4f40cac90189c0a2801c49c7c05cbdf5e1981edc5f3ed58ca58d4a94662",
-      "title": "Encyclopedia of Brno: Jedovnická",
-      "id": "brno-profile-2114"
-    },
-    {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2120",
       "retrievedAt": "2026-11-14T18:55:10+00:00",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
@@ -8636,14 +8684,6 @@
       "sha256": "eeafe78ea0cb3d597a9def5d752b5caecb6f0a6630c60a9996d3cd06bfc4139c",
       "title": "Encyclopedia of Brno: Jircháře",
       "id": "brno-profile-2161"
-    },
-    {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2166",
-      "retrievedAt": "2026-11-14T18:55:15+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "de79a048b9eed28006db725f6bf9923108bb8bf7b90900e8806eecadb2c6a886",
-      "title": "Encyclopedia of Brno: Jiříkovského",
-      "id": "brno-profile-2166"
     },
     {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2167",
@@ -8918,14 +8958,6 @@
       "id": "brno-index-3"
     },
     {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=526",
-      "retrievedAt": "2026-11-14T18:53:44+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "dbb4d4dc5f14c1e958ba131a220af07bf2d4f803e9cb34aa497bc5df14426148",
-      "title": "Encyclopedia of Brno: Bosonožské náměstí",
-      "id": "brno-profile-526"
-    },
-    {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=527",
       "retrievedAt": "2026-11-14T18:53:45+00:00",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
@@ -8940,14 +8972,6 @@
       "sha256": "8750007b71546b8868ca7d9cc9ae37fd0f7b31cda369f70ee4b58954b11f09fb",
       "title": "Encyclopedia of Brno: Boženy Němcové",
       "id": "brno-profile-532"
-    },
-    {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=536",
-      "retrievedAt": "2026-11-14T18:53:46+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "8cbdb1c59fe2f3ff15886a1bbd902e37cb4ad72244af0ab19a5607743eed7009",
-      "title": "Encyclopedia of Brno: Božetěchova",
-      "id": "brno-profile-536"
     },
     {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=540",
@@ -9054,14 +9078,6 @@
       "id": "brno-profile-629"
     },
     {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=630",
-      "retrievedAt": "2026-11-14T18:53:51+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "af6abbaffc295756316409b8217fd08e396ab66a8b66381b4758ef33c2d01c82",
-      "title": "Encyclopedia of Brno: Bubeníčkova",
-      "id": "brno-profile-630"
-    },
-    {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=634",
       "retrievedAt": "2026-11-14T18:53:52+00:00",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
@@ -9100,14 +9116,6 @@
       "sha256": "6623a2e1e30bf5b89c08b6ed83f0064bcf58a5bf261a5f241ae0093cc1a40f8b",
       "title": "Encyclopedia of Brno: Bukovského",
       "id": "brno-profile-643"
-    },
-    {
-      "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=645",
-      "retrievedAt": "2026-11-14T18:53:53+00:00",
-      "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
-      "sha256": "f4c217c47f7d1104db31b04006254c9db882a03dd5da5f2ff7bb27520cf6bdf3",
-      "title": "Encyclopedia of Brno: Bulharská",
-      "id": "brno-profile-645"
     },
     {
       "url": "https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=649",

@@ -3,8 +3,8 @@
   "target": 500,
   "scope": "Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions",
   "candidates": 1861,
-  "approved": 569,
-  "held": 1292,
+  "approved": 510,
+  "held": 1351,
   "decisions": [
     {
       "country": "CZ",
@@ -765,7 +765,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -872,7 +873,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -979,7 +981,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -3570,7 +3573,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -3731,7 +3735,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -5450,7 +5455,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -7032,7 +7038,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -7095,7 +7102,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -11743,7 +11751,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -15820,7 +15829,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -21921,7 +21931,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -22086,7 +22097,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -30187,7 +30199,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -34414,7 +34427,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -36793,7 +36807,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -36930,7 +36945,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -38751,7 +38767,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -38799,7 +38816,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -38847,7 +38865,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Isolated-house settlement label requires boundary reconciliation"
     },
     {
       "country": "CZ",
@@ -38895,7 +38914,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -39786,7 +39806,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -39849,7 +39870,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -41780,7 +41802,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -43208,7 +43231,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -43947,7 +43971,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -44791,7 +44816,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -44859,7 +44885,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -45382,7 +45409,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -45435,7 +45463,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -45596,7 +45625,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -46310,7 +46340,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -51750,7 +51781,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -53713,7 +53745,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -55289,7 +55322,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -55381,7 +55415,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -55439,7 +55474,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -56166,7 +56202,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -56219,7 +56256,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -56272,7 +56310,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -56540,7 +56579,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -57212,7 +57252,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -59707,7 +59748,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -59785,7 +59827,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -59863,7 +59906,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -60020,7 +60064,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -60256,7 +60301,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -60334,7 +60380,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -60412,7 +60459,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -61369,7 +61417,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -61422,7 +61471,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -61475,7 +61525,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -67452,7 +67503,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -67505,7 +67557,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -67558,7 +67611,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -74921,7 +74975,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -75112,7 +75167,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -85629,7 +85685,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -87487,7 +87544,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",
@@ -89495,7 +89553,8 @@
       "language": "cs",
       "script": "Latin",
       "nameNote": "The museum-backed Encyclopedia of Brno links this historical label to the current street profile. Cadastral districts are retained. Dates in that profile describe the full name history; no direct old-to-current effective date or unchanged historical boundary is inferred.",
-      "decision": "approved"
+      "decision": "held",
+      "reason": "Combined bilingual or annotated historical label"
     },
     {
       "country": "CZ",

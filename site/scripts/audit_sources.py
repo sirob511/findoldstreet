@@ -25,7 +25,7 @@ notes = {
 attempts = []
 for manifest in sorted(S.glob('*manifest.json')):
     for item in json.loads(manifest.read_text()):
-        used = by_url[item['url']]
+        used = by_url.get(item['url'], [])
         entry = dict(item, manifest=manifest.name,
                      publishedRecords=sum(r['status']=='verified' for r in used),
                      reviewRecords=sum(r['status']!='verified' for r in used))

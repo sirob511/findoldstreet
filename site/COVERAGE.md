@@ -2,7 +2,7 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-9,011 published records across 31 countries: 8,909 streets/segments, 79 cities and 23 country-name mappings.
+9,675 published records across 33 countries: 9,573 streets/segments, 79 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
@@ -16,7 +16,9 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | India | 8 | 8 | 2 | 2 |
 | Uzbekistan | 656 | 656 | 1 | 0 |
 | Lithuania | 1173 | 1173 | 1 | 0 |
-| Czechia | 569 | 569 | 1 | 0 |
+| Czechia | 510 | 510 | 1 | 0 |
+| Moldova | 622 | 622 | 1 | 0 |
+| Estonia | 101 | 101 | 1 | 0 |
 
 ## Expansion passes
 
@@ -30,7 +32,10 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 6 | 500 | 656 | 6520 | Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded |
 | 7 | 500 | 749 | 7269 | Wrocław, Poland: historical German names with exact current municipal name/type matches |
 | 8 | 500 | 1173 | 8442 | Vilnius, Lithuania: pre-1987 and historical names checked against captured current road-name inventory |
-| 9 | 500 | 569 | 9011 | Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions |
+| 9 | 500 | 510 | 8952 | Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions |
+| 10 | 500 | 723 | 9675 | Chișinău, Moldova and Tallinn, Estonia: municipal-library name tables and EKI documented renames |
+
+Pass 9: Final review withheld 59 combined, alternate-name-list or isolated-house labels from the original commit. Displayed totals count retained records.
 
 ## City and country renamings
 
@@ -368,7 +373,9 @@ Initial selection; the street counts above exclude these records.
 | India | New Delhi | 7 | 7 | 0 |
 | Uzbekistan | Ташкент | 656 | 656 | 0 |
 | Lithuania | Vilnius | 1173 | 1173 | 0 |
-| Czechia | Brno | 569 | 569 | 0 |
+| Czechia | Brno | 510 | 510 | 0 |
+| Moldova | Chișinău | 622 | 622 | 0 |
+| Estonia | Tallinn | 101 | 101 | 0 |
 
 ## Sources imported
 
@@ -434,6 +441,9 @@ Initial selection; the street counts above exclude these records.
 - [kartavya-pib](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48) — retrieved 2026-11-14T05:39:09.750161+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [delhi2017](https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf) — retrieved 2026-11-14T05:39:12.216355+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [Kolkata Municipal Corporation newsletter June 2017](https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf) — retrieved 2026-11-14T06:33:20.793640+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
+- [B. P. Hasdeu Municipal Library: Chișinău boulevards, streets, squares and parks encyclopedic guide](https://hapes.hasdeu.md/bitstream/handle/123456789/399/Chi%C8%99in%C4%83u%20Bulevarde%2C%20str%C4%83zi%2C%20pie%C8%9Be%2C%20parcuri_Ghid%20enciclopedic.pdf?isAllowed=y&sequence=1) — retrieved 2026-11-14T18:55:43.927602+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [Institute of the Estonian Language: Tallinn renamed streets, 1987–2018](https://arhiiv.eki.ee/knab/tallinn2.htm) — retrieved 2026-11-14T18:55:43.929034+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [Institute of the Estonian Language: Tallinn street-name inventory, 2018](https://arhiiv.eki.ee/knab/tallinn1.htm) — retrieved 2026-11-14T18:55:43.932371+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)](https://www.goldenpages.uz/streets/) — retrieved 2026-11-14T18:44:38.962536+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [WroclawGuide: historical German and present Polish street-name pairs](https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/) — retrieved 2026-11-14T18:46:24.518091+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [City of Wrocław EMUiA current street-name register](https://geoportal.wroclaw.pl/www/emuia/Ulice.zip) — retrieved 2026-11-14T18:46:24.519761+00:00; Factual mappings only; capture retained for source audit, not served publicly.
@@ -444,7 +454,6 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: current street index, page 1](https://encyklopedie.brna.cz/home-mmb/?json=next-page&cms_id=90&page_current=0&page_total=64) — retrieved 2026-11-14T18:58:52.137835+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Amerlingova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=115) — retrieved 2026-11-14T18:53:25+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Andrýskova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=123) — retrieved 2026-11-14T18:53:25+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Anenská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=124) — retrieved 2026-11-14T18:53:25+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Antala Staška](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=131) — retrieved 2026-11-14T18:53:25+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Antonína Macka](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=140) — retrieved 2026-11-14T18:53:26+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Antonína Procházky](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=142) — retrieved 2026-11-14T18:53:26+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -479,7 +488,6 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Grohova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1456) — retrieved 2026-11-14T18:54:30+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Gromešova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1459) — retrieved 2026-11-14T18:54:30+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Haasova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1482) — retrieved 2026-11-14T18:54:31+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Habří](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1488) — retrieved 2026-11-14T18:54:32+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Hájecká](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1495) — retrieved 2026-11-14T18:54:33+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Hamry](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1517) — retrieved 2026-11-14T18:54:34+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Hapalova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1537) — retrieved 2026-11-14T18:54:34+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -512,7 +520,6 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Hoppova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1757) — retrieved 2026-11-14T18:54:45+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Horákova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1760) — retrieved 2026-11-14T18:54:45+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Horákovská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1762) — retrieved 2026-11-14T18:54:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Horní](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1763) — retrieved 2026-11-14T18:54:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Horova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1785) — retrieved 2026-11-14T18:54:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Horymírova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1793) — retrieved 2026-11-14T18:54:47+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Hořejší](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=1794) — retrieved 2026-11-14T18:54:47+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -574,7 +581,6 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Jateční](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2108) — retrieved 2026-11-14T18:55:08+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Ječná](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2112) — retrieved 2026-11-14T18:55:08+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jedlová](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2113) — retrieved 2026-11-14T18:55:08+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Jedovnická](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2114) — retrieved 2026-11-14T18:55:08+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jelínkova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2120) — retrieved 2026-11-14T18:55:10+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jemelkova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2121) — retrieved 2026-11-14T18:55:10+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jeneweinova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2123) — retrieved 2026-11-14T18:55:10+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -590,7 +596,6 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Jílová](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2141) — retrieved 2026-11-14T18:55:13+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jiránkova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2145) — retrieved 2026-11-14T18:55:14+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jircháře](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2161) — retrieved 2026-11-14T18:55:14+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Jiříkovského](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2166) — retrieved 2026-11-14T18:55:15+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jiřinová](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2167) — retrieved 2026-11-14T18:55:15+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Jižní náměstí](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2171) — retrieved 2026-11-14T18:55:15+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Josefská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=2210) — retrieved 2026-11-14T18:55:16+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -625,10 +630,8 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Bolzanova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=507) — retrieved 2026-11-14T18:53:42+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Borová](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=513) — retrieved 2026-11-14T18:53:43+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: current street index, page 4](https://encyklopedie.brna.cz/home-mmb/?json=next-page&cms_id=90&page_current=3&page_total=64) — retrieved 2026-11-14T18:58:52.142977+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Bosonožské náměstí](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=526) — retrieved 2026-11-14T18:53:44+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Botanická](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=527) — retrieved 2026-11-14T18:53:45+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Boženy Němcové](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=532) — retrieved 2026-11-14T18:53:45+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Božetěchova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=536) — retrieved 2026-11-14T18:53:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Bráfova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=540) — retrieved 2026-11-14T18:53:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Brandlova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=546) — retrieved 2026-11-14T18:53:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Bratislavská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=550) — retrieved 2026-11-14T18:53:46+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -642,13 +645,11 @@ Initial selection; the street counts above exclude these records.
 - [Encyclopedia of Brno: Břetislavova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=625) — retrieved 2026-11-14T18:53:50+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Březinova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=627) — retrieved 2026-11-14T18:53:51+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Březová](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=629) — retrieved 2026-11-14T18:53:51+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Bubeníčkova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=630) — retrieved 2026-11-14T18:53:51+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Budínská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=634) — retrieved 2026-11-14T18:53:52+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Budovcova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=636) — retrieved 2026-11-14T18:53:52+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Buchtova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=640) — retrieved 2026-11-14T18:53:52+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Buková](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=642) — retrieved 2026-11-14T18:53:53+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Bukovského](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=643) — retrieved 2026-11-14T18:53:53+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
-- [Encyclopedia of Brno: Bulharská](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=645) — retrieved 2026-11-14T18:53:53+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Burešova](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=649) — retrieved 2026-11-14T18:53:53+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Burianovo náměstí](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=658) — retrieved 2026-11-14T18:53:53+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
 - [Encyclopedia of Brno: Cacovická](https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice&load=671) — retrieved 2026-11-14T18:53:55+00:00; Factual name mappings only; raw evidence retained for audit, not served publicly.
@@ -798,6 +799,10 @@ Initial selection; the street counts above exclude these records.
 - Vilnius historical names only; current-name existence cross-checked against an address-register-derived road inventory. Ambiguous labels and unmatched destinations withheld; historical geometry, complete legal chains and other Lithuanian municipalities remain gaps.
 ### Czechia
 - Brno profiles from the first 18 alphabetic index pages; remaining profiles and other cities not imported. Abolished streets and combined labels excluded. Full legal histories and geometry remain unverified.
+### Moldova
+- Chișinău: unambiguous pairs from the 2017 municipal-library guide, checked against its contemporary street index. Later changes, legal chains, geometry and other Moldovan cities remain unverified.
+### Estonia
+- Tallinn: whole-street renames from the EKI 2018 snapshot, checked against its 2018 street inventory. Partial streets, later changes and other Estonian municipalities remain gaps.
 
 ## Limits
 

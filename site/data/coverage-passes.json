@@ -120,15 +120,35 @@
   {
     "passNumber": 9,
     "target": 500,
-    "newPublishedRecords": 569,
-    "totalPublishedRecords": 9011,
+    "newPublishedRecords": 510,
+    "totalPublishedRecords": 8952,
     "scope": "Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions",
-    "heldCandidates": 1292,
+    "heldCandidates": 1351,
     "sourceReview": "data/sources/international-pass-9-review.json",
     "validation": [
       "Source hash and exact-pair checks",
       "Search regression tests",
       "Static build and SEO checks"
-    ]
+    ],
+    "originalPublishedRecords": 569,
+    "originalTotalPublishedRecords": 9011,
+    "withdrawnDuringPass10": 59,
+    "revisionNote": "Final review withheld 59 combined, alternate-name-list or isolated-house labels from the original commit. Displayed totals count retained records."
+  },
+  {
+    "passNumber": 10,
+    "target": 500,
+    "newPublishedRecords": 723,
+    "totalPublishedRecords": 9675,
+    "scope": "Chișinău, Moldova and Tallinn, Estonia: municipal-library name tables and EKI documented renames",
+    "heldCandidates": 146,
+    "sourceReview": "data/sources/international-pass-10-review.json",
+    "validation": [
+      "Source hash and exact-pair checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ],
+    "withdrawnFromEarlierPasses": 59,
+    "netChangeFromPreviousCommit": 664
   }
 ]

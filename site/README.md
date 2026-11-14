@@ -32,8 +32,12 @@ npm test
 python3 tests/seo.py
 python3 tests/reviewed_data.py
 python3 tests/expanded_data.py
+.venv/bin/python tests/international_data.py
+.venv/bin/python tests/postal_data.py
 # with the preview server running:
 node tests/browser.mjs
+node tests/international_browser.mjs
+node tests/postal_browser.mjs
 ```
 
 Tests use real records for exact/partial/transliterated queries, disambiguation, repeated renames, reversals and partial streets. Browser checks cover desktop search → detail → locale switching and mobile overflow in all 11 languages.
@@ -145,7 +149,7 @@ Conflicting mappings, compound names, duplicate pairs, existing-record overlaps
 and non-street objects are held instead of being counted as new coverage.
 `postal_imports.py` replays approved pairs with stable postal record IDs.
 No effective date or legal instrument is inferred from a postal snapshot.
-Run `python3 tests/postal_data.py` to compare every published pair with the
+Run `.venv/bin/python tests/postal_data.py` to compare every published pair with the
 captured source fields and hashes. Source responses remain outside `dist/`.
 
 For homonymous cities, use an explicit region, for example
@@ -160,3 +164,9 @@ Held postal candidates are recorded in the per-pass review files and pass
 summary, rather than inserted as published records or counted as additional
 renames. The coverage report's ordinary review-record counts refer to the
 separate, older municipal import pipeline.
+
+## International expansion snapshots
+
+Passes 6–10 add Tashkent, Wrocław, Vilnius, Brno, Chișinău and Tallinn. Approved factual pairs live in `data/sources/international-pass-*-additions.json`; corresponding review files retain candidate-level exclusions. `international_imports.py` replays these snapshots into `data/international.json` without network access. This dataset is included in search, static details, coverage and source auditing. Multiple historical labels can lead to the same present-day street: reported totals count lookup records, not distinct physical streets.
+
+`international_coverage.py` extracts the Tashkent, Wrocław and Vilnius captures; `brno_coverage.py` reads captured museum-backed histories and the index of current/abolished streets. `moldova_estonia_coverage.py` uses PDF table-cell boundaries for the Chișinău guide and the renamed-streets section of the EKI Tallinn list. Re-extraction is a review step, not an automatic source refresh. The source snapshots have different dates, explicitly stated on affected details and in the coverage report. Municipal/name-inventory matches establish name existence, not verified historical geometry or house-number continuity.

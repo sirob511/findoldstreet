@@ -67,7 +67,7 @@ def wroclaw():
         assert len(c)==2
         old,new=c;old=re.sub(r' in Breslau$','',old)
         kind=new.split()[0];candidates=[v for v in reg.get(polish_key(new),{}).values() if v[1]==kind]
-        r=dict(country='PL',city='Wrocław',formerName=old,currentName=new,source='wroclaw-historical-pairs',locator=f'German/Polish street table, data row {i}',evidenceRow=i,sourceCells=c,locationAliases=['Wroclaw','Breslau'],language='de',script='Latin',extraSources=['wroclaw-emuia-streets'],nameNote='Historical pair from WroclawGuide; the Polish name and object type also match the captured municipal EMUiA street register. This checks name existence, not historical boundary continuity or house numbers. No rename date is inferred.')
+        r=dict(country='PL',city='Wrocław',streetType=kind,formerName=old,currentName=new,source='wroclaw-historical-pairs',locator=f'German/Polish street table, data row {i}',evidenceRow=i,sourceCells=c,locationAliases=['Wroclaw','Breslau'],language='de',script='Latin',extraSources=['wroclaw-emuia-streets'],nameNote='Historical pair from WroclawGuide; the Polish name and object type also match the captured municipal EMUiA street register. This checks name existence, not historical boundary continuity or house numbers. No rename date is inferred.')
         if len(candidates)!=1:r['holdReason']='No unique exact current-name and object-type match in municipal EMUiA register'
         else:r['municipalRegisterId']=candidates[0][0]
         if any(x in old+' '+new for x in [',',';','(',')',' / ']) or 'Does not exist' in new:r['holdReason']='Vanished street, combined destinations or annotated name'

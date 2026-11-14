@@ -1,4 +1,4 @@
-"""Deterministic six-country imports from captured source documents.
+"""Deterministic country imports and reviewed international mappings from captured sources.
 Run fetch_sources.py / expand_sources.py to refresh; review differences before publishing.
 """
 import pathlib,json,re,hashlib,concurrent.futures,datetime
@@ -122,6 +122,5 @@ if __name__=='__main__':
  from import_places import build_places
  print(('places',build_places()))
 
- if __name__=='__main__':
-  from international_imports import build_international
-  print(('international',build_international()))
+ from international_imports import build_international
+ print(('international',build_international()))

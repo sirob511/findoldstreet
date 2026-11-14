@@ -1,13 +1,14 @@
 # Verification
 
-The tested flow is search input → downloaded static dataset → name/locality matching → stable record page → evidence and map-search links.
+The tested flow is one-box search → downloaded static dataset → name/locality matching → stable detail page → source and map-search links.
 
-- Eight automated tests pass using real imported records: all six countries, accentless search, Ukrainian transliteration, city aliases, partial addresses, Warsaw reversals, repeated renames, duplicate old names across Almaty districts, partial renames, review exclusion, unique IDs and complete locale keys.
-- Browser test at desktop width: Smith Street returns Anton Lembede; opening the result shows its history; switching to Ukrainian preserves the record route. No JavaScript page errors.
-- Browser overflow checks pass at 390 px in all 11 locales. Desktop and mobile screenshots were inspected.
-- Self-canonicals and reciprocal hreflang pass in every locale. Every URL in every locale sitemap resolves to a generated file.
-- Review records have no generated detail pages. The build replaces its output directory so stale files cannot escape review exclusions.
-- Re-importing all six countries against the captured evidence is byte-for-byte idempotent.
-- Preview server serves HTTP 200. Data and translation fetches render working search results.
+- 14 search regression tests cover streets, cities, countries, transliteration, locality aliases, numbered streets, reversals, partial renames, disambiguation and record identifiers.
+- All 3,811 international additions are checked against captured source fields and hashes. Checks include current-name/type matches for Wrocław, road-name matches for Vilnius, abolished-street exclusions for Brno, PDF table-cell evidence for Chișinău and EKI fields for Tallinn.
+- Final review withheld 59 Brno compound, alternate-label-list or isolated-house entries. The retained Brno pass contains 510 mappings.
+- Existing curated, expanded and postal-data checks pass, including all 4,206 postal street mappings and 13 city additions from the previous five passes. All 5,906 pre-expansion records, including review rows, remain unchanged.
+- All eight data files replay deterministically from captured evidence without network requests; the published JSON matches the verified source records.
+- Browser checks cover searches and source links for every new country/city group, existing postal searches, country and city details, legacy links, locale switching, empty/reset behavior and mobile overflow in all 11 locales.
+- Metadata tests, reciprocal hreflang, canonical links and every locale sitemap target pass. Withheld entries have no published detail pages.
+- The retained dataset contains 9,675 records across 33 countries. Unknown effective dates remain null; decision dates are kept separately.
 
-Limits: external map searches are not geocoding verification; current national registers, OSM history and house numbers are not verified. No native-speaker translation review. Public indexing and FindOldStreet.com DNS are not configured. Country and locality coverage is incomplete; consult COVERAGE.md.
+Limits: inventory checks establish name existence, not historical boundary continuity or current GIS identity. The Chișinău guide is from 2017 and the Tallinn snapshot from 2018; later changes are not comprehensively reconciled. Maps remain name searches and house numbers are unverified. Translation review, public indexing and custom-domain configuration remain outside these checks. See [COVERAGE.md](COVERAGE.md) for source-specific gaps.

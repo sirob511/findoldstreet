@@ -2,6 +2,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Adalbertstraße",
     "currentName": "ul. kard. Stefana Wyszyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -27,6 +28,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Adlerstraße",
     "currentName": "ul. Namysłowska",
     "source": "wroclaw-historical-pairs",
@@ -52,6 +54,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Adolf-Hitler-Straße",
     "currentName": "ul. Adama Mickiewicza",
     "source": "wroclaw-historical-pairs",
@@ -77,6 +80,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Adolf-Weiss-Straße",
     "currentName": "ul. Spawaczy",
     "source": "wroclaw-historical-pairs",
@@ -102,6 +106,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Adolfstraße",
     "currentName": "ul. Otwarta",
     "source": "wroclaw-historical-pairs",
@@ -127,6 +132,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Agathstraße",
     "currentName": "ul. Jantarowa",
     "source": "wroclaw-historical-pairs",
@@ -152,6 +158,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Agnes-Sorma-Straße",
     "currentName": "ul. Heleny Modrzejewskiej",
     "source": "wroclaw-historical-pairs",
@@ -177,6 +184,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Ahornallee",
     "currentName": "al. Jaworowa",
     "source": "wroclaw-historical-pairs",
@@ -202,6 +210,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Akazienalle",
     "currentName": "al. Akacjowa",
     "source": "wroclaw-historical-pairs",
@@ -227,6 +236,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Albrechtstraße",
     "currentName": "ul. Wita Stwosza",
     "source": "wroclaw-historical-pairs",
@@ -252,6 +262,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Alexisstraße",
     "currentName": "ul. Spiżowa",
     "source": "wroclaw-historical-pairs",
@@ -277,6 +288,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Allensteiner Straße",
     "currentName": "ul. Olsztyńska",
     "source": "wroclaw-historical-pairs",
@@ -302,6 +314,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Alsenstraße",
     "currentName": "ul. Stefana Czarnieckiego",
     "source": "wroclaw-historical-pairs",
@@ -327,6 +340,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Altbüßerohle",
     "currentName": "ul. Kazimierza Wielkiego",
     "source": "wroclaw-historical-pairs",
@@ -352,6 +366,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Altbüßerstraße",
     "currentName": "ul. Łaciarska",
     "source": "wroclaw-historical-pairs",
@@ -377,6 +392,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Alte Friedrichstraße",
     "currentName": "ul. Nasypowa",
     "source": "wroclaw-historical-pairs",
@@ -402,6 +418,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Altheider Straße",
     "currentName": "ul. Puszczykowska",
     "source": "wroclaw-historical-pairs",
@@ -427,6 +444,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Am Denkmalsplatze",
     "currentName": "pl. Wyzwolenia",
     "source": "wroclaw-historical-pairs",
@@ -452,6 +470,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Am Dom Kapitelweg",
     "currentName": "pl. Katedralny",
     "source": "wroclaw-historical-pairs",
@@ -477,6 +496,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Dorffrieden",
     "currentName": "ul. Aleksandra Kosiby",
     "source": "wroclaw-historical-pairs",
@@ -502,6 +522,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Erlenbusche",
     "currentName": "ul. Tadeusza Micińskiego",
     "source": "wroclaw-historical-pairs",
@@ -527,6 +548,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Fichtenhaine",
     "currentName": "ul. Henryka Siemiradzkiego",
     "source": "wroclaw-historical-pairs",
@@ -552,6 +574,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Lerchenberge",
     "currentName": "ul. Borowska",
     "source": "wroclaw-historical-pairs",
@@ -577,6 +600,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Mühlengrunde",
     "currentName": "ul. Juliana Klaczki",
     "source": "wroclaw-historical-pairs",
@@ -602,6 +626,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Oderkronwerk",
     "currentName": "ul. Pomorska",
     "source": "wroclaw-historical-pairs",
@@ -627,6 +652,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Oderschlößchen",
     "currentName": "ul. Rzeźbiarska",
     "source": "wroclaw-historical-pairs",
@@ -652,6 +678,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Am Ohlauufer",
     "currentName": "al. Juliusza Słowackiego",
     "source": "wroclaw-historical-pairs",
@@ -677,6 +704,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Schwarzwasser",
     "currentName": "ul. Tadeusza Czackiego",
     "source": "wroclaw-historical-pairs",
@@ -702,6 +730,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Seefelde",
     "currentName": "ul. Wieluńska",
     "source": "wroclaw-historical-pairs",
@@ -727,6 +756,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Sportbad",
     "currentName": "ul. Harcerska",
     "source": "wroclaw-historical-pairs",
@@ -752,6 +782,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Turnierplatze",
     "currentName": "ul. Turniejowa",
     "source": "wroclaw-historical-pairs",
@@ -777,6 +808,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Wacheberge",
     "currentName": "ul. Elbląska",
     "source": "wroclaw-historical-pairs",
@@ -802,6 +834,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Weidendamm",
     "currentName": "ul. Na Grobli",
     "source": "wroclaw-historical-pairs",
@@ -827,6 +860,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Am Wiesengrunde",
     "currentName": "ul. Gwarecka",
     "source": "wroclaw-historical-pairs",
@@ -852,6 +886,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Amselweg",
     "currentName": "ul. Belwederczyków",
     "source": "wroclaw-historical-pairs",
@@ -877,6 +912,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An den Baumschulen",
     "currentName": "ul. Wacława Potockiego",
     "source": "wroclaw-historical-pairs",
@@ -902,6 +938,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An den Brunnen",
     "currentName": "ul. Adama Asnyka",
     "source": "wroclaw-historical-pairs",
@@ -927,6 +964,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An den Kasernen",
     "currentName": "ul. Władysława Jagiełły",
     "source": "wroclaw-historical-pairs",
@@ -952,6 +990,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An den Linden",
     "currentName": "ul. Czarnoleska",
     "source": "wroclaw-historical-pairs",
@@ -977,6 +1016,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An den Teichäckern",
     "currentName": "ul. Sucha",
     "source": "wroclaw-historical-pairs",
@@ -1002,6 +1042,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Au",
     "currentName": "ul. Franciszka Karpińskiego",
     "source": "wroclaw-historical-pairs",
@@ -1027,6 +1068,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Barbarakirche",
     "currentName": "ul. Wszystkich Świętych",
     "source": "wroclaw-historical-pairs",
@@ -1052,6 +1094,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Dorotheenkirche",
     "currentName": "ul. Franciszkańska",
     "source": "wroclaw-historical-pairs",
@@ -1077,6 +1120,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Elisabethkirche",
     "currentName": "ul. św. Elżbiety",
     "source": "wroclaw-historical-pairs",
@@ -1102,6 +1146,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Guentherbrücke",
     "currentName": "ul. Bolesława Chrobrego",
     "source": "wroclaw-historical-pairs",
@@ -1127,6 +1172,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Hindenburgbrücke",
     "currentName": "ul. Galla Anonima",
     "source": "wroclaw-historical-pairs",
@@ -1152,6 +1198,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Klostermauer",
     "currentName": "ul. Wincentego Pola",
     "source": "wroclaw-historical-pairs",
@@ -1177,6 +1224,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Königsbrücke",
     "currentName": "ul. Mostowa",
     "source": "wroclaw-historical-pairs",
@@ -1202,6 +1250,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "An der Kreuzkirche",
     "currentName": "pl. Kościelny",
     "source": "wroclaw-historical-pairs",
@@ -1227,6 +1276,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Nakonzbrücke",
     "currentName": "ul. Na Końcu",
     "source": "wroclaw-historical-pairs",
@@ -1252,6 +1302,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "An der Wilhelmsbrücke",
     "currentName": "ul. Mieszczańska",
     "source": "wroclaw-historical-pairs",
@@ -1277,6 +1328,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Anderssenstraße",
     "currentName": "ul. Młodych Techników",
     "source": "wroclaw-historical-pairs",
@@ -1302,6 +1354,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Anger",
     "currentName": "ul. Łąkowa",
     "source": "wroclaw-historical-pairs",
@@ -1327,6 +1380,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Angerburger Straße",
     "currentName": "ul. Węgoborska",
     "source": "wroclaw-historical-pairs",
@@ -1352,6 +1406,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Annabergstraße",
     "currentName": "ul. Kowalska",
     "source": "wroclaw-historical-pairs",
@@ -1377,6 +1432,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Annengasse",
     "currentName": "ul. św. Anny",
     "source": "wroclaw-historical-pairs",
@@ -1402,6 +1458,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Antonienstraße",
     "currentName": "ul. św. Antoniego",
     "source": "wroclaw-historical-pairs",
@@ -1427,6 +1484,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Anzengruberstraße",
     "currentName": "ul. Stopnicka",
     "source": "wroclaw-historical-pairs",
@@ -1452,6 +1510,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Apiastraße",
     "currentName": "ul. Norweska",
     "source": "wroclaw-historical-pairs",
@@ -1477,6 +1536,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Argonnenstraße",
     "currentName": "ul. Tokarska",
     "source": "wroclaw-historical-pairs",
@@ -1502,6 +1562,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Arndstraße",
     "currentName": "ul. Bolesława Ulanowskiego",
     "source": "wroclaw-historical-pairs",
@@ -1527,6 +1588,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Asgardweg",
     "currentName": "ul. Oskara Kolberga",
     "source": "wroclaw-historical-pairs",
@@ -1552,6 +1614,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Asternweg",
     "currentName": "ul. Różana",
     "source": "wroclaw-historical-pairs",
@@ -1577,6 +1640,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Auenstraße",
     "currentName": "ul. Jana Mikulicza-Radeckiego",
     "source": "wroclaw-historical-pairs",
@@ -1602,6 +1666,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Aug.-Lichter-Weg",
     "currentName": "ul. Kazimierza Brodzińskiego",
     "source": "wroclaw-historical-pairs",
@@ -1627,6 +1692,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Augustastraße",
     "currentName": "ul. Pabianicka",
     "source": "wroclaw-historical-pairs",
@@ -1652,6 +1718,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bachstraße",
     "currentName": "ul. Zygmunta Noskowskiego",
     "source": "wroclaw-historical-pairs",
@@ -1677,6 +1744,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bahnhofstraße",
     "currentName": "ul. Dworcowa",
     "source": "wroclaw-historical-pairs",
@@ -1702,6 +1770,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Baldurweg",
     "currentName": "ul. Marcelego Handelsmana",
     "source": "wroclaw-historical-pairs",
@@ -1727,6 +1796,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ballhofgasse",
     "currentName": "ul. Podwórcowa",
     "source": "wroclaw-historical-pairs",
@@ -1752,6 +1822,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Barbaragasse",
     "currentName": "ul. św. Barbary",
     "source": "wroclaw-historical-pairs",
@@ -1777,6 +1848,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bärenstraße",
     "currentName": "ul. Niedźwiedzia",
     "source": "wroclaw-historical-pairs",
@@ -1802,6 +1874,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bauschulstraße",
     "currentName": "ul. Chemiczna",
     "source": "wroclaw-historical-pairs",
@@ -1827,6 +1900,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Beblostraße",
     "currentName": "ul. Jesionowa",
     "source": "wroclaw-historical-pairs",
@@ -1852,6 +1926,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bechtelsteinweg",
     "currentName": "ul. Olgi Boznańskiej",
     "source": "wroclaw-historical-pairs",
@@ -1877,6 +1952,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bechtelstraße",
     "currentName": "ul. Teofila Lenartowicza",
     "source": "wroclaw-historical-pairs",
@@ -1902,6 +1978,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Beethovenstraße",
     "currentName": "ul. Mieczysława Karłowicza",
     "source": "wroclaw-historical-pairs",
@@ -1927,6 +2004,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Benderplatz",
     "currentName": "pl. Stanisława Staszica",
     "source": "wroclaw-historical-pairs",
@@ -1952,6 +2030,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bergmannstraße",
     "currentName": "ul. Zdzisława Dębickiego",
     "source": "wroclaw-historical-pairs",
@@ -1977,6 +2056,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bergstraße",
     "currentName": "ul. Góralska",
     "source": "wroclaw-historical-pairs",
@@ -2002,6 +2082,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Berholdstraße",
     "currentName": "ul. Koszykarska",
     "source": "wroclaw-historical-pairs",
@@ -2027,6 +2108,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Berliner Straße",
     "currentName": "ul. Braniborska",
     "source": "wroclaw-historical-pairs",
@@ -2052,6 +2134,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Beuthener Straße",
     "currentName": "ul. Bytomska",
     "source": "wroclaw-historical-pairs",
@@ -2077,6 +2160,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bischofstraße",
     "currentName": "ul. Biskupia",
     "source": "wroclaw-historical-pairs",
@@ -2102,6 +2186,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bischofswalder Straße",
     "currentName": "ul. Józefa Chełmońskiego",
     "source": "wroclaw-historical-pairs",
@@ -2127,6 +2212,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bismarckstraße",
     "currentName": "ul. Bolesława Chrobrego",
     "source": "wroclaw-historical-pairs",
@@ -2152,6 +2238,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Blücherplatz",
     "currentName": "pl. Solny",
     "source": "wroclaw-historical-pairs",
@@ -2177,6 +2264,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Blumenstraße",
     "currentName": "ul. Czysta",
     "source": "wroclaw-historical-pairs",
@@ -2202,6 +2290,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bocklinstraße",
     "currentName": "ul. Wojszycka",
     "source": "wroclaw-historical-pairs",
@@ -2227,6 +2316,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bockstraße",
     "currentName": "ul. Rozbrat",
     "source": "wroclaw-historical-pairs",
@@ -2252,6 +2342,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bodelschwinghweg",
     "currentName": "ul. Przedmiejska",
     "source": "wroclaw-historical-pairs",
@@ -2277,6 +2368,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Boelckestraße",
     "currentName": "ul. Murarska",
     "source": "wroclaw-historical-pairs",
@@ -2302,6 +2394,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bohrauer Straße",
     "currentName": "ul. Borowska",
     "source": "wroclaw-historical-pairs",
@@ -2327,6 +2420,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bolkenheiner Straße",
     "currentName": "ul. Bolkowska",
     "source": "wroclaw-historical-pairs",
@@ -2352,6 +2446,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Borsigstraße",
     "currentName": "ul. Mirkowska",
     "source": "wroclaw-historical-pairs",
@@ -2377,6 +2472,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Brandenburger Straße",
     "currentName": "ul. Lubuska",
     "source": "wroclaw-historical-pairs",
@@ -2402,6 +2498,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Brieger-Straße",
     "currentName": "ul. Brzeska",
     "source": "wroclaw-historical-pairs",
@@ -2427,6 +2524,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Brigittental",
     "currentName": "ul. Łukasza Górnickiego",
     "source": "wroclaw-historical-pairs",
@@ -2452,6 +2550,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Briskestraße",
     "currentName": "ul. Samuela Dicksteina",
     "source": "wroclaw-historical-pairs",
@@ -2477,6 +2576,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Brockauer Straße",
     "currentName": "ul. Stacha Świstackiego",
     "source": "wroclaw-historical-pairs",
@@ -2502,6 +2602,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bromberger Straße",
     "currentName": "ul. Bydgoska",
     "source": "wroclaw-historical-pairs",
@@ -2527,6 +2628,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Brunnenstraße",
     "currentName": "ul. Studzienna",
     "source": "wroclaw-historical-pairs",
@@ -2552,6 +2654,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Buddestraße",
     "currentName": "ul. Boczna",
     "source": "wroclaw-historical-pairs",
@@ -2577,6 +2680,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bunsenstraße",
     "currentName": "ul. Lniana",
     "source": "wroclaw-historical-pairs",
@@ -2602,6 +2706,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Bunzlauer Straße",
     "currentName": "ul. Bolesławiecka",
     "source": "wroclaw-historical-pairs",
@@ -2627,6 +2732,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Burgfeld",
     "currentName": "ul. Antoniego Cieszyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -2652,6 +2758,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Burghartstraße",
     "currentName": "ul. Alfreda Nobla",
     "source": "wroclaw-historical-pairs",
@@ -2677,6 +2784,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Burgstraße",
     "currentName": "ul. Grodzka",
     "source": "wroclaw-historical-pairs",
@@ -2702,6 +2810,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Büttnerstraße",
     "currentName": "ul. Rzeźnicza",
     "source": "wroclaw-historical-pairs",
@@ -2727,6 +2836,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Carlowitzstraße",
     "currentName": "ul. Piotra Czajkowskiego",
     "source": "wroclaw-historical-pairs",
@@ -2752,6 +2862,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Carmerstraße",
     "currentName": "ul. Wolbromska",
     "source": "wroclaw-historical-pairs",
@@ -2777,6 +2888,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Chamissostraße",
     "currentName": "ul. Kampinoska",
     "source": "wroclaw-historical-pairs",
@@ -2802,6 +2914,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Charlottenstraße",
     "currentName": "ul. Krucza",
     "source": "wroclaw-historical-pairs",
@@ -2827,6 +2940,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Cherusker Weg",
     "currentName": "ul. Trzebowiańska",
     "source": "wroclaw-historical-pairs",
@@ -2852,6 +2966,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Christophoriplatz",
     "currentName": "pl. św. Krzysztofa",
     "source": "wroclaw-historical-pairs",
@@ -2877,6 +2992,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Classenstraße",
     "currentName": "ul. Gwarna",
     "source": "wroclaw-historical-pairs",
@@ -2902,6 +3018,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Cottbusser Straße",
     "currentName": "ul. Chociebuska",
     "source": "wroclaw-historical-pairs",
@@ -2927,6 +3044,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Cretiusstraße",
     "currentName": "ul. Śliczna",
     "source": "wroclaw-historical-pairs",
@@ -2952,6 +3070,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Crossener Straße",
     "currentName": "ul. Krośnieńska",
     "source": "wroclaw-historical-pairs",
@@ -2977,6 +3096,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dahlienweg",
     "currentName": "ul. Makowa",
     "source": "wroclaw-historical-pairs",
@@ -3002,6 +3122,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dahnstraße",
     "currentName": "ul. Stanisława Moniuszki",
     "source": "wroclaw-historical-pairs",
@@ -3027,6 +3148,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Damaschkestraße",
     "currentName": "ul. Monte Cassino",
     "source": "wroclaw-historical-pairs",
@@ -3052,6 +3174,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dammstraße",
     "currentName": "ul. Starogroblowa",
     "source": "wroclaw-historical-pairs",
@@ -3077,6 +3200,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Danziger Straße",
     "currentName": "ul. Gdańska",
     "source": "wroclaw-historical-pairs",
@@ -3102,6 +3226,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Däumlingweg",
     "currentName": "ul. Wojciecha Gersona",
     "source": "wroclaw-historical-pairs",
@@ -3127,6 +3252,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Defreggerstraße",
     "currentName": "ul. Żołnierska",
     "source": "wroclaw-historical-pairs",
@@ -3152,6 +3278,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Derfflingerstraße",
     "currentName": "ul. Krakusa",
     "source": "wroclaw-historical-pairs",
@@ -3177,6 +3304,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dessauer Straße",
     "currentName": "ul. Dobra",
     "source": "wroclaw-historical-pairs",
@@ -3202,6 +3330,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dickhuthstraße",
     "currentName": "ul. Nauczycielska",
     "source": "wroclaw-historical-pairs",
@@ -3227,6 +3356,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Diepenbrockstraße",
     "currentName": "ul. Czerwonego Krzyża",
     "source": "wroclaw-historical-pairs",
@@ -3252,6 +3382,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dietrich-Eckart-Straße",
     "currentName": "ul. Wacława Berenta",
     "source": "wroclaw-historical-pairs",
@@ -3277,6 +3408,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dirschauer Straße",
     "currentName": "ul. Tczewska",
     "source": "wroclaw-historical-pairs",
@@ -3302,6 +3434,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Dominikanerplatz",
     "currentName": "pl. Dominikański",
     "source": "wroclaw-historical-pairs",
@@ -3327,6 +3460,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Domplatz",
     "currentName": "pl. Katedralny",
     "source": "wroclaw-historical-pairs",
@@ -3352,6 +3486,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Domstraße",
     "currentName": "ul. Katedralna",
     "source": "wroclaw-historical-pairs",
@@ -3377,6 +3512,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Donarweg",
     "currentName": "ul. Ludwika Krzywickiego",
     "source": "wroclaw-historical-pairs",
@@ -3402,6 +3538,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dornröschenweg",
     "currentName": "ul. Leona Wyczółkowskiego",
     "source": "wroclaw-historical-pairs",
@@ -3427,6 +3564,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dorotheengasse",
     "currentName": "ul. św. Doroty",
     "source": "wroclaw-historical-pairs",
@@ -3452,6 +3590,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dorpater Straße",
     "currentName": "ul. Sołtysowicka",
     "source": "wroclaw-historical-pairs",
@@ -3477,6 +3616,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Drabiziusplatz",
     "currentName": "pl. Gustawa Daniłowskiego",
     "source": "wroclaw-historical-pairs",
@@ -3502,6 +3642,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Drabiziusstraße",
     "currentName": "ul. Lucjana Siemieńskiego",
     "source": "wroclaw-historical-pairs",
@@ -3527,6 +3668,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dreilindengasse",
     "currentName": "ul. Smocza",
     "source": "wroclaw-historical-pairs",
@@ -3552,6 +3694,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Drosselbartweg",
     "currentName": "ul. Józefa Pankiewicza",
     "source": "wroclaw-historical-pairs",
@@ -3577,6 +3720,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Drosselweg",
     "currentName": "ul. Bartosza Głowackiego",
     "source": "wroclaw-historical-pairs",
@@ -3602,6 +3746,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Drostestraße",
     "currentName": "ul. Skierniewicka",
     "source": "wroclaw-historical-pairs",
@@ -3627,6 +3772,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Dürrgoystraße",
     "currentName": "ul. Tarnogajska",
     "source": "wroclaw-historical-pairs",
@@ -3652,6 +3798,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Ebereschenallee",
     "currentName": "al. Jarzębinowa",
     "source": "wroclaw-historical-pairs",
@@ -3677,6 +3824,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Eichenallee",
     "currentName": "al. Dębowa",
     "source": "wroclaw-historical-pairs",
@@ -3702,6 +3850,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "skwer",
     "formerName": "Eichendorffplan",
     "currentName": "skwer Obrońców Helu",
     "source": "wroclaw-historical-pairs",
@@ -3727,6 +3876,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Eichendorffplatz",
     "currentName": "pl. Mordechaja Anielewicza",
     "source": "wroclaw-historical-pairs",
@@ -3752,6 +3902,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Eichendorffstraße",
     "currentName": "ul. Sokola",
     "source": "wroclaw-historical-pairs",
@@ -3777,6 +3928,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Eichhornstraße",
     "currentName": "ul. Jana Stanki",
     "source": "wroclaw-historical-pairs",
@@ -3802,6 +3954,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Einbaumstraße",
     "currentName": "ul. Józefa Ignacego Kraszewskiego",
     "source": "wroclaw-historical-pairs",
@@ -3827,6 +3980,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elbingstraße",
     "currentName": "ul. Ołbińska",
     "source": "wroclaw-historical-pairs",
@@ -3852,6 +4006,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elfenweg",
     "currentName": "ul. Promień",
     "source": "wroclaw-historical-pairs",
@@ -3877,6 +4032,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Elferplatz",
     "currentName": "pl. Orląt Lwowskich",
     "source": "wroclaw-historical-pairs",
@@ -3902,6 +4058,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elisendamm",
     "currentName": "ul. Wilcza",
     "source": "wroclaw-historical-pairs",
@@ -3927,6 +4084,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elsa-Brandström-Straße",
     "currentName": "ul. Rękodzielnicza",
     "source": "wroclaw-historical-pairs",
@@ -3952,6 +4110,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elsasser Straße",
     "currentName": "ul. Zaolziańska",
     "source": "wroclaw-historical-pairs",
@@ -3977,6 +4136,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Elsterweg",
     "currentName": "ul. Cypriana Godebskiego",
     "source": "wroclaw-historical-pairs",
@@ -4002,6 +4162,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Emdenweg",
     "currentName": "ul. Pusta",
     "source": "wroclaw-historical-pairs",
@@ -4027,6 +4188,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Emil-Bohn-Straße",
     "currentName": "ul. Józefa Brandta",
     "source": "wroclaw-historical-pairs",
@@ -4052,6 +4214,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Enderstraße",
     "currentName": "ul. Henryka Pobożnego",
     "source": "wroclaw-historical-pairs",
@@ -4077,6 +4240,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Engelhardtstraße",
     "currentName": "ul. Antoniego Wiwulskiego",
     "source": "wroclaw-historical-pairs",
@@ -4102,6 +4266,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Engelsburg",
     "currentName": "ul. Łazienna",
     "source": "wroclaw-historical-pairs",
@@ -4127,6 +4292,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Englerstraße",
     "currentName": "ul. Zdrowa",
     "source": "wroclaw-historical-pairs",
@@ -4152,6 +4318,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Erdaweg",
     "currentName": "ul. Augusta Cieszkowskiego",
     "source": "wroclaw-historical-pairs",
@@ -4177,6 +4344,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Erlitzstraße",
     "currentName": "ul. Dąbrówki",
     "source": "wroclaw-historical-pairs",
@@ -4202,6 +4370,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ernststraße",
     "currentName": "ul. Tadeusza Rejtana",
     "source": "wroclaw-historical-pairs",
@@ -4227,6 +4396,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Erwin-Scheubner-Richter-Straße",
     "currentName": "ul. Monterska",
     "source": "wroclaw-historical-pairs",
@@ -4252,6 +4422,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Eschenloerstraße",
     "currentName": "ul. Andrzeja Cinciały",
     "source": "wroclaw-historical-pairs",
@@ -4277,6 +4448,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fabrikstraße",
     "currentName": "ul. Teodora Parnickiego",
     "source": "wroclaw-historical-pairs",
@@ -4302,6 +4474,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fährgasse",
     "currentName": "ul. Jana Żiżki",
     "source": "wroclaw-historical-pairs",
@@ -4327,6 +4500,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Falkenweg",
     "currentName": "ul. Piotra Wysockiego",
     "source": "wroclaw-historical-pairs",
@@ -4352,6 +4526,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Falklandstraße",
     "currentName": "ul. Ogrodowa",
     "source": "wroclaw-historical-pairs",
@@ -4377,6 +4552,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Falkstraße",
     "currentName": "ul. Wietrzna",
     "source": "wroclaw-historical-pairs",
@@ -4402,6 +4578,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fasanenweg",
     "currentName": "ul. Jana Szanieckiego",
     "source": "wroclaw-historical-pairs",
@@ -4427,6 +4604,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Feenweg",
     "currentName": "ul. Aleksandra Orłowskiego",
     "source": "wroclaw-historical-pairs",
@@ -4452,6 +4630,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fehrbellinstraße",
     "currentName": "ul. Słowicza",
     "source": "wroclaw-historical-pairs",
@@ -4477,6 +4656,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Feliks-Alfahrt-Straße",
     "currentName": "ul. Ślusarska",
     "source": "wroclaw-historical-pairs",
@@ -4502,6 +4682,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fichtestraße",
     "currentName": "ul. Tomaszowska",
     "source": "wroclaw-historical-pairs",
@@ -4527,6 +4708,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fiedlerstraße",
     "currentName": "ul. Ukryta",
     "source": "wroclaw-historical-pairs",
@@ -4552,6 +4734,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Filkestraße",
     "currentName": "ul. Bardzka",
     "source": "wroclaw-historical-pairs",
@@ -4577,6 +4760,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fischerau",
     "currentName": "ul. Mikołaja Kopernika",
     "source": "wroclaw-historical-pairs",
@@ -4602,6 +4786,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fischergasse",
     "currentName": "ul. Rybacka",
     "source": "wroclaw-historical-pairs",
@@ -4627,6 +4812,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Fliederplatz",
     "currentName": "pl. Bzowy",
     "source": "wroclaw-historical-pairs",
@@ -4652,6 +4838,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Fliederweg",
     "currentName": "ul. Bzowa",
     "source": "wroclaw-historical-pairs",
@@ -4677,6 +4864,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Flügeldeich",
     "currentName": "ul. Krzywa Grobla",
     "source": "wroclaw-historical-pairs",
@@ -4702,6 +4890,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Flughafenstraße",
     "currentName": "ul. Lotnicza",
     "source": "wroclaw-historical-pairs",
@@ -4727,6 +4916,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Flurstraße",
     "currentName": "ul. Stanisława Małachowskiego",
     "source": "wroclaw-historical-pairs",
@@ -4752,6 +4942,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Flutstraße",
     "currentName": "ul. ks. Konstantego Damrota",
     "source": "wroclaw-historical-pairs",
@@ -4777,6 +4968,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Fontaneplatz",
     "currentName": "pl. Konstytucji 3 Maja",
     "source": "wroclaw-historical-pairs",
@@ -4802,6 +4994,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Forckenbeckstraße",
     "currentName": "ul. Aleksandra Hercena",
     "source": "wroclaw-historical-pairs",
@@ -4827,6 +5020,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Försterstraße",
     "currentName": "ul. kard. Mieczysława Ledóchowskiego",
     "source": "wroclaw-historical-pairs",
@@ -4852,6 +5046,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Frankensteiner Straße",
     "currentName": "ul. Ząbkowicka",
     "source": "wroclaw-historical-pairs",
@@ -4877,6 +5072,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Frankfurter Straße",
     "currentName": "ul. Legnicka",
     "source": "wroclaw-historical-pairs",
@@ -4902,6 +5098,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Frau-Holle-Weg",
     "currentName": "ul. Romualda Mielczarskiego",
     "source": "wroclaw-historical-pairs",
@@ -4927,6 +5124,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Freiburger Straße",
     "currentName": "ul. Świebodzka",
     "source": "wroclaw-historical-pairs",
@@ -4952,6 +5150,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Freiligrathstraße",
     "currentName": "ul. Połaniecka",
     "source": "wroclaw-historical-pairs",
@@ -4977,6 +5176,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Freyaweg",
     "currentName": "ul. Jana Głogowczyka",
     "source": "wroclaw-historical-pairs",
@@ -5002,6 +5202,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friebestraße",
     "currentName": "ul. Łączności",
     "source": "wroclaw-historical-pairs",
@@ -5027,6 +5228,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedensburgstraße",
     "currentName": "ul. Mieszka I.",
     "source": "wroclaw-historical-pairs",
@@ -5052,6 +5254,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Friedewalder Straße",
     "currentName": "al. Aleksandra Brücknera",
     "source": "wroclaw-historical-pairs",
@@ -5077,6 +5280,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrich-Ebert-Straße",
     "currentName": "ul. Adama Mickiewicza",
     "source": "wroclaw-historical-pairs",
@@ -5102,6 +5306,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrich-Hebbel-Straße",
     "currentName": "ul. Kutnowska",
     "source": "wroclaw-historical-pairs",
@@ -5127,6 +5332,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrich-Karl-Straße",
     "currentName": "ul. Inowrocławska",
     "source": "wroclaw-historical-pairs",
@@ -5152,6 +5358,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrich-Rückert-Straße",
     "currentName": "ul. Cisowa",
     "source": "wroclaw-historical-pairs",
@@ -5177,6 +5384,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrich-Wilhelm-Straße",
     "currentName": "ul. Legnicka",
     "source": "wroclaw-historical-pairs",
@@ -5202,6 +5410,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friedrichstraße",
     "currentName": "ul. Kolejowa",
     "source": "wroclaw-historical-pairs",
@@ -5227,6 +5436,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Friesenplatz",
     "currentName": "pl. Westerplatte",
     "source": "wroclaw-historical-pairs",
@@ -5252,6 +5462,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Friesenstraße",
     "currentName": "ul. Walecznych",
     "source": "wroclaw-historical-pairs",
@@ -5277,6 +5488,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Frobenstraße",
     "currentName": "ul. Spadochroniarzy",
     "source": "wroclaw-historical-pairs",
@@ -5302,6 +5514,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Froschkönigweg",
     "currentName": "ul. Maksymiliana Jackowskiego",
     "source": "wroclaw-historical-pairs",
@@ -5327,6 +5540,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Frundsbergstraße",
     "currentName": "ul. Świeradowska",
     "source": "wroclaw-historical-pairs",
@@ -5352,6 +5566,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gabelsbergerstraße",
     "currentName": "ul. Młoda",
     "source": "wroclaw-historical-pairs",
@@ -5377,6 +5592,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gabitzstraße",
     "currentName": "ul. Gajowicka",
     "source": "wroclaw-historical-pairs",
@@ -5402,6 +5618,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gallestraße",
     "currentName": "ul. Wapienna",
     "source": "wroclaw-historical-pairs",
@@ -5427,6 +5644,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gallwitzstraße",
     "currentName": "ul. Piotra Czajkowskiego",
     "source": "wroclaw-historical-pairs",
@@ -5452,6 +5670,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gandauer Straße",
     "currentName": "ul. Gądowska",
     "source": "wroclaw-historical-pairs",
@@ -5477,6 +5696,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gärtnerstraße",
     "currentName": "ul. Ostrowska",
     "source": "wroclaw-historical-pairs",
@@ -5502,6 +5722,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gärtnerweg",
     "currentName": "ul. Warzywnicza",
     "source": "wroclaw-historical-pairs",
@@ -5527,6 +5748,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Garvestraße",
     "currentName": "ul. Kujawska",
     "source": "wroclaw-historical-pairs",
@@ -5552,6 +5774,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gellertstraße",
     "currentName": "ul. Ołowiana",
     "source": "wroclaw-historical-pairs",
@@ -5577,6 +5800,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Georgenstraße",
     "currentName": "ul. św. Jerzego",
     "source": "wroclaw-historical-pairs",
@@ -5602,6 +5826,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gerbergasse",
     "currentName": "ul. Garbary",
     "source": "wroclaw-historical-pairs",
@@ -5627,6 +5852,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gerhart-Hauptmann-Weg",
     "currentName": "ul. Marii Konopnickiej",
     "source": "wroclaw-historical-pairs",
@@ -5652,6 +5878,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Germanenstraße",
     "currentName": "ul. Stanisława Kusztelana",
     "source": "wroclaw-historical-pairs",
@@ -5677,6 +5904,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gerteweg",
     "currentName": "ul. Ostrzeszowska",
     "source": "wroclaw-historical-pairs",
@@ -5702,6 +5930,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gierthstraße",
     "currentName": "ul. Nasturcjowa",
     "source": "wroclaw-historical-pairs",
@@ -5727,6 +5956,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gleiwitzer Straße",
     "currentName": "ul. Gliwicka",
     "source": "wroclaw-historical-pairs",
@@ -5752,6 +5982,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Glogauer Straße",
     "currentName": "ul. Głogowska",
     "source": "wroclaw-historical-pairs",
@@ -5777,6 +6008,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Gneisenauplatz",
     "currentName": "pl. gen. Józefa Bema",
     "source": "wroclaw-historical-pairs",
@@ -5802,6 +6034,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gneisenaustraße",
     "currentName": "ul. gen. Józefa Bema",
     "source": "wroclaw-historical-pairs",
@@ -5827,6 +6060,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gnesener Straße",
     "currentName": "ul. Gnieźnieńska",
     "source": "wroclaw-historical-pairs",
@@ -5852,6 +6086,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gnomenweg",
     "currentName": "ul. Piotra Michałowskiego",
     "source": "wroclaw-historical-pairs",
@@ -5877,6 +6112,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Goldammerweg",
     "currentName": "ul. gen. Józefa Sowińskiego",
     "source": "wroclaw-historical-pairs",
@@ -5902,6 +6138,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Goldaper Straße",
     "currentName": "ul. Łąka Mazurska",
     "source": "wroclaw-historical-pairs",
@@ -5927,6 +6164,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Goldberger Straße",
     "currentName": "ul. Złotoryjska",
     "source": "wroclaw-historical-pairs",
@@ -5952,6 +6190,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Goldene Radegasse",
     "currentName": "ul. Kazimierza Wielkiego",
     "source": "wroclaw-historical-pairs",
@@ -5977,6 +6216,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Göppertstraße",
     "currentName": "ul. Kanonia",
     "source": "wroclaw-historical-pairs",
@@ -6002,6 +6242,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Göringstraße",
     "currentName": "ul. Wieczysta",
     "source": "wroclaw-historical-pairs",
@@ -6027,6 +6268,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gottschallstraße",
     "currentName": "ul. Ciepła",
     "source": "wroclaw-historical-pairs",
@@ -6052,6 +6294,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Götzenstraße",
     "currentName": "ul. Owsiana",
     "source": "wroclaw-historical-pairs",
@@ -6077,6 +6320,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gräbschener Straße",
     "currentName": "ul. Grabiszyńska",
     "source": "wroclaw-historical-pairs",
@@ -6102,6 +6346,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Graf-Spee-Straße",
     "currentName": "ul. Ignacego Domeyki",
     "source": "wroclaw-historical-pairs",
@@ -6127,6 +6372,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Graudenzer Straße",
     "currentName": "ul. Grudziądzka",
     "source": "wroclaw-historical-pairs",
@@ -6152,6 +6398,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Graupenstraße",
     "currentName": "ul. Krupnicza",
     "source": "wroclaw-historical-pairs",
@@ -6177,6 +6424,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grenzhausgasse",
     "currentName": "ul. Grabarska",
     "source": "wroclaw-historical-pairs",
@@ -6202,6 +6450,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grenzstraße",
     "currentName": "ul. Starograniczna",
     "source": "wroclaw-historical-pairs",
@@ -6227,6 +6476,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gretelweg",
     "currentName": "ul. Edwarda Abramowskiego",
     "source": "wroclaw-historical-pairs",
@@ -6252,6 +6502,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grillparzerstraße",
     "currentName": "ul. Mielecka",
     "source": "wroclaw-historical-pairs",
@@ -6277,6 +6528,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grimmstraße",
     "currentName": "ul. Spółdzielcza",
     "source": "wroclaw-historical-pairs",
@@ -6302,6 +6554,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Große Dreilindengasse",
     "currentName": "ul. Ptasia",
     "source": "wroclaw-historical-pairs",
@@ -6327,6 +6580,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grünberger Straße",
     "currentName": "ul. Zielonogórska",
     "source": "wroclaw-historical-pairs",
@@ -6352,6 +6606,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grundstraße",
     "currentName": "ul. Fabryczna",
     "source": "wroclaw-historical-pairs",
@@ -6377,6 +6632,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Grüneichener Weg",
     "currentName": "ul. Zygmunta Wróblewskiego",
     "source": "wroclaw-historical-pairs",
@@ -6402,6 +6658,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Grüneicher Weg",
     "currentName": "al. Dąbska",
     "source": "wroclaw-historical-pairs",
@@ -6427,6 +6684,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gryphiusstraße",
     "currentName": "ul. Gubińska",
     "source": "wroclaw-historical-pairs",
@@ -6452,6 +6710,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gubener Straße",
     "currentName": "ul. Słubicka",
     "source": "wroclaw-historical-pairs",
@@ -6477,6 +6736,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Guidostraße",
     "currentName": "ul. Saperów",
     "source": "wroclaw-historical-pairs",
@@ -6502,6 +6762,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Güntherstraße",
     "currentName": "ul. Letnia",
     "source": "wroclaw-historical-pairs",
@@ -6527,6 +6788,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gustav-Adolf-Straße",
     "currentName": "ul. Artura Grottgera",
     "source": "wroclaw-historical-pairs",
@@ -6552,6 +6814,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gustav-Freytag-Straße",
     "currentName": "ul. Dyrekcyjna",
     "source": "wroclaw-historical-pairs",
@@ -6577,6 +6840,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gustav-Langer-Straße",
     "currentName": "ul. Ludwika Rydygiera",
     "source": "wroclaw-historical-pairs",
@@ -6602,6 +6866,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Gutenbergstraße",
     "currentName": "ul. Drukarska",
     "source": "wroclaw-historical-pairs",
@@ -6627,6 +6892,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "H.-von-Strachwitz-Straße",
     "currentName": "ul. Rzeczna",
     "source": "wroclaw-historical-pairs",
@@ -6652,6 +6918,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Häherweg",
     "currentName": "ul. Stacyjna",
     "source": "wroclaw-historical-pairs",
@@ -6677,6 +6944,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hans-Sachs-Straße",
     "currentName": "ul. Zenona Miriama Przesmyckiego",
     "source": "wroclaw-historical-pairs",
@@ -6702,6 +6970,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hans-Schemm-Straße",
     "currentName": "ul. Bernarda Pretficza",
     "source": "wroclaw-historical-pairs",
@@ -6727,6 +6996,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hansastraße",
     "currentName": "ul. Franciszka Stefczyka",
     "source": "wroclaw-historical-pairs",
@@ -6752,6 +7022,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hänselweg",
     "currentName": "ul. Zimowa",
     "source": "wroclaw-historical-pairs",
@@ -6777,6 +7048,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hardenberghügel",
     "currentName": "ul. Chałupnicza",
     "source": "wroclaw-historical-pairs",
@@ -6802,6 +7074,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hardenbergstraße",
     "currentName": "ul. Bernarda Pretficza",
     "source": "wroclaw-historical-pairs",
@@ -6827,6 +7100,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Harrasgasse",
     "currentName": "ul. Jana Ostroroga",
     "source": "wroclaw-historical-pairs",
@@ -6852,6 +7126,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hatzfeldweg",
     "currentName": "ul. Tarnobrzeska",
     "source": "wroclaw-historical-pairs",
@@ -6877,6 +7152,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Haunoldstraße",
     "currentName": "ul. Wiejska",
     "source": "wroclaw-historical-pairs",
@@ -6902,6 +7178,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hauptstraße",
     "currentName": "ul. Henryka Wieniawskiego",
     "source": "wroclaw-historical-pairs",
@@ -6927,6 +7204,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Haydnstraße",
     "currentName": "ul. Chojnowska",
     "source": "wroclaw-historical-pairs",
@@ -6952,6 +7230,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Haynauer Straße",
     "currentName": "ul. Mikołaja Reja",
     "source": "wroclaw-historical-pairs",
@@ -6977,6 +7256,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hedwigstraße",
     "currentName": "ul. Sportowa",
     "source": "wroclaw-historical-pairs",
@@ -7002,6 +7282,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hegelstraße",
     "currentName": "ul. Ignacego Łukasiewicza",
     "source": "wroclaw-historical-pairs",
@@ -7027,6 +7308,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heidenhainstraße",
     "currentName": "ul. Łukasiewicza",
     "source": "wroclaw-historical-pairs",
@@ -7052,6 +7334,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heimdallweg",
     "currentName": "ul. Kazimierska",
     "source": "wroclaw-historical-pairs",
@@ -7077,6 +7360,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heimweg",
     "currentName": "ul. Henrykowska",
     "source": "wroclaw-historical-pairs",
@@ -7102,6 +7386,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heinrich-Gromann-Straße",
     "currentName": "ul. Francuska",
     "source": "wroclaw-historical-pairs",
@@ -7127,6 +7412,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heinrich-Schnee-Straße",
     "currentName": "ul. Henryka Brodatego",
     "source": "wroclaw-historical-pairs",
@@ -7152,6 +7438,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Heinrich-von-Korn-Straße",
     "currentName": "al. Marcina Kromera",
     "source": "wroclaw-historical-pairs",
@@ -7177,6 +7464,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heinrichauer Straße",
     "currentName": "ul. Ludowa",
     "source": "wroclaw-historical-pairs",
@@ -7202,6 +7490,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heinrichstraße",
     "currentName": "ul. gen. Józefa Sowińskiego",
     "source": "wroclaw-historical-pairs",
@@ -7227,6 +7516,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heinzelweg",
     "currentName": "ul. Bohdana Zaleskiego",
     "source": "wroclaw-historical-pairs",
@@ -7252,6 +7542,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Heller Straße",
     "currentName": "ul. Na Ostatnim Groszu",
     "source": "wroclaw-historical-pairs",
@@ -7277,6 +7568,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herbert-Welkisch-Straße",
     "currentName": "ul. Mazowiecka",
     "source": "wroclaw-historical-pairs",
@@ -7302,6 +7594,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herdain Straße",
     "currentName": "ul. Gajowa",
     "source": "wroclaw-historical-pairs",
@@ -7327,6 +7620,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herderstraße",
     "currentName": "ul. Grochowa",
     "source": "wroclaw-historical-pairs",
@@ -7352,6 +7646,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herman-Ostadier-Straße",
     "currentName": "ul. Klecińska",
     "source": "wroclaw-historical-pairs",
@@ -7377,6 +7672,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herman-Wolfram-Straße",
     "currentName": "ul. Jordanowska",
     "source": "wroclaw-historical-pairs",
@@ -7402,6 +7698,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hermann-Löns-Weg",
     "currentName": "ul. Adolfa Dygasińskiego",
     "source": "wroclaw-historical-pairs",
@@ -7427,6 +7724,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hermann-Stehr-Weg",
     "currentName": "ul. Władysława Syrokomli",
     "source": "wroclaw-historical-pairs",
@@ -7452,6 +7750,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hermannstraße",
     "currentName": "ul. Emila Zegadłowicza",
     "source": "wroclaw-historical-pairs",
@@ -7477,6 +7776,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herrenstraße",
     "currentName": "ul. Kiełbaśnicza",
     "source": "wroclaw-historical-pairs",
@@ -7502,6 +7802,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Herzogstraße",
     "currentName": "ul. Jana Kilińskiego",
     "source": "wroclaw-historical-pairs",
@@ -7527,6 +7828,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hickertstraße",
     "currentName": "ul. Wejherowska",
     "source": "wroclaw-historical-pairs",
@@ -7552,6 +7854,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hildebrandstraße",
     "currentName": "ul. Kruszwicka",
     "source": "wroclaw-historical-pairs",
@@ -7577,6 +7880,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Hindenburaplatz",
     "currentName": "pl. Powstańców Śląskich",
     "source": "wroclaw-historical-pairs",
@@ -7602,6 +7906,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Hindenburgstraße",
     "currentName": "al. Piastów",
     "source": "wroclaw-historical-pairs",
@@ -7627,6 +7932,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hippeistraße",
     "currentName": "ul. ks. Czesława Klimasa",
     "source": "wroclaw-historical-pairs",
@@ -7652,6 +7958,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hirschstraße",
     "currentName": "ul. Mikołaja Sępa-Szarzyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -7677,6 +7984,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hochstraße",
     "currentName": "ul. Wysoka",
     "source": "wroclaw-historical-pairs",
@@ -7702,6 +8010,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hochwaldstraße",
     "currentName": "ul. Inżynierska",
     "source": "wroclaw-historical-pairs",
@@ -7727,6 +8036,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hochwasserschutzdeich",
     "currentName": "ul. Międzyrzecka",
     "source": "wroclaw-historical-pairs",
@@ -7752,6 +8062,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Höfchenplatz",
     "currentName": "pl. Ludwika Hirszfelda",
     "source": "wroclaw-historical-pairs",
@@ -7777,6 +8088,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Höfchenstraße",
     "currentName": "ul. Tadeusza Zielińskiego",
     "source": "wroclaw-historical-pairs",
@@ -7802,6 +8114,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hohenfriedberger Straße",
     "currentName": "ul. Ukraińska",
     "source": "wroclaw-historical-pairs",
@@ -7827,6 +8140,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hohenlohestraße",
     "currentName": "ul. Stefana Banacha",
     "source": "wroclaw-historical-pairs",
@@ -7852,6 +8166,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Höhlmannstraße",
     "currentName": "ul. Chłopska",
     "source": "wroclaw-historical-pairs",
@@ -7877,6 +8192,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hölderlinstraße",
     "currentName": "ul. Garwolińska",
     "source": "wroclaw-historical-pairs",
@@ -7902,6 +8218,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hollandwiesenstraße",
     "currentName": "ul. Na Niskich Łąkach",
     "source": "wroclaw-historical-pairs",
@@ -7927,6 +8244,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Holteistraße",
     "currentName": "ul. Prosta",
     "source": "wroclaw-historical-pairs",
@@ -7952,6 +8270,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Horst-Wessel-Straße",
     "currentName": "ul. Zygmunta Wróblewskiego",
     "source": "wroclaw-historical-pairs",
@@ -7977,6 +8296,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hubenstraße",
     "currentName": "ul. Hubska",
     "source": "wroclaw-historical-pairs",
@@ -8002,6 +8322,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hultschiner Straße",
     "currentName": "ul. Karwińska",
     "source": "wroclaw-historical-pairs",
@@ -8027,6 +8348,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Humboldtstraße",
     "currentName": "ul. Józefa Rostafińskiego",
     "source": "wroclaw-historical-pairs",
@@ -8052,6 +8374,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hummerei",
     "currentName": "ul. Kazimierza Wielkiego",
     "source": "wroclaw-historical-pairs",
@@ -8077,6 +8400,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Hundsfelder Straße",
     "currentName": "ul. Bolesława Krzywoustego",
     "source": "wroclaw-historical-pairs",
@@ -8102,6 +8426,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Illyrierstraße",
     "currentName": "ul. Sobótki",
     "source": "wroclaw-historical-pairs",
@@ -8127,6 +8452,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Imirweg",
     "currentName": "ul. Jerzego Samuela Bandtkiego",
     "source": "wroclaw-historical-pairs",
@@ -8152,6 +8478,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Immelmannstraße",
     "currentName": "ul. Tkacka",
     "source": "wroclaw-historical-pairs",
@@ -8177,6 +8504,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Industriestraße",
     "currentName": "ul. Macieja Miechowity",
     "source": "wroclaw-historical-pairs",
@@ -8202,6 +8530,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "J.-Rickmers-Straße",
     "currentName": "ul. Pilnikarska",
     "source": "wroclaw-historical-pairs",
@@ -8227,6 +8556,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jaenickestraße",
     "currentName": "ul. Pułtuska",
     "source": "wroclaw-historical-pairs",
@@ -8252,6 +8582,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jägerstraße",
     "currentName": "ul. Myśliwska",
     "source": "wroclaw-historical-pairs",
@@ -8277,6 +8608,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jahnstraße",
     "currentName": "ul. Sokolnicza",
     "source": "wroclaw-historical-pairs",
@@ -8302,6 +8634,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jänschgässel",
     "currentName": "ul. Byczyńska",
     "source": "wroclaw-historical-pairs",
@@ -8327,6 +8660,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jauerstraße",
     "currentName": "ul. Jaworska",
     "source": "wroclaw-historical-pairs",
@@ -8352,6 +8686,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Joh.-WoIfgang-Straße",
     "currentName": "ul. Wiosenna",
     "source": "wroclaw-historical-pairs",
@@ -8377,6 +8712,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Johannes-Reinelt-Weg",
     "currentName": "ul. Mieczysława Romanowskiego",
     "source": "wroclaw-historical-pairs",
@@ -8402,6 +8738,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Josefstraße",
     "currentName": "ul. św. Józefa",
     "source": "wroclaw-historical-pairs",
@@ -8427,6 +8764,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Junkernstraße",
     "currentName": "ul. Ofiar Oświęcimskich",
     "source": "wroclaw-historical-pairs",
@@ -8452,6 +8790,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Jupiterstraße",
     "currentName": "ul. Serbska",
     "source": "wroclaw-historical-pairs",
@@ -8477,6 +8816,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "K.-Rickmers-Straße",
     "currentName": "ul. Pilnikarska",
     "source": "wroclaw-historical-pairs",
@@ -8502,6 +8842,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kaiser-Friedrich-Straße",
     "currentName": "ul. Mariana Rapackiego",
     "source": "wroclaw-historical-pairs",
@@ -8527,6 +8868,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kaiser-Wilhelm-Straße",
     "currentName": "ul. Powstańców Śląskich",
     "source": "wroclaw-historical-pairs",
@@ -8552,6 +8894,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Kaiserin-Augusta-Platz",
     "currentName": "pl. Polski",
     "source": "wroclaw-historical-pairs",
@@ -8577,6 +8920,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Kaiserstraße",
     "currentName": "pl. Grunwaldzki",
     "source": "wroclaw-historical-pairs",
@@ -8602,6 +8946,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kamenzer Straße",
     "currentName": "ul. Kamieniecka",
     "source": "wroclaw-historical-pairs",
@@ -8627,6 +8972,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kantstraße",
     "currentName": "ul. Łódzka",
     "source": "wroclaw-historical-pairs",
@@ -8652,6 +8998,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kapellenweg",
     "currentName": "ul. Kapliczna",
     "source": "wroclaw-historical-pairs",
@@ -8677,6 +9024,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Karl-Hauptmann-Weg",
     "currentName": "ul. Ludwika Nabielaka",
     "source": "wroclaw-historical-pairs",
@@ -8702,6 +9050,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Karl-Laforce-Straße",
     "currentName": "ul. Lakiernicza",
     "source": "wroclaw-historical-pairs",
@@ -8727,6 +9076,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Karlsplatz",
     "currentName": "pl. Bohaterów Getta",
     "source": "wroclaw-historical-pairs",
@@ -8752,6 +9102,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Karlstraße",
     "currentName": "ul. Kazimierza Wielkiego",
     "source": "wroclaw-historical-pairs",
@@ -8777,6 +9128,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Karuthstraße",
     "currentName": "ul. Ziemowita",
     "source": "wroclaw-historical-pairs",
@@ -8802,6 +9154,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Kastanienallee",
     "currentName": "al. Kasztanowa",
     "source": "wroclaw-historical-pairs",
@@ -8827,6 +9180,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Katharinenstraße",
     "currentName": "ul. św. Katarzyny",
     "source": "wroclaw-historical-pairs",
@@ -8852,6 +9206,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kattowitzer Straße",
     "currentName": "ul. Katowicka",
     "source": "wroclaw-historical-pairs",
@@ -8877,6 +9232,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Kätzelohle",
     "currentName": "pl. Dominikański",
     "source": "wroclaw-historical-pairs",
@@ -8902,6 +9258,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Kätzerberger Gasse",
     "currentName": "pl. Dominikański",
     "source": "wroclaw-historical-pairs",
@@ -8927,6 +9284,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Ketzerberg",
     "currentName": "pl. Dominikański",
     "source": "wroclaw-historical-pairs",
@@ -8952,6 +9310,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kiebitzweg",
     "currentName": "ul. ks. Piotra Ściegiennego",
     "source": "wroclaw-historical-pairs",
@@ -8977,6 +9336,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kinderheimstraße",
     "currentName": "ul. Księska",
     "source": "wroclaw-historical-pairs",
@@ -9002,6 +9362,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kipkeweg",
     "currentName": "ul. Długa",
     "source": "wroclaw-historical-pairs",
@@ -9027,6 +9388,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kirchstraße",
     "currentName": "ul. Bernardyńska",
     "source": "wroclaw-historical-pairs",
@@ -9052,6 +9414,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kirchweg",
     "currentName": "ul. Krotoszyńska",
     "source": "wroclaw-historical-pairs",
@@ -9077,6 +9440,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Kirschalle",
     "currentName": "al. Wiśniowa",
     "source": "wroclaw-historical-pairs",
@@ -9102,6 +9466,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleinburgstraße",
     "currentName": "ul. Januszowicka",
     "source": "wroclaw-historical-pairs",
@@ -9127,6 +9492,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleine Domstraße",
     "currentName": "ul. św. Idziego",
     "source": "wroclaw-historical-pairs",
@@ -9152,6 +9518,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleine Fürstenstraße",
     "currentName": "ul. Mikołaja Reja",
     "source": "wroclaw-historical-pairs",
@@ -9177,6 +9544,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleine Groschengasse",
     "currentName": "ul. Mennicza",
     "source": "wroclaw-historical-pairs",
@@ -9202,6 +9570,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleine Holzstraße",
     "currentName": "ul. Drzewna",
     "source": "wroclaw-historical-pairs",
@@ -9227,6 +9596,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kleiststraße",
     "currentName": "ul. Energetyczna",
     "source": "wroclaw-historical-pairs",
@@ -9252,6 +9622,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kletkestraße",
     "currentName": "ul. Krzywa",
     "source": "wroclaw-historical-pairs",
@@ -9277,6 +9648,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kletschkaustraße",
     "currentName": "ul. Kleczkowska",
     "source": "wroclaw-historical-pairs",
@@ -9302,6 +9674,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Klodnitzstraße",
     "currentName": "ul. Kłodnicka",
     "source": "wroclaw-historical-pairs",
@@ -9327,6 +9700,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kniestraße",
     "currentName": "ul. Wejherowska",
     "source": "wroclaw-historical-pairs",
@@ -9352,6 +9726,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kommendweg",
     "currentName": "ul. Oficerska",
     "source": "wroclaw-historical-pairs",
@@ -9377,6 +9752,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Königsberger Straße",
     "currentName": "ul. Kwidzyńska",
     "source": "wroclaw-historical-pairs",
@@ -9402,6 +9778,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Königshütter Straße",
     "currentName": "ul. Chorzowska",
     "source": "wroclaw-historical-pairs",
@@ -9427,6 +9804,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Königsplatz",
     "currentName": "pl. Jana Pawła II",
     "source": "wroclaw-historical-pairs",
@@ -9452,6 +9830,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Königstraße",
     "currentName": "ul. Stanisława Leszczyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -9477,6 +9856,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Konstantin-Schnier-Straße",
     "currentName": "ul. Stanisława Przybyszewskiego",
     "source": "wroclaw-historical-pairs",
@@ -9502,6 +9882,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kopernikusstraße",
     "currentName": "ul. Mikołaja Kopernika",
     "source": "wroclaw-historical-pairs",
@@ -9527,6 +9908,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kopischstraße",
     "currentName": "ul. Stalowa",
     "source": "wroclaw-historical-pairs",
@@ -9552,6 +9934,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kornblumenweg",
     "currentName": "ul. Chabrowa",
     "source": "wroclaw-historical-pairs",
@@ -9577,6 +9960,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Koseier Weg",
     "currentName": "ul. gen. Iwana Połbina",
     "source": "wroclaw-historical-pairs",
@@ -9602,6 +9986,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Koseistraße",
     "currentName": "ul. Kozanowska",
     "source": "wroclaw-historical-pairs",
@@ -9627,6 +10012,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kospothstraße",
     "currentName": "ul. Ignacego Daszyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -9652,6 +10038,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kräutenweg",
     "currentName": "ul. Kamienna",
     "source": "wroclaw-historical-pairs",
@@ -9677,6 +10064,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kreuzburger Straße",
     "currentName": "ul. Kluczborska",
     "source": "wroclaw-historical-pairs",
@@ -9702,6 +10090,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kreuzherrenweg",
     "currentName": "ul. Bożego Ciała",
     "source": "wroclaw-historical-pairs",
@@ -9727,6 +10116,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kreuzschnabelweg",
     "currentName": "ul. Ludwika Waryńskiego",
     "source": "wroclaw-historical-pairs",
@@ -9752,6 +10142,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kreuzstraße",
     "currentName": "ul. Świętokrzyska",
     "source": "wroclaw-historical-pairs",
@@ -9777,6 +10168,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Krieternstraße",
     "currentName": "ul. ks. Piotra Wawrzyniaka",
     "source": "wroclaw-historical-pairs",
@@ -9802,6 +10194,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Krischkestraße",
     "currentName": "ul. Jelenia",
     "source": "wroclaw-historical-pairs",
@@ -9827,6 +10220,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Krullstraße",
     "currentName": "ul. Psie Budy",
     "source": "wroclaw-historical-pairs",
@@ -9852,6 +10246,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kuckucksweg",
     "currentName": "ul. Rafała Krajewskiego",
     "source": "wroclaw-historical-pairs",
@@ -9877,6 +10272,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kugelstraße",
     "currentName": "ul. Władysława Broniewskiego",
     "source": "wroclaw-historical-pairs",
@@ -9902,6 +10298,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Kurze Gasse",
     "currentName": "ul. Inspektowa",
     "source": "wroclaw-historical-pairs",
@@ -9927,6 +10324,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Landecker Straße",
     "currentName": "ul. Kudowska",
     "source": "wroclaw-historical-pairs",
@@ -9952,6 +10350,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lange Gasse",
     "currentName": "ul. Długa",
     "source": "wroclaw-historical-pairs",
@@ -9977,6 +10376,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Langeholzgasse",
     "currentName": "ul. Krowia",
     "source": "wroclaw-historical-pairs",
@@ -10002,6 +10402,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Langemarckstraße",
     "currentName": "ul. Pionierska",
     "source": "wroclaw-historical-pairs",
@@ -10027,6 +10428,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Langenauer Straße",
     "currentName": "ul. Długopolska",
     "source": "wroclaw-historical-pairs",
@@ -10052,6 +10454,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Langenbielauer Straße",
     "currentName": "ul. Bielawska",
     "source": "wroclaw-historical-pairs",
@@ -10077,6 +10480,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Langhansstraße",
     "currentName": "ul. Edwarda Wittiga",
     "source": "wroclaw-historical-pairs",
@@ -10102,6 +10506,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Laubaner Straße",
     "currentName": "ul. Zgorzelecka",
     "source": "wroclaw-historical-pairs",
@@ -10127,6 +10532,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Laubestraße",
     "currentName": "ul. Altanowa",
     "source": "wroclaw-historical-pairs",
@@ -10152,6 +10558,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Laurahütter Straße",
     "currentName": "ul. Hajducka",
     "source": "wroclaw-historical-pairs",
@@ -10177,6 +10584,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Laurentiusstraße",
     "currentName": "ul. Piwna",
     "source": "wroclaw-historical-pairs",
@@ -10202,6 +10610,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lausitzer Straße",
     "currentName": "ul. Budziszyńska",
     "source": "wroclaw-historical-pairs",
@@ -10227,6 +10636,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ledeborn-Trift",
     "currentName": "ul. Odkrywców",
     "source": "wroclaw-historical-pairs",
@@ -10252,6 +10662,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Leerbeutelstraße",
     "currentName": "ul. Fryderyka Chopina",
     "source": "wroclaw-historical-pairs",
@@ -10277,6 +10688,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lehmdamm",
     "currentName": "ul. Bolesława Prusa",
     "source": "wroclaw-historical-pairs",
@@ -10302,6 +10714,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lehmgrubenstraße",
     "currentName": "ul. Gliniana",
     "source": "wroclaw-historical-pairs",
@@ -10327,6 +10740,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Leiblstraße",
     "currentName": "ul. Agrestowa",
     "source": "wroclaw-historical-pairs",
@@ -10352,6 +10766,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Leibnitzstraße",
     "currentName": "ul. Juliana Tuwima",
     "source": "wroclaw-historical-pairs",
@@ -10377,6 +10792,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lenaustraße",
     "currentName": "ul. Stalowowolska",
     "source": "wroclaw-historical-pairs",
@@ -10402,6 +10818,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Leobschützer Straße",
     "currentName": "ul. Głubczycka",
     "source": "wroclaw-historical-pairs",
@@ -10427,6 +10844,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Lessingplatz",
     "currentName": "pl. Powstańców Warszawy",
     "source": "wroclaw-historical-pairs",
@@ -10452,6 +10870,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lessingstraße",
     "currentName": "ul. Dobrzyńska",
     "source": "wroclaw-historical-pairs",
@@ -10477,6 +10896,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lettow-Vorbeck-Straße",
     "currentName": "ul. Stanów Zjednoczonych",
     "source": "wroclaw-historical-pairs",
@@ -10502,6 +10922,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Leuthenstraße",
     "currentName": "ul. Litomska",
     "source": "wroclaw-historical-pairs",
@@ -10527,6 +10948,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lewaldstraße",
     "currentName": "ul. Zdrowa",
     "source": "wroclaw-historical-pairs",
@@ -10552,6 +10974,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Liegnitzer Straße",
     "currentName": "ul. Słubicka",
     "source": "wroclaw-historical-pairs",
@@ -10577,6 +11000,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Liliencronweg",
     "currentName": "ul. Władysława Orkana",
     "source": "wroclaw-historical-pairs",
@@ -10602,6 +11026,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Lindenallee",
     "currentName": "al. Lipowa",
     "source": "wroclaw-historical-pairs",
@@ -10627,6 +11052,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Linnestraße",
     "currentName": "ul. Andrzeja Struga",
     "source": "wroclaw-historical-pairs",
@@ -10652,6 +11078,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Litzmannstraße",
     "currentName": "ul. Bezpieczna",
     "source": "wroclaw-historical-pairs",
@@ -10677,6 +11104,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Logauweg",
     "currentName": "ul. Roberta Kocha",
     "source": "wroclaw-historical-pairs",
@@ -10702,6 +11130,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lohensteinstraße",
     "currentName": "ul. Oksywska",
     "source": "wroclaw-historical-pairs",
@@ -10727,6 +11156,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lohestraße",
     "currentName": "ul. Ślężna",
     "source": "wroclaw-historical-pairs",
@@ -10752,6 +11182,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lorenzgasse",
     "currentName": "ul. gen. Władysława Sikorskiego",
     "source": "wroclaw-historical-pairs",
@@ -10777,6 +11208,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Löschstraße",
     "currentName": "ul. gen. Ignacego Prądzyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -10802,6 +11234,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lötzener Straße",
     "currentName": "ul. Giżycka",
     "source": "wroclaw-historical-pairs",
@@ -10827,6 +11260,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Löwenberger Straße",
     "currentName": "ul. Głośna",
     "source": "wroclaw-historical-pairs",
@@ -10852,6 +11286,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lübener Straße",
     "currentName": "ul. Lubińska",
     "source": "wroclaw-historical-pairs",
@@ -10877,6 +11312,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lüdendorffstraße",
     "currentName": "ul. Edwarda Dembowskiego",
     "source": "wroclaw-historical-pairs",
@@ -10902,6 +11338,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lüderitzstraße",
     "currentName": "ul. Szkocka",
     "source": "wroclaw-historical-pairs",
@@ -10927,6 +11364,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Luisenplatz",
     "currentName": "pl. Rozjezdny",
     "source": "wroclaw-historical-pairs",
@@ -10952,6 +11390,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Luisenstraße",
     "currentName": "ul. Jęczmienna",
     "source": "wroclaw-historical-pairs",
@@ -10977,6 +11416,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lützow Weg",
     "currentName": "ul. Końcowa",
     "source": "wroclaw-historical-pairs",
@@ -11002,6 +11442,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Lützowstraße",
     "currentName": "ul. Miernicza",
     "source": "wroclaw-historical-pairs",
@@ -11027,6 +11468,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Magazinstraße",
     "currentName": "ul. Składowa",
     "source": "wroclaw-historical-pairs",
@@ -11052,6 +11494,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mahlgasse",
     "currentName": "ul. Ludwika Rydygiera",
     "source": "wroclaw-historical-pairs",
@@ -11077,6 +11520,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Malapanestraße",
     "currentName": "ul. Małopanewska",
     "source": "wroclaw-historical-pairs",
@@ -11102,6 +11546,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Malteserstraße",
     "currentName": "ul. Joannitów",
     "source": "wroclaw-historical-pairs",
@@ -11127,6 +11572,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Manfr.v.-Richthofen-Platz",
     "currentName": "pl. Wiślany",
     "source": "wroclaw-historical-pairs",
@@ -11152,6 +11598,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mäntlergasse",
     "currentName": "ul. Krawiecka",
     "source": "wroclaw-historical-pairs",
@@ -11177,6 +11624,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Märchenweg",
     "currentName": "ul. Jacka Malczewskiego",
     "source": "wroclaw-historical-pairs",
@@ -11202,6 +11650,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Margaretenstraße",
     "currentName": "ul. Mazowiecka",
     "source": "wroclaw-historical-pairs",
@@ -11227,6 +11676,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mariahöfchenstraße",
     "currentName": "ul. Nowodworska",
     "source": "wroclaw-historical-pairs",
@@ -11252,6 +11702,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mariannenstraße",
     "currentName": "ul. Trzemeska",
     "source": "wroclaw-historical-pairs",
@@ -11277,6 +11728,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Marienstraße",
     "currentName": "ul. Władysława Nehringa",
     "source": "wroclaw-historical-pairs",
@@ -11302,6 +11754,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Markgrafstraße",
     "currentName": "ul. Miła",
     "source": "wroclaw-historical-pairs",
@@ -11327,6 +11780,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Markische Straße",
     "currentName": "ul. Robotnicza",
     "source": "wroclaw-historical-pairs",
@@ -11352,6 +11806,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Marthastraße",
     "currentName": "ul. Waleriana Łukasińskiego",
     "source": "wroclaw-historical-pairs",
@@ -11377,6 +11832,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Martin-Faust-Straße",
     "currentName": "ul. Odkrywców",
     "source": "wroclaw-historical-pairs",
@@ -11402,6 +11858,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Martinistraße",
     "currentName": "ul. św. Marcina",
     "source": "wroclaw-historical-pairs",
@@ -11427,6 +11884,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Max-Pache-Straße",
     "currentName": "ul. Muchoborska",
     "source": "wroclaw-historical-pairs",
@@ -11452,6 +11910,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Maxstraße",
     "currentName": "ul. Karola Marcinkowskiego",
     "source": "wroclaw-historical-pairs",
@@ -11477,6 +11936,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Meineckestraße",
     "currentName": "ul. Jana Długosza",
     "source": "wroclaw-historical-pairs",
@@ -11502,6 +11962,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Menzelplatz",
     "currentName": "pl. Ludwika Zamenhofa",
     "source": "wroclaw-historical-pairs",
@@ -11527,6 +11988,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Merckelstraße",
     "currentName": "ul. Prudnicka",
     "source": "wroclaw-historical-pairs",
@@ -11552,6 +12014,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Merkurstraße",
     "currentName": "ul. Czeska",
     "source": "wroclaw-historical-pairs",
@@ -11577,6 +12040,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Messergasse",
     "currentName": "ul. Nożownicza",
     "source": "wroclaw-historical-pairs",
@@ -11602,6 +12066,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Michaelisstraße",
     "currentName": "ul. Nowowiejska",
     "source": "wroclaw-historical-pairs",
@@ -11627,6 +12092,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Michlingstraße",
     "currentName": "ul. Traktatowa",
     "source": "wroclaw-historical-pairs",
@@ -11652,6 +12118,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Milchstraße",
     "currentName": "ul. Bułgarska",
     "source": "wroclaw-historical-pairs",
@@ -11677,6 +12144,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mittelfeldweg",
     "currentName": "ul. Stefana Jaracza",
     "source": "wroclaw-historical-pairs",
@@ -11702,6 +12170,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mittelgasse",
     "currentName": "ul. Środkowa",
     "source": "wroclaw-historical-pairs",
@@ -11727,6 +12196,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mittelwalder Straße",
     "currentName": "ul. Międzyleska",
     "source": "wroclaw-historical-pairs",
@@ -11752,6 +12222,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mittmannweg",
     "currentName": "ul. Ignacego Chrzanowskiego",
     "source": "wroclaw-historical-pairs",
@@ -11777,6 +12248,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mollwitzer Straße",
     "currentName": "ul. Stanisława Chudoby",
     "source": "wroclaw-historical-pairs",
@@ -11802,6 +12274,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Moltkestraße",
     "currentName": "ul. Władysława Łokietka",
     "source": "wroclaw-historical-pairs",
@@ -11827,6 +12300,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mommsenstraße",
     "currentName": "ul. Poranna",
     "source": "wroclaw-historical-pairs",
@@ -11852,6 +12326,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Morgenauer Damm",
     "currentName": "ul. Okólna",
     "source": "wroclaw-historical-pairs",
@@ -11877,6 +12352,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Morgenaustraße",
     "currentName": "ul. Rakowiecka",
     "source": "wroclaw-historical-pairs",
@@ -11902,6 +12378,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Morgensternstraße",
     "currentName": "ul. Wróbla",
     "source": "wroclaw-historical-pairs",
@@ -11927,6 +12404,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mörikestraße",
     "currentName": "ul. Kolbuszowska",
     "source": "wroclaw-historical-pairs",
@@ -11952,6 +12430,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Moritz-May-Straße",
     "currentName": "ul. Kordiana",
     "source": "wroclaw-historical-pairs",
@@ -11977,6 +12456,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Moritz-von-Strachowitz-Weg",
     "currentName": "ul. gen. Józefa Wybickiego",
     "source": "wroclaw-historical-pairs",
@@ -12002,6 +12482,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Moritzstraße",
     "currentName": "ul. Lubuska",
     "source": "wroclaw-historical-pairs",
@@ -12027,6 +12508,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Möwenweg",
     "currentName": "ul. Partyzantów",
     "source": "wroclaw-historical-pairs",
@@ -12052,6 +12534,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mozartstraße",
     "currentName": "ul. Karola Lipińskiego",
     "source": "wroclaw-historical-pairs",
@@ -12077,6 +12560,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mühlbergweg",
     "currentName": "ul. Fiołkowa",
     "source": "wroclaw-historical-pairs",
@@ -12102,6 +12586,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mühlgasse",
     "currentName": "ul. Staromłyńska",
     "source": "wroclaw-historical-pairs",
@@ -12127,6 +12612,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Mühlstraße",
     "currentName": "ul. Młynarska",
     "source": "wroclaw-historical-pairs",
@@ -12152,6 +12638,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Münsterberger Straße",
     "currentName": "ul. Ziębicka",
     "source": "wroclaw-historical-pairs",
@@ -12177,6 +12664,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Münzstraße",
     "currentName": "ul. ks. Wincentego Kraińskiego",
     "source": "wroclaw-historical-pairs",
@@ -12202,6 +12690,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Museumplatz",
     "currentName": "pl. Muzealny",
     "source": "wroclaw-historical-pairs",
@@ -12227,6 +12716,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Museumstraße",
     "currentName": "ul. Muzealna",
     "source": "wroclaw-historical-pairs",
@@ -12252,6 +12742,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nadlergasse",
     "currentName": "ul. Igielna",
     "source": "wroclaw-historical-pairs",
@@ -12277,6 +12768,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Narzissenweg",
     "currentName": "ul. Narcyzowa",
     "source": "wroclaw-historical-pairs",
@@ -12302,6 +12794,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neisser Straße",
     "currentName": "ul. Nyska",
     "source": "wroclaw-historical-pairs",
@@ -12327,6 +12820,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nelkenweg",
     "currentName": "ul. Kreślarska",
     "source": "wroclaw-historical-pairs",
@@ -12352,6 +12846,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neptunstraße",
     "currentName": "ul. Jugosłowiańska",
     "source": "wroclaw-historical-pairs",
@@ -12377,6 +12872,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Gasse",
     "currentName": "ul. Nowa",
     "source": "wroclaw-historical-pairs",
@@ -12402,6 +12898,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Graupenstraße",
     "currentName": "ul. Sądowa",
     "source": "wroclaw-historical-pairs",
@@ -12427,6 +12924,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Sandstraße",
     "currentName": "ul. św. Jadwigi",
     "source": "wroclaw-historical-pairs",
@@ -12452,6 +12950,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Schweidnitzer Straße",
     "currentName": "ul. Świdnicka",
     "source": "wroclaw-historical-pairs",
@@ -12477,6 +12976,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Taschenstraße",
     "currentName": "ul. Hugona Kołłątaja",
     "source": "wroclaw-historical-pairs",
@@ -12502,6 +13002,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neue Weltgasse",
     "currentName": "ul. Nowy Świat",
     "source": "wroclaw-historical-pairs",
@@ -12527,6 +13028,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Neusalzer Straße",
     "currentName": "ul. Jana Szczyrki",
     "source": "wroclaw-historical-pairs",
@@ -12552,6 +13054,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nickelmannweg",
     "currentName": "ul. Brata Alberta",
     "source": "wroclaw-historical-pairs",
@@ -12577,6 +13080,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Niedergasse",
     "currentName": "ul. Dolna",
     "source": "wroclaw-historical-pairs",
@@ -12602,6 +13106,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Nikolaiplatz",
     "currentName": "pl. św. Mikołaja",
     "source": "wroclaw-historical-pairs",
@@ -12627,6 +13132,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nikolaistraße",
     "currentName": "ul. św. Mikołaja",
     "source": "wroclaw-historical-pairs",
@@ -12652,6 +13158,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nimptscher Straße",
     "currentName": "ul. Niemczańska",
     "source": "wroclaw-historical-pairs",
@@ -12677,6 +13184,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Nixenweg",
     "currentName": "ul. Braci Gierymskich",
     "source": "wroclaw-historical-pairs",
@@ -12702,6 +13210,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Normannenweg",
     "currentName": "ul. Ślężna",
     "source": "wroclaw-historical-pairs",
@@ -12727,6 +13236,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Novalisstraße",
     "currentName": "ul. Rawska",
     "source": "wroclaw-historical-pairs",
@@ -12752,6 +13262,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Obernigker Straße",
     "currentName": "ul. Obornicka",
     "source": "wroclaw-historical-pairs",
@@ -12777,6 +13288,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oderstraße",
     "currentName": "ul. Odrzańska",
     "source": "wroclaw-historical-pairs",
@@ -12802,6 +13314,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oelsnerstraße",
     "currentName": "ul. Oleśnicka",
     "source": "wroclaw-historical-pairs",
@@ -12827,6 +13340,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ofenerstraße",
     "currentName": "ul. Krakowska",
     "source": "wroclaw-historical-pairs",
@@ -12852,6 +13366,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oheronweg",
     "currentName": "ul. Jasna",
     "source": "wroclaw-historical-pairs",
@@ -12877,6 +13392,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ohlauer Straße",
     "currentName": "ul. Oławska",
     "source": "wroclaw-historical-pairs",
@@ -12902,6 +13418,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Opernstraße",
     "currentName": "ul. Stanisława Drabika",
     "source": "wroclaw-historical-pairs",
@@ -12927,6 +13444,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Opitzstraße",
     "currentName": "ul. Żelazna",
     "source": "wroclaw-historical-pairs",
@@ -12952,6 +13470,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oppelner Straße",
     "currentName": "ul. Opolska",
     "source": "wroclaw-historical-pairs",
@@ -12977,6 +13496,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Opperauer Straße",
     "currentName": "ul. Oporowska",
     "source": "wroclaw-historical-pairs",
@@ -13002,6 +13522,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oranienstraße",
     "currentName": "ul. Wandy",
     "source": "wroclaw-historical-pairs",
@@ -13027,6 +13548,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Orionstraße",
     "currentName": "ul. Łużycka",
     "source": "wroclaw-historical-pairs",
@@ -13052,6 +13574,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ortelsburger Straße",
     "currentName": "ul. Szczycieńska",
     "source": "wroclaw-historical-pairs",
@@ -13077,6 +13600,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Oswitzer Straße",
     "currentName": "ul. Osobowicka",
     "source": "wroclaw-historical-pairs",
@@ -13102,6 +13626,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ottmachauer Straße",
     "currentName": "ul. Otmuchowska",
     "source": "wroclaw-historical-pairs",
@@ -13127,6 +13652,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Otto-Muehl-Weg",
     "currentName": "ul. Grobla Kozanowska",
     "source": "wroclaw-historical-pairs",
@@ -13152,6 +13678,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ottostraße",
     "currentName": "ul. Kazimierza Jagiellończyka",
     "source": "wroclaw-historical-pairs",
@@ -13177,6 +13704,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Palmstraße",
     "currentName": "ul. gen. Karola Kniaziewicza",
     "source": "wroclaw-historical-pairs",
@@ -13202,6 +13730,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Parsevalstraße",
     "currentName": "ul. Mosiężna",
     "source": "wroclaw-historical-pairs",
@@ -13227,6 +13756,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Patschkauer Straße",
     "currentName": "ul. Paczkowska",
     "source": "wroclaw-historical-pairs",
@@ -13252,6 +13782,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Paul-Bartsch-Weg",
     "currentName": "ul. Artura Oppmana",
     "source": "wroclaw-historical-pairs",
@@ -13277,6 +13808,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Paul-Keller-Weg",
     "currentName": "ul. Kornela Ujejskiego",
     "source": "wroclaw-historical-pairs",
@@ -13302,6 +13834,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Paulinenstraße",
     "currentName": "ul. Paulińska",
     "source": "wroclaw-historical-pairs",
@@ -13327,6 +13860,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Paulstraße",
     "currentName": "ul. Michała Wrocławczyka",
     "source": "wroclaw-historical-pairs",
@@ -13352,6 +13886,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Peterswaldauer Straße",
     "currentName": "ul. Pietrzykowicka",
     "source": "wroclaw-historical-pairs",
@@ -13377,6 +13912,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Piastenstraße",
     "currentName": "ul. Piastowska",
     "source": "wroclaw-historical-pairs",
@@ -13402,6 +13938,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pilsnitzer Straße",
     "currentName": "ul. Pilczycka",
     "source": "wroclaw-historical-pairs",
@@ -13427,6 +13964,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pinderstraße",
     "currentName": "ul. Augusta Mosbacha",
     "source": "wroclaw-historical-pairs",
@@ -13452,6 +13990,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pirolweg",
     "currentName": "ul. Karola Libelta",
     "source": "wroclaw-historical-pairs",
@@ -13477,6 +14016,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pirschamer Straße",
     "currentName": "ul. Bierdzańska",
     "source": "wroclaw-historical-pairs",
@@ -13502,6 +14042,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Platenstraße",
     "currentName": "ul. Grójecka",
     "source": "wroclaw-historical-pairs",
@@ -13527,6 +14068,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Plesser Straße",
     "currentName": "ul. Pszczyńska",
     "source": "wroclaw-historical-pairs",
@@ -13552,6 +14094,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Polinkeweg",
     "currentName": "ul. Na Polance",
     "source": "wroclaw-historical-pairs",
@@ -13577,6 +14120,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Polsnitzstraße",
     "currentName": "ul. Stobrawska",
     "source": "wroclaw-historical-pairs",
@@ -13602,6 +14146,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pöpelwitzstraße",
     "currentName": "ul. Popowicka",
     "source": "wroclaw-historical-pairs",
@@ -13627,6 +14172,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Posener Straße",
     "currentName": "ul. Poznańska",
     "source": "wroclaw-historical-pairs",
@@ -13652,6 +14198,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Poststraße",
     "currentName": "pl. Dominikański",
     "source": "wroclaw-historical-pairs",
@@ -13677,6 +14224,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Pralatenweg",
     "currentName": "ul. kard. Augusta Hlonda",
     "source": "wroclaw-historical-pairs",
@@ -13702,6 +14250,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Predigergasse",
     "currentName": "ul. Kaznodziejska",
     "source": "wroclaw-historical-pairs",
@@ -13727,6 +14276,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Primelweg",
     "currentName": "ul. Pierwiosnkowa",
     "source": "wroclaw-historical-pairs",
@@ -13752,6 +14302,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Primkenauer Straße",
     "currentName": "ul. Przemkowska",
     "source": "wroclaw-historical-pairs",
@@ -13777,6 +14328,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Queckensteg",
     "currentName": "ul. Seweryna Goszczyńskiego",
     "source": "wroclaw-historical-pairs",
@@ -13802,6 +14354,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Queisstraße",
     "currentName": "ul. Kwiska",
     "source": "wroclaw-historical-pairs",
@@ -13827,6 +14380,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "R.-Glymp-Straße",
     "currentName": "ul. Witebska",
     "source": "wroclaw-historical-pairs",
@@ -13852,6 +14406,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Raabeplatz",
     "currentName": "pl. Srebrny",
     "source": "wroclaw-historical-pairs",
@@ -13877,6 +14432,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rankestraße",
     "currentName": "ul. Południowa",
     "source": "wroclaw-historical-pairs",
@@ -13902,6 +14458,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ratiborer Straße",
     "currentName": "ul. Raciborska",
     "source": "wroclaw-historical-pairs",
@@ -13927,6 +14484,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Raudtener Straße",
     "currentName": "ul. Rudzka",
     "source": "wroclaw-historical-pairs",
@@ -13952,6 +14510,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rautendeleinweg",
     "currentName": "ul. Janusza Korczaka",
     "source": "wroclaw-historical-pairs",
@@ -13977,6 +14536,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rebenstraße",
     "currentName": "ul. Wygodna",
     "source": "wroclaw-historical-pairs",
@@ -14002,6 +14562,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rebhuhnweg",
     "currentName": "ul. Zygmunta Sierakowskiego",
     "source": "wroclaw-historical-pairs",
@@ -14027,6 +14588,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reichenbacher Straße",
     "currentName": "ul. Dzierżoniowska",
     "source": "wroclaw-historical-pairs",
@@ -14052,6 +14614,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reichensteiner Straße",
     "currentName": "ul. Złotostocka",
     "source": "wroclaw-historical-pairs",
@@ -14077,6 +14640,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reichstraße",
     "currentName": "ul. Szpitalna",
     "source": "wroclaw-historical-pairs",
@@ -14102,6 +14666,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reichthaler Straße",
     "currentName": "ul. Rychtalska",
     "source": "wroclaw-historical-pairs",
@@ -14127,6 +14692,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reiherweg",
     "currentName": "ul. Marcina Borelowskiego",
     "source": "wroclaw-historical-pairs",
@@ -14152,6 +14718,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reinerzer Straße",
     "currentName": "ul. Dusznicka",
     "source": "wroclaw-historical-pairs",
@@ -14177,6 +14744,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reusche Straße",
     "currentName": "ul. Ruska",
     "source": "wroclaw-historical-pairs",
@@ -14202,6 +14770,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Reuterstraße",
     "currentName": "ul. Elizy Orzeszkowej",
     "source": "wroclaw-historical-pairs",
@@ -14227,6 +14796,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Revaler Straße",
     "currentName": "ul. Miłoszycka",
     "source": "wroclaw-historical-pairs",
@@ -14252,6 +14822,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Richthofenstraße",
     "currentName": "ul. Górnicza",
     "source": "wroclaw-historical-pairs",
@@ -14277,6 +14848,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rigaer Straße",
     "currentName": "ul. Swojczycka",
     "source": "wroclaw-historical-pairs",
@@ -14302,6 +14874,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Robert-Koch-Straße",
     "currentName": "ul. Tytusa Chałubińskiego",
     "source": "wroclaw-historical-pairs",
@@ -14327,6 +14900,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Robert-Rößler-Weg",
     "currentName": "ul. Maurycego Mochnackiego",
     "source": "wroclaw-historical-pairs",
@@ -14352,6 +14926,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Robert-Sabel-Weg",
     "currentName": "ul. Filomatów",
     "source": "wroclaw-historical-pairs",
@@ -14377,6 +14952,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Röntgenstraße",
     "currentName": "ul. Wilhelma Roentgena",
     "source": "wroclaw-historical-pairs",
@@ -14402,6 +14978,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Roonstraße",
     "currentName": "al. Pracy",
     "source": "wroclaw-historical-pairs",
@@ -14427,6 +15004,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Roßmarkt",
     "currentName": "ul. Karola Szajnochy",
     "source": "wroclaw-historical-pairs",
@@ -14452,6 +15030,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Roseggerstraße",
     "currentName": "ul. Buska",
     "source": "wroclaw-historical-pairs",
@@ -14477,6 +15056,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rosenstraße",
     "currentName": "ul. Juliana Ursyna Niemcewicza",
     "source": "wroclaw-historical-pairs",
@@ -14502,6 +15082,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rosenthalter Straße",
     "currentName": "ul. Pomorska",
     "source": "wroclaw-historical-pairs",
@@ -14527,6 +15108,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rotkäppchenweg",
     "currentName": "ul. Aleksandra Kotsisa",
     "source": "wroclaw-historical-pairs",
@@ -14552,6 +15134,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rotkehlchenweg",
     "currentName": "ul. Andrzeja Potebni",
     "source": "wroclaw-historical-pairs",
@@ -14577,6 +15160,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Rybnicker Straße",
     "currentName": "ul. Rybnicka",
     "source": "wroclaw-historical-pairs",
@@ -14602,6 +15186,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sachsenweg",
     "currentName": "ul. Dobrzańska",
     "source": "wroclaw-historical-pairs",
@@ -14627,6 +15212,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sadebeckstraße",
     "currentName": "ul. Józefa Lompy",
     "source": "wroclaw-historical-pairs",
@@ -14652,6 +15238,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sadowastraße",
     "currentName": "ul. Swobodna",
     "source": "wroclaw-historical-pairs",
@@ -14677,6 +15264,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Saganer Straße",
     "currentName": "ul. Żagańska",
     "source": "wroclaw-historical-pairs",
@@ -14702,6 +15290,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Salvatorplatz",
     "currentName": "pl. Czysty",
     "source": "wroclaw-historical-pairs",
@@ -14727,6 +15316,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Salzstraße",
     "currentName": "ul. Wojciecha Cybulskiego",
     "source": "wroclaw-historical-pairs",
@@ -14752,6 +15342,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sandstraße",
     "currentName": "ul. Piaskowa",
     "source": "wroclaw-historical-pairs",
@@ -14777,6 +15368,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Saturnstraße",
     "currentName": "ul. Słowacka",
     "source": "wroclaw-historical-pairs",
@@ -14802,6 +15394,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sauerbrunn",
     "currentName": "ul. Kwaśna",
     "source": "wroclaw-historical-pairs",
@@ -14827,6 +15420,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Scharnhorststraße",
     "currentName": "ul. Osiedlowa",
     "source": "wroclaw-historical-pairs",
@@ -14852,6 +15446,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Scheerstraße",
     "currentName": "ul. Maurycego Beniowskiego",
     "source": "wroclaw-historical-pairs",
@@ -14877,6 +15472,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Scheffelstraße",
     "currentName": "ul. Niklowa",
     "source": "wroclaw-historical-pairs",
@@ -14902,6 +15498,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Scheibenweg",
     "currentName": "ul. Flisacka",
     "source": "wroclaw-historical-pairs",
@@ -14927,6 +15524,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Scheitniger Stern",
     "currentName": "pl. Grunwaldzki",
     "source": "wroclaw-historical-pairs",
@@ -14952,6 +15550,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Scheitniger Straße",
     "currentName": "ul. Szczytnicka",
     "source": "wroclaw-historical-pairs",
@@ -14977,6 +15576,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schenckfeldstraße",
     "currentName": "ul. Benedyktyńska",
     "source": "wroclaw-historical-pairs",
@@ -15002,6 +15602,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schenkendorfstraße",
     "currentName": "ul. Orla",
     "source": "wroclaw-historical-pairs",
@@ -15027,6 +15628,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Schießwerderplatz",
     "currentName": "pl. Strzelecki",
     "source": "wroclaw-historical-pairs",
@@ -15052,6 +15654,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schießwerderstraße",
     "currentName": "ul. Kurkowa",
     "source": "wroclaw-historical-pairs",
@@ -15077,6 +15680,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schillstraße",
     "currentName": "ul. Juliusza Kossaka",
     "source": "wroclaw-historical-pairs",
@@ -15102,6 +15706,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schlageterstraße",
     "currentName": "ul. Władysława Reymonta",
     "source": "wroclaw-historical-pairs",
@@ -15127,6 +15732,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schleiermacherstraße",
     "currentName": "ul. Norberta Barlickiego",
     "source": "wroclaw-historical-pairs",
@@ -15152,6 +15758,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schleswiger Straße",
     "currentName": "ul. Jarocińska",
     "source": "wroclaw-historical-pairs",
@@ -15177,6 +15784,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schlieffenstraße",
     "currentName": "ul. Koszarowa",
     "source": "wroclaw-historical-pairs",
@@ -15202,6 +15810,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schlossparkstraße",
     "currentName": "ul. Wojciecha Korfantego",
     "source": "wroclaw-historical-pairs",
@@ -15227,6 +15836,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Schlossplatz",
     "currentName": "pl. Wolności",
     "source": "wroclaw-historical-pairs",
@@ -15252,6 +15862,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schloßohle",
     "currentName": "ul. Kazimierza Wielkiego",
     "source": "wroclaw-historical-pairs",
@@ -15277,6 +15888,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schloßstrasse",
     "currentName": "ul. Eugeniusza Gepperta",
     "source": "wroclaw-historical-pairs",
@@ -15302,6 +15914,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schmiedebrücke",
     "currentName": "ul. Kuźnicza",
     "source": "wroclaw-historical-pairs",
@@ -15327,6 +15940,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schmiedefeldstraße",
     "currentName": "ul. Hermanowska",
     "source": "wroclaw-historical-pairs",
@@ -15352,6 +15966,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schmolzer Straße",
     "currentName": "ul. Smolecka",
     "source": "wroclaw-historical-pairs",
@@ -15377,6 +15992,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schneewittchenweg",
     "currentName": "ul. Władysława Ślewińskiego",
     "source": "wroclaw-historical-pairs",
@@ -15402,6 +16018,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schönborner Straße",
     "currentName": "ul. Sernicka",
     "source": "wroclaw-historical-pairs",
@@ -15427,6 +16044,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schöningstraße",
     "currentName": "ul. Podchorążych",
     "source": "wroclaw-historical-pairs",
@@ -15452,6 +16070,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schönstraße",
     "currentName": "ul. Piękna",
     "source": "wroclaw-historical-pairs",
@@ -15477,6 +16096,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schrotgasse",
     "currentName": "ul. Śrutowa",
     "source": "wroclaw-historical-pairs",
@@ -15502,6 +16122,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schubertstraße",
     "currentName": "ul. Józefa Elsnera",
     "source": "wroclaw-historical-pairs",
@@ -15527,6 +16148,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schuhbrücke",
     "currentName": "ul. Szewska",
     "source": "wroclaw-historical-pairs",
@@ -15552,6 +16174,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schulze-Otto-Straße",
     "currentName": "ul. Michała Śniegockiego",
     "source": "wroclaw-historical-pairs",
@@ -15577,6 +16200,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schützenstraße",
     "currentName": "ul. Łowiecka",
     "source": "wroclaw-historical-pairs",
@@ -15602,6 +16226,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schweidnitzer Straße",
     "currentName": "ul. Świdnicka",
     "source": "wroclaw-historical-pairs",
@@ -15627,6 +16252,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schweitzer Straße",
     "currentName": "ul. Lubińska",
     "source": "wroclaw-historical-pairs",
@@ -15652,6 +16278,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schwerinstraße",
     "currentName": "ul. Skwierzyńska",
     "source": "wroclaw-historical-pairs",
@@ -15677,6 +16304,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schwertstraße",
     "currentName": "ul. Nabycińska",
     "source": "wroclaw-historical-pairs",
@@ -15702,6 +16330,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Schwindstraße",
     "currentName": "ul. Aliancka",
     "source": "wroclaw-historical-pairs",
@@ -15727,6 +16356,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sebischstraße",
     "currentName": "ul. Jelenia",
     "source": "wroclaw-historical-pairs",
@@ -15752,6 +16382,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sedanstraße",
     "currentName": "ul. Sanocka",
     "source": "wroclaw-historical-pairs",
@@ -15777,6 +16408,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Seitenberger Straße",
     "currentName": "ul. Strońska",
     "source": "wroclaw-historical-pairs",
@@ -15802,6 +16434,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Seitengasse",
     "currentName": "ul. Ustronie",
     "source": "wroclaw-historical-pairs",
@@ -15827,6 +16460,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Senftenberger Straße",
     "currentName": "ul. Komorowska",
     "source": "wroclaw-historical-pairs",
@@ -15852,6 +16486,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Siebenhufener Straße",
     "currentName": "ul. Świdnicka",
     "source": "wroclaw-historical-pairs",
@@ -15877,6 +16512,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Siebenmorgenweg",
     "currentName": "ul. Świdnicka",
     "source": "wroclaw-historical-pairs",
@@ -15902,6 +16538,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Siebenradeohle",
     "currentName": "ul. Lubińska",
     "source": "wroclaw-historical-pairs",
@@ -15927,6 +16564,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Soldauer Straße",
     "currentName": "ul. Skwierzyńska",
     "source": "wroclaw-historical-pairs",
@@ -15952,6 +16590,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sonnenplatz",
     "currentName": "ul. Nabycińska",
     "source": "wroclaw-historical-pairs",
@@ -15977,6 +16616,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sonnenrosenweg",
     "currentName": "ul. Słonecznikowa",
     "source": "wroclaw-historical-pairs",
@@ -16002,6 +16642,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sonnenstraße",
     "currentName": "ul. Wincentego Witosa",
     "source": "wroclaw-historical-pairs",
@@ -16027,6 +16668,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sperlingsweg",
     "currentName": "ul. płk. Franciszka Nulla",
     "source": "wroclaw-historical-pairs",
@@ -16052,6 +16694,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Spreewaldstraße",
     "currentName": "ul. Wojrowicka",
     "source": "wroclaw-historical-pairs",
@@ -16077,6 +16720,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Springerstraße",
     "currentName": "ul. Wojciecha Bogusławskiego",
     "source": "wroclaw-historical-pairs",
@@ -16102,6 +16746,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sprottauer Straße",
     "currentName": "ul. Szprotawska",
     "source": "wroclaw-historical-pairs",
@@ -16127,6 +16772,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Staudenweg",
     "currentName": "ul. Bolesława Biegasa",
     "source": "wroclaw-historical-pairs",
@@ -16152,6 +16798,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Steinauer Straße",
     "currentName": "ul. Ścinawska",
     "source": "wroclaw-historical-pairs",
@@ -16177,6 +16824,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Steinstraße",
     "currentName": "ul. Kamienna",
     "source": "wroclaw-historical-pairs",
@@ -16202,6 +16850,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stephanstraße",
     "currentName": "ul. Brązowa",
     "source": "wroclaw-historical-pairs",
@@ -16227,6 +16876,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sternschanze",
     "currentName": "ul. Na Szańcach",
     "source": "wroclaw-historical-pairs",
@@ -16252,6 +16902,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sternstraße",
     "currentName": "ul. Henryka Sienkiewicza",
     "source": "wroclaw-historical-pairs",
@@ -16277,6 +16928,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Sterntalerweg",
     "currentName": "ul. Piotra Norblina",
     "source": "wroclaw-historical-pairs",
@@ -16302,6 +16954,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stieglitzweg",
     "currentName": "ul. Marcina Kasprzaka",
     "source": "wroclaw-historical-pairs",
@@ -16327,6 +16980,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stifterstraße",
     "currentName": "ul. Sochaczewska",
     "source": "wroclaw-historical-pairs",
@@ -16352,6 +17006,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stiller Winkel",
     "currentName": "ul. Ludwika Pugeta",
     "source": "wroclaw-historical-pairs",
@@ -16377,6 +17032,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stockgasse",
     "currentName": "ul. Więzienna",
     "source": "wroclaw-historical-pairs",
@@ -16402,6 +17058,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stollweg",
     "currentName": "ul. Gołężycka",
     "source": "wroclaw-historical-pairs",
@@ -16427,6 +17084,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stolzingstraße",
     "currentName": "ul. Jesienna",
     "source": "wroclaw-historical-pairs",
@@ -16452,6 +17110,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Stormstraße",
     "currentName": "ul. Cynowa",
     "source": "wroclaw-historical-pairs",
@@ -16477,6 +17136,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Strehlener Straße",
     "currentName": "ul. Bardzka",
     "source": "wroclaw-historical-pairs",
@@ -16502,6 +17162,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Striegauer Platz",
     "currentName": "pl. Strzegomski",
     "source": "wroclaw-historical-pairs",
@@ -16527,6 +17188,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Striegauer Straße",
     "currentName": "ul. Strzegomska",
     "source": "wroclaw-historical-pairs",
@@ -16552,6 +17214,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tangastraße",
     "currentName": "ul. Australijska",
     "source": "wroclaw-historical-pairs",
@@ -16577,6 +17240,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tannenbergstraße",
     "currentName": "ul. Żeglarska",
     "source": "wroclaw-historical-pairs",
@@ -16602,6 +17266,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tarnowitzer Straße",
     "currentName": "ul. Tarnogórska",
     "source": "wroclaw-historical-pairs",
@@ -16627,6 +17292,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Taschenstraße",
     "currentName": "ul. ks. Piotra Skargi",
     "source": "wroclaw-historical-pairs",
@@ -16652,6 +17318,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Tauentzienplatz",
     "currentName": "pl. Tadeusza Kościuszki",
     "source": "wroclaw-historical-pairs",
@@ -16677,6 +17344,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tauentzienstraße",
     "currentName": "ul. Tadeusza Kościuszki",
     "source": "wroclaw-historical-pairs",
@@ -16702,6 +17370,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Teichstraße",
     "currentName": "ul. Stawowa",
     "source": "wroclaw-historical-pairs",
@@ -16727,6 +17396,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Theaterstraße",
     "currentName": "ul. Gabrieli Zapolskiej",
     "source": "wroclaw-historical-pairs",
@@ -16752,6 +17422,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Theod.-Casella-Straße",
     "currentName": "ul. Blacharska",
     "source": "wroclaw-historical-pairs",
@@ -16777,6 +17448,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Theodor-Pfrondten-Straße",
     "currentName": "ul. Stolarska",
     "source": "wroclaw-historical-pairs",
@@ -16802,6 +17474,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Theresenstraße",
     "currentName": "ul. Pochyła",
     "source": "wroclaw-historical-pairs",
@@ -16827,6 +17500,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Thorner Straße",
     "currentName": "ul. Toruńska",
     "source": "wroclaw-historical-pairs",
@@ -16852,6 +17526,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tilsiter Straße",
     "currentName": "ul. Ełcka",
     "source": "wroclaw-historical-pairs",
@@ -16877,6 +17552,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tirpitzstraße",
     "currentName": "ul. Henryka Arctowskiego",
     "source": "wroclaw-historical-pairs",
@@ -16902,6 +17578,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Togostraße",
     "currentName": "ul. Kanadyjska",
     "source": "wroclaw-historical-pairs",
@@ -16927,6 +17604,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Trachenberger Straße",
     "currentName": "ul. Żmigrodzka",
     "source": "wroclaw-historical-pairs",
@@ -16952,6 +17630,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Trebnitzer Platz",
     "currentName": "pl. Powstańców Wielkopolskich",
     "source": "wroclaw-historical-pairs",
@@ -16977,6 +17656,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Trebnitzer Straße",
     "currentName": "ul. Trzebnicka",
     "source": "wroclaw-historical-pairs",
@@ -17002,6 +17682,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Trentinstraße",
     "currentName": "ul. Krzycka",
     "source": "wroclaw-historical-pairs",
@@ -17027,6 +17708,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Triftstraße",
     "currentName": "ul. Sopocka",
     "source": "wroclaw-historical-pairs",
@@ -17052,6 +17734,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Tulpenweg",
     "currentName": "ul. Księgowa",
     "source": "wroclaw-historical-pairs",
@@ -17077,6 +17760,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Udetstraße",
     "currentName": "ul. Szklarska",
     "source": "wroclaw-historical-pairs",
@@ -17102,6 +17786,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Uechtritzweg",
     "currentName": "ul. Tramwajowa",
     "source": "wroclaw-historical-pairs",
@@ -17127,6 +17812,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Uferstraße",
     "currentName": "ul. Fryderyka Joliot-Curie",
     "source": "wroclaw-historical-pairs",
@@ -17152,6 +17838,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Uhlandstraße",
     "currentName": "ul. Modlińska",
     "source": "wroclaw-historical-pairs",
@@ -17177,6 +17864,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Undinenweg",
     "currentName": "ul. Cicha",
     "source": "wroclaw-historical-pairs",
@@ -17202,6 +17890,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Universitätsplatz",
     "currentName": "pl. Uniwersytecki",
     "source": "wroclaw-historical-pairs",
@@ -17227,6 +17916,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Uranusstraße",
     "currentName": "ul. Obodrzycka",
     "source": "wroclaw-historical-pairs",
@@ -17252,6 +17942,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ursulinenstraße",
     "currentName": "ul. Uniwersytecka",
     "source": "wroclaw-historical-pairs",
@@ -17277,6 +17968,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Usedomer Straße",
     "currentName": "ul. Uznamska",
     "source": "wroclaw-historical-pairs",
@@ -17302,6 +17994,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Venusstraße",
     "currentName": "ul. Lutycka",
     "source": "wroclaw-historical-pairs",
@@ -17327,6 +18020,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Victoriastraße",
     "currentName": "ul. Lwowska",
     "source": "wroclaw-historical-pairs",
@@ -17352,6 +18046,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Vierturmstraße",
     "currentName": "ul. Karola Miarki",
     "source": "wroclaw-historical-pairs",
@@ -17377,6 +18072,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Vinzenzstraße",
     "currentName": "ul. św. Wincentego",
     "source": "wroclaw-historical-pairs",
@@ -17402,6 +18098,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Vogelweide",
     "currentName": "ul. Mikołaja Kopernika",
     "source": "wroclaw-historical-pairs",
@@ -17427,6 +18124,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Vorwerkstraße",
     "currentName": "ul. Komuny Paryskiej",
     "source": "wroclaw-historical-pairs",
@@ -17452,6 +18150,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wachtelweg",
     "currentName": "ul. Emilii Plater",
     "source": "wroclaw-historical-pairs",
@@ -17477,6 +18176,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wagnerstraße",
     "currentName": "ul. Karola Szymanowskiego",
     "source": "wroclaw-historical-pairs",
@@ -17502,6 +18202,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Walderseestraße",
     "currentName": "ul. Zofii Nałkowskiej",
     "source": "wroclaw-historical-pairs",
@@ -17527,6 +18228,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Waldschratweg",
     "currentName": "ul. ks. Grzegorza Piramowicza",
     "source": "wroclaw-historical-pairs",
@@ -17552,6 +18254,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wallstraße",
     "currentName": "ul. Pawła Włodkowica",
     "source": "wroclaw-historical-pairs",
@@ -17577,6 +18280,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Walter-Flex-Straße",
     "currentName": "ul. Samuela Bogumiła Lindego",
     "source": "wroclaw-historical-pairs",
@@ -17602,6 +18306,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wardeinstraße",
     "currentName": "ul. Witelona",
     "source": "wroclaw-historical-pairs",
@@ -17627,6 +18332,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wassergasse",
     "currentName": "ul. Zyndrama z Maszkowic",
     "source": "wroclaw-historical-pairs",
@@ -17652,6 +18358,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "skwer",
     "formerName": "Waterlooplatz",
     "currentName": "skwer Pionierów Wrocławskich",
     "source": "wroclaw-historical-pairs",
@@ -17677,6 +18384,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Waterloostraße",
     "currentName": "ul. Franklina Delano Roosevelta",
     "source": "wroclaw-historical-pairs",
@@ -17702,6 +18410,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Webskystraße",
     "currentName": "ul. Zgodna",
     "source": "wroclaw-historical-pairs",
@@ -17727,6 +18436,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weidebrücker Straße",
     "currentName": "ul. Henryka Michała Kamieńskiego",
     "source": "wroclaw-historical-pairs",
@@ -17752,6 +18462,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weidenstraße",
     "currentName": "ul. Wierzbowa",
     "source": "wroclaw-historical-pairs",
@@ -17777,6 +18488,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weidenweg",
     "currentName": "ul. Piesza",
     "source": "wroclaw-historical-pairs",
@@ -17802,6 +18514,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weisenburger Straße",
     "currentName": "ul. Słowiańska",
     "source": "wroclaw-historical-pairs",
@@ -17827,6 +18540,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weisse Ohle",
     "currentName": "ul. Klemensa Janickiego",
     "source": "wroclaw-historical-pairs",
@@ -17852,6 +18566,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Weissenburger Platz",
     "currentName": "pl. Słowiański",
     "source": "wroclaw-historical-pairs",
@@ -17877,6 +18592,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weissgerbergasse",
     "currentName": "ul. Białoskórnicza",
     "source": "wroclaw-historical-pairs",
@@ -17902,6 +18618,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Weistritzstraße",
     "currentName": "ul. Bystrzycka",
     "source": "wroclaw-historical-pairs",
@@ -17927,6 +18644,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Werderstraße",
     "currentName": "ul. Księcia Witolda",
     "source": "wroclaw-historical-pairs",
@@ -17952,6 +18670,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Westendstraße",
     "currentName": "ul. Zachodnia",
     "source": "wroclaw-historical-pairs",
@@ -17977,6 +18696,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wielandstraße",
     "currentName": "ul. Kłośna",
     "source": "wroclaw-historical-pairs",
@@ -18002,6 +18722,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wildenbruchstraße",
     "currentName": "ul. Sanocka",
     "source": "wroclaw-historical-pairs",
@@ -18027,6 +18748,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wilhelm-Wolf-Straße",
     "currentName": "ul. Rymarska",
     "source": "wroclaw-historical-pairs",
@@ -18052,6 +18774,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wilhelmshafener Straße",
     "currentName": "ul. Olszewskiego",
     "source": "wroclaw-historical-pairs",
@@ -18077,6 +18800,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "al.",
     "formerName": "Wilhelmsruher Straße",
     "currentName": "al. Jana Kochanowskiego",
     "source": "wroclaw-historical-pairs",
@@ -18102,6 +18826,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wilhelmsruher Weg",
     "currentName": "ul. Wojciecha z Brudzewa",
     "source": "wroclaw-historical-pairs",
@@ -18127,6 +18852,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Willmannstraße",
     "currentName": "ul. Szczepińska",
     "source": "wroclaw-historical-pairs",
@@ -18152,6 +18878,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Windhukstraße",
     "currentName": "ul. Angielska",
     "source": "wroclaw-historical-pairs",
@@ -18177,6 +18904,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wißmannstraße",
     "currentName": "ul. Estońska",
     "source": "wroclaw-historical-pairs",
@@ -18202,6 +18930,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wölflstraße",
     "currentName": "ul. Pocztowa",
     "source": "wroclaw-historical-pairs",
@@ -18227,6 +18956,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wolliner Straße",
     "currentName": "ul. Wołyńska",
     "source": "wroclaw-historical-pairs",
@@ -18252,6 +18982,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wörther Straße",
     "currentName": "ul. Kręta",
     "source": "wroclaw-historical-pairs",
@@ -18277,6 +19008,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Wotanstraße",
     "currentName": "ul. Józefa Mianowskiego",
     "source": "wroclaw-historical-pairs",
@@ -18302,6 +19034,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Woyrschstraße",
     "currentName": "ul. Hutnicza",
     "source": "wroclaw-historical-pairs",
@@ -18327,6 +19060,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ysselsteinstraße",
     "currentName": "ul. Żegiestowska",
     "source": "wroclaw-historical-pairs",
@@ -18352,6 +19086,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zaunkönigweg",
     "currentName": "ul. Narcyzy Żmichowskiej",
     "source": "wroclaw-historical-pairs",
@@ -18377,6 +19112,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zedlitzweg",
     "currentName": "ul. Folwarczna",
     "source": "wroclaw-historical-pairs",
@@ -18402,6 +19138,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zehnerstraße",
     "currentName": "ul. Łęczycka",
     "source": "wroclaw-historical-pairs",
@@ -18427,6 +19164,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zeisigweg",
     "currentName": "ul. Pierwszej Dywizji",
     "source": "wroclaw-historical-pairs",
@@ -18452,6 +19190,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zeppelinstraße",
     "currentName": "ul. Miedziana",
     "source": "wroclaw-historical-pairs",
@@ -18477,6 +19216,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Ziegengasse",
     "currentName": "ul. św. Wita",
     "source": "wroclaw-historical-pairs",
@@ -18502,6 +19242,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zietenstraße",
     "currentName": "ul. Żytnia",
     "source": "wroclaw-historical-pairs",
@@ -18527,6 +19268,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zimmerstraße",
     "currentName": "ul. Joachima Lelewela",
     "source": "wroclaw-historical-pairs",
@@ -18552,6 +19294,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "skwer",
     "formerName": "Zimpeler Wiese",
     "currentName": "skwer Powstańców Warszawskich",
     "source": "wroclaw-historical-pairs",
@@ -18577,6 +19320,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zimpelner Straße",
     "currentName": "ul. Edwarda Dembowskiego",
     "source": "wroclaw-historical-pairs",
@@ -18602,6 +19346,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zipser Straße",
     "currentName": "ul. Spiska",
     "source": "wroclaw-historical-pairs",
@@ -18627,6 +19372,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zur grünen Eiche",
     "currentName": "ul. Zielonego Dębu",
     "source": "wroclaw-historical-pairs",
@@ -18652,6 +19398,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zwergeweg",
     "currentName": "ul. Witolda Wojtkiewicza",
     "source": "wroclaw-historical-pairs",
@@ -18677,6 +19424,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "pl.",
     "formerName": "Zwingerplatz",
     "currentName": "pl. Teatralny",
     "source": "wroclaw-historical-pairs",
@@ -18702,6 +19450,7 @@
   {
     "country": "PL",
     "city": "Wrocław",
+    "streetType": "ul.",
     "formerName": "Zwingerstraße",
     "currentName": "ul. Teatralna",
     "source": "wroclaw-historical-pairs",

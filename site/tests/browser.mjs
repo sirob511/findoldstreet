@@ -57,7 +57,7 @@ await expect(page.locator('#resultgrid')).toContainText('Bengaluru');
 await page.locator('.detail-link').first().click();
 await expect(page.locator('.timeline')).toContainText('2014-11-01');
 await expect(page.locator('.panel a[href*="publishing.service.gov.uk"]').first()).toBeVisible();
-await page.goto(home+'?country=CZ');
+await page.goto(home+'?country=CZ&q=Czech%20Republic');
 await expect(page.locator('#resultgrid')).toContainText('Czechia');
 await page.locator('.detail-link').click();
 await expect(page.locator('.note')).toContainText('formal');

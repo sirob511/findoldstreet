@@ -4,8 +4,9 @@ const records=JSON.parse(fs.readFileSync('data/international.json'));
 const browser=await chromium.launch({headless:true});
 const page=await browser.newPage({viewport:{width:390,height:844}});
 const errors=[];page.on('pageerror',e=>errors.push(e.message));
-for(const pass of new Set(records.map(r=>r.coveragePass))){
- const sample=records.find(r=>r.coveragePass===pass);
+for(const group of new Set(records.map(r=>`${r.coveragePass}:${r.country}`))){
+ const sample=records.find(r=>`${r.coveragePass}:${r.country}`===group);
+ const pass=sample.coveragePass;
  await page.goto('http://localhost:4173/en/?q='+encodeURIComponent(sample.formerName+', '+(sample.locationAliases?.[0]||sample.city)));
  const link=page.locator(`a[href="/en/street/${sample.id}/"]`);
  await expect(link).toBeVisible();await link.click();

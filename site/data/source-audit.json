@@ -1423,9 +1423,9 @@
       "status": "downloaded",
       "textFile": "chisinau-library-guide.txt",
       "manifest": "pass-10-manifest.json",
-      "publishedRecords": 0,
+      "publishedRecords": 622,
       "reviewRecords": 0,
-      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
     },
     {
@@ -1440,9 +1440,9 @@
       "status": "downloaded",
       "textFile": "tallinn-eki-renames.txt",
       "manifest": "pass-10-manifest.json",
-      "publishedRecords": 0,
+      "publishedRecords": 101,
       "reviewRecords": 0,
-      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
     },
     {
@@ -1457,9 +1457,9 @@
       "status": "downloaded",
       "textFile": "tallinn-eki-names.txt",
       "manifest": "pass-10-manifest.json",
-      "publishedRecords": 0,
+      "publishedRecords": 101,
       "reviewRecords": 0,
-      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
     },
     {
@@ -2198,7 +2198,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 29,
+      "publishedRecords": 24,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2214,7 +2214,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 35,
+      "publishedRecords": 32,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2230,7 +2230,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 23,
+      "publishedRecords": 21,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2246,7 +2246,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 24,
+      "publishedRecords": 16,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2262,7 +2262,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 42,
+      "publishedRecords": 32,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2278,7 +2278,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 27,
+      "publishedRecords": 24,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2294,7 +2294,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 45,
+      "publishedRecords": 43,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2342,7 +2342,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 34,
+      "publishedRecords": 31,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2358,7 +2358,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 22,
+      "publishedRecords": 21,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2374,7 +2374,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 37,
+      "publishedRecords": 36,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2390,7 +2390,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 30,
+      "publishedRecords": 28,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2406,7 +2406,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 32,
+      "publishedRecords": 31,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2422,7 +2422,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 29,
+      "publishedRecords": 28,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2438,7 +2438,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 40,
+      "publishedRecords": 32,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2454,7 +2454,7 @@
       "status": "downloaded",
       "reuseTerms": "Factual name mappings only; raw evidence retained for audit, not served publicly.",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 50,
+      "publishedRecords": 41,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -2646,9 +2646,9 @@
       "sha256": "88ae213fade9d41a3bcf0dcac6867f1df6e4b52523056a799e9bbd5138f96979",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -2886,7 +2886,7 @@
       "sha256": "a35dc5e80cd0fc0505f13e775d093b6e93e9107b05b78940046c26bb075460b0",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -3094,7 +3094,7 @@
       "sha256": "2e26507796e9b58241a4f35e34d434419a8ba7b541d21bb9210879b3e81a5992",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 5,
+      "publishedRecords": 4,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -3222,7 +3222,7 @@
       "sha256": "61de8d776ca70928fc496e6c2a695c97c8b8d644855963e8a7414a1da2ee569c",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -3558,7 +3558,7 @@
       "sha256": "be8920ccd9c55177a4c0a216971ec0fa5921434e94ea3afc0806faf046963f0e",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 5,
+      "publishedRecords": 4,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -3814,7 +3814,7 @@
       "sha256": "7e32e51365fa7af770515079bea96bccf3359d51f0dc73e20ca19c799ca64b94",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -4038,9 +4038,9 @@
       "sha256": "dbb4d4dc5f14c1e958ba131a220af07bf2d4f803e9cb34aa497bc5df14426148",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 1,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -4054,7 +4054,7 @@
       "sha256": "d533822e775821cf7346550efb41d100775f2cf6933a8f300852acd017606bab",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -4118,9 +4118,9 @@
       "sha256": "8cbdb1c59fe2f3ff15886a1bbd902e37cb4ad72244af0ab19a5607743eed7009",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -4134,7 +4134,7 @@
       "sha256": "7f926e318954b0ad62ada44ee0eade0857f43cfd1d5e38152a9661c7d1f15055",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -4182,7 +4182,7 @@
       "sha256": "84566e3b1435eb6e0cf9493a68e1455a385aa596400ddea120444a38b9697701",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 2,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -4518,9 +4518,9 @@
       "sha256": "af6abbaffc295756316409b8217fd08e396ab66a8b66381b4758ef33c2d01c82",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 7,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -4646,9 +4646,9 @@
       "sha256": "f4c217c47f7d1104db31b04006254c9db882a03dd5da5f2ff7bb27520cf6bdf3",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -5206,7 +5206,7 @@
       "sha256": "1266c44303720c2fed6a67c1ade18f19a7a0d7e72e7874a02982c1836febf558",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -5798,7 +5798,7 @@
       "sha256": "e8b6afcff73d54147bb7b253df40dce8f71c7f19bc313bbecdcfe1dc52f143b3",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -6870,7 +6870,7 @@
       "sha256": "3ea2c25ea57240cb865b0b0fcaef68c74bb0ee6db83263936ab3d326c2298b67",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 2,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -7046,7 +7046,7 @@
       "sha256": "bf1f74c4e31389e1e30dee4423259c8eb573a09126da643fee19cc0928889fd0",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -7222,7 +7222,7 @@
       "sha256": "f9eef7459603534a24caceb0920b9b8c0c55e79b0a1b68f41ce1a05b4ac7316f",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 3,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -7446,9 +7446,9 @@
       "sha256": "3dda2990e2b8f320a69df460027efbd385589ee8601997b347e95af15694d562",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 1,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -7846,7 +7846,7 @@
       "sha256": "c70c4965d8a3f6f91d43d8367529b6777c78e9ecd0e168c72155858b93fe58ae",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 2,
+      "publishedRecords": 1,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -8422,9 +8422,9 @@
       "sha256": "82e8405457f2ea6c3b0468b7dccfaaf9ddf9d8d45c51afeadfd9490493cf6320",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 1,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -8470,7 +8470,7 @@
       "sha256": "dc2bb7cc67db2f7595a227bcd6817728f25f9adeb2e59eb74e4412040f7c68b8",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 3,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -9190,7 +9190,7 @@
       "sha256": "00d2428d2dcca65ac8217478ea1ec80f29475bef2d698a44dae946035f6f0a99",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -9670,7 +9670,7 @@
       "sha256": "ae6d514f0d42f615f8d581030692e36dd7d504f8fca456929523bce8737f1857",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -9846,7 +9846,7 @@
       "sha256": "6fa2155ad08a241cadbde703c8cc14da3956ed399fabe8d244173ac785d2d934",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10054,9 +10054,9 @@
       "sha256": "3157f4f40cac90189c0a2801c49c7c05cbdf5e1981edc5f3ed58ca58d4a94662",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 4,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -10150,7 +10150,7 @@
       "sha256": "f2b72c2e6f3ed81ad69d9aa2a6c7a3fd997640584679ae8ac5567bd3b51df511",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 5,
+      "publishedRecords": 3,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10278,7 +10278,7 @@
       "sha256": "203a2477e0191848343a212071530ed78f27f29e35b49198c8ed590338388a1c",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 8,
+      "publishedRecords": 7,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10358,7 +10358,7 @@
       "sha256": "f9eb0889a46b9f4a376b88d692f0cd5fa2c475f84e8bef5d899b18364e99fce5",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10374,7 +10374,7 @@
       "sha256": "8bc292b81b4869c47e7283096f078dc50a037eb3b1169fcddeac13eba0c58513",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 2,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10422,7 +10422,7 @@
       "sha256": "eeafe78ea0cb3d597a9def5d752b5caecb6f0a6630c60a9996d3cd06bfc4139c",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 5,
+      "publishedRecords": 3,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
@@ -10470,9 +10470,9 @@
       "sha256": "de79a048b9eed28006db725f6bf9923108bb8bf7b90900e8806eecadb2c6a886",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 3,
+      "publishedRecords": 0,
       "reviewRecords": 0,
-      "assessment": "Cited by records; only explicit, reviewed mappings published.",
+      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
       "captureHashVerified": true
     },
     {
@@ -10550,7 +10550,7 @@
       "sha256": "009a688415aaa156ceb4fc26c6a7aec65954e36893f5cb20b795619333ccccda",
       "status": "downloaded",
       "manifest": "pass-9-manifest.json",
-      "publishedRecords": 5,
+      "publishedRecords": 4,
       "reviewRecords": 0,
       "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true

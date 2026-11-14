@@ -10,3 +10,4 @@ soupsieve==4.1
 typing_extensions==4.16.0
 Unidecode==1.4.0
 urllib3==2.8.0
+PyMuPDF==2.1

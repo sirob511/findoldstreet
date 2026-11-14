@@ -35,7 +35,8 @@ def main():
             if index['abolished']:r['holdReason']='Street explicitly marked abolished in source index'
             elif index['name']!=new or not history or history[-1]['label']!=new:r['holdReason']='Profile title, index or latest historical label disagree'
             elif not district:r['holdReason']='Missing cadastral locality'
-            elif any(x in old for x in [' - ','(',')','/',';',' část']):r['holdReason']='Combined bilingual or annotated historical label'
+            elif old=='Samoty':r['holdReason']='Isolated-house settlement label requires boundary reconciliation'
+            elif any(x in old for x in [' - ',' – ',' — ','(',')','/',';','+',',',' část',' též ',' nebo ']):r['holdReason']='Combined bilingual or annotated historical label'
             out.append(r)
     save(9,out,'Brno, Czechia: museum-backed street histories, current-index checks and abolished-street exclusions')
 if __name__=='__main__':main()

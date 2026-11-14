@@ -87,7 +87,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Uzbekistan",
-      "LT": "Lithuania"
+      "LT": "Lithuania",
+      "MD": "Moldova",
+      "EE": "Estonia"
     },
     "copyLink": "Copy link",
     "copied": "Link copied",
@@ -187,7 +189,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Узбекистан",
-      "LT": "Литва"
+      "LT": "Литва",
+      "MD": "Молдова",
+      "EE": "Естонія"
     },
     "copyLink": "Копіювати посилання",
     "copied": "Посилання скопійовано",
@@ -287,7 +291,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Узбекистан",
-      "LT": "Литва"
+      "LT": "Литва",
+      "MD": "Молдова",
+      "EE": "Эстония"
     },
     "copyLink": "Копировать ссылку",
     "copied": "Ссылка скопирована",
@@ -387,7 +393,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Uzbekistan",
-      "LT": "Litwa"
+      "LT": "Litwa",
+      "MD": "Mołdawia",
+      "EE": "Estonia"
     },
     "copyLink": "Kopiuj link",
     "copied": "Link skopiowany",
@@ -487,7 +495,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Uzbekistan",
-      "LT": "Litva"
+      "LT": "Litva",
+      "MD": "Moldova",
+      "EE": "Estonia"
     },
     "copyLink": "Sao chép liên kết",
     "copied": "Đã sao chép",
@@ -587,7 +597,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Uzbekistan",
-      "LT": "Lithuania"
+      "LT": "Lithuania",
+      "MD": "Moldova",
+      "EE": "Estonia"
     },
     "copyLink": "Kopisha isixhumanisi",
     "copied": "Isixhumanisi sikopishiwe",
@@ -687,7 +699,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "Өзбекстан",
-      "LT": "Литва"
+      "LT": "Литва",
+      "MD": "Молдова",
+      "EE": "Эстония"
     },
     "copyLink": "Сілтемені көшіру",
     "copied": "Сілтеме көшірілді",
@@ -787,7 +801,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "उज़्बेकिस्तान",
-      "LT": "लिथुआनिया"
+      "LT": "लिथुआनिया",
+      "MD": "मोल्दोवा",
+      "EE": "एस्टोनिया"
     },
     "copyLink": "लिंक कॉपी करें",
     "copied": "लिंक कॉपी हो गया",
@@ -887,7 +903,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "उझबेकिस्तान",
-      "LT": "लिथुआनिया"
+      "LT": "लिथुआनिया",
+      "MD": "मोल्दोव्हा",
+      "EE": "एस्टोनिया"
     },
     "copyLink": "दुवा कॉपी करा",
     "copied": "दुवा कॉपी केला",
@@ -987,7 +1005,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "উজবেকিস্তান",
-      "LT": "লিথুয়ানিয়া"
+      "LT": "লিথুয়ানিয়া",
+      "MD": "মলদোভা",
+      "EE": "এস্তোনিয়া"
     },
     "copyLink": "লিঙ্ক কপি করুন",
     "copied": "লিঙ্ক কপি হয়েছে",
@@ -1087,7 +1107,9 @@
       "BZ": "Belize",
       "VU": "Vanuatu",
       "UZ": "உஸ்பெகிஸ்தான்",
-      "LT": "லிதுவேனியா"
+      "LT": "லிதுவேனியா",
+      "MD": "மோல்டோவா",
+      "EE": "எஸ்தோனியா"
     },
     "copyLink": "இணைப்பை நகலெடு",
     "copied": "இணைப்பு நகலெடுக்கப்பட்டது",
