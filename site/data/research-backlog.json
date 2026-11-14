@@ -46,7 +46,7 @@
   {
     "city": "Odesa",
     "status": "blocked-source",
-    "nextStep": "Amended 2024 order PDF remains inaccessible; do not replace it with unverified reports."
+    "nextStep": "Amended 2024 order PDF remains inaccessible; do not replace it with unverified reports. The postal-classifier capture supplies independent address-name mappings, without claiming the unavailable order’s dates or legal scope."
   },
   {
     "city": "Mumbai",

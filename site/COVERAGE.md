@@ -2,13 +2,13 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-3,241 published records across 29 countries: 3,152 streets/segments, 66 cities and 23 country-name mappings.
+4,029 published records across 29 countries: 3,940 streets/segments, 66 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
-| Ukraine | 2501 | 2501 | 197 | 28 |
+| Ukraine | 3289 | 3289 | 199 | 28 |
 | Poland | 213 | 294 | 3 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
@@ -21,6 +21,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 |---|---:|---:|---:|---|
 | 1 | 500 | 837 | 2482 | Dnipro postal street-name mappings |
 | 2 | 500 | 759 | 3241 | Kharkiv postal street-name mappings |
+| 3 | 500 | 788 | 4029 | Odesa and Zaporizhzhia postal street-name mappings |
 
 ## City and country renamings
 
@@ -192,6 +193,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Заліски | 1 | 1 | 0 |
 | Ukraine | Замок | 1 | 1 | 0 |
 | Ukraine | Заплатин | 1 | 1 | 0 |
+| Ukraine | Запоріжжя | 422 | 422 | 0 |
 | Ukraine | Зимна Вода | 2 | 2 | 0 |
 | Ukraine | Зозулі | 1 | 1 | 0 |
 | Ukraine | Золотковичі | 1 | 1 | 0 |
@@ -241,6 +243,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Новий Милятин | 2 | 2 | 0 |
 | Ukraine | Новий Яричів | 2 | 2 | 0 |
 | Ukraine | Оброшине | 2 | 2 | 0 |
+| Ukraine | Одеса | 366 | 366 | 0 |
 | Ukraine | Ожидів | 1 | 1 | 0 |
 | Ukraine | Опори | 1 | 1 | 0 |
 | Ukraine | Острів | 1 | 1 | 0 |
@@ -342,6 +345,8 @@ Initial selection; the street counts above exclude these records.
 - [lviv-appendix2-browser](https://loda.gov.ua/documents/111760) — retrieved 2026-11-14T17:55:32.085281+00:00; CC BY 4.0 per source footer. Attribution: Lviv Regional Military Administration.
 - [Ukrposhta street address classifier: Дніпро](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=264&district_id=301&city_id=3641&street_ua=) — retrieved 2026-11-14T18:19:50.283569+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [Ukrposhta street address classifier: Харків](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=280&district_id=395&city_id=24550&street_ua=) — retrieved 2026-11-14T18:22:40.815700+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Одеса](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=275&district_id=371&city_id=17069&street_ua=) — retrieved 2026-11-14T18:25:12.398557+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Запоріжжя](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=268&district_id=328&city_id=8968&street_ua=) — retrieved 2026-11-14T18:25:15.132488+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [warsaw1](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx) — retrieved 2026-11-14T05:29:17.305724+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [warsaw2](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx) — retrieved 2026-11-14T05:29:14.328887+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [krakow-law](https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf) — retrieved 2026-11-14T05:41:41.578526+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -404,7 +409,7 @@ Initial selection; the street counts above exclude these records.
 
 ### Ukraine
 - Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete
-- Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities
+- Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities
 - Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation
 ### Poland
 - TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "postal-p3-cities-9a94c18e24",
+    "country": "UA",
+    "title": "Ukrposhta city search: Одеса",
+    "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D0%B4%D0%B5%D1%81%D0%B0",
+    "file": "postal-p3-cities-9a94c18e24.json",
+    "sha256": "4a778f5af9f1e6cd7561baad7b0e0519269b745e1855fbee996acd57d27a4958",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T18:25:10.317242+00:00",
+    "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+    "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+  },
+  {
+    "id": "postal-p3-streets-17069",
+    "country": "UA",
+    "title": "Ukrposhta street address classifier: Одеса",
+    "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=275&district_id=371&city_id=17069&street_ua=",
+    "file": "postal-p3-streets-17069.json",
+    "sha256": "141fee36deb5a6f4837ffacf2f0fdffeb7a966019ac57d626fb664dcc3eb52bf",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T18:25:12.398557+00:00",
+    "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+    "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+  },
+  {
+    "id": "postal-p3-cities-a35cf4637f",
+    "country": "UA",
+    "title": "Ukrposhta city search: Запоріжжя",
+    "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B6%D0%B6%D1%8F",
+    "file": "postal-p3-cities-a35cf4637f.json",
+    "sha256": "f4ae95acf374b5accabb57743fb7ab68c48e940bbb3bf588f4f728b153813632",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T18:25:13.536525+00:00",
+    "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+    "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+  },
+  {
+    "id": "postal-p3-streets-8968",
+    "country": "UA",
+    "title": "Ukrposhta street address classifier: Запоріжжя",
+    "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=268&district_id=328&city_id=8968&street_ua=",
+    "file": "postal-p3-streets-8968.json",
+    "sha256": "c91208a25c457b584331b5861358123b6893c2a9568848d2285dfd03246071c8",
+    "status": "downloaded",
+    "retrievedAt": "2026-11-14T18:25:15.132488+00:00",
+    "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+    "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+  }
+]

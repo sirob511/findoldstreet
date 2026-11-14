@@ -28,11 +28,26 @@
         "Static build and SEO checks",
         "Mobile search → detail → source browser check"
       ]
+    },
+    {
+      "passNumber": 3,
+      "target": 500,
+      "newPublishedRecords": 788,
+      "totalPublishedRecords": 4029,
+      "scope": "Odesa and Zaporizhzhia postal street-name mappings",
+      "heldCandidates": 47,
+      "sourceReview": "835 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names, existing-record overlaps and non-street objects excluded.",
+      "validation": [
+        "Captured-field equality and SHA-256 checks",
+        "Search regression tests",
+        "Static build and SEO checks",
+        "Mobile search → detail → source browser check"
+      ]
     }
   ],
   "publishedSummary": {
-    "records": 3241,
-    "streets": 3152,
+    "records": 4029,
+    "streets": 3940,
     "cities": 66,
     "countryNames": 23,
     "countriesRepresented": 29
@@ -4395,13 +4410,13 @@
     {
       "country": "UA",
       "name": "Ukraine",
-      "verifiedStreets": 2501,
-      "renameEvents": 2501,
+      "verifiedStreets": 3289,
+      "renameEvents": 3289,
       "reviewRecords": 28,
-      "publishedLocalities": 197,
+      "publishedLocalities": 199,
       "gaps": [
         "Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete",
-        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
+        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
         "Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation"
       ]
     },
@@ -4977,6 +4992,13 @@
     },
     {
       "country": "UA",
+      "municipality": "Запоріжжя",
+      "verifiedStreets": 422,
+      "renameEvents": 422,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
       "municipality": "Зимна Вода",
       "verifiedStreets": 2,
       "renameEvents": 2,
@@ -5316,6 +5338,13 @@
       "municipality": "Оброшине",
       "verifiedStreets": 2,
       "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Одеса",
+      "verifiedStreets": 366,
+      "renameEvents": 366,
       "reviewRecords": 0
     },
     {
@@ -6011,6 +6040,22 @@
       "sha256": "75ce55f68066a26c27c6ba81afda5449fda6483146176a8b89325a8983246e10",
       "title": "Ukrposhta street address classifier: Харків",
       "id": "postal-p2-streets-24550"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=275&district_id=371&city_id=17069&street_ua=",
+      "retrievedAt": "2026-11-14T18:25:12.398557+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "141fee36deb5a6f4837ffacf2f0fdffeb7a966019ac57d626fb664dcc3eb52bf",
+      "title": "Ukrposhta street address classifier: Одеса",
+      "id": "postal-p3-streets-17069"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=268&district_id=328&city_id=8968&street_ua=",
+      "retrievedAt": "2026-11-14T18:25:15.132488+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "c91208a25c457b584331b5861358123b6893c2a9568848d2285dfd03246071c8",
+      "title": "Ukrposhta street address classifier: Запоріжжя",
+      "id": "postal-p3-streets-8968"
     },
     {
       "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
@@ -7466,6 +7511,54 @@
       "sha256": "75ce55f68066a26c27c6ba81afda5449fda6483146176a8b89325a8983246e10",
       "status": "downloaded",
       "retrievedAt": "2026-11-14T18:22:40.815700+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p3-cities-9a94c18e24",
+      "country": "UA",
+      "title": "Ukrposhta city search: Одеса",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D0%B4%D0%B5%D1%81%D0%B0",
+      "file": "postal-p3-cities-9a94c18e24.json",
+      "sha256": "4a778f5af9f1e6cd7561baad7b0e0519269b745e1855fbee996acd57d27a4958",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:25:10.317242+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p3-streets-17069",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Одеса",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=275&district_id=371&city_id=17069&street_ua=",
+      "file": "postal-p3-streets-17069.json",
+      "sha256": "141fee36deb5a6f4837ffacf2f0fdffeb7a966019ac57d626fb664dcc3eb52bf",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:25:12.398557+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p3-cities-a35cf4637f",
+      "country": "UA",
+      "title": "Ukrposhta city search: Запоріжжя",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B6%D0%B6%D1%8F",
+      "file": "postal-p3-cities-a35cf4637f.json",
+      "sha256": "f4ae95acf374b5accabb57743fb7ab68c48e940bbb3bf588f4f728b153813632",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:25:13.536525+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p3-streets-8968",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Запоріжжя",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=268&district_id=328&city_id=8968&street_ua=",
+      "file": "postal-p3-streets-8968.json",
+      "sha256": "c91208a25c457b584331b5861358123b6893c2a9568848d2285dfd03246071c8",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:25:15.132488+00:00",
       "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
       "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
     }
