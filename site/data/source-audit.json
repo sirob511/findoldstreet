@@ -2035,9 +2035,9 @@
       "status": "downloaded",
       "textFile": "wroclaw-historical-pairs.txt",
       "manifest": "pass-7-manifest.json",
-      "publishedRecords": 0,
+      "publishedRecords": 749,
       "reviewRecords": 0,
-      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
     },
     {
@@ -2051,9 +2051,9 @@
       "sha256": "06f3375ac75c7e13b50ae0d767b3605525c51326e8f7c4534c2344798e3a8477",
       "status": "downloaded",
       "manifest": "pass-7-manifest.json",
-      "publishedRecords": 0,
+      "publishedRecords": 749,
       "reviewRecords": 0,
-      "assessment": "Captured lead; no approved mapping currently cites this source. Requires row-level review before import.",
+      "assessment": "Cited by records; only explicit, reviewed mappings published.",
       "captureHashVerified": true
     },
     {

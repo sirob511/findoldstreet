@@ -48,5 +48,30 @@ def tashkent():
         if not re.search(r'ул\.|улиц|проезд|тупик|проспект|туп\.',new,re.I):r['holdReason']='Missing or malformed destination object type'
         out.append(r)
     save(6,out,'Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded')
+def polish_key(s):
+    s=re.sub(r'^(ul\.|al\.|aleja|pl\.|plac|skwer|rondo)\s*','',s,flags=re.I)
+    return norm(s)
+def wroclaw_register():
+    import io,zipfile
+    from openpyxl import load_workbook
+    with zipfile.ZipFile(S/'wroclaw-emuia-streets.zip') as z:
+        values=list(load_workbook(io.BytesIO(z.read(z.namelist()[0])),read_only=True,data_only=True).active.values)[1:]
+    reg=collections.defaultdict(dict)
+    for row in values:
+        for n in [' '.join(str(x) for x in row[2:5] if x),row[5] or '']:
+            reg[polish_key(n)][row[0]]=row
+    return reg
+def wroclaw():
+    reg=wroclaw_register();out=[]
+    for i,c in enumerate(table('wroclaw-historical-pairs')[1:],1):
+        assert len(c)==2
+        old,new=c;old=re.sub(r' in Breslau$','',old)
+        kind=new.split()[0];candidates=[v for v in reg.get(polish_key(new),{}).values() if v[1]==kind]
+        r=dict(country='PL',city='Wrocław',formerName=old,currentName=new,source='wroclaw-historical-pairs',locator=f'German/Polish street table, data row {i}',evidenceRow=i,sourceCells=c,locationAliases=['Wroclaw','Breslau'],language='de',script='Latin',extraSources=['wroclaw-emuia-streets'],nameNote='Historical pair from WroclawGuide; the Polish name and object type also match the captured municipal EMUiA street register. This checks name existence, not historical boundary continuity or house numbers. No rename date is inferred.')
+        if len(candidates)!=1:r['holdReason']='No unique exact current-name and object-type match in municipal EMUiA register'
+        else:r['municipalRegisterId']=candidates[0][0]
+        if any(x in old+' '+new for x in [',',';','(',')',' / ']) or 'Does not exist' in new:r['holdReason']='Vanished street, combined destinations or annotated name'
+        out.append(r)
+    save(7,out,'Wrocław, Poland: historical German names with exact current municipal name/type matches')
 if __name__=='__main__':
-    if sys.argv[1]=='6':tashkent()
+    {'6':tashkent,'7':wroclaw}[sys.argv[1]]()

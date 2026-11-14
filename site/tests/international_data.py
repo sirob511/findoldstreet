@@ -4,11 +4,12 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 R=Path(__file__).resolve().parents[1];S=R/'data/sources'
 sys.path.insert(0,str(R/'scripts'))
-from international_coverage import table,clean
+from international_coverage import table,clean,wroclaw_register,polish_key
 rows=json.loads((R/'data/international.json').read_text());by_id={r['id']:r for r in rows}
 assert len(by_id)==len(rows)
 man={s['id']:s for p in S.glob('*manifest.json') for s in json.loads(p.read_text())}
 tables={}
+register=wroclaw_register()
 count=0
 for p in S.glob('international-pass-*-additions.json'):
     items=json.loads(p.read_text());ledger=json.loads(p.with_name(p.name.replace('additions','review')).read_text())
@@ -28,6 +29,13 @@ for p in S.glob('international-pass-*-additions.json'):
             c=tables[item['source']][item['evidenceRow']]
             assert c==item['sourceCells']
             assert (r['formerName'],r['currentName'],r['district'])==(c[0],c[1],c[3] or None)
+        if item['source']=='wroclaw-historical-pairs':
+            if item['source'] not in tables:tables[item['source']]=table(item['source'])
+            c=tables[item['source']][item['evidenceRow']]
+            assert c==item['sourceCells']
+            assert r['formerName']==c[0].removesuffix(' in Breslau') and r['currentName']==c[1]
+            candidates=[v for v in register[polish_key(c[1])].values() if v[1]==c[1].split()[0]]
+            assert len(candidates)==1 and candidates[0][0]==item['municipalRegisterId']
         count+=1
 assert count==len(rows)
 for locale,t in json.loads((R/'src/i18n.json').read_text()).items():

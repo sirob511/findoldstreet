@@ -89,11 +89,25 @@
         "Search regression tests",
         "Static build and SEO checks"
       ]
+    },
+    {
+      "passNumber": 7,
+      "target": 500,
+      "newPublishedRecords": 749,
+      "totalPublishedRecords": 7269,
+      "scope": "Wrocław, Poland: historical German names with exact current municipal name/type matches",
+      "heldCandidates": 223,
+      "sourceReview": "data/sources/international-pass-7-review.json",
+      "validation": [
+        "Source hash and exact-pair checks",
+        "Search regression tests",
+        "Static build and SEO checks"
+      ]
     }
   ],
   "publishedSummary": {
-    "records": 6520,
-    "streets": 6418,
+    "records": 7269,
+    "streets": 7167,
     "cities": 79,
     "countryNames": 23,
     "countriesRepresented": 30
@@ -5171,13 +5185,13 @@
     {
       "country": "PL",
       "name": "Poland",
-      "verifiedStreets": 213,
-      "renameEvents": 294,
+      "verifiedStreets": 962,
+      "renameEvents": 1043,
       "reviewRecords": 0,
-      "publishedLocalities": 3,
+      "publishedLocalities": 4,
       "gaps": [
         "TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory",
-        "Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported"
+        "Wrocław historical pairs checked against municipal EMUiA name/type inventory; boundaries and house numbers remain unverified. Poznań, Gdańsk, Szczecin, Katowice, Lublin and Białystok remain gaps"
       ]
     },
     {
@@ -6717,6 +6731,13 @@
     },
     {
       "country": "PL",
+      "municipality": "Wrocław",
+      "verifiedStreets": 749,
+      "renameEvents": 749,
+      "reviewRecords": 0
+    },
+    {
+      "country": "PL",
       "municipality": "Łódź",
       "verifiedStreets": 151,
       "renameEvents": 176,
@@ -7311,6 +7332,22 @@
       "sha256": "b56914e56711a897f732c041387829f81c9b9135cdf5feec2cc4138f02be05cd",
       "title": "Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)",
       "id": "tashkent-goldenpages"
+    },
+    {
+      "url": "https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/",
+      "retrievedAt": "2026-11-14T18:46:24.518091+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "060ae892fd0890c3224d5673aa89df84fcd42a1340e1a35e45755b1136719ff0",
+      "title": "WroclawGuide: historical German and present Polish street-name pairs",
+      "id": "wroclaw-historical-pairs"
+    },
+    {
+      "url": "https://geoportal.wroclaw.pl/www/emuia/Ulice.zip",
+      "retrievedAt": "2026-11-14T18:46:24.519761+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "06f3375ac75c7e13b50ae0d767b3605525c51326e8f7c4534c2344798e3a8477",
+      "title": "City of Wrocław EMUiA current street-name register",
+      "id": "wroclaw-emuia-streets"
     },
     {
       "url": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",

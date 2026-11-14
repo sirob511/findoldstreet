@@ -88,5 +88,19 @@
       "Search regression tests",
       "Static build and SEO checks"
     ]
+  },
+  {
+    "passNumber": 7,
+    "target": 500,
+    "newPublishedRecords": 749,
+    "totalPublishedRecords": 7269,
+    "scope": "Wrocław, Poland: historical German names with exact current municipal name/type matches",
+    "heldCandidates": 223,
+    "sourceReview": "data/sources/international-pass-7-review.json",
+    "validation": [
+      "Source hash and exact-pair checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ]
   }
 ]

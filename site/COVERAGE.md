@@ -2,14 +2,14 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-6,520 published records across 30 countries: 6,418 streets/segments, 79 cities and 23 country-name mappings.
+7,269 published records across 30 countries: 7,167 streets/segments, 79 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
 | Ukraine | 5111 | 5111 | 206 | 28 |
-| Poland | 213 | 294 | 3 | 0 |
+| Poland | 962 | 1043 | 4 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
 | Kazakhstan | 346 | 346 | 3 | 1 |
@@ -26,6 +26,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 4 | 500 | 1049 | 5078 | Vinnytsia, Poltava, Chernihiv and Cherkasy postal street-name mappings |
 | 5 | 500 | 786 | 5864 | Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames |
 | 6 | 500 | 656 | 6520 | Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded |
+| 7 | 500 | 749 | 7269 | Wrocław, Poland: historical German names with exact current municipal name/type matches |
 
 ## City and country renamings
 
@@ -348,6 +349,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | садове товариство «Явір» | 1 | 1 | 0 |
 | Poland | Kraków | 6 | 6 | 0 |
 | Poland | Warszawa | 56 | 112 | 0 |
+| Poland | Wrocław | 749 | 749 | 0 |
 | Poland | Łódź | 151 | 176 | 0 |
 | South Africa | Cape Town | 8 | 8 | 3 |
 | South Africa | Durban | 45 | 45 | 4 |
@@ -427,6 +429,8 @@ Initial selection; the street counts above exclude these records.
 - [delhi2017](https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf) — retrieved 2026-11-14T05:39:12.216355+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [Kolkata Municipal Corporation newsletter June 2017](https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf) — retrieved 2026-11-14T06:33:20.793640+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
 - [Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)](https://www.goldenpages.uz/streets/) — retrieved 2026-11-14T18:44:38.962536+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [WroclawGuide: historical German and present Polish street-name pairs](https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/) — retrieved 2026-11-14T18:46:24.518091+00:00; Factual mappings only; capture retained for source audit, not served publicly.
+- [City of Wrocław EMUiA current street-name register](https://geoportal.wroclaw.pl/www/emuia/Ulice.zip) — retrieved 2026-11-14T18:46:24.519761+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [Verkhovna Rada of Ukraine](https://www.rada.gov.ua/en/news/News/top_news/131134.html) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
 - [ukraine-renamed-cities](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf) — retrieved 2026-11-14T17:55:32.373201+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [United Nations Digital Library](https://digitallibrary.un.org/record/1282124) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
@@ -460,7 +464,7 @@ Initial selection; the street counts above exclude these records.
 - Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation
 ### Poland
 - TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory
-- Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported
+- Wrocław historical pairs checked against municipal EMUiA name/type inventory; boundaries and house numbers remain unverified. Poznań, Gdańsk, Szczecin, Katowice, Lublin and Białystok remain gaps
 ### South Africa
 - No municipal GIS geometry imported; Cape Town coverage is limited to eight unambiguous mappings; conflicting Lansdowne segments held for review; Pretoria includes the visitor map table with Church Street segments preserved
 - Ekurhuleni, Mangaung, Msunduzi, Buffalo City, Nelson Mandela Bay and other municipalities remain gaps
