@@ -2,7 +2,7 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-5,864 published records across 29 countries: 5,762 streets/segments, 79 cities and 23 country-name mappings.
+6,520 published records across 30 countries: 6,418 streets/segments, 79 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
@@ -14,6 +14,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | Vietnam | 3 | 3 | 1 | 2 |
 | Kazakhstan | 346 | 346 | 3 | 1 |
 | India | 8 | 8 | 2 | 2 |
+| Uzbekistan | 656 | 656 | 1 | 0 |
 
 ## Expansion passes
 
@@ -24,6 +25,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 3 | 500 | 788 | 4029 | Odesa and Zaporizhzhia postal street-name mappings |
 | 4 | 500 | 1049 | 5078 | Vinnytsia, Poltava, Chernihiv and Cherkasy postal street-name mappings |
 | 5 | 500 | 786 | 5864 | Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames |
+| 6 | 500 | 656 | 6520 | Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded |
 
 ## City and country renamings
 
@@ -358,6 +360,7 @@ Initial selection; the street counts above exclude these records.
 | India | Chennai | 0 | 0 | 1 |
 | India | Kolkata | 1 | 1 | 1 |
 | India | New Delhi | 7 | 7 | 0 |
+| Uzbekistan | Ташкент | 656 | 656 | 0 |
 
 ## Sources imported
 
@@ -423,6 +426,7 @@ Initial selection; the street counts above exclude these records.
 - [kartavya-pib](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48) — retrieved 2026-11-14T05:39:09.750161+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [delhi2017](https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf) — retrieved 2026-11-14T05:39:12.216355+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [Kolkata Municipal Corporation newsletter June 2017](https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf) — retrieved 2026-11-14T06:33:20.793640+00:00; Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.
+- [Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)](https://www.goldenpages.uz/streets/) — retrieved 2026-11-14T18:44:38.962536+00:00; Factual mappings only; capture retained for source audit, not served publicly.
 - [Verkhovna Rada of Ukraine](https://www.rada.gov.ua/en/news/News/top_news/131134.html) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
 - [ukraine-renamed-cities](https://land.gov.ua/wp-content/uploads/2018/08/Перейменування_міста_ВРУ_28_08.pdf) — retrieved 2026-11-14T17:55:32.373201+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [United Nations Digital Library](https://digitallibrary.un.org/record/1282124) — retrieved 2026-11-14; Factual name mapping only. Source linked, not republished.
@@ -473,6 +477,8 @@ Initial selection; the street counts above exclude these records.
 - Delhi historical decisions imported, proposals excluded; Chennai pending text verification; Kolkata has one municipal-newsletter mapping, with the partial Moore Avenue lead held for review
 - Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported
 - British Council historical table not imported; newer municipal registers not systematically compared
+### Uzbekistan
+- Tashkent directory mappings only; legal decisions, current national register and geometry not reconciled. Numbered lanes are separate source objects; ambiguous and partial mappings held.
 
 ## Limits
 

@@ -4,7 +4,7 @@ ORIGIN=site_origin()
 R=pathlib.Path(__file__).resolve().parents[1];D=R/'dist'
 if D.exists():shutil.rmtree(D)
 D.mkdir()
-T=json.loads((R/'src/i18n.json').read_text()); ALL=sum([json.loads((R/'data'/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN','places']],[]);DATA=[r for r in ALL if r['status']=='verified']
+T=json.loads((R/'src/i18n.json').read_text()); ALL=sum([json.loads((R/'data'/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN','international','places']],[]);DATA=[r for r in ALL if r['status']=='verified']
 COUNTRIES=list(dict.fromkeys(r['country'] for r in DATA));COUNTRY_ALIASES=T['en']['countryNames']
 def e(x):return html.escape(str(x or ''),quote=True)
 def city_id(r):return r['country'].lower()+'-'+hashlib.sha256(r['city'].encode()).hexdigest()[:10]

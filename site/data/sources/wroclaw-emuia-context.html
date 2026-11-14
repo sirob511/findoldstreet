@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html class="no-js lang-pl" lang="pl">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+    <title>System Informacji Przestrzennej Wrocławia- Ewidencja Miejscowości, Ulic i Adresów</title>
+
+    <link rel="stylesheet" href="/static/css/style_v18.css">
+    
+    
+    <link rel="shortcut icon" type="image/ico" href="/static/images/favicon.ico" />
+    <script src="/static/js/vendor/jquery.js"></script>
+    <script src="/static/js/vendor/what-input.js"></script>
+	<link href="/static/css/gridjs.mermaid.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/css/motion-ui.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+      <header>
+        <div class="header row">
+          <div class="columns small-3">
+              <a href="/">
+                <img src="/static/images/logo_wroclaw_biale.svg" alt="Wrocław">
+              </a>
+            </div>
+          <div class="columns small-9 text-center">
+              <h1>System Informacji Przestrzennej Wrocławia</h1>
+              <span class="show-for-sr">Zmień język</span>
+              <form action="/jezyk/" method="post" id="lang-form"><input type="hidden" name="csrfmiddlewaretoken" value="FRCDiTfSia84WerDMGjWLErr7lqCY6MyxrBjomlpuYFXzuHMa9nJIL4TU1UJg4pR">
+              <input name="next" type="hidden" value="emuia" />
+              
+                
+              
+                
+                  <input name="language" type="hidden" value="en"/>
+                  <a href="javascript:;" onclick="document.getElementById('lang-form').submit();" class="button accessibility float-right" title="zmień język na English" style="padding-top: 0.4rem;">English</a>
+                
+              
+              </form>
+              <a class="button accessibility float-right" href="/deklaracja_dostepnosci/" title="Deklaracja dostępności"><i class="fi-universal-access"></i></a>
+              <a class="button accessibility float-right" href="https://bip.um.wroc.pl/" title="Biuletyn Informacji Publicznej" target="_blank"><img src="/static/images/Logo_BIP_uproszczone%201.svg"></a>
+              <a class="button accessibility float-right" href="https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/profil-urzedu/umwroclaw" title="Platforma e-Usług Publicznych EPUAP" target="_blank"><img src="/static/images/epuap.png"></a>
+
+
+
+          </div>
+
+        </div>
+      </header>
+    
+
+    
+      <div class="hide-for-large row">
+          <!-- <div id="menu-poziom" class="small-12 columns"  data-equalizer id="menu-eq">-->
+          <div id="menu-poziom" class="small-12 columns"  data-equalizer>
+              <ul class="horizontal dropdown menu" data-dropdown-menu data-closing-time="1000" data-hover-delay="200">
+                  <li><a href="/" class="menu-text is-dropdown-submenu-parent" data-equalizer-watch><i class="fi-home"></i> Strona główna
+                  </a>
+                      <ul class="menu">
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/mapa_podst/'" href="/mapy/mapa_podst/" class="menu-text">Mapa podstawowa</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/mpzp/'" href="/mapy/mpzp/" class="menu-text">Plany miejscowe</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/pog/'" href="/mapy/pog/" class="menu-text">Plan ogólny miasta Wrocławia</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/strategia2050/'" href="/mapy/strategia2050/" class="menu-text">Strategia Wrocław 2050</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/studium/'" href="/mapy/studium/" class="menu-text">Studium 2018 – archiwalne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/studium_archiwalne/'" href="/mapy/studium_archiwalne/" class="menu-text">Studium 1998-2010 – archiwalne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/dostep_do_infrastruktury_komunikacyjnej_miasta/'" href="/mapy/dostep_do_infrastruktury_komunikacyjnej_miasta/" class="menu-text">Dostęp do infrastruktury komunikacyjnej miasta</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/wlasnosci/'" href="/mapy/wlasnosci/" class="menu-text">Mapa własności</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/mog/'" href="/mapy/mog/" class="menu-text">Mapa obiektów gminnych</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/gielda_nieruchomosci/'" href="/mapy/gielda_nieruchomosci/" class="menu-text">Giełda nieruchomości</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/decyzje_arch/'" href="/mapy/decyzje_arch/" class="menu-text">Decyzje architektoniczne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/ortofoto/'" href="/mapy/ortofoto/" class="menu-text">Ortofotomapy</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/obliview/'" href="/mapy/obliview/" class="menu-text">OBLIVIEW – przeglądarka zdjęć ukośnych i modelu 3D mesh</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/demografia/'" href="/mapy/demografia/" class="menu-text">Demografia</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/kompletne/'" href="/mapy/kompletne/" class="menu-text">Osiedla kompletne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/osiedla/'" href="/mapy/osiedla/" class="menu-text">Osiedla Wrocławia</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/edukacja/'" href="/mapy/edukacja/" class="menu-text">Edukacja</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/gez/'" href="/mapy/gez/" class="menu-text">Gminna Ewidencja Zabytków</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/rewitalizacja/'" href="/mapy/rewitalizacja/" class="menu-text">Obszar zdegradowany i rewitalizacji</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/przyrodnicza/'" href="/mapy/przyrodnicza/" class="menu-text">Mapa przyrodnicza</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/decyzje_srod/'" href="/mapy/decyzje_srod/" class="menu-text">Decyzje o środ. uwarunkowaniach</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/sprawy_wsr_udk/'" href="/mapy/sprawy_wsr_udk/" class="menu-text">Sprawy WSR dot. usuwania drzew i krzewów</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/zzm/'" href="/mapy/zzm/" class="menu-text">Mapa ZZM</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/wrosnij_we_wroclaw/'" href="/mapy/wrosnij_we_wroclaw/" class="menu-text">Wrośnij we Wrocław</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/solarna/'" href="/mapy/solarna/" class="menu-text">Mapa potencjału solarnego</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/odwierty/'" href="/mapy/odwierty/" class="menu-text">Udokumentowane odwierty geologiczne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/zmiany_klimatu/'" href="/mapy/zmiany_klimatu/" class="menu-text">Adaptacja do zmian klimatu</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/hipsometria/'" href="/mapy/hipsometria/" class="menu-text">Mapa wysokościowa</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/profile/'" href="/mapy/profile/" class="menu-text">Profile wysokościowe</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/mapa_halasu/'" href="/mapy/mapa_halasu/" class="menu-text">Strategiczna mapa hałasu 2022</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/rowerowa/'" href="/mapy/rowerowa/" class="menu-text">Mapa rowerowa</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/ruch_ciezarowy/'" href="/mapy/ruch_ciezarowy/" class="menu-text">Ruch ciężarowy</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/komunikacja/'" href="/mapy/komunikacja/" class="menu-text">Komunikacja i transport</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/strefy_platnego_parkowania/'" href="/mapy/strefy_platnego_parkowania/" class="menu-text">Strefy płatnego parkowania</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/elektromobilnosc/'" href="/mapy/elektromobilnosc/" class="menu-text">Elektromobilność</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/wypadki_kolizje/'" href="/mapy/wypadki_kolizje/" class="menu-text">Wypadki i kolizje drogowe</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/inwestycje/'" href="/mapy/inwestycje/" class="menu-text">Inwestycje miejskie</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/zezwolenia_na_sprzedaz_alkoholu/'" href="/mapy/zezwolenia_na_sprzedaz_alkoholu/" class="menu-text">Zezwolenia na sprzedaż alkoholu</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/miejskie_kanaly_technologiczne/'" href="/mapy/miejskie_kanaly_technologiczne/" class="menu-text">Miejskie Kanały Technologiczne</a></li>
+                          
+                              <li><a ontouchstart="window.location.href = '/mapy/mpwik/'" href="/mapy/mpwik/" class="menu-text">Mapa branżowa MPWiK</a></li>
+                          
+                          <li><a href="/pomoc/" class="menu-text"><i class="fi-info"></i> Pomoc do map</a></li>
+                      </ul>
+                  </li>
+                  
+                  <li><a href="/nowosci/" class="menu-text" data-equalizer-watch>Nowości w SIP</a></li>
+                  
+                  <li>
+                      <a href="/planowanie_przestrzenne/" class="menu-text is-dropdown-submenu-parent planowanie" data-equalizer-watch>Planowanie przestrzenne</a>
+                      <ul class="menu">
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/#zestawienie-mpzp'" href="/planowanie_przestrzenne/#zestawienie-mpzp" class="menu-text" data-equalizer-watch>Plany miejscowe</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/pog'" href="/planowanie_przestrzenne/pog" class="menu-text" data-equalizer-watch>Plan ogólny</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/studium/'" href="/planowanie_przestrzenne/studium/" class="menu-text" data-equalizer-watch>Studium</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/decyzje'" href="/planowanie_przestrzenne/decyzje" class="menu-text" data-equalizer-watch>Decyzje lokalizacyjne</a></li>
+
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/specustawa'" href="/planowanie_przestrzenne/specustawa" class="menu-text" data-equalizer-watch>Specustawa mieszkaniowa</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/wykaz_wnioskow'" href="/planowanie_przestrzenne/wykaz_wnioskow" class="menu-text" data-equalizer-watch>Wykaz z rejestru wniosków</a></li>
+
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/partycypacja'" href="/planowanie_przestrzenne/partycypacja" class="menu-text" data-equalizer-watch>Partycypacja w planowaniu</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/statystyka'" href="/planowanie_przestrzenne/statystyka" class="menu-text" data-equalizer-watch>Statystyka</a></li>
+                          <li class=""><a ontouchstart="window.location.href = '/planowanie_przestrzenne/dokumenty'" href="/planowanie_przestrzenne/dokumenty" class="menu-text" data-equalizer-watch>Wzory dokumentów</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="/emuia/" class="active menu-text" data-equalizer-watch>EMUiA</a></li>
+                  <li><a href="/zasoby/" class="menu-text" data-equalizer-watch>Dane, usługi i narzędzia</a></li>
+                  <li><a href="/sip/" class="menu-text" data-equalizer-watch>O SIP</a></li>
+                  <li><a href="/wpl" class="menu-text" data-equalizer-watch>O WPL</a></li>
+              </ul>
+          </div>
+      </div>
+    
+
+    <div class="row" id="content">
+
+        
+          <div id="menu-pion" class="show-for-large large-3 columns" data-sticky-container>
+              <div id="menu-pion-sticky" class="sticky" data-sticky data-anchor="content">
+                <ul id="menu-pion-dropdown" class="vertical dropdown menu" data-dropdown-menu data-closing-time="1000" data-hover-delay="200">
+                    <li><a href="/" class="menu-text is-dropdown-submenu-parent"><i class="fi-home"></i> Strona główna
+                    </a>
+                        <ul class="menu">
+                            
+                                <li><a href="/mapy/mapa_podst/" class="menu-text">Mapa podstawowa</a></li>
+                            
+                                <li><a href="/mapy/mpzp/" class="menu-text">Plany miejscowe</a></li>
+                            
+                                <li><a href="/mapy/pog/" class="menu-text">Plan ogólny miasta Wrocławia</a></li>
+                            
+                                <li><a href="/mapy/strategia2050/" class="menu-text">Strategia Wrocław 2050</a></li>
+                            
+                                <li><a href="/mapy/studium/" class="menu-text">Studium 2018 – archiwalne</a></li>
+                            
+                                <li><a href="/mapy/studium_archiwalne/" class="menu-text">Studium 1998-2010 – archiwalne</a></li>
+                            
+                                <li><a href="/mapy/dostep_do_infrastruktury_komunikacyjnej_miasta/" class="menu-text">Dostęp do infrastruktury komunikacyjnej miasta</a></li>
+                            
+                                <li><a href="/mapy/wlasnosci/" class="menu-text">Mapa własności</a></li>
+                            
+                                <li><a href="/mapy/mog/" class="menu-text">Mapa obiektów gminnych</a></li>
+                            
+                                <li><a href="/mapy/gielda_nieruchomosci/" class="menu-text">Giełda nieruchomości</a></li>
+                            
+                                <li><a href="/mapy/decyzje_arch/" class="menu-text">Decyzje architektoniczne</a></li>
+                            
+                                <li><a href="/mapy/ortofoto/" class="menu-text">Ortofotomapy</a></li>
+                            
+                                <li><a href="/mapy/obliview/" class="menu-text">OBLIVIEW – przeglądarka zdjęć ukośnych i modelu 3D mesh</a></li>
+                            
+                                <li><a href="/mapy/demografia/" class="menu-text">Demografia</a></li>
+                            
+                                <li><a href="/mapy/kompletne/" class="menu-text">Osiedla kompletne</a></li>
+                            
+                                <li><a href="/mapy/osiedla/" class="menu-text">Osiedla Wrocławia</a></li>
+                            
+                                <li><a href="/mapy/edukacja/" class="menu-text">Edukacja</a></li>
+                            
+                                <li><a href="/mapy/gez/" class="menu-text">Gminna Ewidencja Zabytków</a></li>
+                            
+                                <li><a href="/mapy/rewitalizacja/" class="menu-text">Obszar zdegradowany i rewitalizacji</a></li>
+                            
+                                <li><a href="/mapy/przyrodnicza/" class="menu-text">Mapa przyrodnicza</a></li>
+                            
+                                <li><a href="/mapy/decyzje_srod/" class="menu-text">Decyzje o środ. uwarunkowaniach</a></li>
+                            
+                                <li><a href="/mapy/sprawy_wsr_udk/" class="menu-text">Sprawy WSR dot. usuwania drzew i krzewów</a></li>
+                            
+                                <li><a href="/mapy/zzm/" class="menu-text">Mapa ZZM</a></li>
+                            
+                                <li><a href="/mapy/wrosnij_we_wroclaw/" class="menu-text">Wrośnij we Wrocław</a></li>
+                            
+                                <li><a href="/mapy/solarna/" class="menu-text">Mapa potencjału solarnego</a></li>
+                            
+                                <li><a href="/mapy/odwierty/" class="menu-text">Udokumentowane odwierty geologiczne</a></li>
+                            
+                                <li><a href="/mapy/zmiany_klimatu/" class="menu-text">Adaptacja do zmian klimatu</a></li>
+                            
+                                <li><a href="/mapy/hipsometria/" class="menu-text">Mapa wysokościowa</a></li>
+                            
+                                <li><a href="/mapy/profile/" class="menu-text">Profile wysokościowe</a></li>
+                            
+                                <li><a href="/mapy/mapa_halasu/" class="menu-text">Strategiczna mapa hałasu 2022</a></li>
+                            
+                                <li><a href="/mapy/rowerowa/" class="menu-text">Mapa rowerowa</a></li>
+                            
+                                <li><a href="/mapy/ruch_ciezarowy/" class="menu-text">Ruch ciężarowy</a></li>
+                            
+                                <li><a href="/mapy/komunikacja/" class="menu-text">Komunikacja i transport</a></li>
+                            
+                                <li><a href="/mapy/strefy_platnego_parkowania/" class="menu-text">Strefy płatnego parkowania</a></li>
+                            
+                                <li><a href="/mapy/elektromobilnosc/" class="menu-text">Elektromobilność</a></li>
+                            
+                                <li><a href="/mapy/wypadki_kolizje/" class="menu-text">Wypadki i kolizje drogowe</a></li>
+                            
+                                <li><a href="/mapy/inwestycje/" class="menu-text">Inwestycje miejskie</a></li>
+                            
+                                <li><a href="/mapy/zezwolenia_na_sprzedaz_alkoholu/" class="menu-text">Zezwolenia na sprzedaż alkoholu</a></li>
+                            
+                                <li><a href="/mapy/miejskie_kanaly_technologiczne/" class="menu-text">Miejskie Kanały Technologiczne</a></li>
+                            
+                                <li><a href="/mapy/mpwik/" class="menu-text">Mapa branżowa MPWiK</a></li>
+                            
+                            <li><a href="/pomoc/" class="menu-text"><i class="fi-info"></i> Pomoc do map</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class=""><a href="/nowosci/" class="menu-text">Nowości</a></li>
+                    
+                    <li class="menu  planowanie"><a href="/planowanie_przestrzenne/" class="menu-text planowanie">Planowanie przestrzenne</a></li>
+                      <ul class="nested vertical menu">
+                        <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/#zestawienie-mpzp" class="menu-text" data-equalizer-watch>Plany miejscowe</a></li>
+                        
+                          <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/pog" class="menu-text" data-equalizer-watch>Plan ogólny</a></li>
+                          <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/studium/" class="menu-text" data-equalizer-watch>Studium</a></li>
+                          <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/decyzje" class="menu-text" data-equalizer-watch>Decyzje lokalizacyjne</a></li>
+                          <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/specustawa" class="menu-text" data-equalizer-watch>Specustawa mieszkaniowa</a></li>
+                          <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/wykaz_wnioskow" class="menu-text" data-equalizer-watch>Wykaz z rejestru wniosków</a></li>
+                        <li><p> </p></li>
+                        <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/partycypacja" class="menu-text" data-equalizer-watch>Partycypacja w planowaniu</a></li>
+
+                        <li><p> </p></li>
+                        <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/statystyka" class="menu-text" data-equalizer-watch>Statystyka</a></li>
+                        <li class="podmenu-mpzp"><a href="/planowanie_przestrzenne/dokumenty" class="menu-text" data-equalizer-watch>Wzory dokumentów</a></li>
+                      </ul>
+                    <li class="active "><a href="/emuia/" class="menu-text">Ewidencja miejscowości, ulic i adresów</a></li>
+                    <li class=""><a href="/zasoby/" class="menu-text">Dane, usługi i narzędzia</a></li>
+                    <li class=""><a href="/sip/" class="menu-text">O wrocławskim SIP</a></li>
+                    <li class=""><a href="/wpl" class="menu-text">O Wydziale Planowania Przestrzennego</a></li>
+                </ul>
+              </div>
+          </div>
+          
+
+
+
+        
+
+        <div style="min-height: 1000px" class="small-12 large-9 columns container ">
+            
+
+  ﻿<h2 class="text-center">EWIDENCJA MIEJSCOWOŚCI, ULIC I ADRESÓW WROCŁAWIA</h2>
+
+<p style="margin-top:20px;">Ewidencja Miejscowości, Ulic i Adresów (w skrócie EMUiA) jest jedynym oficjalnym wykazem ulic i adresów Wrocławia.
+<br>Ewidencja ta ma charakter bazy referencyjnej - zawiera kompletną i bieżąco aktualizowaną bazę wszystkich legalnie ustanowionych ulic i adresów Wrocławia.
+<br>Jest prowadzona przez Gminę Wrocław, zgodnie z zasadami określonymi <a href="http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001368" target="_blank" rel="nofollow">rozporządzeniem Ministra Rozwoju, Pracy i Technologii z dnia 21 lipca 2021 r. w sprawie ewidencji miejscowości, ulic i adresów »</a></p>
+<p>EMUiA jest integralną częścią Systemu Informacji Przestrzennej Wrocławia.
+<br>Dane z rejestru EMUiA są wykorzystywane we wszystkich udostępnianych przez nas mapach internetowych. Na każdej mapie możliwe jest ich wyszukiwanie, lokalizacja i przeglądanie.</p>
+
+<h3 id="poi">Wyszukiwanie, przeglądania, pobieranie adresów/ulic Wrocławia</h3>
+<p>Internetowa aplikacja służąca do wyszukiwania i przeglądania podstawowych informacji na temat ulic i adresów jest skierowana do zwykłych użytkowników. Daje wgląd do aktualnych danych adresowych oraz do informacji o punktaach użyteczności publicznej (POI). Pozwala zobaczyć lokalizację adresu/ulicy na, załączonej na każdej ze stron, aktywnej mapce.</p>
+<a href="https://geoportal.wroclaw.pl/poi/ulice" rel="nofollow" class="medium button" target="_blank" style="font-size:14px; font-weight:bold">Przeglądaj i wyszukuj <strong>bazę ulic i adresów</strong></a>
+<br><a href="https://geoportal.wroclaw.pl/poi/grupy" rel="nofollow" class="medium button" target="_blank" style="font-size:12px; font-weight:bold">Przeglądaj i wyszukuj bazę punktów użyteczności publicznej</a>
+
+<h4 id="xlsx">Pliki XLSX</h4>
+<p>Codziennie aktualizowane pliki z wykazami nazw ulic i adresów z obszaru Wrocławia. Plik z adresami zawiera wykaz punktów adresowych wraz z informacją, na którym osiedlu i w której delegaturze (dawne dzielnice Wrocławia) dany adres jest położony. 
+<br>Usługa jest skierowana do wszystkich użytkowników.</p>
+<a href="https://geoportal.wroclaw.pl/www/emuia/Ulice.zip" class="button" target="_blank">Pobierz plik XLSX z ulicami</a>
+<a href="https://geoportal.wroclaw.pl/www/emuia/Adresy.zip" class="button" target="_blank">Pobierz plik XLSX z adresami</a>
+
+<h4 id="gml">Plik GML</h4>
+<p>Codziennie aktualizowany plik przechowuje komplet informacji z rejestru EMUiA w formacie i strukturze zgodnej z rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 9 stycznia 2012 r. w sprawie ewidencji miejscowości, ulic i adresów.
+<br>Usługa jest skierowana do użytkowników z obyciem informatycznym.</p>
+<a href="https://geoportal.wroclaw.pl/www/emuia/gml/produkcyjny/gml_EMUiA_wroclaw_wersja_pelna.zip" class="button" target="_blank">Pobierz plik GML z ulicami i adresami</a>
+
+<h4 id="wms">Usługa WMS</h4>
+<p>Usługa udostępniania map w formie rastrowej, za pomocą interfejsu HTTP, w standardzie ustanowionym przez Open Geospatial Consortium (OGC). 
+<br>Usługa jest skierowana do użytkowników z pewną biegłością w programach klasy GIS.</p>
+<a href="https://geoportal.wroclaw.pl/zasoby/?zasob=wms_emuia" class="button" target="_blank">Wywołaj adres usługi WMS</a>
+
+<h4 id="wfs">Usługa WFS</h4>
+<p>Usługa udostępniania map w formie wektorowej, za pomocą interfejsu HTTP, w standardzie ustanowionym przez Open Geospatial Consortium (OGC). 
+<br>Usługa jest skierowana do użytkowników z pewną biegłością w programach klasy GIS.</p>
+<a href="https://geoportal.wroclaw.pl/zasoby/?zasob=wfs_emuia" class="button" target="_blank">Wywołaj adres usługi WFS</a>
+
+<hr>
+<p>Prowadzeniem części merytorycznej rejestru zajmuje się Zespół ds. Nazewnictwa Ulic i Adresów wchodzący w skład Wydziału Planowania Przestrzennego Urzędu Miejskiego Wrocławia. Siedziba zespołu mieści się w budynku przy al. Marcina Kromera 44, a szczegółowe informacje dotyczące procedury ustalania numeracji porządkowej oraz wydawania zaświadczeń znajdują się <a href="http://bip.um.wroc.pl/sprawa-do-zalatwienia/8857/ustalenie-numerow-porzadkowych-adresow-zaswiadczenie-o-numerze-porzadkowym" target="_blank" rel="nofollow">na stronie Biuletynu Informacji Publicznej »</a>
+<br>Opiekę techniczną nad rozwiązaniami informatycznymi służącymi do prowadzenia EMUiA prowadzi Dział Systemu Informacji Przestrzennej, przy wsparciu Centrum Usług Informatycznych.</p>
+<p>System informatyczny <a href="https://geoportal.wroclaw.pl/poi">"Wrospa"</a>, służący między innymi do obsługi ewidencji ulic i adresów miasta, jest wyłączną własnością Gminy Wrocław (włącznie z jego kodami źródłowymi).</p>
+
+
+
+        </div>
+    </div>
+    
+      <footer>
+          <div class="footer-overlay">
+              <div class="row">
+                  <div class="small-12 medium-6 columns">
+                      <p>Pytania, uwagi, propozycje oraz informacje o ew. błędach prosimy kierować na adres:
+                      <br><a href="mailto:sip@um.wroc.pl"><i class="fi-mail"></i> sip@um.wroc.pl</a></p>
+                  </div>
+                  <div class="small-12 medium-6 columns text-right">
+                      <span>Przydatne linki:</span>
+                      <ul class="no-bullet">
+                          <li><a href="/serwis/" title="O serwisie">O serwisie i ciasteczkach (cookies)</a></li>
+                          <li><a href="/deklaracja_dostepnosci/" title="Deklaracja dostępności">Deklaracja dostępności cyfrowej serwisu</a></li>
+                          <li><a href="http://bip.um.wroc.pl/" title="Biuletyn Informacji Publicznej">BIP Urzędu Miejskiego</a></li>
+                          <li><a href="http://www.wroclaw.pl/" title="Oficjalna strona Wrocławia">www.wroclaw.pl</a></li>
+
+                      </ul>
+                  </div>
+                <div class="text-center">
+                  
+                  <a href="/en">View this site in English</a>
+                  
+                </div>
+              </div>
+          </div>
+      </footer>
+
+      <script src="/static/js/vendor/foundation.min.js"></script>
+      <script src="/static/js/vendor/foundation.util.motion.js"></script>
+      <script>
+  $("#menu-pion").foundation();
+  $("#menu-poziom").foundation();
+  $("#wybor-jezyka").foundation()
+      </script>
+    
+
+    
+    
+	
+    
+</body>
+</html>
+
+

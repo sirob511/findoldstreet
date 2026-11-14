@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wroclaw-historical-pairs",
+    "url": "https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/",
+    "country": "PL",
+    "title": "WroclawGuide: historical German and present Polish street-name pairs",
+    "retrievedAt": "2026-11-14T18:46:24.518091+00:00",
+    "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+    "file": "wroclaw-historical-pairs.html",
+    "sha256": "060ae892fd0890c3224d5673aa89df84fcd42a1340e1a35e45755b1136719ff0",
+    "status": "downloaded",
+    "textFile": "wroclaw-historical-pairs.txt"
+  },
+  {
+    "id": "wroclaw-emuia-streets",
+    "url": "https://geoportal.wroclaw.pl/www/emuia/Ulice.zip",
+    "country": "PL",
+    "title": "City of Wrocław EMUiA current street-name register",
+    "retrievedAt": "2026-11-14T18:46:24.519761+00:00",
+    "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+    "file": "wroclaw-emuia-streets.zip",
+    "sha256": "06f3375ac75c7e13b50ae0d767b3605525c51326e8f7c4534c2344798e3a8477",
+    "status": "downloaded"
+  },
+  {
+    "id": "wroclaw-emuia-context",
+    "url": "https://gis.um.wroc.pl/emuia/",
+    "country": "PL",
+    "title": "City of Wrocław EMUiA register documentation and download links",
+    "retrievedAt": "2026-11-14T18:46:24.520675+00:00",
+    "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+    "file": "wroclaw-emuia-context.html",
+    "sha256": "decc69f6333c5b79238e0b436276a2fc8206679f6ca3031df7f4fbffb69c2ce2",
+    "status": "downloaded",
+    "textFile": "wroclaw-emuia-context.txt"
+  }
+]

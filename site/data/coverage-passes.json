@@ -74,5 +74,19 @@
     ],
     "newStreets": 773,
     "newCities": 13
+  },
+  {
+    "passNumber": 6,
+    "target": 500,
+    "newPublishedRecords": 656,
+    "totalPublishedRecords": 6520,
+    "scope": "Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded",
+    "heldCandidates": 53,
+    "sourceReview": "data/sources/international-pass-6-review.json",
+    "validation": [
+      "Source hash and exact-pair checks",
+      "Search regression tests",
+      "Static build and SEO checks"
+    ]
   }
 ]

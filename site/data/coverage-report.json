@@ -75,14 +75,28 @@
       ],
       "newStreets": 773,
       "newCities": 13
+    },
+    {
+      "passNumber": 6,
+      "target": 500,
+      "newPublishedRecords": 656,
+      "totalPublishedRecords": 6520,
+      "scope": "Tashkent, Uzbekistan: explicit directory street pairs, conflicts and unresolved chains excluded",
+      "heldCandidates": 53,
+      "sourceReview": "data/sources/international-pass-6-review.json",
+      "validation": [
+        "Source hash and exact-pair checks",
+        "Search regression tests",
+        "Static build and SEO checks"
+      ]
     }
   ],
   "publishedSummary": {
-    "records": 5864,
-    "streets": 5762,
+    "records": 6520,
+    "streets": 6418,
     "cities": 79,
     "countryNames": 23,
-    "countriesRepresented": 29
+    "countriesRepresented": 30
   },
   "placeRenamings": [
     {
@@ -5217,6 +5231,17 @@
         "Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported",
         "British Council historical table not imported; newer municipal registers not systematically compared"
       ]
+    },
+    {
+      "country": "UZ",
+      "name": "Uzbekistan",
+      "verifiedStreets": 656,
+      "renameEvents": 656,
+      "reviewRecords": 0,
+      "publishedLocalities": 1,
+      "gaps": [
+        "Tashkent directory mappings only; legal decisions, current national register and geometry not reconciled. Numbered lanes are separate source objects; ambiguous and partial mappings held."
+      ]
     }
   ],
   "municipalities": [
@@ -6773,6 +6798,13 @@
       "verifiedStreets": 7,
       "renameEvents": 7,
       "reviewRecords": 0
+    },
+    {
+      "country": "UZ",
+      "municipality": "Ташкент",
+      "verifiedStreets": 656,
+      "renameEvents": 656,
+      "reviewRecords": 0
     }
   ],
   "importedSources": [
@@ -7271,6 +7303,14 @@
       "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
       "title": "Kolkata Municipal Corporation newsletter June 2017",
       "id": "kolkata-june-2017"
+    },
+    {
+      "url": "https://www.goldenpages.uz/streets/",
+      "retrievedAt": "2026-11-14T18:44:38.962536+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "sha256": "b56914e56711a897f732c041387829f81c9b9135cdf5feec2cc4138f02be05cd",
+      "title": "Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)",
+      "id": "tashkent-goldenpages"
     },
     {
       "url": "https://www.rada.gov.ua/en/news/News/top_news/131134.html",
@@ -8860,6 +8900,53 @@
       "retrievedAt": "2026-11-14T18:33:48.645179+00:00",
       "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
       "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "tashkent-goldenpages",
+      "url": "https://www.goldenpages.uz/streets/",
+      "country": "UZ",
+      "title": "Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)",
+      "retrievedAt": "2026-11-14T18:44:38.962536+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "tashkent-goldenpages.html",
+      "sha256": "b56914e56711a897f732c041387829f81c9b9135cdf5feec2cc4138f02be05cd",
+      "status": "downloaded",
+      "textFile": "tashkent-goldenpages.txt"
+    },
+    {
+      "id": "wroclaw-historical-pairs",
+      "url": "https://www.wroclawguide.com/en/old-german-street-names-in-breslau-wroclaw/",
+      "country": "PL",
+      "title": "WroclawGuide: historical German and present Polish street-name pairs",
+      "retrievedAt": "2026-11-14T18:46:24.518091+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "wroclaw-historical-pairs.html",
+      "sha256": "060ae892fd0890c3224d5673aa89df84fcd42a1340e1a35e45755b1136719ff0",
+      "status": "downloaded",
+      "textFile": "wroclaw-historical-pairs.txt"
+    },
+    {
+      "id": "wroclaw-emuia-streets",
+      "url": "https://geoportal.wroclaw.pl/www/emuia/Ulice.zip",
+      "country": "PL",
+      "title": "City of Wrocław EMUiA current street-name register",
+      "retrievedAt": "2026-11-14T18:46:24.519761+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "wroclaw-emuia-streets.zip",
+      "sha256": "06f3375ac75c7e13b50ae0d767b3605525c51326e8f7c4534c2344798e3a8477",
+      "status": "downloaded"
+    },
+    {
+      "id": "wroclaw-emuia-context",
+      "url": "https://gis.um.wroc.pl/emuia/",
+      "country": "PL",
+      "title": "City of Wrocław EMUiA register documentation and download links",
+      "retrievedAt": "2026-11-14T18:46:24.520675+00:00",
+      "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+      "file": "wroclaw-emuia-context.html",
+      "sha256": "decc69f6333c5b79238e0b436276a2fc8206679f6ca3031df7f4fbffb69c2ce2",
+      "status": "downloaded",
+      "textFile": "wroclaw-emuia-context.txt"
     }
   ],
   "reviewRecords": [

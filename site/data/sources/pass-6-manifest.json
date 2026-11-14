@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tashkent-goldenpages",
+    "url": "https://www.goldenpages.uz/streets/",
+    "country": "UZ",
+    "title": "Golden Pages Uzbekistan: former and new Tashkent street names (directory, not a legal register)",
+    "retrievedAt": "2026-11-14T18:44:38.962536+00:00",
+    "reuseTerms": "Factual mappings only; capture retained for source audit, not served publicly.",
+    "file": "tashkent-goldenpages.html",
+    "sha256": "b56914e56711a897f732c041387829f81c9b9135cdf5feec2cc4138f02be05cd",
+    "status": "downloaded",
+    "textFile": "tashkent-goldenpages.txt"
+  }
+]

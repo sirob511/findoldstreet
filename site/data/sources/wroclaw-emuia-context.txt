@@ -1,0 +1,162 @@
+System Informacji Przestrzennej Wrocławia- Ewidencja Miejscowości, Ulic i Adresów
+System Informacji Przestrzennej Wrocławia
+Zmień język
+English
+Strona główna
+Mapa podstawowa
+Plany miejscowe
+Plan ogólny miasta Wrocławia
+Strategia Wrocław 2050
+Studium 2018 – archiwalne
+Studium 1998-2010 – archiwalne
+Dostęp do infrastruktury komunikacyjnej miasta
+Mapa własności
+Mapa obiektów gminnych
+Giełda nieruchomości
+Decyzje architektoniczne
+Ortofotomapy
+OBLIVIEW – przeglądarka zdjęć ukośnych i modelu 3D mesh
+Demografia
+Osiedla kompletne
+Osiedla Wrocławia
+Edukacja
+Gminna Ewidencja Zabytków
+Obszar zdegradowany i rewitalizacji
+Mapa przyrodnicza
+Decyzje o środ. uwarunkowaniach
+Sprawy WSR dot. usuwania drzew i krzewów
+Mapa ZZM
+Wrośnij we Wrocław
+Mapa potencjału solarnego
+Udokumentowane odwierty geologiczne
+Adaptacja do zmian klimatu
+Mapa wysokościowa
+Profile wysokościowe
+Strategiczna mapa hałasu 2022
+Mapa rowerowa
+Ruch ciężarowy
+Komunikacja i transport
+Strefy płatnego parkowania
+Elektromobilność
+Wypadki i kolizje drogowe
+Inwestycje miejskie
+Zezwolenia na sprzedaż alkoholu
+Miejskie Kanały Technologiczne
+Mapa branżowa MPWiK
+Pomoc do map
+Nowości w SIP
+Planowanie przestrzenne
+Plany miejscowe
+Plan ogólny
+Studium
+Decyzje lokalizacyjne
+Specustawa mieszkaniowa
+Wykaz z rejestru wniosków
+Partycypacja w planowaniu
+Statystyka
+Wzory dokumentów
+EMUiA
+Dane, usługi i narzędzia
+O SIP
+O WPL
+Strona główna
+Mapa podstawowa
+Plany miejscowe
+Plan ogólny miasta Wrocławia
+Strategia Wrocław 2050
+Studium 2018 – archiwalne
+Studium 1998-2010 – archiwalne
+Dostęp do infrastruktury komunikacyjnej miasta
+Mapa własności
+Mapa obiektów gminnych
+Giełda nieruchomości
+Decyzje architektoniczne
+Ortofotomapy
+OBLIVIEW – przeglądarka zdjęć ukośnych i modelu 3D mesh
+Demografia
+Osiedla kompletne
+Osiedla Wrocławia
+Edukacja
+Gminna Ewidencja Zabytków
+Obszar zdegradowany i rewitalizacji
+Mapa przyrodnicza
+Decyzje o środ. uwarunkowaniach
+Sprawy WSR dot. usuwania drzew i krzewów
+Mapa ZZM
+Wrośnij we Wrocław
+Mapa potencjału solarnego
+Udokumentowane odwierty geologiczne
+Adaptacja do zmian klimatu
+Mapa wysokościowa
+Profile wysokościowe
+Strategiczna mapa hałasu 2022
+Mapa rowerowa
+Ruch ciężarowy
+Komunikacja i transport
+Strefy płatnego parkowania
+Elektromobilność
+Wypadki i kolizje drogowe
+Inwestycje miejskie
+Zezwolenia na sprzedaż alkoholu
+Miejskie Kanały Technologiczne
+Mapa branżowa MPWiK
+Pomoc do map
+Nowości
+Planowanie przestrzenne
+Plany miejscowe
+Plan ogólny
+Studium
+Decyzje lokalizacyjne
+Specustawa mieszkaniowa
+Wykaz z rejestru wniosków
+Partycypacja w planowaniu
+Statystyka
+Wzory dokumentów
+Ewidencja miejscowości, ulic i adresów
+Dane, usługi i narzędzia
+O wrocławskim SIP
+O Wydziale Planowania Przestrzennego
+﻿
+EWIDENCJA MIEJSCOWOŚCI, ULIC I ADRESÓW WROCŁAWIA
+Ewidencja Miejscowości, Ulic i Adresów (w skrócie EMUiA) jest jedynym oficjalnym wykazem ulic i adresów Wrocławia.
+Ewidencja ta ma charakter bazy referencyjnej - zawiera kompletną i bieżąco aktualizowaną bazę wszystkich legalnie ustanowionych ulic i adresów Wrocławia.
+Jest prowadzona przez Gminę Wrocław, zgodnie z zasadami określonymi
+rozporządzeniem Ministra Rozwoju, Pracy i Technologii z dnia 21 lipca 2021 r. w sprawie ewidencji miejscowości, ulic i adresów »
+EMUiA jest integralną częścią Systemu Informacji Przestrzennej Wrocławia.
+Dane z rejestru EMUiA są wykorzystywane we wszystkich udostępnianych przez nas mapach internetowych. Na każdej mapie możliwe jest ich wyszukiwanie, lokalizacja i przeglądanie.
+Wyszukiwanie, przeglądania, pobieranie adresów/ulic Wrocławia
+Internetowa aplikacja służąca do wyszukiwania i przeglądania podstawowych informacji na temat ulic i adresów jest skierowana do zwykłych użytkowników. Daje wgląd do aktualnych danych adresowych oraz do informacji o punktaach użyteczności publicznej (POI). Pozwala zobaczyć lokalizację adresu/ulicy na, załączonej na każdej ze stron, aktywnej mapce.
+Przeglądaj i wyszukuj
+bazę ulic i adresów
+Przeglądaj i wyszukuj bazę punktów użyteczności publicznej
+Pliki XLSX
+Codziennie aktualizowane pliki z wykazami nazw ulic i adresów z obszaru Wrocławia. Plik z adresami zawiera wykaz punktów adresowych wraz z informacją, na którym osiedlu i w której delegaturze (dawne dzielnice Wrocławia) dany adres jest położony.
+Usługa jest skierowana do wszystkich użytkowników.
+Pobierz plik XLSX z ulicami
+Pobierz plik XLSX z adresami
+Plik GML
+Codziennie aktualizowany plik przechowuje komplet informacji z rejestru EMUiA w formacie i strukturze zgodnej z rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 9 stycznia 2012 r. w sprawie ewidencji miejscowości, ulic i adresów.
+Usługa jest skierowana do użytkowników z obyciem informatycznym.
+Pobierz plik GML z ulicami i adresami
+Usługa WMS
+Usługa udostępniania map w formie rastrowej, za pomocą interfejsu HTTP, w standardzie ustanowionym przez Open Geospatial Consortium (OGC).
+Usługa jest skierowana do użytkowników z pewną biegłością w programach klasy GIS.
+Wywołaj adres usługi WMS
+Usługa WFS
+Usługa udostępniania map w formie wektorowej, za pomocą interfejsu HTTP, w standardzie ustanowionym przez Open Geospatial Consortium (OGC).
+Usługa jest skierowana do użytkowników z pewną biegłością w programach klasy GIS.
+Wywołaj adres usługi WFS
+Prowadzeniem części merytorycznej rejestru zajmuje się Zespół ds. Nazewnictwa Ulic i Adresów wchodzący w skład Wydziału Planowania Przestrzennego Urzędu Miejskiego Wrocławia. Siedziba zespołu mieści się w budynku przy al. Marcina Kromera 44, a szczegółowe informacje dotyczące procedury ustalania numeracji porządkowej oraz wydawania zaświadczeń znajdują się
+na stronie Biuletynu Informacji Publicznej »
+Opiekę techniczną nad rozwiązaniami informatycznymi służącymi do prowadzenia EMUiA prowadzi Dział Systemu Informacji Przestrzennej, przy wsparciu Centrum Usług Informatycznych.
+System informatyczny
+"Wrospa"
+, służący między innymi do obsługi ewidencji ulic i adresów miasta, jest wyłączną własnością Gminy Wrocław (włącznie z jego kodami źródłowymi).
+Pytania, uwagi, propozycje oraz informacje o ew. błędach prosimy kierować na adres:
+sip@um.wroc.pl
+Przydatne linki:
+O serwisie i ciasteczkach (cookies)
+Deklaracja dostępności cyfrowej serwisu
+BIP Urzędu Miejskiego
+www.wroclaw.pl
+View this site in English

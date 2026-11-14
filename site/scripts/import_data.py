@@ -8,13 +8,13 @@ D=pathlib.Path(__file__).resolve().parents[1]/'data'; S=D/'sources'
 MAN={}
 for f in sorted(S.glob('*manifest.json'),key=lambda p:('browser' in p.name,p.name)):
  for s in json.loads(f.read_text()): MAN[s['id']]=s
-LANG={'UA':'uk','PL':'pl','ZA':'en','VN':'vi','KZ':'ru','IN':'en'}
+LANG={'UA':'uk','PL':'pl','ZA':'en','VN':'vi','KZ':'ru','IN':'en','UZ':'ru','EE':'et','LT':'lt','LV':'lv','DE':'de','MD':'ro'}
 def source(key):
  m=MAN[key];return {k:m.get(k) for k in ['url','retrievedAt','reuseTerms','sha256']}|{'title':m.get('title',key),'id':key}
 def record(c,city,old,new,key,locator,district=None,date=None,segment=None,status='verified',document=None):
  old=' '.join(old.split());new=' '.join(new.split());sid=hashlib.sha256(f'{c}|{city}|{district}|{old}|{segment}'.encode()).hexdigest()[:16]
  ev={'formerName':old,'currentName':new,'date':date,'datePrecision':'day' if date else 'unknown','status':'effective' if status=='verified' else 'review','segment':segment,'sourceUrl':MAN[key]['url'],'documentNumber':document,'locator':locator}
- return dict(id=sid,country=c,city=city,district=district,streetType=old.split()[0] if c in ['UA','PL'] else 'street',formerName=old,currentName=new,language=LANG[c],script='Cyrillic' if c in ['UA','KZ'] else 'Latin',aliases=[],transliterations=list(dict.fromkeys(unidecode(n) for n in [old,new] if unidecode(n)!=n)),events=[ev],sources=[source(key)],mapQuery=f'{new}, {city}',status=status,currentStatusNote='Latest name supported by the cited source; live register/geometry reconciliation is not complete.',houseNumbersVerified=False,segment=segment)
+ return dict(id=sid,country=c,city=city,district=district,streetType=old.split()[0] if c in ['UA','PL'] else 'street',formerName=old,currentName=new,language=LANG[c],script='Cyrillic' if c in ['UA','KZ','UZ'] else 'Latin',aliases=[],transliterations=list(dict.fromkeys(unidecode(n) for n in [old,new] if unidecode(n)!=n)),events=[ev],sources=[source(key)],mapQuery=f'{new}, {city}',status=status,currentStatusNote='Latest name supported by the cited source; live register/geometry reconciliation is not complete.',houseNumbersVerified=False,segment=segment)
 def ukraine():
  text=(S/'kyiv.txt').read_text(); rows=[];district=None;page=0;active=None
  for line in text.splitlines():
@@ -121,3 +121,7 @@ if __name__=='__main__':
   for result in pool.map(run,JOBS.items()):print(result)
  from import_places import build_places
  print(('places',build_places()))
+
+ if __name__=='__main__':
+  from international_imports import build_international
+  print(('international',build_international()))

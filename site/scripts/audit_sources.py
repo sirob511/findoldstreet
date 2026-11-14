@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 S = ROOT / 'data/sources'
-rows = [r for name in ['UA','PL','ZA','VN','KZ','IN','places']
+rows = [r for name in ['UA','PL','ZA','VN','KZ','IN','international','places']
         for r in json.loads((ROOT / 'data' / (name+'.json')).read_text())]
 by_url = collections.defaultdict(list)
 for r in rows:

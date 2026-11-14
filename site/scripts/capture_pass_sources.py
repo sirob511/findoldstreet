@@ -20,13 +20,14 @@ def capture(item):
     try:
         response = requests.get(item['url'], timeout=25)
         response.raise_for_status()
-        suffix = '.pdf' if response.content.startswith(b'%PDF') else '.html'
+        suffix = '.pdf' if response.content.startswith(b'%PDF') else '.zip' if response.content.startswith(b'PK') else '.html'
         target = ROOT / (item['id']+suffix)
         target.write_bytes(response.content)
         entry.update(file=target.name, sha256=hashlib.sha256(response.content).hexdigest(), status='downloaded')
         if suffix == '.html':
-            response.encoding = 'utf-8'
-            text = BeautifulSoup(response.text,'html.parser').get_text('\n',strip=True)
+            text = BeautifulSoup(response.content,'html.parser').get_text('\n',strip=True)
+        elif suffix == '.zip':
+            return entry
         else:
             from pypdf import PdfReader
             text = '\n'.join(page.extract_text() or '' for page in PdfReader(target).pages)

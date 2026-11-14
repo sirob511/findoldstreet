@@ -1,6 +1,6 @@
 import pathlib,json,collections,datetime
-R=pathlib.Path(__file__).resolve().parents[1];D=R/'data';rows=sum([json.loads((D/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN']],[])
-names={'UA':'Ukraine','PL':'Poland','ZA':'South Africa','VN':'Vietnam','KZ':'Kazakhstan','IN':'India'}
+R=pathlib.Path(__file__).resolve().parents[1];D=R/'data';rows=sum([json.loads((D/f'{c}.json').read_text()) for c in ['UA','PL','ZA','VN','KZ','IN','international']],[])
+names={'UA':'Ukraine','PL':'Poland','ZA':'South Africa','VN':'Vietnam','KZ':'Kazakhstan','IN':'India','UZ':'Uzbekistan'}
 gaps={
 'UA':['Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete','Postal-classifier captures supplement the cities listed in this report; other municipalities and complete historical rename chains remain gaps','Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation'],
 'PL':['TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory','Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported'],
@@ -8,6 +8,7 @@ gaps={
 'VN':['Ho Chi Minh City: officially confirmed partial rename plus independently corroborated historical entries; remaining historical leads held for review','Đà Nẵng resolution 66/2024 inspected: new roads and bridge names, not genuine street renames; excluded','Hanoi source leads mostly new naming, length changes or drafts; not published as renames','Huế, Hải Phòng, Cần Thơ and other municipalities not imported; historical Saigon table not reconciled'],
 'KZ':['Almaty, Astana and Shymkent decisions imported; no GIS reconciliation','Karaganda, Pavlodar, Aktobe, Kostanay, Semey, Öskemen, Taraz, Atyrau and other municipalities not imported'],
 'IN':['Delhi historical decisions imported, proposals excluded; Chennai pending text verification; Kolkata has one municipal-newsletter mapping, with the partial Moore Avenue lead held for review','Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported','British Council historical table not imported; newer municipal registers not systematically compared']}
+gaps['UZ']=['Tashkent directory mappings only; legal decisions, current national register and geometry not reconciled. Numbered lanes are separate source objects; ambiguous and partial mappings held.']
 city=[];countries=[]
 for c in names:
  rr=[r for r in rows if r['country']==c];verified=[r for r in rr if r['status']=='verified']

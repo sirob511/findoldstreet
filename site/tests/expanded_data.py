@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 R = Path(__file__).resolve().parents[1]
 S = R / 'data/sources'
-rows = [r for c in ['UA','PL','ZA','VN','KZ','IN','places'] for r in json.loads((R/'data'/f'{c}.json').read_text())]
+rows = [r for c in ['UA','PL','ZA','VN','KZ','IN','international','places'] for r in json.loads((R/'data'/f'{c}.json').read_text())]
 for entry in json.loads((S/'coverage-expansion-manifest.json').read_text()):
     if entry.get('file') and entry.get('sha256'):
         assert hashlib.sha256((S/entry['file']).read_bytes()).hexdigest() == entry['sha256'], entry['id']

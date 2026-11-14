@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {search,normalize} from '../src/search.mjs';
-const countries=['UA','PL','ZA','VN','KZ','IN','places'];const all=countries.flatMap(c=>JSON.parse(fs.readFileSync(new URL('../data/'+c+'.json',import.meta.url))));
+const countries=['UA','PL','ZA','VN','KZ','IN','international','places'];const all=countries.flatMap(c=>JSON.parse(fs.readFileSync(new URL('../data/'+c+'.json',import.meta.url))));
 test('exact old-name lookup in each country',()=>{for(const [q,c,target] of [['Горького','UA','Антоновича'],['Lecha Kaczyńskiego','PL','Armii Ludowej'],['Smith Street','ZA','Anton Lembede'],['Xa lộ Hà Nội','VN','Võ Nguyên Giáp'],['Юрия Гагарина','KZ','Серкебаева'],['Aurangzeb Road','IN','Abdul Kalam']])assert.ok(search(all,q,'',c).some(r=>r.currentName.includes(target)),c)});
 test('accentless, generated transliteration, city alias, partial address',()=>{assert.ok(search(all,'Xa lo Ha Noi','Saigon').length);assert.ok(search(all,'Horkoho','Kyiv').length);assert.ok(search(all,'123 Smith Street','eThekwini').length);assert.ok(search(all,'Lecha Kaczynskiego','Warsaw').length)});
 test('Warsaw reversal remains chronological and latest name restored',()=>{const r=search(all,'Lecha Kaczyńskiego','Warsaw')[0];assert.equal(r.currentName,'Aleja Armii Ludowej');assert.equal(r.events.length,2);assert.equal(r.events[1].status,'reversal');assert.equal(r.events[1].date,'2018-12-07')});
@@ -52,5 +52,16 @@ test('newly renamed cities use the same search and preserve their region',()=>{
  for(const [q,name] of [['Новомосковськ','Самар'],['Chervonohrad','Шептицький'],['Южне','Південне']]) {
   const r=search(all,q).find(r=>r.kind==='city'&&r.currentName===name);
   assert.ok(r,q);assert.equal(r.events[0].date,null);assert.ok(r.district.includes('область'));
+ }
+});
+
+test('international source pairs work in the single box with locality aliases',()=>{
+ const international=all.filter(r=>r.coveragePass);
+ for(const pass of new Set(international.map(r=>r.coveragePass))){
+  const group=international.filter(r=>r.coveragePass===pass);
+  for(const r of [group[0],group.at(-1)]){
+   const city=r.locationAliases?.[0]||r.city;
+   assert.ok(search(all,`${r.formerName}, ${city}`,'',r.country).some(x=>x.id===r.id),`${pass}: ${r.formerName}`);
+  }
  }
 });
