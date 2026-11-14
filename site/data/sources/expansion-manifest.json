@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kharkiv-july-2024",
+    "country": "UA",
+    "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+    "title": "Kharkiv regional administration order 513 В, 26 July 2024",
+    "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+    "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+    "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+    "status": "downloaded",
+    "file": "kharkiv-july-2024.pdf"
+  },
+  {
+    "id": "cape-language-guide",
+    "country": "ZA",
+    "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+    "title": "City of Cape Town Language Style Guide, street name changes",
+    "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+    "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+    "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+    "status": "downloaded",
+    "file": "cape-language-guide.pdf"
+  },
+  {
+    "id": "tshwane-tourism-map",
+    "country": "ZA",
+    "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+    "title": "Tshwane visitor attractions map, Renamed Streets table",
+    "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+    "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+    "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+    "status": "downloaded",
+    "file": "tshwane-tourism-map.pdf"
+  },
+  {
+    "id": "kolkata-june-2017",
+    "country": "IN",
+    "url": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+    "title": "Kolkata Municipal Corporation newsletter June 2017",
+    "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
+    "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+    "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
+    "status": "downloaded",
+    "file": "kolkata-june-2017.pdf"
+  }
+]

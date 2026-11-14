@@ -79,3 +79,21 @@ python3 tests/metadata.py
 npm run build
 python3 tests/seo.py
 ```
+
+### Reviewed municipal expansion
+
+`data/sources/reviewed-additions.json` contains individually reviewed mappings
+from the Kharkiv regional order, Łódź municipal naming dictionary, Cape Town
+language guide, Tshwane tourism map and Kolkata municipal newsletter. Import
+these with `scripts/import_data.py`; the importer replays them deterministically.
+The expansion and Łódź manifests retain retrieval timestamps and SHA-256 hashes.
+`lodz-reviewed-index.json` records the dictionary anchors used during review.
+Archived documents stay out of the generated public site.
+
+Keep uncertain spellings, partial-road boundaries and conflicting evidence in
+`review` status. Historical source support does not establish the latest live
+street-register name, coordinates or house-number correspondence. Year-only
+sources retain year precision; announcement dates are not inferred effective dates.
+
+Run `python3 tests/reviewed_data.py` after importing. The research backlog in
+`data/research-backlog.json` records promising sources and unresolved issues.

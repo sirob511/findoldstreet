@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-13",
+  "asOf": "2026-11-14",
   "scope": "Initial, incomplete source-backed release. Verified means the rename is supported by cited evidence, not current-live-register or geometry verification.",
   "languages": [
     "en",
@@ -18,38 +18,38 @@
     {
       "country": "UA",
       "name": "Ukraine",
-      "verifiedStreets": 739,
-      "renameEvents": 739,
+      "verifiedStreets": 787,
+      "renameEvents": 787,
       "reviewRecords": 18,
-      "publishedLocalities": 108,
+      "publishedLocalities": 109,
       "gaps": [
-        "Current national directory and Kyiv street register not reconciled",
-        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Kharkiv, Odesa, Dnipro, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
+        "Current national directory and Kyiv street register not reconciled; Kharkiv coverage limited to the 48 street entries of order 513 В (26 July 2024), not the full city register",
+        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Odesa, Dnipro, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
         "Lviv-region appendix 2 direct access failed; conflicting recent Lviv city decisions not published"
       ]
     },
     {
       "country": "PL",
       "name": "Poland",
-      "verifiedStreets": 62,
-      "renameEvents": 118,
+      "verifiedStreets": 167,
+      "renameEvents": 223,
       "reviewRecords": 0,
-      "publishedLocalities": 2,
+      "publishedLocalities": 3,
       "gaps": [
-        "TERYT/ULIC current-register comparison not completed",
-        "Łódź, Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported"
+        "TERYT/ULIC current-register comparison not completed; Łódź has 105 reviewed direct mappings from the municipal dictionary, not its full historical inventory",
+        "Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported"
       ]
     },
     {
       "country": "ZA",
       "name": "South Africa",
-      "verifiedStreets": 53,
-      "renameEvents": 53,
-      "reviewRecords": 4,
-      "publishedLocalities": 3,
+      "verifiedStreets": 81,
+      "renameEvents": 81,
+      "reviewRecords": 9,
+      "publishedLocalities": 4,
       "gaps": [
-        "No municipal GIS geometry imported",
-        "Cape Town, Ekurhuleni, Mangaung, Msunduzi, Buffalo City, Nelson Mandela Bay and other municipalities remain gaps",
+        "No municipal GIS geometry imported; Cape Town coverage is limited to eight unambiguous mappings; conflicting Lansdowne segments held for review; Pretoria includes the visitor map table with Church Street segments preserved",
+        "Ekurhuleni, Mangaung, Msunduzi, Buffalo City, Nelson Mandela Bay and other municipalities remain gaps",
         "Durban combined streets and suspicious spellings held for review"
       ]
     },
@@ -82,13 +82,13 @@
     {
       "country": "IN",
       "name": "India",
-      "verifiedStreets": 7,
-      "renameEvents": 7,
-      "reviewRecords": 1,
-      "publishedLocalities": 1,
+      "verifiedStreets": 8,
+      "renameEvents": 8,
+      "reviewRecords": 2,
+      "publishedLocalities": 2,
       "gaps": [
-        "Delhi historical decisions imported, proposals excluded; Chennai pending text verification",
-        "Mumbai, Kolkata, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported",
+        "Delhi historical decisions imported, proposals excluded; Chennai pending text verification; Kolkata has one municipal-newsletter mapping, with the partial Moore Avenue lead held for review",
+        "Mumbai, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported",
         "British Council historical table not imported; newer municipal registers not systematically compared"
       ]
     }
@@ -824,6 +824,13 @@
     },
     {
       "country": "UA",
+      "municipality": "Харків",
+      "verifiedStreets": 48,
+      "renameEvents": 48,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
       "municipality": "Чернилява",
       "verifiedStreets": 1,
       "renameEvents": 1,
@@ -865,6 +872,20 @@
       "reviewRecords": 0
     },
     {
+      "country": "PL",
+      "municipality": "Łódź",
+      "verifiedStreets": 105,
+      "renameEvents": 105,
+      "reviewRecords": 0
+    },
+    {
+      "country": "ZA",
+      "municipality": "Cape Town",
+      "verifiedStreets": 8,
+      "renameEvents": 8,
+      "reviewRecords": 3
+    },
+    {
       "country": "ZA",
       "municipality": "Durban",
       "verifiedStreets": 45,
@@ -881,9 +902,9 @@
     {
       "country": "ZA",
       "municipality": "Pretoria",
-      "verifiedStreets": 7,
-      "renameEvents": 7,
-      "reviewRecords": 0
+      "verifiedStreets": 27,
+      "renameEvents": 27,
+      "reviewRecords": 2
     },
     {
       "country": "VN",
@@ -915,6 +936,13 @@
     },
     {
       "country": "IN",
+      "municipality": "Kolkata",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 1
+    },
+    {
+      "country": "IN",
       "municipality": "New Delhi",
       "verifiedStreets": 7,
       "renameEvents": 7,
@@ -937,6 +965,14 @@
       "sha256": "9a577f00d478f26402a52d0646a3aea208f500522674766548e346b6671b3cbc",
       "title": "lviv-browser",
       "id": "lviv-browser"
+    },
+    {
+      "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+      "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+      "title": "kharkiv-july-2024",
+      "id": "kharkiv-july-2024"
     },
     {
       "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
@@ -963,6 +999,206 @@
       "id": "krakow-law"
     },
     {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+      "retrievedAt": "2026-11-14T06:35:49.567078+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "7b31ebec4b7d7d094aeef942992e200c4c8db86cabee41034c66e127c8f76e94",
+      "title": "lodz-slownik-w",
+      "id": "lodz-slownik-w"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-t/",
+      "retrievedAt": "2026-11-14T06:35:48.128246+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "3ac35912d5be06830701e8348e659ed542c989842f3a2cc25075f53267d09245",
+      "title": "lodz-slownik-t",
+      "id": "lodz-slownik-t"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-g/",
+      "retrievedAt": "2026-11-14T06:35:40.941007+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c2945eb21003072e5e2ad3cf9c516742571ab77239bccde70c68825fd0de9284",
+      "title": "lodz-slownik-g",
+      "id": "lodz-slownik-g"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+      "retrievedAt": "2026-11-14T06:35:45.222566+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "f73c047cf131f9ce1466663376165d38bfb6af669eb55b0e99c5158c729c1ff6",
+      "title": "lodz-slownik-o",
+      "id": "lodz-slownik-o"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-u/",
+      "retrievedAt": "2026-11-14T06:35:49.188199+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "0b6c9b0d7b718a428bb6fb59edc15e2e56c6667954c632da36d3089e8ab96c67",
+      "title": "lodz-slownik-u",
+      "id": "lodz-slownik-u"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+      "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
+      "title": "lodz-slownik-k",
+      "id": "lodz-slownik-k"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+      "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
+      "title": "lodz-slownik-d",
+      "id": "lodz-slownik-d"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z/",
+      "retrievedAt": "2026-11-14T06:35:50.457077+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "20dd9faeabdad50de354dffd2c77da374664b459cc2f655b93d914f499cabdcc",
+      "title": "lodz-slownik-z",
+      "id": "lodz-slownik-z"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+      "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+      "title": "lodz-slownik-p",
+      "id": "lodz-slownik-p"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+      "retrievedAt": "2026-11-14T06:35:36.461338+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "3b3cfb0ace61cbf1109e8b99af95d9a38d2f9c6484e563a3a110f10704fc67bb",
+      "title": "lodz-slownik-b",
+      "id": "lodz-slownik-b"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-f/",
+      "retrievedAt": "2026-11-14T06:35:40.581920+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "bbed53d8ee1643d89b44a518c6fe3e0d12895feec3d6beae55579810f7d5c47c",
+      "title": "lodz-slownik-f",
+      "id": "lodz-slownik-f"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+      "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+      "title": "lodz-slownik-s",
+      "id": "lodz-slownik-s"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-e/",
+      "retrievedAt": "2026-11-14T06:35:39.817144+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "328dda76af323e1eef7688638efcb772b6649cff1993c901dcddc06b3292b1da",
+      "title": "lodz-slownik-e",
+      "id": "lodz-slownik-e"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-j/",
+      "retrievedAt": "2026-11-14T06:35:42.383986+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "dc5bf6fbd6dc30849613700d4151f3ed1d5e17cebe883c11f1ae6c872e352536",
+      "title": "lodz-slownik-j",
+      "id": "lodz-slownik-j"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s-2/",
+      "retrievedAt": "2026-11-14T06:35:47.849239+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "6bebd232a4c56e6c3d6285ddd19e5f8167716fd0ca8f6ed1afefd8a06e3eb27b",
+      "title": "lodz-slownik-s-2",
+      "id": "lodz-slownik-s-2"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-h/",
+      "retrievedAt": "2026-11-14T06:35:41.202672+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c083edc47129f9aff620bc0b63e5cd12a926e4ffde705e9d3c7fd44d6f09fafb",
+      "title": "lodz-slownik-h",
+      "id": "lodz-slownik-h"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+      "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+      "title": "lodz-slownik-r",
+      "id": "lodz-slownik-r"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l-2/",
+      "retrievedAt": "2026-11-14T06:35:43.802027+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "478a13e0ed15d48e9cc614a69cfd407bce484cd2605ba91acd60f5de7e540bba",
+      "title": "lodz-slownik-l-2",
+      "id": "lodz-slownik-l-2"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z-3/",
+      "retrievedAt": "2026-11-14T06:35:50.938949+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "7b7707304ebe25c21d975ace0d687f4e07cb632bbbb3302046790c23f3b9aff5",
+      "title": "lodz-slownik-z-3",
+      "id": "lodz-slownik-z-3"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+      "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+      "title": "lodz-slownik-l",
+      "id": "lodz-slownik-l"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+      "retrievedAt": "2026-11-14T06:35:36.399269+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "b60f03e0e2df663086a11b614a89de985f62aec370db89a568a6df8f2da02623",
+      "title": "lodz-slownik-a",
+      "id": "lodz-slownik-a"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-i/",
+      "retrievedAt": "2026-11-14T06:35:42.012757+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "b9561085d1511213133dc74f260a6407394111170f4a7b426a19dffecced3c5c",
+      "title": "lodz-slownik-i",
+      "id": "lodz-slownik-i"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c/",
+      "retrievedAt": "2026-11-14T06:35:36.249139+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "97ff4a78f8a6fe2128600f70dba56dd168a49ce4c79c27865b0ebf21af725d9a",
+      "title": "lodz-slownik-c",
+      "id": "lodz-slownik-c"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-m/",
+      "retrievedAt": "2026-11-14T06:35:44.761753+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c046bb3d30d5916876e0f4cad3b31d245aa5124b7f99820af006799234862ea3",
+      "title": "lodz-slownik-m",
+      "id": "lodz-slownik-m"
+    },
+    {
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-n/",
+      "retrievedAt": "2026-11-14T06:35:44.828852+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "f23dcd817ad5157627eddf94dd85e7c2953863f5d06fa16902951c93a93d674b",
+      "title": "lodz-slownik-n",
+      "id": "lodz-slownik-n"
+    },
+    {
       "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
       "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
       "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
@@ -985,6 +1221,22 @@
       "sha256": "602b378b7714ab0d089de18d1d2a912f01115e8f04fba94671e5b13b18038817",
       "title": "johannesburg",
       "id": "johannesburg"
+    },
+    {
+      "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+      "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+      "title": "cape-language-guide",
+      "id": "cape-language-guide"
+    },
+    {
+      "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+      "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+      "title": "tshwane-tourism-map",
+      "id": "tshwane-tourism-map"
     },
     {
       "url": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
@@ -1065,6 +1317,14 @@
       "sha256": "0ec58b112bd0bbdacd99a872240ce050f0e191a8742ca513ce08f19e0a2ccc99",
       "title": "delhi2017",
       "id": "delhi2017"
+    },
+    {
+      "url": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+      "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
+      "title": "kolkata-june-2017",
+      "id": "kolkata-june-2017"
     }
   ],
   "sourceAttempts": [
@@ -1376,6 +1636,358 @@
       "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
       "status": "downloaded",
       "textFile": "durban.txt"
+    },
+    {
+      "id": "kharkiv-july-2024",
+      "country": "UA",
+      "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+      "title": "Kharkiv regional administration order 513 В, 26 July 2024",
+      "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+      "status": "downloaded",
+      "file": "kharkiv-july-2024.pdf"
+    },
+    {
+      "id": "cape-language-guide",
+      "country": "ZA",
+      "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+      "title": "City of Cape Town Language Style Guide, street name changes",
+      "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+      "status": "downloaded",
+      "file": "cape-language-guide.pdf"
+    },
+    {
+      "id": "tshwane-tourism-map",
+      "country": "ZA",
+      "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+      "title": "Tshwane visitor attractions map, Renamed Streets table",
+      "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+      "status": "downloaded",
+      "file": "tshwane-tourism-map.pdf"
+    },
+    {
+      "id": "kolkata-june-2017",
+      "country": "IN",
+      "url": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+      "title": "Kolkata Municipal Corporation newsletter June 2017",
+      "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
+      "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+      "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
+      "status": "downloaded",
+      "file": "kolkata-june-2017.pdf"
+    },
+    {
+      "id": "lodz-slownik-a",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-a/",
+      "retrievedAt": "2026-11-14T06:35:36.399269+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "b60f03e0e2df663086a11b614a89de985f62aec370db89a568a6df8f2da02623",
+      "status": "downloaded",
+      "file": "lodz-slownik-a.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: a"
+    },
+    {
+      "id": "lodz-slownik-b",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-b/",
+      "retrievedAt": "2026-11-14T06:35:36.461338+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "3b3cfb0ace61cbf1109e8b99af95d9a38d2f9c6484e563a3a110f10704fc67bb",
+      "status": "downloaded",
+      "file": "lodz-slownik-b.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: b"
+    },
+    {
+      "id": "lodz-slownik-c",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c/",
+      "retrievedAt": "2026-11-14T06:35:36.249139+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "97ff4a78f8a6fe2128600f70dba56dd168a49ce4c79c27865b0ebf21af725d9a",
+      "status": "downloaded",
+      "file": "lodz-slownik-c.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: c"
+    },
+    {
+      "id": "lodz-slownik-c-2",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-c-2/",
+      "retrievedAt": "2026-11-14T06:35:39.139347+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "a1c5fb58904fca3070acf1d684f7bcb121035c90ed1065455ed5e887a4776127",
+      "status": "downloaded",
+      "file": "lodz-slownik-c-2.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2"
+    },
+    {
+      "id": "lodz-slownik-d",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-d/",
+      "retrievedAt": "2026-11-14T06:35:39.495384+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "ad234f30ad4203636defa3fa20f20f2632793060652c84f1f1aea0595114ca01",
+      "status": "downloaded",
+      "file": "lodz-slownik-d.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: d"
+    },
+    {
+      "id": "lodz-slownik-e",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-e/",
+      "retrievedAt": "2026-11-14T06:35:39.817144+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "328dda76af323e1eef7688638efcb772b6649cff1993c901dcddc06b3292b1da",
+      "status": "downloaded",
+      "file": "lodz-slownik-e.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: e"
+    },
+    {
+      "id": "lodz-slownik-f",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-f/",
+      "retrievedAt": "2026-11-14T06:35:40.581920+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "bbed53d8ee1643d89b44a518c6fe3e0d12895feec3d6beae55579810f7d5c47c",
+      "status": "downloaded",
+      "file": "lodz-slownik-f.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: f"
+    },
+    {
+      "id": "lodz-slownik-g",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-g/",
+      "retrievedAt": "2026-11-14T06:35:40.941007+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c2945eb21003072e5e2ad3cf9c516742571ab77239bccde70c68825fd0de9284",
+      "status": "downloaded",
+      "file": "lodz-slownik-g.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: g"
+    },
+    {
+      "id": "lodz-slownik-h",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-h/",
+      "retrievedAt": "2026-11-14T06:35:41.202672+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c083edc47129f9aff620bc0b63e5cd12a926e4ffde705e9d3c7fd44d6f09fafb",
+      "status": "downloaded",
+      "file": "lodz-slownik-h.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: h"
+    },
+    {
+      "id": "lodz-slownik-i",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-i/",
+      "retrievedAt": "2026-11-14T06:35:42.012757+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "b9561085d1511213133dc74f260a6407394111170f4a7b426a19dffecced3c5c",
+      "status": "downloaded",
+      "file": "lodz-slownik-i.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: i"
+    },
+    {
+      "id": "lodz-slownik-j",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-j/",
+      "retrievedAt": "2026-11-14T06:35:42.383986+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "dc5bf6fbd6dc30849613700d4151f3ed1d5e17cebe883c11f1ae6c872e352536",
+      "status": "downloaded",
+      "file": "lodz-slownik-j.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: j"
+    },
+    {
+      "id": "lodz-slownik-k",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-k/",
+      "retrievedAt": "2026-11-14T06:35:43.097130+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "5bdeed91f4adfb6e1bdb82301d136a5450ddcb874c1a484412f0501d1bbbcc75",
+      "status": "downloaded",
+      "file": "lodz-slownik-k.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: k"
+    },
+    {
+      "id": "lodz-slownik-l",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l/",
+      "retrievedAt": "2026-11-14T06:35:43.423363+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "22971f6c0803b762891e6cb95b861788b75867751e70362a31aaa3713a7b9c67",
+      "status": "downloaded",
+      "file": "lodz-slownik-l.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: l"
+    },
+    {
+      "id": "lodz-slownik-l-2",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-l-2/",
+      "retrievedAt": "2026-11-14T06:35:43.802027+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "478a13e0ed15d48e9cc614a69cfd407bce484cd2605ba91acd60f5de7e540bba",
+      "status": "downloaded",
+      "file": "lodz-slownik-l-2.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2"
+    },
+    {
+      "id": "lodz-slownik-m",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-m/",
+      "retrievedAt": "2026-11-14T06:35:44.761753+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "c046bb3d30d5916876e0f4cad3b31d245aa5124b7f99820af006799234862ea3",
+      "status": "downloaded",
+      "file": "lodz-slownik-m.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: m"
+    },
+    {
+      "id": "lodz-slownik-n",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-n/",
+      "retrievedAt": "2026-11-14T06:35:44.828852+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "f23dcd817ad5157627eddf94dd85e7c2953863f5d06fa16902951c93a93d674b",
+      "status": "downloaded",
+      "file": "lodz-slownik-n.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: n"
+    },
+    {
+      "id": "lodz-slownik-o",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-o/",
+      "retrievedAt": "2026-11-14T06:35:45.222566+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "f73c047cf131f9ce1466663376165d38bfb6af669eb55b0e99c5158c729c1ff6",
+      "status": "downloaded",
+      "file": "lodz-slownik-o.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: o"
+    },
+    {
+      "id": "lodz-slownik-p",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-p/",
+      "retrievedAt": "2026-11-14T06:35:46.758491+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "22f8576c8df8d5b7d1d64f5b51ee81fba06fe555c5cefc5a4fd18293dcdbcdba",
+      "status": "downloaded",
+      "file": "lodz-slownik-p.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: p"
+    },
+    {
+      "id": "lodz-slownik-r",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-r/",
+      "retrievedAt": "2026-11-14T06:35:46.441937+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "73af628901901133bb364f75165c92ba8764c67bd134004c746870554b643af8",
+      "status": "downloaded",
+      "file": "lodz-slownik-r.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: r"
+    },
+    {
+      "id": "lodz-slownik-s",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s/",
+      "retrievedAt": "2026-11-14T06:35:47.137492+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "6157f3bfc072a0152afb8f88d744e23a0f4eabd5490aa1c0f72183c2d6aa5e2e",
+      "status": "downloaded",
+      "file": "lodz-slownik-s.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: s"
+    },
+    {
+      "id": "lodz-slownik-s-2",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-s-2/",
+      "retrievedAt": "2026-11-14T06:35:47.849239+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "6bebd232a4c56e6c3d6285ddd19e5f8167716fd0ca8f6ed1afefd8a06e3eb27b",
+      "status": "downloaded",
+      "file": "lodz-slownik-s-2.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2"
+    },
+    {
+      "id": "lodz-slownik-t",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-t/",
+      "retrievedAt": "2026-11-14T06:35:48.128246+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "3ac35912d5be06830701e8348e659ed542c989842f3a2cc25075f53267d09245",
+      "status": "downloaded",
+      "file": "lodz-slownik-t.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: t"
+    },
+    {
+      "id": "lodz-slownik-u",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-u/",
+      "retrievedAt": "2026-11-14T06:35:49.188199+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "0b6c9b0d7b718a428bb6fb59edc15e2e56c6667954c632da36d3089e8ab96c67",
+      "status": "downloaded",
+      "file": "lodz-slownik-u.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: u"
+    },
+    {
+      "id": "lodz-slownik-v",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-v/",
+      "retrievedAt": "2026-11-14T06:35:49.045766+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "de10612bc6654cc8fbc0e76d61a01c384e5661ad9503b6927381adfca7ae1f20",
+      "status": "downloaded",
+      "file": "lodz-slownik-v.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: v"
+    },
+    {
+      "id": "lodz-slownik-w",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-w/",
+      "retrievedAt": "2026-11-14T06:35:49.567078+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "7b31ebec4b7d7d094aeef942992e200c4c8db86cabee41034c66e127c8f76e94",
+      "status": "downloaded",
+      "file": "lodz-slownik-w.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: w"
+    },
+    {
+      "id": "lodz-slownik-z",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z/",
+      "retrievedAt": "2026-11-14T06:35:50.457077+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "20dd9faeabdad50de354dffd2c77da374664b459cc2f655b93d914f499cabdcc",
+      "status": "downloaded",
+      "file": "lodz-slownik-z.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: z"
+    },
+    {
+      "id": "lodz-slownik-z-2",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z-2/",
+      "retrievedAt": "2026-11-14T06:35:50.547626+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "9ea3d0ba78fb2ceea6dea09eb5028d76baae0ba8b2728e4ea6502f59fa82181a",
+      "status": "downloaded",
+      "file": "lodz-slownik-z-2.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 2"
+    },
+    {
+      "id": "lodz-slownik-z-3",
+      "country": "PL",
+      "url": "https://log.lodz.pl/slownik-nazewnictwa-miejskiego/slownik-z-3/",
+      "retrievedAt": "2026-11-14T06:35:50.938949+00:00",
+      "reuseTerms": "Factual mappings only; dictionary prose retained locally for audit, not republished.",
+      "sha256": "7b7707304ebe25c21d975ace0d687f4e07cb632bbbb3302046790c23f3b9aff5",
+      "status": "downloaded",
+      "file": "lodz-slownik-z-3.html",
+      "title": "Łódzki Ośrodek Geodezji municipal naming dictionary: 3"
     }
   ],
   "reviewRecords": [
@@ -1534,6 +2146,41 @@
       "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
     },
     {
+      "id": "6505500e83145667",
+      "country": "ZA",
+      "city": "Cape Town",
+      "formerName": "Lansdowne Road",
+      "reason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing."
+    },
+    {
+      "id": "6c29ab07a8d56b20",
+      "country": "ZA",
+      "city": "Cape Town",
+      "formerName": "Lansdowne Road",
+      "reason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing."
+    },
+    {
+      "id": "441a94f98e806c91",
+      "country": "ZA",
+      "city": "Cape Town",
+      "formerName": "Lansdowne Road",
+      "reason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing."
+    },
+    {
+      "id": "1e94ee650537e1f1",
+      "country": "ZA",
+      "city": "Pretoria",
+      "formerName": "Queen Wilhemina Avenue",
+      "reason": "Source spells former name WILHEMINA; reconcile spelling with street register."
+    },
+    {
+      "id": "3cc07e48d8c6a4d3",
+      "country": "ZA",
+      "city": "Pretoria",
+      "formerName": "Church Street",
+      "reason": "Tourism map spells the name Elias Motswaledi; reconcile spelling with a municipal street register before publication."
+    },
+    {
       "id": "c4de1961623e15ce",
       "country": "VN",
       "city": "Hồ Chí Minh City",
@@ -1553,6 +2200,13 @@
       "city": "Chennai",
       "formerName": "Mount Road",
       "reason": "Source search indexed Mount Road (Anna Salai), but downloaded PDF extraction did not retain the exact paired entry; awaiting visual review."
+    },
+    {
+      "id": "c7d2f0228910737f",
+      "country": "IN",
+      "city": "Kolkata",
+      "formerName": "Moore Avenue",
+      "reason": "Municipal newsletter does not specify the renamed segment endpoints."
     }
   ],
   "limitations": [
@@ -1563,6 +2217,6 @@
     "Historical district names are retained from source documents.",
     "Interface translations generated in this run; native-speaker review pending.",
     "OCR automation and general GIS reconciliation not implemented; unclear rows excluded.",
-    "Site deployed privately by default; public crawling and FindOldStreet.com DNS are not configured."
+    "Public deployment accessibility, custom-domain DNS and search-console ownership must be checked separately; repository SEO settings do not establish live indexing."
   ]
 }

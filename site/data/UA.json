@@ -36474,5 +36474,2357 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null
+  },
+  {
+    "id": "b77932a0f284257e",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний",
+    "streetType": "бульвар",
+    "formerName": "бульвар Грицевця",
+    "currentName": "бульвар Дмитра Антоновича",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "bul'var Gritsevtsia",
+      "bul'var Dmitra Antonovicha",
+      "bulvar hrytsevtsia",
+      "bulvar dmytra antonovycha"
+    ],
+    "events": [
+      {
+        "formerName": "бульвар Грицевця",
+        "currentName": "бульвар Дмитра Антоновича",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 1; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "бульвар Дмитра Антоновича, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "9956098e07f86629",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний",
+    "streetType": "вулиця",
+    "formerName": "вулиця Грицевця",
+    "currentName": "вулиця 92-ї бригади",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Gritsevtsia",
+      "vulitsia 92-yi brigadi",
+      "vulytsia hrytsevtsia",
+      "vulytsia 92-i bryhady"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Грицевця",
+        "currentName": "вулиця 92-ї бригади",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 2; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця 92-ї бригади, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a820262c2ef0f0aa",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний",
+    "streetType": "провулок",
+    "formerName": "провулок Дар'яльський",
+    "currentName": "провулок Закарпатський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Dar'ial's'kii",
+      "provulok Zakarpats'kii",
+      "provulok dar'ialskyi",
+      "provulok zakarpatskyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Дар'яльський",
+        "currentName": "провулок Закарпатський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 3; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Закарпатський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bea3fe43783566a0",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний",
+    "streetType": "вулиця",
+    "formerName": "вулиця Тархова",
+    "currentName": "вулиця Михайла Комарова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Tarkhova",
+      "vulitsia Mikhaila Komarova",
+      "vulytsia tarkhova",
+      "vulytsia mykhaila komarova"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Тархова",
+        "currentName": "вулиця Михайла Комарова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 4; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Михайла Комарова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5e85e67e05e5a0dc",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний, Немишлянський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Рибалка",
+    "currentName": "вулиця Бригади Хартія",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Ribalka",
+      "vulitsia Brigadi Khartiia",
+      "vulytsia rybalka",
+      "vulytsia bryhady khartiia"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Рибалка",
+        "currentName": "вулиця Бригади Хартія",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 5; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Бригади Хартія, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ac5fb53489a29a86",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Індустріальний",
+    "streetType": "вулиця",
+    "formerName": "вулиця Шумілова",
+    "currentName": "вулиця Івана Кривошлика",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Shumilova",
+      "vulitsia Ivana Krivoshlika",
+      "vulytsia shumilova",
+      "vulytsia ivana kryvoshlyka"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Шумілова",
+        "currentName": "вулиця Івана Кривошлика",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 6; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Івана Кривошлика, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d1d7636ba2b2ee35",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Гагаріна",
+    "currentName": "вулиця Тренерська",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Gagarina",
+      "vulitsia Treners'ka",
+      "vulytsia haharina",
+      "vulytsia trenerska"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Гагаріна",
+        "currentName": "вулиця Тренерська",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 7; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Тренерська, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "11aa45f8933f91be",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "провулок",
+    "formerName": "провулок Гагаріна",
+    "currentName": "провулок Хозарський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Gagarina",
+      "provulok Khozars'kii",
+      "provulok haharina",
+      "provulok khozarskyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Гагаріна",
+        "currentName": "провулок Хозарський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 8; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Хозарський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5d7a3e48512aa7c6",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський, Салтівський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Героїв Праці",
+    "currentName": "вулиця Нескорених",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Geroyiv Pratsi",
+      "vulitsia Neskorenikh",
+      "vulytsia heroiv pratsi",
+      "vulytsia neskorenykh"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Героїв Праці",
+        "currentName": "вулиця Нескорених",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 9; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Нескорених, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ef7e9dbe6ef06fb9",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський, Салтівський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Дружби Народів",
+    "currentName": "вулиця Соборності України",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Druzhbi Narodiv",
+      "vulitsia Sobornosti Ukrayini",
+      "vulytsia druzhby narodiv",
+      "vulytsia sobornosti ukrainy"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Дружби Народів",
+        "currentName": "вулиця Соборності України",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 2, annex street table row 10; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Соборності України, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "fa3c3cfc7d025d97",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "провулок",
+    "formerName": "провулок Кантемира",
+    "currentName": "провулок Привітний",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Kantemira",
+      "provulok Privitnii",
+      "provulok kantemyra",
+      "provulok pryvitnyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Кантемира",
+        "currentName": "провулок Привітний",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 11; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Привітний, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1487f8b7abed35cb",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Кромська",
+    "currentName": "вулиця Цетинська",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Kroms'ka",
+      "vulitsia Tsetins'ka",
+      "vulytsia kromska",
+      "vulytsia tsetynska"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Кромська",
+        "currentName": "вулиця Цетинська",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 12; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Цетинська, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "11b373392f341cf2",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "в’їзд",
+    "formerName": "в’їзд Ладигіна",
+    "currentName": "в’їзд Левка Боровиковського",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "v'yizd Ladigina",
+      "v'yizd Levka Borovikovs'kogo",
+      "v’izd ladyhina",
+      "v’izd levka borovykovskoho"
+    ],
+    "events": [
+      {
+        "formerName": "в’їзд Ладигіна",
+        "currentName": "в’їзд Левка Боровиковського",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 13; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "в’їзд Левка Боровиковського, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "2d2b501aca316db6",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "провулок",
+    "formerName": "провулок Ладигіна",
+    "currentName": "провулок Леоніда Ушкалова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Ladigina",
+      "provulok Leonida Ushkalova",
+      "provulok ladyhina",
+      "provulok leonida ushkalova"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Ладигіна",
+        "currentName": "провулок Леоніда Ушкалова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 14; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Леоніда Ушкалова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "08ef175740a7f9be",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Лермонтовська",
+    "currentName": "вулиця Майка Йогансена",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Lermontovs'ka",
+      "vulitsia Maika Iogansena",
+      "vulytsia lermontovska",
+      "vulytsia maika iohansena"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Лермонтовська",
+        "currentName": "вулиця Майка Йогансена",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 15; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Майка Йогансена, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b4530281fef3c857",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Чайковська",
+    "currentName": "вулиця Михайля Семенка",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Chaikovs'ka",
+      "vulitsia Mikhailia Semenka",
+      "vulytsia chaikovska",
+      "vulytsia mykhailia semenka"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Чайковська",
+        "currentName": "вулиця Михайля Семенка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 16; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Михайля Семенка, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "23bcba735f899a0a",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Сонячногірська",
+    "currentName": "вулиця Архипа Люльки",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Soniachnogirs'ka",
+      "vulitsia Arkhipa Liul'ki",
+      "vulytsia soniachnohirska",
+      "vulytsia arkhypa liulky"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Сонячногірська",
+        "currentName": "вулиця Архипа Люльки",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 17; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Архипа Люльки, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "507119011f2773a4",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Київський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Труфанова",
+    "currentName": "вулиця Дегтярна",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Trufanova",
+      "vulitsia Degtiarna",
+      "vulytsia trufanova",
+      "vulytsia dehtiarna"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Труфанова",
+        "currentName": "вулиця Дегтярна",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 18; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Дегтярна, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "541dbb482f658270",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Братська",
+    "currentName": "вулиця Олександра Гурова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Brats'ka",
+      "vulitsia Oleksandra Gurova",
+      "vulytsia bratska",
+      "vulytsia oleksandra hurova"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Братська",
+        "currentName": "вулиця Олександра Гурова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 19; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Олександра Гурова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1b6f0437d242d978",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "в’їзд",
+    "formerName": "в’їзд Братський",
+    "currentName": "в’їзд Олександра Плітаса",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "v'yizd Brats'kii",
+      "v'yizd Oleksandra Plitasa",
+      "v’izd bratskyi",
+      "v’izd oleksandra plitasa"
+    ],
+    "events": [
+      {
+        "formerName": "в’їзд Братський",
+        "currentName": "в’їзд Олександра Плітаса",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 20; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "в’їзд Олександра Плітаса, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "efb6b599d2d0de5a",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "проїзд",
+    "formerName": "проїзд Братський 1-й",
+    "currentName": "проїзд Костя Реутова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "proyizd Brats'kii 1-i",
+      "proyizd Kostia Reutova",
+      "proizd bratskyi 1-i",
+      "proizd kostia reutova"
+    ],
+    "events": [
+      {
+        "formerName": "проїзд Братський 1-й",
+        "currentName": "проїзд Костя Реутова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 21; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "проїзд Костя Реутова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "daca4e5a617f260b",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "проїзд",
+    "formerName": "проїзд Братський 2-й",
+    "currentName": "проїзд Івана Липи",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "proyizd Brats'kii 2-i",
+      "proyizd Ivana Lipi",
+      "proizd bratskyi 2-i",
+      "proizd ivana lypy"
+    ],
+    "events": [
+      {
+        "formerName": "проїзд Братський 2-й",
+        "currentName": "проїзд Івана Липи",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 22; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "проїзд Івана Липи, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "c2303f68a51025d6",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський, Слобідський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Шолохова",
+    "currentName": "вулиця Сергія Параджанова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Sholokhova",
+      "vulitsia Sergiia Paradzhanova",
+      "vulytsia sholokhova",
+      "vulytsia serhiia paradzhanova"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Шолохова",
+        "currentName": "вулиця Сергія Параджанова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 23; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Сергія Параджанова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "4b571cf6a3cc7c49",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Яблочкіна",
+    "currentName": "вулиця Алли Горської",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Iablochkina",
+      "vulitsia Alli Gors'koyi",
+      "vulytsia iablochkina",
+      "vulytsia ally horskoi"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Яблочкіна",
+        "currentName": "вулиця Алли Горської",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 24; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Алли Горської, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "778dc4fbc5d0bd6d",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Немишлянський",
+    "streetType": "провулок",
+    "formerName": "провулок Яблочкіна",
+    "currentName": "провулок Віри Холодної",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Iablochkina",
+      "provulok Viri Kholodnoyi",
+      "provulok iablochkina",
+      "provulok viry kholodnoi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Яблочкіна",
+        "currentName": "провулок Віри Холодної",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 25; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Віри Холодної, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "c8f192e2ecd80d4b",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "провулок",
+    "formerName": "провулок Бакуніна",
+    "currentName": "провулок Добропільський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Bakunina",
+      "provulok Dobropil's'kii",
+      "provulok bakunina",
+      "provulok dobropilskyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Бакуніна",
+        "currentName": "провулок Добропільський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 26; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Добропільський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "4957282a46a91798",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Доватора",
+    "currentName": "вулиця Валерія Романовського",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Dovatora",
+      "vulitsia Valeriia Romanovs'kogo",
+      "vulytsia dovatora",
+      "vulytsia valeriia romanovskoho"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Доватора",
+        "currentName": "вулиця Валерія Романовського",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 27; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Валерія Романовського, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "35fa69ef551e9f98",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "провулок",
+    "formerName": "провулок Доватора",
+    "currentName": "провулок Мигдалевий",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Dovatora",
+      "provulok Migdalevii",
+      "provulok dovatora",
+      "provulok myhdalevyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Доватора",
+        "currentName": "провулок Мигдалевий",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 28; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Мигдалевий, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "508eb577e5e6d801",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Лисенка",
+    "currentName": "вулиця Миколи Лисенка",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Lisenka",
+      "vulitsia Mikoli Lisenka",
+      "vulytsia lysenka",
+      "vulytsia mykoly lysenka"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Лисенка",
+        "currentName": "вулиця Миколи Лисенка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 29; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Миколи Лисенка, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "530c6512073028b2",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Новодаргомижська",
+    "currentName": "вулиця Олени Якуби",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Novodargomizhs'ka",
+      "vulitsia Oleni Iakubi",
+      "vulytsia novodarhomyzhska",
+      "vulytsia oleny iakuby"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Новодаргомижська",
+        "currentName": "вулиця Олени Якуби",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 30; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Олени Якуби, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "838e689dc545c480",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Новобаварський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Свірська",
+    "currentName": "вулиця Юрія Колларда",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Svirs'ka",
+      "vulitsia Iuriia Kollarda",
+      "vulytsia svirska",
+      "vulytsia iuriia kollarda"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Свірська",
+        "currentName": "вулиця Юрія Колларда",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 31; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Юрія Колларда, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b7bc56284df73cb6",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Основ’янський, Слобідський",
+    "streetType": "проспект",
+    "formerName": "проспект Гагаріна",
+    "currentName": "проспект Аерокосмічний",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "prospekt Gagarina",
+      "prospekt Aerokosmichnii",
+      "prospekt haharina",
+      "prospekt aerokosmichnyi"
+    ],
+    "events": [
+      {
+        "formerName": "проспект Гагаріна",
+        "currentName": "проспект Аерокосмічний",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 32; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "проспект Аерокосмічний, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "da8f853af30f6bf5",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Основ’янський",
+    "streetType": "провулок",
+    "formerName": "провулок Достоєвського",
+    "currentName": "провулок Мулярський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Dostoievs'kogo",
+      "provulok Muliars'kii",
+      "provulok dostoievskoho",
+      "provulok muliarskyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Достоєвського",
+        "currentName": "провулок Мулярський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 33; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Мулярський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "19eaa20537e05949",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Основ’янський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Єрмаківська",
+    "currentName": "вулиця Родини Ковалевських",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Iermakivs'ka",
+      "vulitsia Rodini Kovalevs'kikh",
+      "vulytsia iermakivska",
+      "vulytsia rodyny kovalevskykh"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Єрмаківська",
+        "currentName": "вулиця Родини Ковалевських",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 34; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Родини Ковалевських, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "014128dbd82d4f0a",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Основ’янський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Красноградська",
+    "currentName": "вулиця Миколи Зерова",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Krasnograds'ka",
+      "vulitsia Mikoli Zerova",
+      "vulytsia krasnohradska",
+      "vulytsia mykoly zerova"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Красноградська",
+        "currentName": "вулиця Миколи Зерова",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 35; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Миколи Зерова, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a28a22e77aaa54dc",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Основ’янський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Нікітіна",
+    "currentName": "вулиця Ігоря Малицького",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Nikitina",
+      "vulitsia Igoria Malits'kogo",
+      "vulytsia nikitina",
+      "vulytsia ihoria malytskoho"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Нікітіна",
+        "currentName": "вулиця Ігоря Малицького",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 36; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Ігоря Малицького, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "4485a745b3ae9476",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Актюбінська",
+    "currentName": "вулиця Ханченківська",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Aktiubins'ka",
+      "vulitsia Khanchenkivs'ka",
+      "vulytsia aktiubinska",
+      "vulytsia khanchenkivska"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Актюбінська",
+        "currentName": "вулиця Ханченківська",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 3, annex street table row 37; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Ханченківська, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d06aec8af72cfb97",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "провулок",
+    "formerName": "провулок Кустанайський",
+    "currentName": "провулок Йосипа Тимченка",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Kustanais'kii",
+      "provulok Iosipa Timchenka",
+      "provulok kustanaiskyi",
+      "provulok iosypa tymchenka"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Кустанайський",
+        "currentName": "провулок Йосипа Тимченка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 38; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Йосипа Тимченка, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "fdbb52e353bc4fc8",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "проїзд",
+    "formerName": "проїзд Кустанайський",
+    "currentName": "проїзд Люм’єрівський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "proyizd Kustanais'kii",
+      "proyizd Lium'ierivs'kii",
+      "proizd kustanaiskyi",
+      "proizd lium’ierivskyi"
+    ],
+    "events": [
+      {
+        "formerName": "проїзд Кустанайський",
+        "currentName": "проїзд Люм’єрівський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 39; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "проїзд Люм’єрівський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "10e10c546f5c6b9b",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "провулок",
+    "formerName": "провулок Малишева",
+    "currentName": "провулок Олексія Суріна",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Malisheva",
+      "provulok Oleksiia Surina",
+      "provulok malysheva",
+      "provulok oleksiia surina"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Малишева",
+        "currentName": "провулок Олексія Суріна",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 40; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Олексія Суріна, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bed9ede2e8b1eab0",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "провулок",
+    "formerName": "провулок Шолохова",
+    "currentName": "провулок Муравський",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Sholokhova",
+      "provulok Muravs'kii",
+      "provulok sholokhova",
+      "provulok muravskyi"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Шолохова",
+        "currentName": "провулок Муравський",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 41; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Муравський, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "678aed907e1274ad",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Слобідський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Костичева",
+    "currentName": "вулиця Сергія Тимошенка",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Kosticheva",
+      "vulitsia Sergiia Timoshenka",
+      "vulytsia kostycheva",
+      "vulytsia serhiia tymoshenka"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Костичева",
+        "currentName": "вулиця Сергія Тимошенка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 42; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Сергія Тимошенка, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "8b99f0e4e4ef630b",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Холодногірський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Суздальські Ряди",
+    "currentName": "вулиця Гостинний Двір",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Suzdal's'ki Riadi",
+      "vulitsia Gostinnii Dvir",
+      "vulytsia suzdalski riady",
+      "vulytsia hostynnyi dvir"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Суздальські Ряди",
+        "currentName": "вулиця Гостинний Двір",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 43; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Гостинний Двір, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "eed8411ea6cfa890",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Холодногірський",
+    "streetType": "провулок",
+    "formerName": "провулок Берінговий",
+    "currentName": "провулок Григорія Сосідка",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "provulok Beringovii",
+      "provulok Grigoriia Sosidka",
+      "provulok berinhovyi",
+      "provulok hryhoriia sosidka"
+    ],
+    "events": [
+      {
+        "formerName": "провулок Берінговий",
+        "currentName": "провулок Григорія Сосідка",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 44; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "провулок Григорія Сосідка, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a8d819102580e0bc",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Холодногірський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Малишева",
+    "currentName": "вулиця Олексія Суріна",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Malisheva",
+      "vulitsia Oleksiia Surina",
+      "vulytsia malysheva",
+      "vulytsia oleksiia surina"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Малишева",
+        "currentName": "вулиця Олексія Суріна",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 45; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Олексія Суріна, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7a33c2720d6ba48d",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Шевченківський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Єсеніна",
+    "currentName": "вулиця Олександра Олеся",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Iesenina",
+      "vulitsia Oleksandra Olesia",
+      "vulytsia iesenina",
+      "vulytsia oleksandra olesia"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Єсеніна",
+        "currentName": "вулиця Олександра Олеся",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 46; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Олександра Олеся, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "56b733fb24b15244",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Шевченківський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Макаренка",
+    "currentName": "вулиця Рекреаційна",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Makarenka",
+      "vulitsia Rekreatsiina",
+      "vulytsia makarenka",
+      "vulytsia rekreatsiina"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Макаренка",
+        "currentName": "вулиця Рекреаційна",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 47; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Рекреаційна, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b4b1ca9ede01981a",
+    "country": "UA",
+    "city": "Харків",
+    "district": "Шевченківський",
+    "streetType": "вулиця",
+    "formerName": "вулиця Толбухіна",
+    "currentName": "вулиця Володимира Пасічника",
+    "language": "uk",
+    "script": "Cyrillic",
+    "aliases": [],
+    "transliterations": [
+      "vulitsia Tolbukhina",
+      "vulitsia Volodimira Pasichnika",
+      "vulytsia tolbukhina",
+      "vulytsia volodymyra pasichnyka"
+    ],
+    "events": [
+      {
+        "formerName": "вулиця Толбухіна",
+        "currentName": "вулиця Володимира Пасічника",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "documentNumber": "513 В",
+        "locator": "PDF page 4, annex street table row 48; visually transcribed from scan",
+        "decisionDate": "2024-07-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://kharkivoda.gov.ua/content/documents/1277/127689/files/%D0%BC%D1%96%D1%81%D1%82%D0%BE%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.PDF",
+        "retrievedAt": "2026-11-14T06:33:20.301039+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "a4c68ff8c9aaf978a3a5b835b2f61d5325e4fe1d5e30f4e9874df5a85c9520e0",
+        "title": "kharkiv-july-2024",
+        "id": "kharkiv-july-2024"
+      }
+    ],
+    "mapQuery": "вулиця Володимира Пасічника, Харків",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
   }
 ]

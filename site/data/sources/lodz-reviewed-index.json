@@ -1,0 +1,632 @@
+[
+  {
+    "oldAnchor": "TOMASZOWSKA_OLD",
+    "newAnchor": "WODOCIAGOWA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "TOPOLOWA_OLD",
+    "newAnchor": "GORZOWSKA",
+    "sourceFile": "lodz-slownik-g.html",
+    "year": "1963"
+  },
+  {
+    "oldAnchor": "TORUNSKA_OLD",
+    "newAnchor": "OGORKOWA",
+    "sourceFile": "lodz-slownik-o.html",
+    "year": "1945"
+  },
+  {
+    "oldAnchor": "TRELENBERGA_OLD",
+    "newAnchor": "TRENKNERA",
+    "sourceFile": "lodz-slownik-t.html",
+    "year": "1931"
+  },
+  {
+    "oldAnchor": "TREBACKA_OLD",
+    "newAnchor": "UNIWERSYTECKA",
+    "sourceFile": "lodz-slownik-u.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "TYMCZASOWA_OLD",
+    "newAnchor": "KRUCZKOWSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1963"
+  },
+  {
+    "oldAnchor": "ZAGLOBY_OLD",
+    "newAnchor": "DECZYNSKIEGO",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "ZAKATNA_OLD",
+    "newAnchor": "POGONOWSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "ZAWISZY_OLD",
+    "newAnchor": "ZAWISZYCZARNEGO",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "FELIKSA_OLD",
+    "newAnchor": "BYDGOSKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "FIGUROWA_OLD",
+    "newAnchor": "DNIESTRZANSKA",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1933"
+  },
+  {
+    "oldAnchor": "FINDERA_OLD",
+    "newAnchor": "SOJCZYNSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "FISZERA_OLD",
+    "newAnchor": "KWIDZYNSKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "FORNALSKIEJ_OLD",
+    "newAnchor": "WILENSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "FUCIKA_OLD",
+    "newAnchor": "GOMBROWICZA",
+    "sourceFile": "lodz-slownik-g.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "KAPUCYNSKA_OLD",
+    "newAnchor": "WALBRZYSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "KNIEWSKIEGO_OLD",
+    "newAnchor": "BARONA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1991"
+  },
+  {
+    "oldAnchor": "KOCZASKIEGO_OLD",
+    "newAnchor": "KROLA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1994"
+  },
+  {
+    "oldAnchor": "KONOPNICKIEJ_OLD",
+    "newAnchor": "SPRAWIEDLIWA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "KROTKOFRANCISZKANSKA_OLD",
+    "newAnchor": "KALETNICZA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1961"
+  },
+  {
+    "oldAnchor": "KSIAZECA_OLD",
+    "newAnchor": "BIELSKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "KWIATKOWSKIEGO_OLD",
+    "newAnchor": "BLACHARSKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "EKIERTA_OLD",
+    "newAnchor": "OLSZTYNSKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "JAGIELLONSKA_OLD",
+    "newAnchor": "KOLINSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "JESIONOWA_OLD",
+    "newAnchor": "KOLODZIEJSKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "SRODKOWA_OLD",
+    "newAnchor": "BOYAZELENSKIEGO",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1961"
+  },
+  {
+    "oldAnchor": "BALTYCKA_OLD",
+    "newAnchor": "KRZEWOWA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "BARSKA_OLD",
+    "newAnchor": "HEKTAROWA",
+    "sourceFile": "lodz-slownik-h.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "BIEDERMANNA_OLD",
+    "newAnchor": "SULKOWSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "BLEKITNA_OLD",
+    "newAnchor": "RADLOWA",
+    "sourceFile": "lodz-slownik-r.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "BOJARSKIEGO_OLD",
+    "newAnchor": "BRAUNA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "BONIFRATERSKA_OLD",
+    "newAnchor": "LAZOWSKIEGO",
+    "sourceFile": "lodz-slownik-l-2.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "BRASLAWSKA_OLD",
+    "newAnchor": "PILARSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1977"
+  },
+  {
+    "oldAnchor": "BUCZKA_OLD",
+    "newAnchor": "KAMINSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "LESZNO_OLD",
+    "newAnchor": "ZELIGOWSKIEGO",
+    "sourceFile": "lodz-slownik-z-3.html",
+    "year": "1936"
+  },
+  {
+    "oldAnchor": "LIEBKNECHTA_OLD",
+    "newAnchor": "SKURYSKOCZYNSKIEGO",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "LOTNICZA_OLD",
+    "newAnchor": "SNYCERSKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "ALLENDE_OLD",
+    "newAnchor": "POPIELUSZKI",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "ANDRZEJA_OLD",
+    "newAnchor": "RTECIOWA",
+    "sourceFile": "lodz-slownik-r.html",
+    "year": "1958"
+  },
+  {
+    "oldAnchor": "SWANDRZEJA_OLD",
+    "newAnchor": "STRUGA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1945"
+  },
+  {
+    "oldAnchor": "ZMUDZKA_OLD",
+    "newAnchor": "DEMBINSKIEGO",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "ZYDOWSKA_OLD",
+    "newAnchor": "BOJOWNIKOWGETTA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1947"
+  },
+  {
+    "oldAnchor": "RACLAWICKA_OLD",
+    "newAnchor": "ZYNDRAMA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "ROGOWSKA_OLD",
+    "newAnchor": "ZMIENNA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "ROZWADOWSKIEGO_OLD",
+    "newAnchor": "WOLFF",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "IRENEUSZA_OLD",
+    "newAnchor": "SPARTAKUSA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "CESARSKA_OLD",
+    "newAnchor": "SEJMOWA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1921"
+  },
+  {
+    "oldAnchor": "SALATOWA_OLD",
+    "newAnchor": "ALEJAZATOROWCOW",
+    "sourceFile": "lodz-slownik-h.html",
+    "year": "1992"
+  },
+  {
+    "oldAnchor": "SLONIMSKA_OLD",
+    "newAnchor": "BIALORUSKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "SOKOLSKA_OLD",
+    "newAnchor": "JASZUNSKIEGO",
+    "sourceFile": "lodz-slownik-j.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "SPACERNA_OLD",
+    "newAnchor": "PASTERSKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1933"
+  },
+  {
+    "oldAnchor": "SPOKOJNA_OLD",
+    "newAnchor": "MINERSKA",
+    "sourceFile": "lodz-slownik-m.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "SPORTOWA_OLD",
+    "newAnchor": "DZIEWANNY",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "STAREGORKI_OLD",
+    "newAnchor": "BIESZCZADZKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1964"
+  },
+  {
+    "oldAnchor": "19STYCZNIA_OLD",
+    "newAnchor": "ANSTADTA",
+    "sourceFile": "lodz-slownik-a.html",
+    "year": "1994"
+  },
+  {
+    "oldAnchor": "SULKIEWICZA_OLD",
+    "newAnchor": "BARDOWSKIEGO",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "SZKOLNA_OLD",
+    "newAnchor": "MIELCZARSKIEGO",
+    "sourceFile": "lodz-slownik-m.html",
+    "year": "1928"
+  },
+  {
+    "oldAnchor": "SZOPENA_OLD",
+    "newAnchor": "CHOPINA",
+    "sourceFile": "lodz-slownik-c.html",
+    "year": "1933"
+  },
+  {
+    "oldAnchor": "NADOLSKIEGO_OLD",
+    "newAnchor": "WYZYNNA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "NOWODLUGA_OLD",
+    "newAnchor": "KOCHANOWSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1920"
+  },
+  {
+    "oldAnchor": "NOWOKOLEJOWA_OLD",
+    "newAnchor": "SEPIA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1933"
+  },
+  {
+    "oldAnchor": "NOWOKROTKA_OLD",
+    "newAnchor": "KROSNIENSKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWOLIPOWA_OLD",
+    "newAnchor": "FLATTA",
+    "sourceFile": "lodz-slownik-f.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWOMARYSINSKA_OLD",
+    "newAnchor": "STASZICA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1933"
+  },
+  {
+    "oldAnchor": "NOWOMILA_OLD",
+    "newAnchor": "ZAPOLSKIEJ",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWOPABIANICKA_OLD",
+    "newAnchor": "SANOCKA",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWORADWANSKA_OLD",
+    "newAnchor": "REMBIELINSKIEGO",
+    "sourceFile": "lodz-slownik-r.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWOZARZEWSKA_OLD",
+    "newAnchor": "ZARZEWSKA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "NOWOZIELONA_OLD",
+    "newAnchor": "KRAWIECKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1932"
+  },
+  {
+    "oldAnchor": "NOWOOTKRYTA_OLD",
+    "newAnchor": "PLATER",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1931"
+  },
+  {
+    "oldAnchor": "OLSZTEINA_OLD",
+    "newAnchor": "ZBOZOWA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1931"
+  },
+  {
+    "oldAnchor": "ORLICZDRESZERA_OLD",
+    "newAnchor": "MICHALOWICZA",
+    "sourceFile": "lodz-slownik-m.html",
+    "year": "1945"
+  },
+  {
+    "oldAnchor": "OSZMIANSKA_OLD",
+    "newAnchor": "ORMIANSKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "year": "1945"
+  },
+  {
+    "oldAnchor": "MALATYNSKIEGO_OLD",
+    "newAnchor": "WEGIERSKA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "MARSOWA_OLD",
+    "newAnchor": "CHLOPICKIEGO",
+    "sourceFile": "lodz-slownik-c.html",
+    "year": "1930"
+  },
+  {
+    "oldAnchor": "MILICYJNA_OLD",
+    "newAnchor": "POLICYJNA",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1994"
+  },
+  {
+    "oldAnchor": "MILSCHA_OLD",
+    "newAnchor": "KOPERNIKA",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1923"
+  },
+  {
+    "oldAnchor": "MIODOWA_OLD",
+    "newAnchor": "GRAFICZNA",
+    "sourceFile": "lodz-slownik-g.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "MOREJNA_OLD",
+    "newAnchor": "MARCINA",
+    "sourceFile": "lodz-slownik-m.html",
+    "year": "1920"
+  },
+  {
+    "oldAnchor": "MOSTOWA_OLD",
+    "newAnchor": "ZELWEROWICZA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1962"
+  },
+  {
+    "oldAnchor": "PIASTOWSKA_OLD",
+    "newAnchor": "PIASTA",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1936"
+  },
+  {
+    "oldAnchor": "PIEPRZOWA_OLD",
+    "newAnchor": "BERLINSKIEGO",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1963"
+  },
+  {
+    "oldAnchor": "PIERACKIEGO_OLD",
+    "newAnchor": "ROOSEVELTA",
+    "sourceFile": "lodz-slownik-r.html",
+    "year": "1945"
+  },
+  {
+    "oldAnchor": "PINSKA_OLD",
+    "newAnchor": "BOROWIAK",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "PIOTROWSKA_OLD",
+    "newAnchor": "NIEMCEWICZA",
+    "sourceFile": "lodz-slownik-n.html",
+    "year": "1930"
+  },
+  {
+    "oldAnchor": "PKWN_OLD",
+    "newAnchor": "DOWBORCZYKOW",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "PODLESNA_OLD",
+    "newAnchor": "SKLODOWSKIEJCURIE",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1934"
+  },
+  {
+    "oldAnchor": "POLSKA_OLD",
+    "newAnchor": "BIALOSTOCKA",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "PRADZYNSKIEGO_OLD",
+    "newAnchor": "GLOGOWSKA",
+    "sourceFile": "lodz-slownik-g.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "PROMYKA_OLD",
+    "newAnchor": "WAPIENNA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1920"
+  },
+  {
+    "oldAnchor": "PRYNCYPALNA_OLD",
+    "newAnchor": "ODOLANOWSKA",
+    "sourceFile": "lodz-slownik-o.html",
+    "year": "1936"
+  },
+  {
+    "oldAnchor": "PRZYBYSZEWSKIEGO_OLD",
+    "newAnchor": "PRZYBYSZEWSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "DABROWSKA_OLD",
+    "newAnchor": "DABROWSKIEGO",
+    "sourceFile": "lodz-slownik-d.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "DOBIECKIEGO_OLD",
+    "newAnchor": "LIBELTA",
+    "sourceFile": "lodz-slownik-l.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "DRUSKIENNICKA_OLD",
+    "newAnchor": "SEMPOLOWSKIEJ",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "HIBNERA_OLD",
+    "newAnchor": "WARYNSKIEGO",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1991"
+  },
+  {
+    "oldAnchor": "HRABIOWSKA_OLD",
+    "newAnchor": "PROLETARIACKA",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1946"
+  },
+  {
+    "oldAnchor": "HRUBIESZOWSKA_OLD",
+    "newAnchor": "BRZECHWY",
+    "sourceFile": "lodz-slownik-b.html",
+    "year": "1969"
+  },
+  {
+    "oldAnchor": "WIADUKT_OLD",
+    "newAnchor": "ZAOLZIANSKA",
+    "sourceFile": "lodz-slownik-z.html",
+    "year": "1939"
+  },
+  {
+    "oldAnchor": "WLODZIMIERSKA_OLD",
+    "newAnchor": "PIETRUSINSKIEGO",
+    "sourceFile": "lodz-slownik-p.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "WOJCIECHOWSKIEGO_OLD",
+    "newAnchor": "WAWOZOWA",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "WORCELLA_OLD",
+    "newAnchor": "SKORUPKI",
+    "sourceFile": "lodz-slownik-s.html",
+    "year": "1990"
+  },
+  {
+    "oldAnchor": "GOMULKI_OLD",
+    "newAnchor": "WALTERAJANKE",
+    "sourceFile": "lodz-slownik-w.html",
+    "year": "1991"
+  },
+  {
+    "oldAnchor": "WLADYSLAWAGRABSKIEGO_OLD",
+    "newAnchor": "NAPIERSKIEGO",
+    "sourceFile": "lodz-slownik-k.html",
+    "year": "1951"
+  },
+  {
+    "oldAnchor": "GRUNBERGA_OLD",
+    "newAnchor": "MALBORSKA",
+    "sourceFile": "lodz-slownik-m.html",
+    "year": "1932"
+  }
+]

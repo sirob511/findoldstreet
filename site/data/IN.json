@@ -354,5 +354,93 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null
+  },
+  {
+    "id": "45a7f5aa84c86000",
+    "country": "IN",
+    "city": "Kolkata",
+    "district": "E.M. Bypass",
+    "streetType": "street",
+    "formerName": "Dhapa Road",
+    "currentName": "Barun Sengupta Sarani",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Dhapa Road",
+        "currentName": "Barun Sengupta Sarani",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 4, Renaming of Streets after legendary journalists, first paragraph",
+        "ceremonyDate": "2017-06-17"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
+        "title": "kolkata-june-2017",
+        "id": "kolkata-june-2017"
+      }
+    ],
+    "mapQuery": "Barun Sengupta Sarani, Kolkata",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "c7d2f0228910737f",
+    "country": "IN",
+    "city": "Kolkata",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Moore Avenue",
+    "currentName": "Amitava Chowdhury Sarani",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Moore Avenue",
+        "currentName": "Amitava Chowdhury Sarani",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": "Part of Moore Avenue; endpoints not specified",
+        "sourceUrl": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 4, Renaming of Streets after legendary journalists"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.kmcgov.in/KMCPortal/downloads/EletterJun2017_04_07_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.793640+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "06848e6701a78f6cdbe631b57e4dd21d360004774e6d24c45af44847ece1151c",
+        "title": "kolkata-june-2017",
+        "id": "kolkata-june-2017"
+      }
+    ],
+    "mapQuery": "Amitava Chowdhury Sarani, Kolkata",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "Part of Moore Avenue; endpoints not specified",
+    "reviewReason": "Municipal newsletter does not specify the renamed segment endpoints.",
+    "currentStatusVerified": false,
+    "geometry": null
   }
 ]

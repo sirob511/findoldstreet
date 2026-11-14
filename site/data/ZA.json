@@ -2454,5 +2454,1433 @@
     "segment": null,
     "currentStatusVerified": false,
     "geometry": null
+  },
+  {
+    "id": "9cd466c46d28817c",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Coen Steytler Avenue",
+    "currentName": "Walter Sisulu Avenue",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Coen Steytler Avenue",
+        "currentName": "Walter Sisulu Avenue",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Coen Steytler Avenue row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Walter Sisulu Avenue, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0e07cc99088b5bcc",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Eastern Boulevard",
+    "currentName": "Nelson Mandela Boulevard",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Eastern Boulevard",
+        "currentName": "Nelson Mandela Boulevard",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Eastern Boulevard row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Nelson Mandela Boulevard, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7ba512521918c8ca",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": "Parklands",
+    "streetType": "street",
+    "formerName": "Harrier Street",
+    "currentName": "Blue Crane Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Harrier Street",
+        "currentName": "Blue Crane Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Harrier Street row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Blue Crane Street, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5e5386a981a28177",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Hendrik Verwoerd Drive",
+    "currentName": "Uys Krige Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Hendrik Verwoerd Drive",
+        "currentName": "Uys Krige Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Hendrik Verwoerd Drive row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Uys Krige Drive, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a53ab5e078047447",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Modderdam Road",
+    "currentName": "Robert Sobukwe Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Modderdam Road",
+        "currentName": "Robert Sobukwe Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Modderdam Road row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Robert Sobukwe Road, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d14a4be14941a110",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "NY 1",
+    "currentName": "Steve Biko Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [
+      "NY1"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "NY 1",
+        "currentName": "Steve Biko Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, NY 1 row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Steve Biko Drive, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "3729a86432840fb2",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Oswald Pirow Street",
+    "currentName": "Christiaan Barnard Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Oswald Pirow Street",
+        "currentName": "Christiaan Barnard Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Oswald Pirow Street row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Christiaan Barnard Street, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1a7e016b9cdf7cf7",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Western Boulevard",
+    "currentName": "Helen Suzman Boulevard",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Western Boulevard",
+        "currentName": "Helen Suzman Boulevard",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17 (printed page 15), Streets table, Western Boulevard row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Helen Suzman Boulevard, Cape Town",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "6505500e83145667",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Lansdowne Road",
+    "currentName": "Imam Haron Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Lansdowne Road",
+        "currentName": "Imam Haron Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": "Between Turfhall Road and Palmyra Road",
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17, Lansdowne Road grouped rows"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Imam Haron Road, Cape Town",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "Between Turfhall Road and Palmyra Road",
+    "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "6c29ab07a8d56b20",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Lansdowne Road",
+    "currentName": "Japhta K Masemola Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Lansdowne Road",
+        "currentName": "Japhta K Masemola Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": "Between Wetton Road and Swartklip Road",
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17, Lansdowne Road grouped rows"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Japhta K Masemola Road, Cape Town",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "Between Wetton Road and Swartklip Road",
+    "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "441a94f98e806c91",
+    "country": "ZA",
+    "city": "Cape Town",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Lansdowne Road",
+    "currentName": "Govan Mbeki Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Lansdowne Road",
+        "currentName": "Govan Mbeki Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": "Between Swartklip Road and Baden Powell Road",
+        "sourceUrl": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 17, Lansdowne Road grouped rows"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.etenders.gov.za/home/Download/?blobName=7bd24859-347c-480c-9aec-4bd2c803fd17.pdf&downloadedFileName=Annexure+B+Language_Style_Guide5_2017.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.308573+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "0f16e890f0cb081f84341f0692d3746b4f92bcc9bff970253dd5f9107305b4cb",
+        "title": "cape-language-guide",
+        "id": "cape-language-guide"
+      }
+    ],
+    "mapQuery": "Govan Mbeki Road, Cape Town",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "Between Swartklip Road and Baden Powell Road",
+    "reviewReason": "Municipal guide and provincial Hansard conflict on segment assignments; verify with municipal street register before publishing.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "162cde8be4f95e2f",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Beatrix Street",
+    "currentName": "Steve Biko Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Beatrix Street",
+        "currentName": "Steve Biko Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Beatrix Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Steve Biko Road, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "db23515d2a3f1b06",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Charles Street",
+    "currentName": "Justice Mahomed Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Charles Street",
+        "currentName": "Justice Mahomed Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Charles Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Justice Mahomed Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "55ada386bf6e0616",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "D.F. Malan Street",
+    "currentName": "Es’kia Mphahlele Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Es'kia Mphahlele Drive"
+    ],
+    "events": [
+      {
+        "formerName": "D.F. Malan Street",
+        "currentName": "Es’kia Mphahlele Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, D.F. Malan Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Es’kia Mphahlele Drive, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bac72cb950c3634f",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Duncan Street",
+    "currentName": "Jan Shoba Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Duncan Street",
+        "currentName": "Jan Shoba Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Duncan Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Jan Shoba Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "efd669e2810accf5",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Esselen Street",
+    "currentName": "Robert Sobukwe Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Esselen Street",
+        "currentName": "Robert Sobukwe Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Esselen Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Robert Sobukwe Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "81952466fbe9bbe9",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Gen. Louis Botha Drive",
+    "currentName": "January Masilela Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Gen. Louis Botha Drive",
+        "currentName": "January Masilela Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Gen. Louis Botha Drive row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "January Masilela Drive, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "78a44740d859b1ec",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Hans Strydom Drive",
+    "currentName": "Solomon Mahlangu Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Hans Strydom Drive",
+        "currentName": "Solomon Mahlangu Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Hans Strydom Drive row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Solomon Mahlangu Drive, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "fdc2dc9f5ef9c800",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "H.F. Verwoerd Drive",
+    "currentName": "Johan Heyns Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "H.F. Verwoerd Drive",
+        "currentName": "Johan Heyns Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, H.F. Verwoerd Drive row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Johan Heyns Drive, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "2a49f9d38991ee85",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Jacob Mare Street",
+    "currentName": "Jeff Masemola Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Jacob Mare Street",
+        "currentName": "Jeff Masemola Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Jacob Mare Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Jeff Masemola Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "81ddf2d272b560dc",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Mears Street",
+    "currentName": "Steve Biko Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Mears Street",
+        "currentName": "Steve Biko Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Mears Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Steve Biko Road, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a98ba7b847405e03",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Michael Brink Street",
+    "currentName": "Nico Smith Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Michael Brink Street",
+        "currentName": "Nico Smith Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Michael Brink Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Nico Smith Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d7130bad8726fe58",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Mitchell Street",
+    "currentName": "Charlotte Maxeke Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Mitchell Street",
+        "currentName": "Charlotte Maxeke Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Mitchell Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Charlotte Maxeke Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ecadb77675ff818e",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Potgieter Street",
+    "currentName": "Kgosi Mampuru Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Potgieter Street",
+        "currentName": "Kgosi Mampuru Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Potgieter Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Kgosi Mampuru Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1e94ee650537e1f1",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Queen Wilhemina Avenue",
+    "currentName": "Florence Ribeiro Avenue",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Queen Wilhemina Avenue",
+        "currentName": "Florence Ribeiro Avenue",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Queen Wilhemina Avenue row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Florence Ribeiro Avenue, Pretoria",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "reviewReason": "Source spells former name WILHEMINA; reconcile spelling with street register.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b87842b80671250d",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Schubart Street",
+    "currentName": "Sophie de Bruyn Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Schubart Street",
+        "currentName": "Sophie de Bruyn Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Schubart Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Sophie de Bruyn Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "dfc4701d57f68f24",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Voortrekker Road",
+    "currentName": "Steve Biko Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Voortrekker Road",
+        "currentName": "Steve Biko Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Voortrekker Road row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Steve Biko Road, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "24c5d5ba0d17de9a",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Walker Street",
+    "currentName": "Justice Mahomed Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Walker Street",
+        "currentName": "Justice Mahomed Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Walker Street row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Justice Mahomed Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "2924bd2f4d4465d1",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Zambezi Drive",
+    "currentName": "Sefako Makgatho Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Zambezi Drive",
+        "currentName": "Sefako Makgatho Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Zambezi Drive row; ST/RD/DR/AVE expanded"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Sefako Makgatho Drive, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "4ebac1e5ac58454f",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Church Street",
+    "currentName": "Stanza Bopape Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Church Street",
+        "currentName": "Stanza Bopape Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": "From Nelson Mandela Drive eastward",
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Stanza Bopape Street row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Stanza Bopape Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "From Nelson Mandela Drive eastward",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "fb42b0e2b32341ce",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Church Street",
+    "currentName": "Helen Joseph Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Church Street",
+        "currentName": "Helen Joseph Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": "From Nelson Mandela Drive to Church Square",
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, Helen Joseph Street row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Helen Joseph Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "From Nelson Mandela Drive to Church Square",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "f545d73572759b8a",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Church Street",
+    "currentName": "WF Nkomo Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Church Street",
+        "currentName": "WF Nkomo Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": "From Church Square to R511",
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, WF Nkomo Street row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "WF Nkomo Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "From Church Square to R511",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "3cc07e48d8c6a4d3",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Church Street",
+    "currentName": "Elias Motsoaledi Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Church Street",
+        "currentName": "Elias Motsoaledi Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": "From R511 westward",
+        "sourceUrl": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "documentNumber": null,
+        "locator": "Renamed Streets table, ELIAS MOTSWALEDI ST row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.discovertshwane.com/wp-content/uploads/2021/03/Tshwane-Attractions-Map.pdf",
+        "retrievedAt": "2026-11-14T06:33:20.499253+00:00",
+        "reuseTerms": "Factual mappings only; source retained for audit, not republished. No blanket reuse licence established.",
+        "sha256": "1513b9ac86424edce5ee94fba7b2a2c2b6f5a35c5e93c792b342b364baa72a3e",
+        "title": "tshwane-tourism-map",
+        "id": "tshwane-tourism-map"
+      }
+    ],
+    "mapQuery": "Elias Motsoaledi Street, Pretoria",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "From R511 westward",
+    "reviewReason": "Tourism map spells the name Elias Motswaledi; reconcile spelling with a municipal street register before publication.",
+    "currentStatusVerified": false,
+    "geometry": null
   }
 ]

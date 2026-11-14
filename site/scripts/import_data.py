@@ -112,7 +112,7 @@ def finalize(rows):
  return rows
 JOBS={'UA':ukraine,'PL':poland,'ZA':africa,'IN':india,'VN':vietnam,'KZ':kazakhstan}
 def run(item):
- c,fn=item;from extend_imports import extend;rows=extend(c,fn(),record,MAN,S,source);rows=finalize(rows);(D/(c+'.json')).write_text(json.dumps(rows,ensure_ascii=False,indent=2));return c,len(rows)
+ c,fn=item;from extend_imports import extend;from reviewed_imports import extend_reviewed;rows=extend(c,fn(),record,MAN,S,source);rows=extend_reviewed(c,rows,record,S,source);rows=finalize(rows);(D/(c+'.json')).write_text(json.dumps(rows,ensure_ascii=False,indent=2));return c,len(rows)
 if __name__=='__main__':
  with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
   for result in pool.map(run,JOBS.items()):print(result)
