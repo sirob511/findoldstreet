@@ -1,0 +1,12 @@
+[
+  {
+    "id": "saigon-current",
+    "country": "VN-saigon-current",
+    "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city/",
+    "retrievedAt": "2026-11-14T05:45:27.520823+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "287de560dbb61277f3484cc7a2a647004371ec1169441c1185d0e6f4e58604dd",
+    "status": "downloaded",
+    "textFile": "saigon-current.txt"
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "id": "9ebf2ea9ba20bdc7",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Connaught Circus",
+    "currentName": "Indira Chowk",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Connaught Circus",
+        "currentName": "Indira Chowk",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 3 (printed page 1), section 3.1.1 row 1",
+        "decisionDate": "1996-01-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+        "title": "delhi",
+        "id": "delhi"
+      }
+    ],
+    "mapQuery": "Indira Chowk, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "91b36deaa727036c",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Connaught Place",
+    "currentName": "Rajiv Chowk",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Connaught Place",
+        "currentName": "Rajiv Chowk",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 3 (printed page 1), section 3.1.1 row 2",
+        "decisionDate": "1996-01-12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+        "title": "delhi",
+        "id": "delhi"
+      }
+    ],
+    "mapQuery": "Rajiv Chowk, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e8368e0c1a60c912",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Canning Road",
+    "currentName": "Madhav Rao Scindia Marg",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Canning Road",
+        "currentName": "Madhav Rao Scindia Marg",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 3 (printed page 1), section 3.1.1 row 3",
+        "decisionDate": "2002-02-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+        "title": "delhi",
+        "id": "delhi"
+      }
+    ],
+    "mapQuery": "Madhav Rao Scindia Marg, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bb425967d7a991a5",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Aurangzeb Road",
+    "currentName": "Dr. APJ Abdul Kalam Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Aurangzeb Road",
+        "currentName": "Dr. APJ Abdul Kalam Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 3 (printed page 1), section 3.1.1 row 4",
+        "decisionDate": "2015-08-28"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+        "title": "delhi",
+        "id": "delhi"
+      }
+    ],
+    "mapQuery": "Dr. APJ Abdul Kalam Road, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bdcbd4a91807fb22",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Race Course Road",
+    "currentName": "Lok Kalyan Marg",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Race Course Road",
+        "currentName": "Lok Kalyan Marg",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 3 (printed page 1), section 3.1.1 row 5",
+        "decisionDate": "2016-09-21"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+        "title": "delhi",
+        "id": "delhi"
+      }
+    ],
+    "mapQuery": "Lok Kalyan Marg, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "27e485924f86a6e0",
+    "country": "IN",
+    "city": "Chennai",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Mount Road",
+    "currentName": "Anna Salai",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Mount Road",
+        "currentName": "Anna Salai",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf",
+        "documentNumber": null,
+        "locator": "City Action Plan, Mount Road (Anna Salai) entry"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf",
+        "retrievedAt": "2026-11-14T05:30:12.007608+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7bbe4c626f4a17e3362acf7b39f8ab3d013eebf68ea9ad0889c743e6883c20c2",
+        "title": "chennai",
+        "id": "chennai"
+      }
+    ],
+    "mapQuery": "Anna Salai, Chennai",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "reviewReason": "Source search indexed Mount Road (Anna Salai), but downloaded PDF extraction did not retain the exact paired entry; awaiting visual review.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7f1a32648940fd71",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Rajpath",
+    "currentName": "Kartavya Path",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [
+      "Kingsway"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Rajpath",
+        "currentName": "Kartavya Path",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48",
+        "documentNumber": null,
+        "locator": "PIB release 1857900, opening paragraph",
+        "ceremonyDate": "2022-09-08"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48",
+        "retrievedAt": "2026-11-14T05:39:09.750161+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "5d55c164b51b3776d444b2cc6f6896c2e8ad13ef6ecc6044770a2e1cc74e97ca",
+        "title": "kartavya-pib",
+        "id": "kartavya-pib"
+      }
+    ],
+    "mapQuery": "Kartavya Path, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "52f97ea175373f29",
+    "country": "IN",
+    "city": "New Delhi",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Dalhousie Road",
+    "currentName": "Dara Shukoh Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [
+      "Dara Shikoh Road"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Dalhousie Road",
+        "currentName": "Dara Shukoh Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 43, section 3.1.1, row (vi)",
+        "decisionDate": "2017-02-06"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf",
+        "retrievedAt": "2026-11-14T05:39:12.216355+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "0ec58b112bd0bbdacd99a872240ce050f0e191a8742ca513ce08f19e0a2ccc99",
+        "title": "delhi2017",
+        "id": "delhi2017"
+      }
+    ],
+    "mapQuery": "Dara Shukoh Road, New Delhi",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  }
+]

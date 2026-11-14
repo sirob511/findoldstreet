@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hcmc-gov",
+    "country": "VN-extra",
+    "url": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
+    "retrievedAt": "2026-11-14T05:30:11.110160+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "8584fa064f3468c12248e8469f947b3e914553228fdeaae2043e8f3150e80959",
+    "status": "downloaded",
+    "textFile": "hcmc-gov.txt"
+  }
+]

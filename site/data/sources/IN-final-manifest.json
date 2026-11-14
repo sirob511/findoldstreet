@@ -1,0 +1,11 @@
+[
+  {
+    "id": "chennai-sbi",
+    "country": "IN-final",
+    "url": "https://home.sbi.bank.in/documents/13958/14399/SBI%2BS%2BLIVING%2BHERITAGE%2BABHIK%2BRAY%2B2.pdf/SBI%20S%20LIVING%20HERITAGE%20ABHIK%20RAY%2023782.pdf?t=1765274394633",
+    "retrievedAt": "2026-11-14T05:41:55.436691+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='home.sbi.bank.in', port=443): Max retries exceeded with url: /documents/13958/14399/SBI%2BS%2BLIVING%2BHERITAGE%2BABHIK%2BRAY%2B2.pdf/SBI%20S%20LIVING%20HERITAGE%20ABHIK%20RAY%2023782.pdf?t=1765274394633 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  }
+]

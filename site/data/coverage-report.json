@@ -1,0 +1,1568 @@
+{
+  "asOf": "2026-11-13",
+  "scope": "Initial, incomplete source-backed release. Verified means the rename is supported by cited evidence, not current-live-register or geometry verification.",
+  "languages": [
+    "en",
+    "uk",
+    "ru",
+    "pl",
+    "vi",
+    "zu",
+    "kk",
+    "hi",
+    "mr",
+    "bn",
+    "ta"
+  ],
+  "countries": [
+    {
+      "country": "UA",
+      "name": "Ukraine",
+      "verifiedStreets": 739,
+      "renameEvents": 739,
+      "reviewRecords": 18,
+      "publishedLocalities": 108,
+      "gaps": [
+        "Current national directory and Kyiv street register not reconciled",
+        "Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Kharkiv, Odesa, Dnipro, Zaporizhzhia, Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities",
+        "Lviv-region appendix 2 direct access failed; conflicting recent Lviv city decisions not published"
+      ]
+    },
+    {
+      "country": "PL",
+      "name": "Poland",
+      "verifiedStreets": 62,
+      "renameEvents": 118,
+      "reviewRecords": 0,
+      "publishedLocalities": 2,
+      "gaps": [
+        "TERYT/ULIC current-register comparison not completed",
+        "Łódź, Wrocław, Poznań, Gdańsk, Szczecin, Katowice, Lublin, Białystok and other municipalities not imported"
+      ]
+    },
+    {
+      "country": "ZA",
+      "name": "South Africa",
+      "verifiedStreets": 53,
+      "renameEvents": 53,
+      "reviewRecords": 4,
+      "publishedLocalities": 3,
+      "gaps": [
+        "No municipal GIS geometry imported",
+        "Cape Town, Ekurhuleni, Mangaung, Msunduzi, Buffalo City, Nelson Mandela Bay and other municipalities remain gaps",
+        "Durban combined streets and suspicious spellings held for review"
+      ]
+    },
+    {
+      "country": "VN",
+      "name": "Vietnam",
+      "verifiedStreets": 3,
+      "renameEvents": 3,
+      "reviewRecords": 2,
+      "publishedLocalities": 1,
+      "gaps": [
+        "Ho Chi Minh City: officially confirmed partial rename plus independently corroborated historical entries; remaining historical leads held for review",
+        "Đà Nẵng resolution 66/2024 inspected: new roads and bridge names, not genuine street renames; excluded",
+        "Hanoi source leads mostly new naming, length changes or drafts; not published as renames",
+        "Huế, Hải Phòng, Cần Thơ and other municipalities not imported; historical Saigon table not reconciled"
+      ]
+    },
+    {
+      "country": "KZ",
+      "name": "Kazakhstan",
+      "verifiedStreets": 175,
+      "renameEvents": 175,
+      "reviewRecords": 0,
+      "publishedLocalities": 2,
+      "gaps": [
+        "Almaty and Astana decisions only; no GIS reconciliation",
+        "Shymkent, Karaganda, Pavlodar, Aktobe, Kostanay, Semey, Öskemen, Taraz, Atyrau and other municipalities not imported"
+      ]
+    },
+    {
+      "country": "IN",
+      "name": "India",
+      "verifiedStreets": 7,
+      "renameEvents": 7,
+      "reviewRecords": 1,
+      "publishedLocalities": 1,
+      "gaps": [
+        "Delhi historical decisions imported, proposals excluded; Chennai pending text verification",
+        "Mumbai, Kolkata, Bengaluru, Hyderabad, Pune, Ahmedabad and other municipalities not imported",
+        "British Council historical table not imported; newer municipal registers not systematically compared"
+      ]
+    }
+  ],
+  "municipalities": [
+    {
+      "country": "UA",
+      "municipality": "Андріянів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Бабина",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Баня Лисовицька",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Береги",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Берездівці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Блищиводи",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Борок",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Буськ",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Бучали",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Бісковичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Великосілки",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Викоти",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Волиця",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Вороблевичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Вороців",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Вістовичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Глинськ",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Гончарівка",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Грімне",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Демня",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Добромиль",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Долішнє",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Домажир",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Дрогобич",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Дубляни",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Жвирка",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Жовква",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Жорниська",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Жуличі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Жупани",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Журавно",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Заболотівці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Задністряни",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Замок",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Заплатин",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Зимна Вода",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Зозулі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Золотковичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Золочів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Зоротовичі",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Кам’янка-Бузька",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Катериничі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Київ",
+      "verifiedStreets": 617,
+      "renameEvents": 617,
+      "reviewRecords": 18
+    },
+    {
+      "country": "UA",
+      "municipality": "Кожичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Колбаєвичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Конюшки",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Кореличі",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Корчівка",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Криве",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Лани",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Летня",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Лучиці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Любша",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Лівчиці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Малі Передримихи",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Матів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Меденичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Миклашів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Михайлевичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Мочеради",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Міженець",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Нижнє Синьовидне",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Нова Скварява",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Новий Калинів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Новий Милятин",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Ожидів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Паланки",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Пиняни",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Поздимир",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Поляни",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Поріччя Задвірне",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Поріччя-Грунтове",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Поториця",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Прибужани",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Підберізці",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Підгайчики",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Підгородці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Підкамінь",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Рава-Руська",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Раделичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Ралівка",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Руда",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Ріпнів",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Річки",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Садове товариство «Калійник» міста Стебник",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Садове товариство «Мрія»",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Садове товариство «Роздільне»",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Сасів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Свитазів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Семенівка",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Скварява",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Сокаль",
+      "verifiedStreets": 2,
+      "renameEvents": 2,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Соколів",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Стороневичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Струтин",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Стрілки",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Стрілковичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Тамановичі",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Тершаків",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Тулиголове",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Туринка",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Туркотин",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Тщенець",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Утішків",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Чернилява",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Шегині",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Ясенівці",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "садове товариство «Явір»",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "PL",
+      "municipality": "Kraków",
+      "verifiedStreets": 6,
+      "renameEvents": 6,
+      "reviewRecords": 0
+    },
+    {
+      "country": "PL",
+      "municipality": "Warszawa",
+      "verifiedStreets": 56,
+      "renameEvents": 112,
+      "reviewRecords": 0
+    },
+    {
+      "country": "ZA",
+      "municipality": "Durban",
+      "verifiedStreets": 45,
+      "renameEvents": 45,
+      "reviewRecords": 4
+    },
+    {
+      "country": "ZA",
+      "municipality": "Johannesburg",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "ZA",
+      "municipality": "Pretoria",
+      "verifiedStreets": 7,
+      "renameEvents": 7,
+      "reviewRecords": 0
+    },
+    {
+      "country": "VN",
+      "municipality": "Hồ Chí Minh City",
+      "verifiedStreets": 3,
+      "renameEvents": 3,
+      "reviewRecords": 2
+    },
+    {
+      "country": "KZ",
+      "municipality": "Алматы",
+      "verifiedStreets": 174,
+      "renameEvents": 174,
+      "reviewRecords": 0
+    },
+    {
+      "country": "KZ",
+      "municipality": "Астана",
+      "verifiedStreets": 1,
+      "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "IN",
+      "municipality": "Chennai",
+      "verifiedStreets": 0,
+      "renameEvents": 0,
+      "reviewRecords": 1
+    },
+    {
+      "country": "IN",
+      "municipality": "New Delhi",
+      "verifiedStreets": 7,
+      "renameEvents": 7,
+      "reviewRecords": 0
+    }
+  ],
+  "importedSources": [
+    {
+      "url": "https://minio.kyivcity.gov.ua/kyivcity/sites/21/uploaded-files/Perelik%20pereimenovanykh%20u%202014-2025%20rokakh%20vulyts%20mista%20Kyieva.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.327562+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "e7ecaf723d144dffaf3203d96a38e773782c5c05788a704e4dfc1d2a0087cbd1",
+      "title": "kyiv",
+      "id": "kyiv"
+    },
+    {
+      "url": "https://loda.gov.ua/documents/111759",
+      "retrievedAt": "2026-11-14T05:39:00+00:00",
+      "reuseTerms": "CC BY 4.0, as stated in the official page footer. Attribution: Lviv Regional Military Administration.",
+      "sha256": "9a577f00d478f26402a52d0646a3aea208f500522674766548e346b6671b3cbc",
+      "title": "lviv-browser",
+      "id": "lviv-browser"
+    },
+    {
+      "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+      "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+      "title": "warsaw1",
+      "id": "warsaw1"
+    },
+    {
+      "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+      "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+      "title": "warsaw2",
+      "id": "warsaw2"
+    },
+    {
+      "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+      "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+      "title": "krakow-law",
+      "id": "krakow-law"
+    },
+    {
+      "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+      "title": "durban",
+      "id": "durban"
+    },
+    {
+      "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+      "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+      "title": "pretoria",
+      "id": "pretoria"
+    },
+    {
+      "url": "https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf",
+      "retrievedAt": "2026-11-14T05:30:15.809699+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "602b378b7714ab0d089de18d1d2a912f01115e8f04fba94671e5b13b18038817",
+      "title": "johannesburg",
+      "id": "johannesburg"
+    },
+    {
+      "url": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
+      "retrievedAt": "2026-11-14T05:30:11.110160+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "8584fa064f3468c12248e8469f947b3e914553228fdeaae2043e8f3150e80959",
+      "title": "hcmc-gov",
+      "id": "hcmc-gov"
+    },
+    {
+      "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+      "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65",
+      "title": "saigon-dongkhoi",
+      "id": "saigon-dongkhoi"
+    },
+    {
+      "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city/",
+      "retrievedAt": "2026-11-14T05:45:27.520823+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "287de560dbb61277f3484cc7a2a647004371ec1169441c1185d0e6f4e58604dd",
+      "title": "saigon-current",
+      "id": "saigon-current"
+    },
+    {
+      "url": "https://old.adilet.zan.kz/rus/docs/V24R0002332",
+      "retrievedAt": "2026-11-14T05:29:14.340812+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "2fab82e7e8689e16ec25d60b46963dddb2e82bf68e91a8a8356e830f6d706222",
+      "title": "almaty",
+      "id": "almaty"
+    },
+    {
+      "url": "https://old.adilet.zan.kz/rus/docs/G24ABW51124",
+      "retrievedAt": "2026-11-14T05:30:11.100848+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "fb40c67de563cabc245ae77f11a6a0c9ba1a892ebe6241128098ed1f8a37d682",
+      "title": "astana",
+      "id": "astana"
+    },
+    {
+      "url": "https://old.adilet.zan.kz/rus/docs/V18R0001521",
+      "retrievedAt": "2026-11-14T05:39:47.623916+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "9ef9b0c7e637c91484c05d6a818a1313449ab3244369305ec382c4b5ccff6b1b",
+      "title": "almaty2018",
+      "id": "almaty2018"
+    },
+    {
+      "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+      "title": "delhi",
+      "id": "delhi"
+    },
+    {
+      "url": "https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf",
+      "retrievedAt": "2026-11-14T05:30:12.007608+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "7bbe4c626f4a17e3362acf7b39f8ab3d013eebf68ea9ad0889c743e6883c20c2",
+      "title": "chennai",
+      "id": "chennai"
+    },
+    {
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48",
+      "retrievedAt": "2026-11-14T05:39:09.750161+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "5d55c164b51b3776d444b2cc6f6896c2e8ad13ef6ecc6044770a2e1cc74e97ca",
+      "title": "kartavya-pib",
+      "id": "kartavya-pib"
+    },
+    {
+      "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf",
+      "retrievedAt": "2026-11-14T05:39:12.216355+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "0ec58b112bd0bbdacd99a872240ce050f0e191a8742ca513ce08f19e0a2ccc99",
+      "title": "delhi2017",
+      "id": "delhi2017"
+    }
+  ],
+  "sourceAttempts": [
+    {
+      "id": "kartavya",
+      "country": "IN-extra",
+      "url": "https://centralvista.gov.in/central-vista-avenue.php/1000",
+      "retrievedAt": "2026-11-14T05:30:11.107470+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='centralvista.gov.in', port=443): Max retries exceeded with url: /central-vista-avenue.php/1000 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "chennai",
+      "country": "IN-extra",
+      "url": "https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf",
+      "retrievedAt": "2026-11-14T05:30:12.007608+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "7bbe4c626f4a17e3362acf7b39f8ab3d013eebf68ea9ad0889c743e6883c20c2",
+      "status": "downloaded",
+      "textFile": "chennai.txt"
+    },
+    {
+      "id": "chennai-sbi",
+      "country": "IN-final",
+      "url": "https://home.sbi.bank.in/documents/13958/14399/SBI%2BS%2BLIVING%2BHERITAGE%2BABHIK%2BRAY%2B2.pdf/SBI%20S%20LIVING%20HERITAGE%20ABHIK%20RAY%2023782.pdf?t=1765274394633",
+      "retrievedAt": "2026-11-14T05:41:55.436691+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='home.sbi.bank.in', port=443): Max retries exceeded with url: /documents/13958/14399/SBI%2BS%2BLIVING%2BHERITAGE%2BABHIK%2BRAY%2B2.pdf/SBI%20S%20LIVING%20HERITAGE%20ABHIK%20RAY%2023782.pdf?t=1765274394633 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "delhi",
+      "country": "IN",
+      "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+      "status": "downloaded",
+      "textFile": "delhi.txt"
+    },
+    {
+      "id": "kartavya-pib",
+      "country": "IN-more",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48",
+      "retrievedAt": "2026-11-14T05:39:09.750161+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "5d55c164b51b3776d444b2cc6f6896c2e8ad13ef6ecc6044770a2e1cc74e97ca",
+      "status": "downloaded",
+      "textFile": "kartavya-pib.txt"
+    },
+    {
+      "id": "delhi2017",
+      "country": "IN-more",
+      "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf",
+      "retrievedAt": "2026-11-14T05:39:12.216355+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "0ec58b112bd0bbdacd99a872240ce050f0e191a8742ca513ce08f19e0a2ccc99",
+      "status": "downloaded",
+      "textFile": "delhi2017.txt"
+    },
+    {
+      "id": "astana",
+      "country": "KZ-extra",
+      "url": "https://old.adilet.zan.kz/rus/docs/G24ABW51124",
+      "retrievedAt": "2026-11-14T05:30:11.100848+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "fb40c67de563cabc245ae77f11a6a0c9ba1a892ebe6241128098ed1f8a37d682",
+      "status": "downloaded",
+      "textFile": "astana.txt"
+    },
+    {
+      "id": "almaty2019alt",
+      "country": "KZ-extra",
+      "url": "https://law.gov.kz/api/documents/127684/rus/download/pdf",
+      "retrievedAt": "2026-11-14T05:30:12.209257+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='law.gov.kz', port=443): Max retries exceeded with url: /api/documents/127684/rus/download/pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "almaty2018",
+      "country": "KZ-final",
+      "url": "https://old.adilet.zan.kz/rus/docs/V18R0001521",
+      "retrievedAt": "2026-11-14T05:39:47.623916+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "9ef9b0c7e637c91484c05d6a818a1313449ab3244369305ec382c4b5ccff6b1b",
+      "status": "downloaded",
+      "textFile": "almaty2018.txt"
+    },
+    {
+      "id": "almaty",
+      "country": "KZ",
+      "url": "https://old.adilet.zan.kz/rus/docs/V24R0002332",
+      "retrievedAt": "2026-11-14T05:29:14.340812+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "2fab82e7e8689e16ec25d60b46963dddb2e82bf68e91a8a8356e830f6d706222",
+      "status": "downloaded",
+      "textFile": "almaty.txt"
+    },
+    {
+      "id": "almaty2019",
+      "country": "KZ",
+      "url": "https://zan.gov.kz/api/documents/127684/rus/download/pdf",
+      "retrievedAt": "2026-11-14T05:29:17.428272+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='zan.gov.kz', port=443): Max retries exceeded with url: /api/documents/127684/rus/download/pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "almaty-amend",
+      "country": "KZ-more",
+      "url": "https://old.adilet.zan.kz/rus/docs/V19R0001523",
+      "retrievedAt": "2026-11-14T05:39:09.747021+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "5554b55eb032cff04c53b3b52e51af4da226e05ad07e2a3d3040f694f7fb010f",
+      "status": "downloaded",
+      "textFile": "almaty-amend.txt"
+    },
+    {
+      "id": "krakow-law",
+      "country": "PL-final",
+      "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+      "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "downloaded",
+      "retrievalMethod": "browser extraction, manually transcribed facts",
+      "textFile": "krakow-law-transcription.json",
+      "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845"
+    },
+    {
+      "id": "krakow",
+      "country": "PL-extra",
+      "url": "https://www.krakow.pl/aktualnosci/212775,29,komunikat,dekomunizacja_nazw_ulic_w_krakowie.html",
+      "retrievedAt": "2026-11-14T05:30:11.100154+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "3ef93cf277475bd93cef1c7fd5a9bf35ca00c75766955bbe9cb20583a9cf822d",
+      "status": "downloaded",
+      "textFile": "krakow.txt"
+    },
+    {
+      "id": "krakow-law",
+      "country": "PL-final",
+      "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+      "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='edziennik.malopolska.uw.gov.pl', port=443): Max retries exceeded with url: /WDU_K/2017/5597/akt.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "warsaw2",
+      "country": "PL",
+      "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+      "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+      "status": "downloaded",
+      "textFile": "warsaw2.txt"
+    },
+    {
+      "id": "warsaw1",
+      "country": "PL",
+      "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+      "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+      "status": "downloaded",
+      "textFile": "warsaw1.txt"
+    },
+    {
+      "id": "lviv-region",
+      "country": "UA-extra",
+      "url": "https://loda.gov.ua/documents/111760",
+      "retrievedAt": "2026-11-14T05:30:11.099322+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://loda.gov.ua/documents/111760"
+    },
+    {
+      "id": "kyiv",
+      "country": "UA",
+      "url": "https://minio.kyivcity.gov.ua/kyivcity/sites/21/uploaded-files/Perelik%20pereimenovanykh%20u%202014-2025%20rokakh%20vulyts%20mista%20Kyieva.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.327562+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "e7ecaf723d144dffaf3203d96a38e773782c5c05788a704e4dfc1d2a0087cbd1",
+      "status": "downloaded",
+      "textFile": "kyiv.txt"
+    },
+    {
+      "id": "lviv-region1",
+      "country": "UA-more",
+      "url": "https://loda.gov.ua/documents/111759",
+      "retrievedAt": "2026-11-14T05:39:09.744020+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://loda.gov.ua/documents/111759"
+    },
+    {
+      "id": "lviv-mirror",
+      "country": "UA-more",
+      "url": "https://www.loda.gov.ua/documents/111760",
+      "retrievedAt": "2026-11-14T05:39:10.819261+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://www.loda.gov.ua/documents/111760"
+    },
+    {
+      "id": "saigon-dongkhoi",
+      "country": "VN-saigon-dongkhoi",
+      "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+      "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "downloaded",
+      "retrievalMethod": "browser extraction, manually transcribed facts",
+      "textFile": "saigon-transcription.json",
+      "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65"
+    },
+    {
+      "id": "hcmc-gov",
+      "country": "VN-extra",
+      "url": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
+      "retrievedAt": "2026-11-14T05:30:11.110160+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "8584fa064f3468c12248e8469f947b3e914553228fdeaae2043e8f3150e80959",
+      "status": "downloaded",
+      "textFile": "hcmc-gov.txt"
+    },
+    {
+      "id": "dalat-history",
+      "country": "VN-final",
+      "url": "https://lamdongdost.gov.vn/bitstream/handle/123456789/354316/KHCN%2003%20%28in%29.pdf?isAllowed=y&sequence=1",
+      "retrievedAt": "2026-11-14T05:41:55.435651+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='lamdongdost.gov.vn', port=443): Max retries exceeded with url: /bitstream/handle/123456789/354316/KHCN%2003%20%28in%29.pdf?isAllowed=y&sequence=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "id": "hcmc",
+      "country": "VN",
+      "url": "https://ttbc-hcm.gov.vn/tphcm-doi-ten-xa-lo-ha-noi-thanh-duong-vo-nguyen-giap-1003536.html",
+      "retrievedAt": "2026-11-14T05:29:14.339285+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='ttbc-hcm.gov.vn', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "id": "danang",
+      "country": "VN-more",
+      "url": "https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-quyet-66-2024-nq-hdnd-doi-ten-mot-so-duong-cong-trinh-cong-cong-da-nang-636192.aspx",
+      "retrievedAt": "2026-11-14T05:39:09.752236+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-quyet-66-2024-nq-hdnd-doi-ten-mot-so-duong-cong-trinh-cong-cong-da-nang-636192.aspx"
+    },
+    {
+      "id": "saigon-current",
+      "country": "VN-saigon-current",
+      "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city/",
+      "retrievedAt": "2026-11-14T05:45:27.520823+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "287de560dbb61277f3484cc7a2a647004371ec1169441c1185d0e6f4e58604dd",
+      "status": "downloaded",
+      "textFile": "saigon-current.txt"
+    },
+    {
+      "id": "saigon-dongkhoi",
+      "country": "VN-saigon-dongkhoi",
+      "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+      "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html"
+    },
+    {
+      "id": "saigon-study",
+      "country": "VN-saigon-study",
+      "url": "https://viet-studies.com/kinhte/ChangingStreetNames_2013.pdf",
+      "retrievedAt": "2026-11-14T05:45:27.519965+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "status": "failed",
+      "error": "465 Client Error:  for url: https://viet-studies.com/kinhte/ChangingStreetNames_2013.pdf"
+    },
+    {
+      "id": "pretoria",
+      "country": "ZA-extra",
+      "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+      "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+      "status": "downloaded",
+      "textFile": "pretoria.txt"
+    },
+    {
+      "id": "johannesburg",
+      "country": "ZA-extra",
+      "url": "https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf",
+      "retrievedAt": "2026-11-14T05:30:15.809699+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "602b378b7714ab0d089de18d1d2a912f01115e8f04fba94671e5b13b18038817",
+      "status": "downloaded",
+      "textFile": "johannesburg.txt"
+    },
+    {
+      "id": "durban",
+      "country": "ZA",
+      "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+      "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+      "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+      "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+      "status": "downloaded",
+      "textFile": "durban.txt"
+    }
+  ],
+  "reviewRecords": [
+    {
+      "id": "d47725489cc46331",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Червоногвардійська та провулок Червоногвардійський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "afa63f11e00eba7e",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Червоногвардійська та провулок Червоногвардійський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "5ea3a53f1c71d5fc",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Краснодонська та провулок Краснодонський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "f83f55587992d3cb",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Невська та провулок Невський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "1124787eb28a23f3",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Шаумяна та провулок Шаумяна",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "ecc6e917c1f18934",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Волзька та провулок Волзький",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "3a8a86eae4fbaa53",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Москвіна та провулок Москвіна",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "6bb248be0b29d688",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Пролетарська та провулок Пролетарський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "e67308ffc134e5dc",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Псковська та провулок Псковський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "3616d3d06a5cc825",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця П’ятигорська та провулок П’ятигорський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "18d031dc04b5387b",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Тихорецька та провулок Тихорецький",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "b3d0d132b43508cb",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Уральська та провулок Уральський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "adc8d2ba701439db",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Лермонтова та провулок Лермонтова 1-й",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "73a6a226dff73899",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Тимірязєвська та провулок Тимірязєвський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "d5666110ce9e2455",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Оранжерейна (частина між",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "822a127e9b0eb665",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Ставропольська та провулок Ставропольський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "e9dc8e2b880d8510",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Уссурійська та провулок Уссурійський",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "ac5cdfb16c69f276",
+      "country": "UA",
+      "city": "Київ",
+      "formerName": "вулиця Чаплигіна та провулок Чаплигіна",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "610a41a9e16ac9eb",
+      "country": "ZA",
+      "city": "Durban",
+      "formerName": "Albert Street",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "99df0a6eb447ca87",
+      "country": "ZA",
+      "city": "Durban",
+      "formerName": "First Ave + Stamfordhill Road",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "95d67bdb2e3eb1ab",
+      "country": "ZA",
+      "city": "Durban",
+      "formerName": "Cowey & Edith Benson Road",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "c4fae1a7ca282929",
+      "country": "ZA",
+      "city": "Durban",
+      "formerName": "Masonic Grove",
+      "reason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+    },
+    {
+      "id": "c4de1961623e15ce",
+      "country": "VN",
+      "city": "Hồ Chí Minh City",
+      "formerName": "Nguyễn Hoàng",
+      "reason": "Historical mapping found; independent current-name confirmation not completed."
+    },
+    {
+      "id": "3ee9d2a1d524a97d",
+      "country": "VN",
+      "city": "Hồ Chí Minh City",
+      "formerName": "Thống Nhất",
+      "reason": "Historical mapping found; independent current-name confirmation not completed."
+    },
+    {
+      "id": "27e485924f86a6e0",
+      "country": "IN",
+      "city": "Chennai",
+      "formerName": "Mount Road",
+      "reason": "Source search indexed Mount Road (Anna Salai), but downloaded PDF extraction did not retain the exact paired entry; awaiting visual review."
+    }
+  ],
+  "limitations": [
+    "No exhaustive national coverage claim.",
+    "Map links are name searches, not verified geometries or coordinates.",
+    "No house-number carryover claimed.",
+    "Current national registers and OSM object history not reconciled.",
+    "Historical district names are retained from source documents.",
+    "Interface translations generated in this run; native-speaker review pending.",
+    "OCR automation and general GIS reconciliation not implemented; unclear rows excluded.",
+    "Site deployed privately by default; public crawling and FindOldStreet.com DNS are not configured."
+  ]
+}

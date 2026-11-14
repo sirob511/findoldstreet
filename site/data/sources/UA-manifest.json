@@ -1,0 +1,12 @@
+[
+  {
+    "id": "kyiv",
+    "country": "UA",
+    "url": "https://minio.kyivcity.gov.ua/kyivcity/sites/21/uploaded-files/Perelik%20pereimenovanykh%20u%202014-2025%20rokakh%20vulyts%20mista%20Kyieva.pdf",
+    "retrievedAt": "2026-11-14T05:29:14.327562+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "e7ecaf723d144dffaf3203d96a38e773782c5c05788a704e4dfc1d2a0087cbd1",
+    "status": "downloaded",
+    "textFile": "kyiv.txt"
+  }
+]

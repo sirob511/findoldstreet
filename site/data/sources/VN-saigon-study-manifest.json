@@ -1,0 +1,11 @@
+[
+  {
+    "id": "saigon-study",
+    "country": "VN-saigon-study",
+    "url": "https://viet-studies.com/kinhte/ChangingStreetNames_2013.pdf",
+    "retrievedAt": "2026-11-14T05:45:27.519965+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "465 Client Error:  for url: https://viet-studies.com/kinhte/ChangingStreetNames_2013.pdf"
+  }
+]

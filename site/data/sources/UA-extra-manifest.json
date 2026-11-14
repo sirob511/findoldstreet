@@ -1,0 +1,11 @@
+[
+  {
+    "id": "lviv-region",
+    "country": "UA-extra",
+    "url": "https://loda.gov.ua/documents/111760",
+    "retrievedAt": "2026-11-14T05:30:11.099322+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://loda.gov.ua/documents/111760"
+  }
+]

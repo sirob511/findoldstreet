@@ -1,0 +1,2458 @@
+[
+  {
+    "id": "9ea84a1f4c310b57",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Smith Street",
+    "currentName": "Anton Lembede",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Smith Street",
+        "currentName": "Anton Lembede",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 2, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Anton Lembede, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "6be464e4db99d214",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Brickfield Road",
+    "currentName": "Felix Dlamini",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Brickfield Road",
+        "currentName": "Felix Dlamini",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 2, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Felix Dlamini, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ae4a280e2363a5b3",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Point Road",
+    "currentName": "Mahatma Gandhi",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Point Road",
+        "currentName": "Mahatma Gandhi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 2, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Mahatma Gandhi, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a590c773494285b3",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Old Fort Place",
+    "currentName": "Archie Gumede",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Old Fort Place",
+        "currentName": "Archie Gumede",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 3, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Archie Gumede, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e77ae016c251edf1",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Prince Alfred Street",
+    "currentName": "Florence Nzama",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Prince Alfred Street",
+        "currentName": "Florence Nzama",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 3, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Florence Nzama, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "f4540541f4167d0c",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Victoria Embankment",
+    "currentName": "Margaret Mncadi Ave",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Victoria Embankment",
+        "currentName": "Margaret Mncadi Ave",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 3, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Margaret Mncadi Ave, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ed6375ed689f8d8d",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Victoria Street",
+    "currentName": "Bertha Mkhize",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Victoria Street",
+        "currentName": "Bertha Mkhize",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 4, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Bertha Mkhize, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "610a41a9e16ac9eb",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Albert Street",
+    "currentName": "lngrunce",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Albert Street",
+        "currentName": "lngrunce",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 4, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "lngrunce, Durban",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+  },
+  {
+    "id": "3e8f7e2f8f98a049",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "NMR Ave",
+    "currentName": "Masabalala Yengwa",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "NMR Ave",
+        "currentName": "Masabalala Yengwa",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 4, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Masabalala Yengwa, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bc44c7be4450418e",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Ordinance Road",
+    "currentName": "Bram Fischer",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Ordinance Road",
+        "currentName": "Bram Fischer",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 5, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Bram Fischer, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0a3b77f59b135944",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Walter Gilbert Street",
+    "currentName": "Isaiah Ntshangase",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Walter Gilbert Street",
+        "currentName": "Isaiah Ntshangase",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 5, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Isaiah Ntshangase, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a2b312178a0a27a8",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Fisher Street",
+    "currentName": "Masobiya Mdluli",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Fisher Street",
+        "currentName": "Masobiya Mdluli",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 5, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Masobiya Mdluli, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "60260c6dacddd93b",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Beatrice Street",
+    "currentName": "Charlotte Maxeke",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Beatrice Street",
+        "currentName": "Charlotte Maxeke",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 6, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Charlotte Maxeke, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "8c06b6bcf970ee74",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Field Street",
+    "currentName": "Joe Slovo",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Field Street",
+        "currentName": "Joe Slovo",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 6, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Joe Slovo, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "99df0a6eb447ca87",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "First Ave + Stamfordhill Road",
+    "currentName": "Mathews Meyiwa",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "First Ave + Stamfordhill Road",
+        "currentName": "Mathews Meyiwa",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 6, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Mathews Meyiwa, Durban",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+  },
+  {
+    "id": "c07abf95e192941e",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Moore Road",
+    "currentName": "Che Guevara",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Moore Road",
+        "currentName": "Che Guevara",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 7, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Che Guevara, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5baf7fabf0ccd027",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Sydenham Road",
+    "currentName": "John Zikhali",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Sydenham Road",
+        "currentName": "John Zikhali",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 7, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "John Zikhali, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "cb1aaa23beaf19d0",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Pine Street",
+    "currentName": "Monty Naicker Road",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Pine Street",
+        "currentName": "Monty Naicker Road",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 7, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Monty Naicker Road, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b70d2d5aa80093a2",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Old Dutch Road",
+    "currentName": "Chris Ntuli",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Old Dutch Road",
+        "currentName": "Chris Ntuli",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 8, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Chris Ntuli, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "8d5c5ecfea33f5e3",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Russel Street",
+    "currentName": "Joseph Nduli",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Russel Street",
+        "currentName": "Joseph Nduli",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 8, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Joseph Nduli, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "69cff64bdc6fa861",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Marine Parade",
+    "currentName": "OR Tambo",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Marine Parade",
+        "currentName": "OR Tambo",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 8, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "OR Tambo, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b0676c1db71faa57",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Leopold Street",
+    "currentName": "David Webster",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Leopold Street",
+        "currentName": "David Webster",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 9, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "David Webster, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "99a061fb3f9aee0b",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Warwick Avenue",
+    "currentName": "Julius Nyerere",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Warwick Avenue",
+        "currentName": "Julius Nyerere",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 9, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Julius Nyerere, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1e134e92e527812f",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "North Ridge Road",
+    "currentName": "Peter Mokaba Rd",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "North Ridge Road",
+        "currentName": "Peter Mokaba Rd",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 9, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Peter Mokaba Rd, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d40cd10ce2667e76",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Queen Street",
+    "currentName": "Denis Hurley",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Queen Street",
+        "currentName": "Denis Hurley",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 10, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Denis Hurley, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0b38cf8f7f7f502d",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Old Fort Road",
+    "currentName": "KE Masinga",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Old Fort Road",
+        "currentName": "KE Masinga",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 10, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "KE Masinga, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1d7784ac106d1df0",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Ridge Road",
+    "currentName": "Peter Mokaba Ridge",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Ridge Road",
+        "currentName": "Peter Mokaba Ridge",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 10, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Peter Mokaba Ridge, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e8322450d178627f",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Gardiner Street",
+    "currentName": "Dorothy Nyembe",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Gardiner Street",
+        "currentName": "Dorothy Nyembe",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 11, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dorothy Nyembe, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d768ddb24704a749",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Williams Road",
+    "currentName": "Khuzimpi Shezi",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Williams Road",
+        "currentName": "Khuzimpi Shezi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 11, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Khuzimpi Shezi, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "95d67bdb2e3eb1ab",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Cowey & Edith Benson Road",
+    "currentName": "Problem Mkhize",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Cowey & Edith Benson Road",
+        "currentName": "Problem Mkhize",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 11, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Problem Mkhize, Durban",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+  },
+  {
+    "id": "964157f411bfc030",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Prince Edward",
+    "currentName": "Dr Goonam",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Prince Edward",
+        "currentName": "Dr Goonam",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 12, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dr Goonam, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "eb4fafc9e79e6c44",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Berea Road (North)",
+    "currentName": "King Dinuzulu (North)",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Berea Road (North)",
+        "currentName": "King Dinuzulu (North)",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 12, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "King Dinuzulu (North), Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1a65f4ad91265cab",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Stanley Copley Drive",
+    "currentName": "RD Naidu",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Stanley Copley Drive",
+        "currentName": "RD Naidu",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 12, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "RD Naidu, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e204d07db6e40f42",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Winder Street",
+    "currentName": "Dr Langalibalele Dube",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Winder Street",
+        "currentName": "Dr Langalibalele Dube",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 13, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dr Langalibalele Dube, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "dac316b32e464db8",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Berea Road (South)",
+    "currentName": "King Dinuzulu (South)",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Berea Road (South)",
+        "currentName": "King Dinuzulu (South)",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 13, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "King Dinuzulu (South), Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "02c84dead6c77df8",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Aliwal Street",
+    "currentName": "Samora Machel",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Aliwal Street",
+        "currentName": "Samora Machel",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 13, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Samora Machel, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "800464396154b438",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "West Street",
+    "currentName": "Dr Pixley KaSeme",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "West Street",
+        "currentName": "Dr Pixley KaSeme",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 14, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dr Pixley KaSeme, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1c56e4a050d3f035",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Manning Road",
+    "currentName": "Lena Ahrens",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Manning Road",
+        "currentName": "Lena Ahrens",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 14, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Lena Ahrens, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7d2942bbf6261634",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Argyle Road",
+    "currentName": "Sandile Thusi",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Argyle Road",
+        "currentName": "Sandile Thusi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 14, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Sandile Thusi, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "93d60745fd32b05a",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Grey Street",
+    "currentName": "Dr Yusuf Dadoo",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Grey Street",
+        "currentName": "Dr Yusuf Dadoo",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 15, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dr Yusuf Dadoo, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ef62ce63eaa743b3",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Windermere Road",
+    "currentName": "Lillian Ngoyi",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Windermere Road",
+        "currentName": "Lillian Ngoyi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 15, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Lillian Ngoyi, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "66cc2ef9c3884c2d",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Goble Road",
+    "currentName": "Smiso Nkwanyana",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Goble Road",
+        "currentName": "Smiso Nkwanyana",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 15, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Smiso Nkwanyana, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "c4fae1a7ca282929",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Masonic Grove",
+    "currentName": "Dullar Omar",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Masonic Grove",
+        "currentName": "Dullar Omar",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 16, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Dullar Omar, Durban",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null,
+    "reviewReason": "Combined objects, ambiguous spelling or segment identity requires manual review."
+  },
+  {
+    "id": "4ad86bb790906c10",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Centenary Road",
+    "currentName": "MLSultan",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Centenary Road",
+        "currentName": "MLSultan",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 16, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "MLSultan, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "46c27d7a5f090d90",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Essenwood Road",
+    "currentName": "Stephen Dlamini",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Essenwood Road",
+        "currentName": "Stephen Dlamini",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 16, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Stephen Dlamini, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b2cef905892152e2",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Frere Road",
+    "currentName": "Esther Roberts",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Frere Road",
+        "currentName": "Esther Roberts",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 17, pair 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Esther Roberts, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "8f4a6885811dead7",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Gale Street",
+    "currentName": "Magwaza Maphalala",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Gale Street",
+        "currentName": "Magwaza Maphalala",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 17, pair 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Magwaza Maphalala, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0d392360ecdcef6f",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Mansfield Road",
+    "currentName": "Steve Biko",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Mansfield Road",
+        "currentName": "Steve Biko",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, table row 17, pair 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Steve Biko, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1ad8a93c7a2cbcb4",
+    "country": "ZA",
+    "city": "Durban",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Brickhill Road",
+    "currentName": "Sylvester Ntuli",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Brickhill Road",
+        "currentName": "Sylvester Ntuli",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "documentNumber": null,
+        "locator": "Printed page 5, final row"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+        "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+        "title": "durban",
+        "id": "durban"
+      }
+    ],
+    "mapQuery": "Sylvester Ntuli, Durban",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d28c8e5439f4dd45",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Proes Street",
+    "currentName": "Johannes Ramokgoase Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Proes Street",
+        "currentName": "Johannes Ramokgoase Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Johannes Ramokgoase Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d9ebf173ec4f30a9",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Vermeulen Street",
+    "currentName": "Madiba Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Vermeulen Street",
+        "currentName": "Madiba Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Madiba Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "bf174fc3d970ec36",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Schoeman Street",
+    "currentName": "Francis Baard Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Schoeman Street",
+        "currentName": "Francis Baard Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Francis Baard Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ca91a8fa34a93a28",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Skinner Street",
+    "currentName": "Nana Sita Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Skinner Street",
+        "currentName": "Nana Sita Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Nana Sita Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "81b544fa9bd3271e",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Andries Street",
+    "currentName": "Thabo Sehume Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Andries Street",
+        "currentName": "Thabo Sehume Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Thabo Sehume Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "18bd9fe40090caad",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Prinsloo Street",
+    "currentName": "Sisulu Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Prinsloo Street",
+        "currentName": "Sisulu Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Sisulu Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1d92a2a933aea068",
+    "country": "ZA",
+    "city": "Pretoria",
+    "district": "CBD",
+    "streetType": "street",
+    "formerName": "Van der Walt Street",
+    "currentName": "Lilian Ngoyi Street",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "Van der Walt Street",
+        "currentName": "Lilian Ngoyi Street",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "documentNumber": null,
+        "locator": "PDF page 1, labelled central street map"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+        "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+        "title": "pretoria",
+        "id": "pretoria"
+      }
+    ],
+    "mapQuery": "Lilian Ngoyi Street, Pretoria",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e9cb5c8052bdae4d",
+    "country": "ZA",
+    "city": "Johannesburg",
+    "district": null,
+    "streetType": "street",
+    "formerName": "William Nicol Drive",
+    "currentName": "Winnie Mandela Drive",
+    "language": "en",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "William Nicol Drive",
+        "currentName": "Winnie Mandela Drive",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf",
+        "documentNumber": null,
+        "locator": "Integrated Annual Report 2023/24, event table: William Nicol Drive re-named",
+        "ceremonyDate": "2023-09-26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf",
+        "retrievedAt": "2026-11-14T05:30:15.809699+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "602b378b7714ab0d089de18d1d2a912f01115e8f04fba94671e5b13b18038817",
+        "title": "johannesburg",
+        "id": "johannesburg"
+      }
+    ],
+    "mapQuery": "Winnie Mandela Drive, Johannesburg",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  }
+]

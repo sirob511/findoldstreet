@@ -1,0 +1,12 @@
+[
+  {
+    "id": "almaty2018",
+    "country": "KZ-final",
+    "url": "https://old.adilet.zan.kz/rus/docs/V18R0001521",
+    "retrievedAt": "2026-11-14T05:39:47.623916+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "9ef9b0c7e637c91484c05d6a818a1313449ab3244369305ec382c4b5ccff6b1b",
+    "status": "downloaded",
+    "textFile": "almaty2018.txt"
+  }
+]

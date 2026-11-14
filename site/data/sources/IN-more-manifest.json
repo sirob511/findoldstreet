@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kartavya-pib",
+    "country": "IN-more",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857900&lang=2&reg=48",
+    "retrievedAt": "2026-11-14T05:39:09.750161+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "5d55c164b51b3776d444b2cc6f6896c2e8ad13ef6ecc6044770a2e1cc74e97ca",
+    "status": "downloaded",
+    "textFile": "kartavya-pib.txt"
+  },
+  {
+    "id": "delhi2017",
+    "country": "IN-more",
+    "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/Council%20Meeting%20No%2015-2016-2017-V-I.pdf",
+    "retrievedAt": "2026-11-14T05:39:12.216355+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "0ec58b112bd0bbdacd99a872240ce050f0e191a8742ca513ce08f19e0a2ccc99",
+    "status": "downloaded",
+    "textFile": "delhi2017.txt"
+  }
+]

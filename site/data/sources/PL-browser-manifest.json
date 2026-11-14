@@ -1,0 +1,13 @@
+[
+  {
+    "id": "krakow-law",
+    "country": "PL-final",
+    "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+    "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "downloaded",
+    "retrievalMethod": "browser extraction, manually transcribed facts",
+    "textFile": "krakow-law-transcription.json",
+    "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845"
+  }
+]

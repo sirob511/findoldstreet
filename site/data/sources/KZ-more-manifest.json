@@ -1,0 +1,12 @@
+[
+  {
+    "id": "almaty-amend",
+    "country": "KZ-more",
+    "url": "https://old.adilet.zan.kz/rus/docs/V19R0001523",
+    "retrievedAt": "2026-11-14T05:39:09.747021+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "5554b55eb032cff04c53b3b52e51af4da226e05ad07e2a3d3040f694f7fb010f",
+    "status": "downloaded",
+    "textFile": "almaty-amend.txt"
+  }
+]

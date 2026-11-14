@@ -1,0 +1,3557 @@
+[
+  {
+    "id": "ddc64e0caccca3b9",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Białołęka",
+    "streetType": "ulica",
+    "formerName": "ulica Anastazego Kowalczyka",
+    "currentName": "ulica Jana Kowalczyka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. J. Kowalczyka"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Anastazego Kowalczyka",
+        "currentName": "ulica Jana Kowalczyka",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1359/2017",
+        "locator": "zmiany row 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica Jana Kowalczyka, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "f99ed7a53c4c8015",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bemowo",
+    "streetType": "ulica",
+    "formerName": "ulica Jana Kędzierskiego",
+    "currentName": "ulica Apoloniusza Kędzierskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. A. Kędzierskiego"
+    ],
+    "transliterations": [
+      "ulica Jana Kedzierskiego",
+      "ulica Apoloniusza Kedzierskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Jana Kędzierskiego",
+        "currentName": "ulica Apoloniusza Kędzierskiego",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1360/2017",
+        "locator": "zmiany row 4"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica Apoloniusza Kędzierskiego, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5c7b223392f978c8",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bielany",
+    "streetType": "ulica",
+    "formerName": "ulica Lucjana Rudnickiego",
+    "currentName": "ulica gen. Klemensa Stanisława Rudnickiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. gen. K. S. Rudnickiego"
+    ],
+    "transliterations": [
+      "ulica gen. Klemensa Stanislawa Rudnickiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Lucjana Rudnickiego",
+        "currentName": "ulica gen. Klemensa Stanisława Rudnickiego",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1361/2017",
+        "locator": "zmiany row 5"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica gen. Klemensa Stanisława Rudnickiego, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ea47c623691afafa",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Targówek",
+    "streetType": "ulica",
+    "formerName": "ulica Gustawa Reichera",
+    "currentName": "ulica Michała Reichera",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. M. Reichera"
+    ],
+    "transliterations": [
+      "ulica Michala Reichera"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Gustawa Reichera",
+        "currentName": "ulica Michała Reichera",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1362/2017",
+        "locator": "zmiany row 6"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica Michała Reichera, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7ca647dabc6f32b2",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Juliana Bruna",
+    "currentName": "ulica Giordana Bruna",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. G. Bruna"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Juliana Bruna",
+        "currentName": "ulica Giordana Bruna",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1363/2017",
+        "locator": "zmiany row 7"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica Giordana Bruna, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5373d14e1013aec1",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursynów",
+    "streetType": "ulica",
+    "formerName": "ulica Józefa Feliksa Ciszewskiego",
+    "currentName": "ulica Jana Ciszewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ul. J. Ciszewskiego"
+    ],
+    "transliterations": [
+      "ulica Jozefa Feliksa Ciszewskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Józefa Feliksa Ciszewskiego",
+        "currentName": "ulica Jana Ciszewskiego",
+        "date": "2017-10-04",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "documentNumber": "LIV/1364/2017",
+        "locator": "zmiany row 8"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+        "title": "warsaw1",
+        "id": "warsaw1"
+      }
+    ],
+    "mapQuery": "ulica Jana Ciszewskiego, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7d1b7d463ed5869e",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bielany",
+    "streetType": "ulica",
+    "formerName": "ulica Stanisława Kasznicy",
+    "currentName": "ulica Józefa Balcerzaka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Józefa Balcerzaka",
+      "ulica Stanisława Kasznicy"
+    ],
+    "transliterations": [
+      "ulica Jozefa Balcerzaka",
+      "ulica Stanislawa Kasznicy"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Józefa Balcerzaka",
+        "currentName": "ulica Stanisława Kasznicy",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10128",
+        "locator": "orzeczenia row 5"
+      },
+      {
+        "formerName": "ulica Stanisława Kasznicy",
+        "currentName": "ulica Józefa Balcerzaka",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2655/18",
+        "locator": "orzeczenia row 5"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Józefa Balcerzaka, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "797f3d9b7f747599",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Targówek",
+    "streetType": "ulica",
+    "formerName": "ulica Mjr Mariana Bernaciaka „Orlika”",
+    "currentName": "ulica Henryka Sternhela",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Henryka Sternhela",
+      "ulica Mjr Mariana Bernaciaka „Orlika”"
+    ],
+    "transliterations": [
+      "ulica Mjr Mariana Bernaciaka ,,Orlika\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Henryka Sternhela",
+        "currentName": "ulica Mjr Mariana Bernaciaka „Orlika”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10110",
+        "locator": "orzeczenia row 6"
+      },
+      {
+        "formerName": "ulica Mjr Mariana Bernaciaka „Orlika”",
+        "currentName": "ulica Henryka Sternhela",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2837/18",
+        "locator": "orzeczenia row 6"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Henryka Sternhela, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7cfa4c197a43dcc9",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Włochy",
+    "streetType": "ulica",
+    "formerName": "ulica 17 Stycznia",
+    "currentName": "ulica Komitetu Obrony Robotników",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica 17 Stycznia",
+      "ulica Komitetu Obrony Robotników"
+    ],
+    "transliterations": [
+      "ulica Komitetu Obrony Robotnikow"
+    ],
+    "events": [
+      {
+        "formerName": "ulica 17 Stycznia",
+        "currentName": "ulica Komitetu Obrony Robotników",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10140",
+        "locator": "orzeczenia row 7"
+      },
+      {
+        "formerName": "ulica Komitetu Obrony Robotników",
+        "currentName": "ulica 17 Stycznia",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2879/18",
+        "locator": "orzeczenia row 7"
+      },
+      {
+        "formerName": "ulica 17 Stycznia",
+        "currentName": "ulica Komitetu Obrony Robotników",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/387/2019 ",
+        "locator": "orzeczenia row 7"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Komitetu Obrony Robotników, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e99090ebce58f7e2",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Śródmieście",
+    "streetType": "Aleja",
+    "formerName": "ulica Lecha Kaczyńskiego",
+    "currentName": "Aleja Armii Ludowej",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "Aleja Armii Ludowej",
+      "ulica Lecha Kaczyńskiego"
+    ],
+    "transliterations": [
+      "ulica Lecha Kaczynskiego"
+    ],
+    "events": [
+      {
+        "formerName": "Aleja Armii Ludowej",
+        "currentName": "ulica Lecha Kaczyńskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10139",
+        "locator": "orzeczenia row 8"
+      },
+      {
+        "formerName": "ulica Lecha Kaczyńskiego",
+        "currentName": "Aleja Armii Ludowej",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2642/18",
+        "locator": "orzeczenia row 8"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "Aleja Armii Ludowej, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "27f56e0f509eace1",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bemowo",
+    "streetType": "ulica",
+    "formerName": "ulica Płk Władysława Beliny-Prażmowskiego",
+    "currentName": "ulica Michała Sobczaka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Michała Sobczaka",
+      "ulica Płk Władysława Beliny-Prażmowskiego"
+    ],
+    "transliterations": [
+      "ulica Michala Sobczaka",
+      "ulica Plk Wladyslawa Beliny-Prazmowskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Michała Sobczaka",
+        "currentName": "ulica Płk Władysława Beliny-Prażmowskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10146",
+        "locator": "orzeczenia row 9"
+      },
+      {
+        "formerName": "ulica Płk Władysława Beliny-Prażmowskiego",
+        "currentName": "ulica Michała Sobczaka",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2677/18",
+        "locator": "orzeczenia row 9"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Michała Sobczaka, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "778cb9d4a968f2c0",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Białołęka",
+    "streetType": "ulica",
+    "formerName": "ulica Władysława Poboga - Malinowskiego",
+    "currentName": "ulica Natalii Gąsiorowskiej",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Natalii Gąsiorowskiej",
+      "ulica Władysława Poboga - Malinowskiego"
+    ],
+    "transliterations": [
+      "ulica Natalii Gasiorowskiej",
+      "ulica Wladyslawa Poboga - Malinowskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Natalii Gąsiorowskiej",
+        "currentName": "ulica Władysława Poboga - Malinowskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10145",
+        "locator": "orzeczenia row 10"
+      },
+      {
+        "formerName": "ulica Władysława Poboga - Malinowskiego",
+        "currentName": "ulica Natalii Gąsiorowskiej",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2425/18",
+        "locator": "orzeczenia row 10"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Natalii Gąsiorowskiej, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "f2d1f6d85f42b2e7",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wola",
+    "streetType": "ulica",
+    "formerName": "ulica Adama Bienia",
+    "currentName": "ulica Antoniego Dobiszewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Antoniego Dobiszewskiego",
+      "ulica Adama Bienia"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Antoniego Dobiszewskiego",
+        "currentName": "ulica Adama Bienia",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10141",
+        "locator": "orzeczenia row 11"
+      },
+      {
+        "formerName": "ulica Adama Bienia",
+        "currentName": "ulica Antoniego Dobiszewskiego",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2678/18",
+        "locator": "orzeczenia row 11"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Antoniego Dobiszewskiego, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "93f7be550ed11fd5",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursynów",
+    "streetType": "ulica",
+    "formerName": "ulica Kazimierza Kardasia „Orkana”",
+    "currentName": "ulica Służby Polsce",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Służby Polsce",
+      "ulica Kazimierza Kardasia „Orkana”"
+    ],
+    "transliterations": [
+      "ulica Sluzby Polsce",
+      "ulica Kazimierza Kardasia ,,Orkana\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Służby Polsce",
+        "currentName": "ulica Kazimierza Kardasia „Orkana”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10106",
+        "locator": "orzeczenia row 12"
+      },
+      {
+        "formerName": "ulica Kazimierza Kardasia „Orkana”",
+        "currentName": "ulica Służby Polsce",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2880/18",
+        "locator": "orzeczenia row 12"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Służby Polsce, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "14eb2f1e35f12023",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wawer",
+    "streetType": "ulica",
+    "formerName": "ulica Sergiusza Piaseckiego",
+    "currentName": "ulica Heleny Wolff",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Heleny Wolff",
+      "ulica Sergiusza Piaseckiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Heleny Wolff",
+        "currentName": "ulica Sergiusza Piaseckiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10111",
+        "locator": "orzeczenia row 13"
+      },
+      {
+        "formerName": "ulica Sergiusza Piaseckiego",
+        "currentName": "ulica Heleny Wolff",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2679/18",
+        "locator": "orzeczenia row 13"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Heleny Wolff, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "db95c47b16f8ddfa",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bielany",
+    "streetType": "ulica",
+    "formerName": "ulica Mjr Adolfa Pilcha „Doliny”",
+    "currentName": "ulica Kazimierza Grodeckiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Kazimierza Grodeckiego1",
+      "ulica Mjr Adolfa Pilcha „Doliny”"
+    ],
+    "transliterations": [
+      "ulica Mjr Adolfa Pilcha ,,Doliny\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Kazimierza Grodeckiego1",
+        "currentName": "ulica Mjr Adolfa Pilcha „Doliny”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10126",
+        "locator": "orzeczenia row 14"
+      },
+      {
+        "formerName": "ulica Mjr Adolfa Pilcha „Doliny”",
+        "currentName": "ulica Kazimierza Grodeckiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2465/18",
+        "locator": "orzeczenia row 14"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Kazimierza Grodeckiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1ccf180b7f0c2d2a",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursynów",
+    "streetType": "ulica",
+    "formerName": "ulica Andrzeja Romockiego „Morro”",
+    "currentName": "ulica Związku Walki Młodych1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Związku Walki Młodych1",
+      "ulica Andrzeja Romockiego „Morro”"
+    ],
+    "transliterations": [
+      "ulica Zwiazku Walki Mlodych1",
+      "ulica Andrzeja Romockiego ,,Morro\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Związku Walki Młodych1",
+        "currentName": "ulica Andrzeja Romockiego „Morro”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10118",
+        "locator": "orzeczenia row 15"
+      },
+      {
+        "formerName": "ulica Andrzeja Romockiego „Morro”",
+        "currentName": "ulica Związku Walki Młodych1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2650/18",
+        "locator": "orzeczenia row 15"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Związku Walki Młodych1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b81bd73ab10f55e0",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Praga-Północ",
+    "streetType": "ulica",
+    "formerName": "ulica Platerówek",
+    "currentName": "ulica Batalionu Platerówek1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Batalionu Platerówek1",
+      "ulica Platerówek"
+    ],
+    "transliterations": [
+      "ulica Batalionu Platerowek1",
+      "ulica Platerowek"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Batalionu Platerówek1",
+        "currentName": "ulica Platerówek",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10136",
+        "locator": "orzeczenia row 16"
+      },
+      {
+        "formerName": "ulica Platerówek",
+        "currentName": "ulica Batalionu Platerówek1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2414/18",
+        "locator": "orzeczenia row 16"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Batalionu Platerówek1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "a69874a556ce9ef3",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bielany",
+    "streetType": "ulica",
+    "formerName": "ulica Józefa Sawy Calińskiego",
+    "currentName": "ulica Antoniego Parola1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Antoniego Parola1",
+      "ulica Józefa Sawy Calińskiego"
+    ],
+    "transliterations": [
+      "ulica Jozefa Sawy Calinskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Antoniego Parola1",
+        "currentName": "ulica Józefa Sawy Calińskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10137",
+        "locator": "orzeczenia row 17"
+      },
+      {
+        "formerName": "ulica Józefa Sawy Calińskiego",
+        "currentName": "ulica Antoniego Parola1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2647/18",
+        "locator": "orzeczenia row 17"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Antoniego Parola1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "089cc220bef13136",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Targówek",
+    "streetType": "ulica",
+    "formerName": "ulica Zbigniewa Stypułkowskiego",
+    "currentName": "ulica Jadwigi i Witolda Kokoszków1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Jadwigi i Witolda Kokoszków1",
+      "ulica Zbigniewa Stypułkowskiego"
+    ],
+    "transliterations": [
+      "ulica Jadwigi i Witolda Kokoszkow1",
+      "ulica Zbigniewa Stypulkowskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Jadwigi i Witolda Kokoszków1",
+        "currentName": "ulica Zbigniewa Stypułkowskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10109",
+        "locator": "orzeczenia row 18"
+      },
+      {
+        "formerName": "ulica Zbigniewa Stypułkowskiego",
+        "currentName": "ulica Jadwigi i Witolda Kokoszków1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2838/18",
+        "locator": "orzeczenia row 18"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Jadwigi i Witolda Kokoszków1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "37b9d784d9a400c7",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursynów",
+    "streetType": "ulica",
+    "formerName": "ulica Rodziny Ulmów",
+    "currentName": "ulica Stanisława Kulczyńskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Stanisława Kulczyńskiego1",
+      "ulica Rodziny Ulmów"
+    ],
+    "transliterations": [
+      "ulica Stanislawa Kulczynskiego1",
+      "ulica Rodziny Ulmow"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Stanisława Kulczyńskiego1",
+        "currentName": "ulica Rodziny Ulmów",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10102",
+        "locator": "orzeczenia row 19"
+      },
+      {
+        "formerName": "ulica Rodziny Ulmów",
+        "currentName": "ulica Stanisława Kulczyńskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2881/18",
+        "locator": "orzeczenia row 19"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Stanisława Kulczyńskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "617df46795056c96",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bemowo",
+    "streetType": "ulica",
+    "formerName": "ulica Gen. Witolda Urbanowicza",
+    "currentName": "ulica gen. Sylwestra Kaliskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica gen. Sylwestra Kaliskiego1",
+      "ulica Gen. Witolda Urbanowicza"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica gen. Sylwestra Kaliskiego1",
+        "currentName": "ulica Gen. Witolda Urbanowicza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10101",
+        "locator": "orzeczenia row 20"
+      },
+      {
+        "formerName": "ulica Gen. Witolda Urbanowicza",
+        "currentName": "ulica gen. Sylwestra Kaliskiego1",
+        "date": "2019-04-10",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2925/18",
+        "locator": "orzeczenia row 20"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica gen. Sylwestra Kaliskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "9f1dbf6962abd890",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Żoliborz",
+    "streetType": "ulica",
+    "formerName": "ulica Ppłk. Macieja Kalenkiewicza ,,Kotwicza”",
+    "currentName": "ulica Stanisława Tołwińskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Stanisława Tołwińskiego1",
+      "ulica Ppłk. Macieja Kalenkiewicza ,,Kotwicza”"
+    ],
+    "transliterations": [
+      "ulica Stanislawa Tolwinskiego1",
+      "ulica Pplk. Macieja Kalenkiewicza ,,Kotwicza\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Stanisława Tołwińskiego1",
+        "currentName": "ulica Ppłk. Macieja Kalenkiewicza ,,Kotwicza”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10103",
+        "locator": "orzeczenia row 21"
+      },
+      {
+        "formerName": "ulica Ppłk. Macieja Kalenkiewicza ,,Kotwicza”",
+        "currentName": "ulica Stanisława Tołwińskiego1",
+        "date": "2019-04-03",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2680/18",
+        "locator": "orzeczenia row 21"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Stanisława Tołwińskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "2f8125cb6f3b9f01",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Targówek",
+    "streetType": "ulica",
+    "formerName": "ulica Ks. Władysława Gurgacza",
+    "currentName": "ulica Mieczysława Fersta1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Mieczysława Fersta1",
+      "ulica Ks. Władysława Gurgacza"
+    ],
+    "transliterations": [
+      "ulica Mieczyslawa Fersta1",
+      "ulica Ks. Wladyslawa Gurgacza"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Mieczysława Fersta1",
+        "currentName": "ulica Ks. Władysława Gurgacza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10147",
+        "locator": "orzeczenia row 22"
+      },
+      {
+        "formerName": "ulica Ks. Władysława Gurgacza",
+        "currentName": "ulica Mieczysława Fersta1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2427/18",
+        "locator": "orzeczenia row 22"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Mieczysława Fersta1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "b531337cb3ab42c7",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Grażyny Gęsickiej",
+    "currentName": "ulica Heleny Kozłowskiej1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Heleny Kozłowskiej1",
+      "ulica Grażyny Gęsickiej"
+    ],
+    "transliterations": [
+      "ulica Heleny Kozlowskiej1",
+      "ulica Grazyny Gesickiej"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Heleny Kozłowskiej1",
+        "currentName": "ulica Grażyny Gęsickiej",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10117",
+        "locator": "orzeczenia row 23"
+      },
+      {
+        "formerName": "ulica Grażyny Gęsickiej",
+        "currentName": "ulica Heleny Kozłowskiej1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2415/18",
+        "locator": "orzeczenia row 23"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Heleny Kozłowskiej1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "3acbd6d9898daf7e",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bemowo",
+    "streetType": "ulica",
+    "formerName": "ulica Mjr Hieronima Dekutowskiego „Zapory”",
+    "currentName": "ulica ppłk. Wacława Szadkowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica ppłk. Wacława Szadkowskiego1",
+      "ulica Mjr Hieronima Dekutowskiego „Zapory”"
+    ],
+    "transliterations": [
+      "ulica pplk. Waclawa Szadkowskiego1",
+      "ulica Mjr Hieronima Dekutowskiego ,,Zapory\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica ppłk. Wacława Szadkowskiego1",
+        "currentName": "ulica Mjr Hieronima Dekutowskiego „Zapory”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10104",
+        "locator": "orzeczenia row 24"
+      },
+      {
+        "formerName": "ulica Mjr Hieronima Dekutowskiego „Zapory”",
+        "currentName": "ulica ppłk. Wacława Szadkowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2882/18",
+        "locator": "orzeczenia row 24"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica ppłk. Wacława Szadkowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "9e6ad20efd7c069d",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursus",
+    "streetType": "ulica",
+    "formerName": "ulica Żołnierzy II Armii Wojska Polskiego",
+    "currentName": "ulica II Armii Wojska Polskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica II Armii Wojska Polskiego1",
+      "ulica Żołnierzy II Armii Wojska Polskiego"
+    ],
+    "transliterations": [
+      "ulica Zolnierzy II Armii Wojska Polskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica II Armii Wojska Polskiego1",
+        "currentName": "ulica Żołnierzy II Armii Wojska Polskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10135",
+        "locator": "orzeczenia row 25"
+      },
+      {
+        "formerName": "ulica Żołnierzy II Armii Wojska Polskiego",
+        "currentName": "ulica II Armii Wojska Polskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2681/18",
+        "locator": "orzeczenia row 25"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica II Armii Wojska Polskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "e527306382162030",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wola",
+    "streetType": "ulica",
+    "formerName": "ulica Małego Franka",
+    "currentName": "ulica Danuty Siedzikówny „Inki”",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Małego Franka",
+      "ulica Danuty Siedzikówny „Inki”"
+    ],
+    "transliterations": [
+      "ulica Malego Franka",
+      "ulica Danuty Siedzikowny ,,Inki\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Małego Franka",
+        "currentName": "ulica Danuty Siedzikówny „Inki”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10125",
+        "locator": "orzeczenia row 26"
+      },
+      {
+        "formerName": "ulica Danuty Siedzikówny „Inki”",
+        "currentName": "ulica Małego Franka",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2648/18",
+        "locator": "orzeczenia row 26"
+      },
+      {
+        "formerName": "ulica Małego Franka",
+        "currentName": "ulica Danuty Siedzikówny „Inki”",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/384/2019 ",
+        "locator": "orzeczenia row 26"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Danuty Siedzikówny „Inki”, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ac8e51dfd5f703ce",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Praga-Południe",
+    "streetType": "ulica",
+    "formerName": "ulica Żołnierzy 1 Praskiego Pułku WP",
+    "currentName": "ulica 1 Praskiego Pułku WP1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica 1 Praskiego Pułku WP1",
+      "ulica Żołnierzy 1 Praskiego Pułku WP"
+    ],
+    "transliterations": [
+      "ulica 1 Praskiego Pulku WP1",
+      "ulica Zolnierzy 1 Praskiego Pulku WP"
+    ],
+    "events": [
+      {
+        "formerName": "ulica 1 Praskiego Pułku WP1",
+        "currentName": "ulica Żołnierzy 1 Praskiego Pułku WP",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10133",
+        "locator": "orzeczenia row 27"
+      },
+      {
+        "formerName": "ulica Żołnierzy 1 Praskiego Pułku WP",
+        "currentName": "ulica 1 Praskiego Pułku WP1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2653/18",
+        "locator": "orzeczenia row 27"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica 1 Praskiego Pułku WP1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "71bcb50d4c8a318a",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wesoła",
+    "streetType": "ulica",
+    "formerName": "ulica Wincentego Pstrowskiego",
+    "currentName": "ulica Bohaterów z Kopalni „Wujek”",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Wincentego Pstrowskiego",
+      "ulica Bohaterów z kopalni „Wujek”"
+    ],
+    "transliterations": [
+      "ulica Bohaterow z kopalni ,,Wujek\"",
+      "ulica Bohaterow z Kopalni ,,Wujek\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Wincentego Pstrowskiego",
+        "currentName": "ulica Bohaterów z kopalni „Wujek”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10120",
+        "locator": "orzeczenia row 28"
+      },
+      {
+        "formerName": "ulica Bohaterów z kopalni „Wujek”",
+        "currentName": "ulica Wincentego Pstrowskiego",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2839/18",
+        "locator": "orzeczenia row 28"
+      },
+      {
+        "formerName": "ulica Wincentego Pstrowskiego",
+        "currentName": "ulica Bohaterów z Kopalni „Wujek”",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/385/2019 ",
+        "locator": "orzeczenia row 28"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Bohaterów z Kopalni „Wujek”, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "55f114a581464b33",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wesoła",
+    "streetType": "ulica",
+    "formerName": "ulica Anny Walentynowicz",
+    "currentName": "ulica Stanisława Wrońskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Stanisława Wrońskiego1",
+      "ulica Anny Walentynowicz"
+    ],
+    "transliterations": [
+      "ulica Stanislawa Wronskiego1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Stanisława Wrońskiego1",
+        "currentName": "ulica Anny Walentynowicz",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10119",
+        "locator": "orzeczenia row 29"
+      },
+      {
+        "formerName": "ulica Anny Walentynowicz",
+        "currentName": "ulica Stanisława Wrońskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2883/18",
+        "locator": "orzeczenia row 29"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Stanisława Wrońskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0fd684d5e9efe060",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursynów",
+    "streetType": "ulica",
+    "formerName": "ulica Wojciecha Kilara",
+    "currentName": "ulica Jana Wasilkowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Jana Wasilkowskiego1",
+      "ulica Wojciecha Kilara"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Jana Wasilkowskiego1",
+        "currentName": "ulica Wojciecha Kilara",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10129",
+        "locator": "orzeczenia row 30"
+      },
+      {
+        "formerName": "ulica Wojciecha Kilara",
+        "currentName": "ulica Jana Wasilkowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2646/18",
+        "locator": "orzeczenia row 30"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Jana Wasilkowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5e602b9991b8fa1d",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Przemysława Gintrowskiego",
+    "currentName": "ulica Wincentego Rzymowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Wincentego Rzymowskiego1",
+      "ulica Przemysława Gintrowskiego"
+    ],
+    "transliterations": [
+      "ulica Przemyslawa Gintrowskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Wincentego Rzymowskiego1",
+        "currentName": "ulica Przemysława Gintrowskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10123",
+        "locator": "orzeczenia row 31"
+      },
+      {
+        "formerName": "ulica Przemysława Gintrowskiego",
+        "currentName": "ulica Wincentego Rzymowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2666/18",
+        "locator": "orzeczenia row 31"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Wincentego Rzymowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0035d746ec880c03",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wesoła",
+    "streetType": "ulica",
+    "formerName": "ulica Władysława Raczkiewicza",
+    "currentName": "ulica 1 Praskiego Pułku WP1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica 1 Praskiego Pułku WP1",
+      "ulica Władysława Raczkiewicza"
+    ],
+    "transliterations": [
+      "ulica 1 Praskiego Pulku WP1",
+      "ulica Wladyslawa Raczkiewicza"
+    ],
+    "events": [
+      {
+        "formerName": "ulica 1 Praskiego Pułku WP1",
+        "currentName": "ulica Władysława Raczkiewicza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10132",
+        "locator": "orzeczenia row 32"
+      },
+      {
+        "formerName": "ulica Władysława Raczkiewicza",
+        "currentName": "ulica 1 Praskiego Pułku WP1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2426/18",
+        "locator": "orzeczenia row 32"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica 1 Praskiego Pułku WP1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "1c302a9c4627cb61",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Rembertów",
+    "streetType": "ulica",
+    "formerName": "ulica Mjr Tadeusza Furgalskiego „Wyrwy”",
+    "currentName": "ulica Franciszka Ilskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Franciszka Ilskiego1",
+      "ulica Mjr Tadeusza Furgalskiego „Wyrwy”"
+    ],
+    "transliterations": [
+      "ulica Mjr Tadeusza Furgalskiego ,,Wyrwy\""
+    ],
+    "events": [
+      {
+        "formerName": "ulica Franciszka Ilskiego1",
+        "currentName": "ulica Mjr Tadeusza Furgalskiego „Wyrwy”",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10115",
+        "locator": "orzeczenia row 33"
+      },
+      {
+        "formerName": "ulica Mjr Tadeusza Furgalskiego „Wyrwy”",
+        "currentName": "ulica Franciszka Ilskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2682/18",
+        "locator": "orzeczenia row 33"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Franciszka Ilskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "92fce21df4bcc246",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Praga-Południe",
+    "streetType": "ulica",
+    "formerName": "ulica Sylwestra Bartosika",
+    "currentName": "ulica Grzegorza Przemyka",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Sylwestra Bartosika",
+      "ulica Grzegorza Przemyka"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Sylwestra Bartosika",
+        "currentName": "ulica Grzegorza Przemyka",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10122",
+        "locator": "orzeczenia row 34"
+      },
+      {
+        "formerName": "ulica Grzegorza Przemyka",
+        "currentName": "ulica Sylwestra Bartosika",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2645/18",
+        "locator": "orzeczenia row 34"
+      },
+      {
+        "formerName": "ulica Sylwestra Bartosika",
+        "currentName": "ulica Grzegorza Przemyka",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/383/2019 ",
+        "locator": "orzeczenia row 34"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Grzegorza Przemyka, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5ebc4658af908936",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Praga-Północ",
+    "streetType": "ulica",
+    "formerName": "ulica Borysa Sawinkowa",
+    "currentName": "ulica Dąbrowszczaków1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Dąbrowszczaków1",
+      "ulica Borysa Sawinkowa"
+    ],
+    "transliterations": [
+      "ulica Dabrowszczakow1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Dąbrowszczaków1",
+        "currentName": "ulica Borysa Sawinkowa",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10134",
+        "locator": "orzeczenia row 35"
+      },
+      {
+        "formerName": "ulica Borysa Sawinkowa",
+        "currentName": "ulica Dąbrowszczaków1",
+        "date": "2019-04-10",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2926/18",
+        "locator": "orzeczenia row 35"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Dąbrowszczaków1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "9a83fd9b66f3c1f2",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Włochy",
+    "streetType": "ulica",
+    "formerName": "ulica Marka Nowakowskiego",
+    "currentName": "ulica Bolesława Gidzińskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Bolesława Gidzińskiego1",
+      "ulica Marka Nowakowskiego"
+    ],
+    "transliterations": [
+      "ulica Boleslawa Gidzinskiego1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Bolesława Gidzińskiego1",
+        "currentName": "ulica Marka Nowakowskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10143",
+        "locator": "orzeczenia row 36"
+      },
+      {
+        "formerName": "ulica Marka Nowakowskiego",
+        "currentName": "ulica Bolesława Gidzińskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2649/18",
+        "locator": "orzeczenia row 36"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Bolesława Gidzińskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "6808c74bd916603f",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wola",
+    "streetType": "ulica",
+    "formerName": "ulica Olgi Johann",
+    "currentName": "ulica Jana Szałka1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Jana Szałka1",
+      "ulica Olgi Johann"
+    ],
+    "transliterations": [
+      "ulica Jana Szalka1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Jana Szałka1",
+        "currentName": "ulica Olgi Johann",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10114",
+        "locator": "orzeczenia row 37"
+      },
+      {
+        "formerName": "ulica Olgi Johann",
+        "currentName": "ulica Jana Szałka1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2654/18",
+        "locator": "orzeczenia row 37"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Jana Szałka1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "53db98cb3eea4659",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Śródmieście",
+    "streetType": "ulica",
+    "formerName": "ulica Leona Rodala",
+    "currentName": "ulica Edwarda Fondamińskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Edwarda Fondamińskiego1",
+      "ulica Leona Rodala"
+    ],
+    "transliterations": [
+      "ulica Edwarda Fondaminskiego1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Edwarda Fondamińskiego1",
+        "currentName": "ulica Leona Rodala",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10108",
+        "locator": "orzeczenia row 38"
+      },
+      {
+        "formerName": "ulica Leona Rodala",
+        "currentName": "ulica Edwarda Fondamińskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2840/18",
+        "locator": "orzeczenia row 38"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Edwarda Fondamińskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "32f12ebc031bb426",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Bielany",
+    "streetType": "ulica",
+    "formerName": "ulica Teodora Duracza",
+    "currentName": "ulica Zbigniewa Romaszewskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Teodora Duracza",
+      "ulica Zbigniewa Romaszewskiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Teodora Duracza",
+        "currentName": "ulica Zbigniewa Romaszewskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10105",
+        "locator": "orzeczenia row 39"
+      },
+      {
+        "formerName": "ulica Zbigniewa Romaszewskiego",
+        "currentName": "ulica Teodora Duracza",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2884/18",
+        "locator": "orzeczenia row 39"
+      },
+      {
+        "formerName": "ulica Teodora Duracza",
+        "currentName": "ulica Zbigniewa Romaszewskiego",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/386/2019 ",
+        "locator": "orzeczenia row 39"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Zbigniewa Romaszewskiego, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5a493b1f918fc852",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Franciszka Bartoszka",
+    "currentName": "ulica Stanisława Pyjasa",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Franciszka Bartoszka",
+      "ulica Stanisława Pyjasa"
+    ],
+    "transliterations": [
+      "ulica Stanislawa Pyjasa"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Franciszka Bartoszka",
+        "currentName": "ulica Stanisława Pyjasa",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10107",
+        "locator": "orzeczenia row 40"
+      },
+      {
+        "formerName": "ulica Stanisława Pyjasa",
+        "currentName": "ulica Franciszka Bartoszka",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2643/18",
+        "locator": "orzeczenia row 40"
+      },
+      {
+        "formerName": "ulica Franciszka Bartoszka",
+        "currentName": "ulica Stanisława Pyjasa",
+        "date": "2019-08-03",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "nr XV/382/2019 ",
+        "locator": "orzeczenia row 40"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Stanisława Pyjasa, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "9cb2f33d3b4829ad",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Gustawa Szaramowicza",
+    "currentName": "ulica Piotra Gruszczyńskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Piotra Gruszczyńskiego1",
+      "ulica Gustawa Szaramowicza"
+    ],
+    "transliterations": [
+      "ulica Piotra Gruszczynskiego1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Piotra Gruszczyńskiego1",
+        "currentName": "ulica Gustawa Szaramowicza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10131",
+        "locator": "orzeczenia row 41"
+      },
+      {
+        "formerName": "ulica Gustawa Szaramowicza",
+        "currentName": "ulica Piotra Gruszczyńskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2683/18",
+        "locator": "orzeczenia row 41"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Piotra Gruszczyńskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "f4f31b3115d76358",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Rembertów",
+    "streetType": "ulica",
+    "formerName": "ulica Stefana Melaka",
+    "currentName": "ulica Antoniego Kacpury1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Antoniego Kacpury1",
+      "ulica Stefana Melaka"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Antoniego Kacpury1",
+        "currentName": "ulica Stefana Melaka",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10138",
+        "locator": "orzeczenia row 42"
+      },
+      {
+        "formerName": "ulica Stefana Melaka",
+        "currentName": "ulica Antoniego Kacpury1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2651/18",
+        "locator": "orzeczenia row 42"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Antoniego Kacpury1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "5738d9321be0ca88",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wawer",
+    "streetType": "ulica",
+    "formerName": "ulica Gen. Stanisława Bułak – Bałachowicza",
+    "currentName": "ulica Bronisława Wesołowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Bronisława Wesołowskiego1",
+      "ulica Gen. Stanisława Bułak – Bałachowicza"
+    ],
+    "transliterations": [
+      "ulica Bronislawa Wesolowskiego1",
+      "ulica Gen. Stanislawa Bulak - Balachowicza"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Bronisława Wesołowskiego1",
+        "currentName": "ulica Gen. Stanisława Bułak – Bałachowicza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10142",
+        "locator": "orzeczenia row 43"
+      },
+      {
+        "formerName": "ulica Gen. Stanisława Bułak – Bałachowicza",
+        "currentName": "ulica Bronisława Wesołowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2657/18",
+        "locator": "orzeczenia row 43"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Bronisława Wesołowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "39d0fd8b2dea3646",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wesoła",
+    "streetType": "ulica",
+    "formerName": "ulica Zofii Kossak-Szczuckiej",
+    "currentName": "ulica Hanki Sawickiej1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Hanki Sawickiej1",
+      "ulica Zofii Kossak-Szczuckiej"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Hanki Sawickiej1",
+        "currentName": "ulica Zofii Kossak-Szczuckiej",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10116",
+        "locator": "orzeczenia row 44"
+      },
+      {
+        "formerName": "ulica Zofii Kossak-Szczuckiej",
+        "currentName": "ulica Hanki Sawickiej1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2807/18",
+        "locator": "orzeczenia row 44"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Hanki Sawickiej1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "490566f6538a1d0b",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Śródmieście",
+    "streetType": "ulica",
+    "formerName": "ulica Marka Edelmana",
+    "currentName": "ulica Józefa Lewartowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Józefa Lewartowskiego1",
+      "ulica Marka Edelmana"
+    ],
+    "transliterations": [
+      "ulica Jozefa Lewartowskiego1"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Józefa Lewartowskiego1",
+        "currentName": "ulica Marka Edelmana",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10127",
+        "locator": "orzeczenia row 45"
+      },
+      {
+        "formerName": "ulica Marka Edelmana",
+        "currentName": "ulica Józefa Lewartowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2416/18",
+        "locator": "orzeczenia row 45"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Józefa Lewartowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "90be8c3c947efc50",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wola",
+    "streetType": "ulica",
+    "formerName": "ulica Emanuela Szafarczyka",
+    "currentName": "ulica Jana Szymczaka1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Jana Szymczaka1",
+      "ulica Emanuela Szafarczyka"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Jana Szymczaka1",
+        "currentName": "ulica Emanuela Szafarczyka",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10113",
+        "locator": "orzeczenia row 46"
+      },
+      {
+        "formerName": "ulica Emanuela Szafarczyka",
+        "currentName": "ulica Jana Szymczaka1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2644/18",
+        "locator": "orzeczenia row 46"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Jana Szymczaka1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "583e05f85a5f77bd",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Wawer",
+    "streetType": "ulica",
+    "formerName": "ulica Mjr Józefa Jagmina",
+    "currentName": "ulica Romana Pazińskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Romana Pazińskiego1",
+      "ulica Mjr Józefa Jagmina"
+    ],
+    "transliterations": [
+      "ulica Romana Pazinskiego1",
+      "ulica Mjr Jozefa Jagmina"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Romana Pazińskiego1",
+        "currentName": "ulica Mjr Józefa Jagmina",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10124",
+        "locator": "orzeczenia row 47"
+      },
+      {
+        "formerName": "ulica Mjr Józefa Jagmina",
+        "currentName": "ulica Romana Pazińskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2684/18",
+        "locator": "orzeczenia row 47"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Romana Pazińskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0e64e8ea21d0e9d3",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Śródmieście",
+    "streetType": "ulica",
+    "formerName": "ulica Zbigniewa Herberta",
+    "currentName": "ulica Leona Kruczkowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Leona Kruczkowskiego1",
+      "ulica Zbigniewa Herberta"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Leona Kruczkowskiego1",
+        "currentName": "ulica Zbigniewa Herberta",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10144",
+        "locator": "orzeczenia row 48"
+      },
+      {
+        "formerName": "ulica Zbigniewa Herberta",
+        "currentName": "ulica Leona Kruczkowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2656/18",
+        "locator": "orzeczenia row 48"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Leona Kruczkowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "0db5467beb261d92",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Jacka Kaczmarskiego",
+    "currentName": "ulica Zygmunta Modzelewskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Zygmunta Modzelewskiego1",
+      "ulica Jacka Kaczmarskiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Zygmunta Modzelewskiego1",
+        "currentName": "ulica Jacka Kaczmarskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10121",
+        "locator": "orzeczenia row 49"
+      },
+      {
+        "formerName": "ulica Jacka Kaczmarskiego",
+        "currentName": "ulica Zygmunta Modzelewskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2693/18",
+        "locator": "orzeczenia row 49"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Zygmunta Modzelewskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "337fb6d62512eff2",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Mokotów",
+    "streetType": "ulica",
+    "formerName": "ulica Premiera Tomasza Arciszewskiego",
+    "currentName": "ulica Oskara Langego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Oskara Langego1",
+      "ulica Premiera Tomasza Arciszewskiego"
+    ],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ulica Oskara Langego1",
+        "currentName": "ulica Premiera Tomasza Arciszewskiego",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10130",
+        "locator": "orzeczenia row 50"
+      },
+      {
+        "formerName": "ulica Premiera Tomasza Arciszewskiego",
+        "currentName": "ulica Oskara Langego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2417/18",
+        "locator": "orzeczenia row 50"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Oskara Langego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d23aefc284d156af",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Białołęka",
+    "streetType": "ulica",
+    "formerName": "ulica Rtm. Zbigniewa Dunin – Wąsowicza",
+    "currentName": "ulica Henryka Jędrzejowskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Henryka Jędrzejowskiego1",
+      "ulica Rtm. Zbigniewa Dunin – Wąsowicza"
+    ],
+    "transliterations": [
+      "ulica Henryka Jedrzejowskiego1",
+      "ulica Rtm. Zbigniewa Dunin - Wasowicza"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Henryka Jędrzejowskiego1",
+        "currentName": "ulica Rtm. Zbigniewa Dunin – Wąsowicza",
+        "date": "2017-11-10",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 10112",
+        "locator": "orzeczenia row 51"
+      },
+      {
+        "formerName": "ulica Rtm. Zbigniewa Dunin – Wąsowicza",
+        "currentName": "ulica Henryka Jędrzejowskiego1",
+        "date": "2018-12-07",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 2652/18",
+        "locator": "orzeczenia row 51"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Henryka Jędrzejowskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d568e7e3bffe1446",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Rembertów",
+    "streetType": "ulica",
+    "formerName": "ulica Wojciecha Ziembińskiego",
+    "currentName": "ulica Józefa Szymańskiego1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Józefa Szymańskiego1",
+      "ulica Wojciecha Ziembińskiego"
+    ],
+    "transliterations": [
+      "ulica Jozefa Szymanskiego1",
+      "ulica Wojciecha Ziembinskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Józefa Szymańskiego1",
+        "currentName": "ulica Wojciecha Ziembińskiego",
+        "date": "2017-12-13",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 12023",
+        "locator": "orzeczenia row 52"
+      },
+      {
+        "formerName": "ulica Wojciecha Ziembińskiego",
+        "currentName": "ulica Józefa Szymańskiego1",
+        "date": "2019-04-03",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 3079/18",
+        "locator": "orzeczenia row 52"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Józefa Szymańskiego1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "77679075f2994338",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Żoliborz",
+    "streetType": "ulica",
+    "formerName": "ulica Władysława Stasiaka",
+    "currentName": "ulica Krystyny Matysiakówny1",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Krystyny Matysiakówny1",
+      "ulica Władysława Stasiaka"
+    ],
+    "transliterations": [
+      "ulica Krystyny Matysiakowny1",
+      "ulica Wladyslawa Stasiaka"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Krystyny Matysiakówny1",
+        "currentName": "ulica Władysława Stasiaka",
+        "date": "2017-12-13",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 12014",
+        "locator": "orzeczenia row 53"
+      },
+      {
+        "formerName": "ulica Władysława Stasiaka",
+        "currentName": "ulica Krystyny Matysiakówny1",
+        "date": "2019-04-03",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II OSK 3754/18",
+        "locator": "orzeczenia row 53"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Krystyny Matysiakówny1, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "272948348905998a",
+    "country": "PL",
+    "city": "Warszawa",
+    "district": "Ursus",
+    "streetType": "ulica",
+    "formerName": "ulica Ppłk. Wacława Lipińskiego2a",
+    "currentName": "ulica Józefa Chmiela",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [
+      "ulica Józefa Chmiela",
+      "ulica Ppłk. Wacława Lipińskiego2a"
+    ],
+    "transliterations": [
+      "ulica Jozefa Chmiela",
+      "ulica Pplk. Waclawa Lipinskiego2a"
+    ],
+    "events": [
+      {
+        "formerName": "ulica Józefa Chmiela",
+        "currentName": "ulica Ppłk. Wacława Lipińskiego2a",
+        "date": "2017-12-13",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "poz. 12013",
+        "locator": "orzeczenia row 54"
+      },
+      {
+        "formerName": "ulica Ppłk. Wacława Lipińskiego2a",
+        "currentName": "ulica Józefa Chmiela",
+        "date": "2019-01-01",
+        "datePrecision": "day",
+        "status": "reversal",
+        "segment": null,
+        "sourceUrl": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "documentNumber": "II SA/Wa 248/18",
+        "locator": "orzeczenia row 54"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+        "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+        "title": "warsaw2",
+        "id": "warsaw2"
+      }
+    ],
+    "mapQuery": "ulica Józefa Chmiela, Warszawa",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "d448bab64d7b2545",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Emila Dziedzica",
+    "currentName": "ul. Marka Eminowicza",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Emila Dziedzica",
+        "currentName": "ul. Marka Eminowicza",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 1"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. Marka Eminowicza, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "786efb4b89b6a4dc",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Franciszka Kajty",
+    "currentName": "ul. prof. Henryka Wereszyckiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Franciszka Kajty",
+        "currentName": "ul. prof. Henryka Wereszyckiego",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 2"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. prof. Henryka Wereszyckiego, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "cc37a1818bda5218",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Zygmunta Młynarskiego",
+    "currentName": "ul. Marka Nawary",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "ul. Zygmunta Mlynarskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Zygmunta Młynarskiego",
+        "currentName": "ul. Marka Nawary",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. Marka Nawary, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "7434fe9d6bb2510e",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Lucjana Szenwalda",
+    "currentName": "ul. Majora Pilota Stefana Janusa",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Lucjana Szenwalda",
+        "currentName": "ul. Majora Pilota Stefana Janusa",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 4"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. Majora Pilota Stefana Janusa, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "ed4e40215dfb7381",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Janka Szumca",
+    "currentName": "ul. Wiktora Zina",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [],
+    "events": [
+      {
+        "formerName": "ul. Janka Szumca",
+        "currentName": "ul. Wiktora Zina",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 5"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. Wiktora Zina, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "77d4d7eb1de71207",
+    "country": "PL",
+    "city": "Kraków",
+    "district": null,
+    "streetType": "ul.",
+    "formerName": "ul. Jana Szwai",
+    "currentName": "ul. prof. Władysława Konopczyńskiego",
+    "language": "pl",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "ul. prof. Wladyslawa Konopczynskiego"
+    ],
+    "events": [
+      {
+        "formerName": "ul. Jana Szwai",
+        "currentName": "ul. prof. Władysława Konopczyńskiego",
+        "date": "2017-09-21",
+        "datePrecision": "day",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "documentNumber": "LXXXI/1957/17",
+        "locator": "PDF page 1, §1 item 6"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+        "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "17f6a68c94cbd725ae7e611501564a586f0ef8404cc04d6525b6926ed9b4d845",
+        "title": "krakow-law",
+        "id": "krakow-law"
+      }
+    ],
+    "mapQuery": "ul. prof. Władysława Konopczyńskiego, Kraków",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  }
+]

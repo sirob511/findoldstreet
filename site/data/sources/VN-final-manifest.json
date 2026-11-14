@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dalat-history",
+    "country": "VN-final",
+    "url": "https://lamdongdost.gov.vn/bitstream/handle/123456789/354316/KHCN%2003%20%28in%29.pdf?isAllowed=y&sequence=1",
+    "retrievedAt": "2026-11-14T05:41:55.435651+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='lamdongdost.gov.vn', port=443): Max retries exceeded with url: /bitstream/handle/123456789/354316/KHCN%2003%20%28in%29.pdf?isAllowed=y&sequence=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  }
+]

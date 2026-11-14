@@ -1,0 +1,250 @@
+[
+  {
+    "id": "ee723220c6781bd1",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": "Thủ Đức (at time of decision)",
+    "streetType": "street",
+    "formerName": "Xa lộ Hà Nội",
+    "currentName": "Võ Nguyên Giáp",
+    "language": "vi",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Xa lo Ha Noi",
+      "Vo Nguyen Giap"
+    ],
+    "events": [
+      {
+        "formerName": "Xa lộ Hà Nội",
+        "currentName": "Võ Nguyên Giáp",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": "From cầu Sài Gòn to ngã tư Thủ Đức. The remaining Xa lộ Hà Nội is not included.",
+        "sourceUrl": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
+        "documentNumber": null,
+        "locator": "Article: official renaming ceremony, 23 August 2023",
+        "ceremonyDate": "2023-08-23"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tphcm.chinhphu.vn/xa-lo-ha-noi-chinh-thuc-khoac-ten-moi-101230823115413686.htm",
+        "retrievedAt": "2026-11-14T05:30:11.110160+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "8584fa064f3468c12248e8469f947b3e914553228fdeaae2043e8f3150e80959",
+        "title": "hcmc-gov",
+        "id": "hcmc-gov"
+      }
+    ],
+    "mapQuery": "Võ Nguyên Giáp, Hồ Chí Minh City",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": "From cầu Sài Gòn to ngã tư Thủ Đức. The remaining Xa lộ Hà Nội is not included.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "2fb606e51215fca1",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Gia Long",
+    "currentName": "Lý Tự Trọng",
+    "language": "vi",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Ly Tu Trong"
+    ],
+    "events": [
+      {
+        "formerName": "Gia Long",
+        "currentName": "Lý Tự Trọng",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "documentNumber": null,
+        "locator": "Pittman building section; street correspondence; no house-number claim imported"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65",
+        "title": "saigon-dongkhoi",
+        "id": "saigon-dongkhoi"
+      },
+      {
+        "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city/",
+        "retrievedAt": "2026-11-14T05:45:27.520823+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "287de560dbb61277f3484cc7a2a647004371ec1169441c1185d0e6f4e58604dd",
+        "title": "saigon-current",
+        "id": "saigon-current"
+      }
+    ],
+    "mapQuery": "Lý Tự Trọng, Hồ Chí Minh City",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "02d4784a6ce3379d",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": null,
+    "streetType": "street",
+    "formerName": "Tự Do",
+    "currentName": "Đồng Khởi",
+    "language": "vi",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Tu Do",
+      "Dong Khoi"
+    ],
+    "events": [
+      {
+        "formerName": "Tự Do",
+        "currentName": "Đồng Khởi",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "effective",
+        "segment": null,
+        "sourceUrl": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "documentNumber": null,
+        "locator": "Đường Tự Do section"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65",
+        "title": "saigon-dongkhoi",
+        "id": "saigon-dongkhoi"
+      },
+      {
+        "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city/",
+        "retrievedAt": "2026-11-14T05:45:27.520823+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "287de560dbb61277f3484cc7a2a647004371ec1169441c1185d0e6f4e58604dd",
+        "title": "saigon-current",
+        "id": "saigon-current"
+      }
+    ],
+    "mapQuery": "Đồng Khởi, Hồ Chí Minh City",
+    "status": "verified",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "c4de1961623e15ce",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": "Quận 5",
+    "streetType": "street",
+    "formerName": "Nguyễn Hoàng",
+    "currentName": "Trần Phú",
+    "language": "vi",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Nguyen Hoang",
+      "Tran Phu"
+    ],
+    "events": [
+      {
+        "formerName": "Nguyễn Hoàng",
+        "currentName": "Trần Phú",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "documentNumber": null,
+        "locator": "Đường Nguyễn Hoàng section"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65",
+        "title": "saigon-dongkhoi",
+        "id": "saigon-dongkhoi"
+      }
+    ],
+    "mapQuery": "Trần Phú, Hồ Chí Minh City",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "reviewReason": "Historical mapping found; independent current-name confirmation not completed.",
+    "currentStatusVerified": false,
+    "geometry": null
+  },
+  {
+    "id": "3ee9d2a1d524a97d",
+    "country": "VN",
+    "city": "Hồ Chí Minh City",
+    "district": "Quận 1",
+    "streetType": "street",
+    "formerName": "Thống Nhất",
+    "currentName": "Lê Duẩn",
+    "language": "vi",
+    "script": "Latin",
+    "aliases": [],
+    "transliterations": [
+      "Thong Nhat",
+      "Le Duan"
+    ],
+    "events": [
+      {
+        "formerName": "Thống Nhất",
+        "currentName": "Lê Duẩn",
+        "date": null,
+        "datePrecision": "unknown",
+        "status": "review",
+        "segment": null,
+        "sourceUrl": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "documentNumber": null,
+        "locator": "Phủ Thủ tướng section"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/tp-hcm-xua-va-nay-qua-cac-dia-diem-lich-su-nam-1975-4881143.html",
+        "retrievedAt": "2026-11-14T05:45:27.521406+00:00",
+        "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+        "sha256": "9a7289af6f9918581524ac89cff3328aa4a6ed71e5a0c6d145ab0a60a6100f65",
+        "title": "saigon-dongkhoi",
+        "id": "saigon-dongkhoi"
+      }
+    ],
+    "mapQuery": "Lê Duẩn, Hồ Chí Minh City",
+    "status": "review",
+    "currentStatusNote": "Latest name supported by the cited source; live register/geometry reconciliation is not complete.",
+    "houseNumbersVerified": false,
+    "segment": null,
+    "reviewReason": "Historical mapping found; independent current-name confirmation not completed.",
+    "currentStatusVerified": false,
+    "geometry": null
+  }
+]

@@ -1,0 +1,8 @@
+zmiany ROW 1: ["lp.", "dotychczasowa nazwa", "nowa nazwa", null, "dzielnica", "uchwała", null, "Dz. Urz. Woj. Maz.", null, "nowa nazwa"]
+zmiany ROW 2: [null, null, "nazwa pełna", "nazwa skrócona", null, "numer", "data podjęcia", "data publikacji", "pozycja w Dz. Urz. Woj. Maz.", "obowiązuje od"]
+zmiany ROW 3: [1, "ulica Anastazego Kowalczyka", "ulica Jana Kowalczyka", "ul. J. Kowalczyka", "Białołęka", "LIV/1359/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7808, "2017-10-04 00:00:00"]
+zmiany ROW 4: [2, "ulica Jana Kędzierskiego", "ulica Apoloniusza Kędzierskiego", "ul. A. Kędzierskiego", "Bemowo", "LIV/1360/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7809, "2017-10-04 00:00:00"]
+zmiany ROW 5: [3, "ulica Lucjana Rudnickiego", "ulica gen. Klemensa Stanisława Rudnickiego", "ul. gen. K. S. Rudnickiego", "Bielany", "LIV/1361/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7810, "2017-10-04 00:00:00"]
+zmiany ROW 6: [4, "ulica Gustawa Reichera", "ulica Michała Reichera", "ul. M. Reichera", "Targówek", "LIV/1362/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7811, "2017-10-04 00:00:00"]
+zmiany ROW 7: [5, "ulica Juliana Bruna", "ulica Giordana Bruna", "ul. G. Bruna", "Mokotów", "LIV/1363/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7812, "2017-10-04 00:00:00"]
+zmiany ROW 8: [6, "ulica Józefa Feliksa Ciszewskiego", "ulica Jana Ciszewskiego", "ul. J. Ciszewskiego", "Ursynów", "LIV/1364/2017", "2017-08-31 00:00:00", "2017-09-19 00:00:00", 7813, "2017-10-04 00:00:00"]

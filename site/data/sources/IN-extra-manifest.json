@@ -1,0 +1,21 @@
+[
+  {
+    "id": "kartavya",
+    "country": "IN-extra",
+    "url": "https://centralvista.gov.in/central-vista-avenue.php/1000",
+    "retrievedAt": "2026-11-14T05:30:11.107470+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='centralvista.gov.in', port=443): Max retries exceeded with url: /central-vista-avenue.php/1000 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  },
+  {
+    "id": "chennai",
+    "country": "IN-extra",
+    "url": "https://chennaicorporation.gov.in/gcc/images/Chennai%20U%20A%20%20City%20Action%20plan.pdf",
+    "retrievedAt": "2026-11-14T05:30:12.007608+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "7bbe4c626f4a17e3362acf7b39f8ab3d013eebf68ea9ad0889c743e6883c20c2",
+    "status": "downloaded",
+    "textFile": "chennai.txt"
+  }
+]

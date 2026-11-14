@@ -1,0 +1,21 @@
+[
+  {
+    "id": "almaty",
+    "country": "KZ",
+    "url": "https://old.adilet.zan.kz/rus/docs/V24R0002332",
+    "retrievedAt": "2026-11-14T05:29:14.340812+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "2fab82e7e8689e16ec25d60b46963dddb2e82bf68e91a8a8356e830f6d706222",
+    "status": "downloaded",
+    "textFile": "almaty.txt"
+  },
+  {
+    "id": "almaty2019",
+    "country": "KZ",
+    "url": "https://zan.gov.kz/api/documents/127684/rus/download/pdf",
+    "retrievedAt": "2026-11-14T05:29:17.428272+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='zan.gov.kz', port=443): Max retries exceeded with url: /api/documents/127684/rus/download/pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  }
+]

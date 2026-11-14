@@ -1,0 +1,21 @@
+[
+  {
+    "id": "astana",
+    "country": "KZ-extra",
+    "url": "https://old.adilet.zan.kz/rus/docs/G24ABW51124",
+    "retrievedAt": "2026-11-14T05:30:11.100848+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "fb40c67de563cabc245ae77f11a6a0c9ba1a892ebe6241128098ed1f8a37d682",
+    "status": "downloaded",
+    "textFile": "astana.txt"
+  },
+  {
+    "id": "almaty2019alt",
+    "country": "KZ-extra",
+    "url": "https://law.gov.kz/api/documents/127684/rus/download/pdf",
+    "retrievedAt": "2026-11-14T05:30:12.209257+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='law.gov.kz', port=443): Max retries exceeded with url: /api/documents/127684/rus/download/pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  }
+]

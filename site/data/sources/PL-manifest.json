@@ -1,0 +1,22 @@
+[
+  {
+    "id": "warsaw2",
+    "country": "PL",
+    "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx",
+    "retrievedAt": "2026-11-14T05:29:14.328887+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "cf27e8181f4f8c0cbe2d35f4dbd62a7c72d82653eaaf5ce1573f0149ab660697",
+    "status": "downloaded",
+    "textFile": "warsaw2.txt"
+  },
+  {
+    "id": "warsaw1",
+    "country": "PL",
+    "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
+    "retrievedAt": "2026-11-14T05:29:17.305724+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "a27ca90be219e2d13be62c583a7f3c9f927797254fc06603175280c17bd74d76",
+    "status": "downloaded",
+    "textFile": "warsaw1.txt"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "hcmc",
+    "country": "VN",
+    "url": "https://ttbc-hcm.gov.vn/tphcm-doi-ten-xa-lo-ha-noi-thanh-duong-vo-nguyen-giap-1003536.html",
+    "retrievedAt": "2026-11-14T05:29:14.339285+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='ttbc-hcm.gov.vn', port=443): Read timed out. (read timeout=45)"
+  }
+]

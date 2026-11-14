@@ -1,0 +1,11 @@
+[
+  {
+    "id": "krakow-law",
+    "country": "PL-final",
+    "url": "https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf",
+    "retrievedAt": "2026-11-14T05:41:41.578526+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='edziennik.malopolska.uw.gov.pl', port=443): Max retries exceeded with url: /WDU_K/2017/5597/akt.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  }
+]

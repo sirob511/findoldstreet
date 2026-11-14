@@ -1,0 +1,12 @@
+[
+  {
+    "id": "durban",
+    "country": "ZA",
+    "url": "https://visitdurban.travel/storage/Destination%20Durban%20Visitor%20Guide%202025%20web.pdf",
+    "retrievedAt": "2026-11-14T05:29:14.334102+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "7c5424b656d1a8affe8347ca75ea47a73bf398b213563a8617e8148347111348",
+    "status": "downloaded",
+    "textFile": "durban.txt"
+  }
+]

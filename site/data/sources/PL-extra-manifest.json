@@ -1,0 +1,12 @@
+[
+  {
+    "id": "krakow",
+    "country": "PL-extra",
+    "url": "https://www.krakow.pl/aktualnosci/212775,29,komunikat,dekomunizacja_nazw_ulic_w_krakowie.html",
+    "retrievedAt": "2026-11-14T05:30:11.100154+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "3ef93cf277475bd93cef1c7fd5a9bf35ca00c75766955bbe9cb20583a9cf822d",
+    "status": "downloaded",
+    "textFile": "krakow.txt"
+  }
+]

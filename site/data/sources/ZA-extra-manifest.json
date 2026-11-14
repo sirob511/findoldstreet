@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pretoria",
+    "country": "ZA-extra",
+    "url": "https://www.treasury.gov.za/nt/PTA%20Central%20New%20Street%20Names.pdf",
+    "retrievedAt": "2026-11-14T05:30:11.102182+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "dc8d8fa4b687a9935c7d08b355a82e3bf99db745209bac58f026ee791333553a",
+    "status": "downloaded",
+    "textFile": "pretoria.txt"
+  },
+  {
+    "id": "johannesburg",
+    "country": "ZA-extra",
+    "url": "https://joburg.org.za/documents_/Documents/City-of-Johannesburg-Integrated-Annual-Report_2023.24.pdf",
+    "retrievedAt": "2026-11-14T05:30:15.809699+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "602b378b7714ab0d089de18d1d2a912f01115e8f04fba94671e5b13b18038817",
+    "status": "downloaded",
+    "textFile": "johannesburg.txt"
+  }
+]

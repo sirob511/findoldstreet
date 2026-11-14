@@ -1,0 +1,12 @@
+[
+  {
+    "id": "delhi",
+    "country": "IN",
+    "url": "https://ndmc.gov.in/council/Resolutions%202007/year%20wise/2017/ITEM%20No%2001%20%28T-04%29-2017.pdf",
+    "retrievedAt": "2026-11-14T05:29:14.337104+00:00",
+    "reuseTerms": "No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.",
+    "sha256": "87b68b0cb8e203e5991d9cc503d384535defe17d3690f3d95f122270b6823f94",
+    "status": "downloaded",
+    "textFile": "delhi.txt"
+  }
+]
