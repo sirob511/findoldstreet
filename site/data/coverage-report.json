@@ -58,12 +58,29 @@
         "Static build and SEO checks",
         "Mobile search → detail → source browser check"
       ]
+    },
+    {
+      "passNumber": 5,
+      "target": 500,
+      "newPublishedRecords": 786,
+      "totalPublishedRecords": 5864,
+      "scope": "Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames",
+      "heldCandidates": 80,
+      "sourceReview": "853 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names, existing-record overlaps and non-street objects excluded. Additionally, 13 explicit old/current city mappings were captured and checked against city type and regional identity.",
+      "validation": [
+        "Captured-field equality and SHA-256 checks",
+        "Search regression tests",
+        "Static build and SEO checks",
+        "Mobile search → detail → source browser check"
+      ],
+      "newStreets": 773,
+      "newCities": 13
     }
   ],
   "publishedSummary": {
-    "records": 5078,
-    "streets": 4989,
-    "cities": 66,
+    "records": 5864,
+    "streets": 5762,
+    "cities": 79,
     "countryNames": 23,
     "countriesRepresented": 29
   },
@@ -4399,10 +4416,712 @@
       "locationAliases": [
         "Prayagraj"
       ]
+    },
+    {
+      "id": "city-a211775e0da028c2",
+      "kind": "city",
+      "country": "UA",
+      "city": "Самар",
+      "district": "Самарівський район · Дніпропетровська область",
+      "formerName": "Новомосковськ",
+      "currentName": "Самар",
+      "aliases": [
+        "SAMAR"
+      ],
+      "transliterations": [
+        "Novomoskovs'k",
+        "Samar",
+        "novomoskovsk",
+        "samar"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Новомосковськ",
+          "currentName": "Самар",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80",
+          "locator": "Entry with CITY_ID=4630; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80",
+          "retrievedAt": "2026-11-14T18:33:43.268213+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "b596a54949d688b169c9f26873779894fd22bbe9594f7029804cf9b62923db90",
+          "title": "Ukrposhta city address classifier: Самар",
+          "id": "postal-p5-place-a8b477e30c"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Самар, Самар",
+      "locationAliases": [
+        "Samar",
+        "Samarivs'kii raion * Dnipropetrovs'ka oblast'",
+        "samar",
+        "samarivskyi raion · dnipropetrovska oblast"
+      ]
+    },
+    {
+      "id": "city-cd15df9720b5043b",
+      "kind": "city",
+      "country": "UA",
+      "city": "Шахтарське",
+      "district": "Синельниківський район · Дніпропетровська область",
+      "formerName": "Першотравенськ",
+      "currentName": "Шахтарське",
+      "aliases": [
+        "SHAKHTARSKE"
+      ],
+      "transliterations": [
+        "Pershotravens'k",
+        "Shakhtars'ke",
+        "pershotravensk",
+        "shakhtarske"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Першотравенськ",
+          "currentName": "Шахтарське",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5",
+          "locator": "Entry with CITY_ID=4981; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5",
+          "retrievedAt": "2026-11-14T18:33:43.739657+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "a602ed9aaf373febb5b11325973bafa06be5d933aef610a4603cb6d92d19bcd0",
+          "title": "Ukrposhta city address classifier: Шахтарське",
+          "id": "postal-p5-place-9e40a0b4bb"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Шахтарське, Шахтарське",
+      "locationAliases": [
+        "Shakhtars'ke",
+        "Sinel'nikivs'kii raion * Dnipropetrovs'ka oblast'",
+        "shakhtarske",
+        "synelnykivskyi raion · dnipropetrovska oblast"
+      ]
+    },
+    {
+      "id": "city-1ffa4e4abcfc09c3",
+      "kind": "city",
+      "country": "UA",
+      "city": "Сокологірськ",
+      "district": "Алчевський район · Луганська область",
+      "formerName": "Первомайськ",
+      "currentName": "Сокологірськ",
+      "aliases": [
+        "SOKOLOHIRSK"
+      ],
+      "transliterations": [
+        "Pervomais'k",
+        "Sokologirs'k",
+        "pervomaisk",
+        "sokolohirsk"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Первомайськ",
+          "currentName": "Сокологірськ",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA",
+          "locator": "Entry with CITY_ID=12743; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA",
+          "retrievedAt": "2026-11-14T18:33:44.210869+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "d29c73ffa8d3b1866ae1fdc950c0601b0cd67eb2f5a8148bde01838510b12206",
+          "title": "Ukrposhta city address classifier: Сокологірськ",
+          "id": "postal-p5-place-9f380fb93e"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Сокологірськ, Сокологірськ",
+      "locationAliases": [
+        "Sokologirs'k",
+        "Alchevs'kii raion * Lugans'ka oblast'",
+        "sokolohirsk",
+        "alchevskyi raion · luhanska oblast"
+      ]
+    },
+    {
+      "id": "city-d12a26b6bceb3400",
+      "kind": "city",
+      "country": "UA",
+      "city": "Отаманівка",
+      "district": "Луганський район · Луганська область",
+      "formerName": "Молодогвардійськ",
+      "currentName": "Отаманівка",
+      "aliases": [
+        "OTAMANIVKA"
+      ],
+      "transliterations": [
+        "Molodogvardiis'k",
+        "Otamanivka",
+        "molodohvardiisk",
+        "otamanivka"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Молодогвардійськ",
+          "currentName": "Отаманівка",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0",
+          "locator": "Entry with CITY_ID=12939; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0",
+          "retrievedAt": "2026-11-14T18:33:44.662333+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "285c3dd9e1d943ee5c818d58e22e5e2130df32d28fa6fc5b67bce9bd976970fe",
+          "title": "Ukrposhta city address classifier: Отаманівка",
+          "id": "postal-p5-place-bb041a79e3"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Отаманівка, Отаманівка",
+      "locationAliases": [
+        "Otamanivka",
+        "Lugans'kii raion * Lugans'ka oblast'",
+        "otamanivka",
+        "luhanskyi raion · luhanska oblast"
+      ]
+    },
+    {
+      "id": "city-750161e8f896a713",
+      "kind": "city",
+      "country": "UA",
+      "city": "Сіверськодонецьк",
+      "district": "Сіверськодонецький район · Луганська область",
+      "formerName": "Сєвєродонецьк",
+      "currentName": "Сіверськодонецьк",
+      "aliases": [
+        "SIVERSKODONETSK"
+      ],
+      "transliterations": [
+        "Sievierodonets'k",
+        "Sivers'kodonets'k",
+        "sievierodonetsk",
+        "siverskodonetsk"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Сєвєродонецьк",
+          "currentName": "Сіверськодонецьк",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA",
+          "locator": "Entry with CITY_ID=13310; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA",
+          "retrievedAt": "2026-11-14T18:33:45.094830+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "840088fb035fd4f7daabf40a2b7b19be3161d5991a7b44d5369f528d8e0876c0",
+          "title": "Ukrposhta city address classifier: Сіверськодонецьк",
+          "id": "postal-p5-place-11e71ccb52"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Сіверськодонецьк, Сіверськодонецьк",
+      "locationAliases": [
+        "Sivers'kodonets'k",
+        "Sivers'kodonets'kii raion * Lugans'ka oblast'",
+        "siverskodonetsk",
+        "siverskodonetskyi raion · luhanska oblast"
+      ]
+    },
+    {
+      "id": "city-7104e1809fff1d95",
+      "kind": "city",
+      "country": "UA",
+      "city": "Шептицький",
+      "district": "Шептицький район · Львівська область",
+      "formerName": "Червоноград",
+      "currentName": "Шептицький",
+      "aliases": [
+        "SHEPTYTSKYI"
+      ],
+      "transliterations": [
+        "Chervonograd",
+        "Sheptits'kii",
+        "chervonohrad",
+        "sheptytskyi"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Червоноград",
+          "currentName": "Шептицький",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9",
+          "locator": "Entry with CITY_ID=15273; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9",
+          "retrievedAt": "2026-11-14T18:33:45.492956+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "d993926af151d34307842ff4d1f1bd52619979878d68562116bc0e92af549f7e",
+          "title": "Ukrposhta city address classifier: Шептицький",
+          "id": "postal-p5-place-dcf49741c2"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Шептицький, Шептицький",
+      "locationAliases": [
+        "Sheptits'kii",
+        "Sheptits'kii raion * L'vivs'ka oblast'",
+        "sheptytskyi",
+        "sheptytskyi raion · lvivska oblast"
+      ]
+    },
+    {
+      "id": "city-00a91d3849c920c0",
+      "kind": "city",
+      "country": "UA",
+      "city": "Хутір-Михайлівський",
+      "district": "Шосткинський район · Сумська область",
+      "formerName": "Дружба",
+      "currentName": "Хутір-Михайлівський",
+      "aliases": [
+        "KHUTIR-MYKHAILIVSKYI"
+      ],
+      "transliterations": [
+        "Druzhba",
+        "Khutir-Mikhailivs'kii",
+        "druzhba",
+        "khutir-mykhailivskyi"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Дружба",
+          "currentName": "Хутір-Михайлівський",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9",
+          "locator": "Entry with CITY_ID=21776; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9",
+          "retrievedAt": "2026-11-14T18:33:45.934340+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "7596817cc201fe9076b3d0889e25dfa22d9c2313331a2c877837bc84f6f9208b",
+          "title": "Ukrposhta city address classifier: Хутір-Михайлівський",
+          "id": "postal-p5-place-ea24ab6793"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Хутір-Михайлівський, Хутір-Михайлівський",
+      "locationAliases": [
+        "Khutir-Mikhailivs'kii",
+        "Shostkins'kii raion * Sums'ka oblast'",
+        "khutir-mykhailivskyi",
+        "shostkynskyi raion · sumska oblast"
+      ]
+    },
+    {
+      "id": "city-cae86d65601d11eb",
+      "kind": "city",
+      "country": "UA",
+      "city": "Берестин",
+      "district": "Берестинський район · Харківська область",
+      "formerName": "Красноград",
+      "currentName": "Берестин",
+      "aliases": [
+        "BERESTYN"
+      ],
+      "transliterations": [
+        "Krasnograd",
+        "Berestin",
+        "krasnohrad",
+        "berestyn"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Красноград",
+          "currentName": "Берестин",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD",
+          "locator": "Entry with CITY_ID=23694; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD",
+          "retrievedAt": "2026-11-14T18:33:46.468385+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "6c4899e15e2095a45e7c6a064389616fbf218c8b083c6ac7e9120ced98851382",
+          "title": "Ukrposhta city address classifier: Берестин",
+          "id": "postal-p5-place-e4cff0aaee"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Берестин, Берестин",
+      "locationAliases": [
+        "Berestin",
+        "Berestins'kii raion * Kharkivs'ka oblast'",
+        "berestyn",
+        "berestynskyi raion · kharkivska oblast"
+      ]
+    },
+    {
+      "id": "city-1e04ff7a29dc70c4",
+      "kind": "city",
+      "country": "UA",
+      "city": "Златопіль",
+      "district": "Лозівський район · Харківська область",
+      "formerName": "Первомайський",
+      "currentName": "Златопіль",
+      "aliases": [
+        "ZLATOPIL"
+      ],
+      "transliterations": [
+        "Pervomais'kii",
+        "Zlatopil'",
+        "pervomaiskyi",
+        "zlatopil"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Первомайський",
+          "currentName": "Златопіль",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+          "locator": "Entry with CITY_ID=24343; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+          "retrievedAt": "2026-11-14T18:33:46.923484+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "dcfa204223e04022368763009f1e54b1b8ab916cad9547b1794709a40cf08202",
+          "title": "Ukrposhta city address classifier: Златопіль",
+          "id": "postal-p5-place-a3abecc869"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Златопіль, Златопіль",
+      "locationAliases": [
+        "Zlatopil'",
+        "Lozivs'kii raion * Kharkivs'ka oblast'",
+        "zlatopil",
+        "lozivskyi raion · kharkivska oblast"
+      ]
+    },
+    {
+      "id": "city-a46f3aede3de286a",
+      "kind": "city",
+      "country": "UA",
+      "city": "Багачеве",
+      "district": "Звенигородський район · Черкаська область",
+      "formerName": "Ватутіне",
+      "currentName": "Багачеве",
+      "aliases": [
+        "BAHACHEVE"
+      ],
+      "transliterations": [
+        "Vatutine",
+        "Bagacheve",
+        "vatutine",
+        "bahacheve"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Ватутіне",
+          "currentName": "Багачеве",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5",
+          "locator": "Entry with CITY_ID=26941; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5",
+          "retrievedAt": "2026-11-14T18:33:47.356729+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "174a0229970a4a3b1653309cbda09057e43d71f434db85fcf83e8964be42409a",
+          "title": "Ukrposhta city address classifier: Багачеве",
+          "id": "postal-p5-place-520f38974e"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Багачеве, Багачеве",
+      "locationAliases": [
+        "Bagacheve",
+        "Zvenigorods'kii raion * Cherkas'ka oblast'",
+        "bahacheve",
+        "zvenyhorodskyi raion · cherkaska oblast"
+      ]
+    },
+    {
+      "id": "city-6d16186edbe1e7a7",
+      "kind": "city",
+      "country": "UA",
+      "city": "Підгороднє",
+      "district": "Дніпровський район · Дніпропетровська область",
+      "formerName": "Підгородне",
+      "currentName": "Підгороднє",
+      "aliases": [
+        "PIDHORODNIE"
+      ],
+      "transliterations": [
+        "Pidgorodne",
+        "Pidgorodnie",
+        "pidhorodne",
+        "pidhorodnie"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Підгородне",
+          "currentName": "Підгороднє",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94",
+          "locator": "Entry with CITY_ID=3752; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94",
+          "retrievedAt": "2026-11-14T18:33:47.781359+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "58a798dc75946b834828f0fd76e92c9ef7a46958cce41d3f750e2b414fa126cb",
+          "title": "Ukrposhta city address classifier: Підгороднє",
+          "id": "postal-p5-place-82bdab746e"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Підгороднє, Підгороднє",
+      "locationAliases": [
+        "Pidgorodnie",
+        "Dniprovs'kii raion * Dnipropetrovs'ka oblast'",
+        "pidhorodnie",
+        "dniprovskyi raion · dnipropetrovska oblast"
+      ]
+    },
+    {
+      "id": "city-e8f9fb7883e90ba0",
+      "kind": "city",
+      "country": "UA",
+      "city": "Південне",
+      "district": "Одеський район · Одеська область",
+      "formerName": "Южне",
+      "currentName": "Південне",
+      "aliases": [
+        "PIVDENNE"
+      ],
+      "transliterations": [
+        "Iuzhne",
+        "Pivdenne",
+        "iuzhne",
+        "pivdenne"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Южне",
+          "currentName": "Південне",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5",
+          "locator": "Entry with CITY_ID=17103; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5",
+          "retrievedAt": "2026-11-14T18:33:48.210857+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "aa66ed522d5e1d73e6428d594b9f4fba98e44747e4cdfbe89fb25ae10fdbc8a1",
+          "title": "Ukrposhta city address classifier: Південне",
+          "id": "postal-p5-place-39e797f7f7"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Південне, Південне",
+      "locationAliases": [
+        "Pivdenne",
+        "Odes'kii raion * Odes'ka oblast'",
+        "pivdenne",
+        "odeskyi raion · odeska oblast"
+      ]
+    },
+    {
+      "id": "city-47f3128281699aba",
+      "kind": "city",
+      "country": "UA",
+      "city": "Південноукраїнськ",
+      "district": "Вознесенський район · Миколаївська область",
+      "formerName": "Южноукраїнськ",
+      "currentName": "Південноукраїнськ",
+      "aliases": [
+        "PIVDENNOUKRAINSK"
+      ],
+      "transliterations": [
+        "Iuzhnoukrayins'k",
+        "Pivdennoukrayins'k",
+        "iuzhnoukrainsk",
+        "pivdennoukrainsk"
+      ],
+      "status": "verified",
+      "segment": null,
+      "geometry": null,
+      "houseNumbersVerified": false,
+      "currentStatusVerified": false,
+      "currentStatusNote": "Source-supported name mapping; historical boundaries are not verified.",
+      "events": [
+        {
+          "formerName": "Южноукраїнськ",
+          "currentName": "Південноукраїнськ",
+          "date": null,
+          "datePrecision": "unknown",
+          "status": "effective",
+          "sourceUrl": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA",
+          "locator": "Entry with CITY_ID=16062; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+          "documentNumber": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA",
+          "retrievedAt": "2026-11-14T18:33:48.645179+00:00",
+          "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+          "sha256": "6cb464dc85ce0033deccbf225706c5940da5258cbf66e34d7fd177306ed8fad2",
+          "title": "Ukrposhta city address classifier: Південноукраїнськ",
+          "id": "postal-p5-place-c0139b006f"
+        }
+      ],
+      "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified.",
+      "mapQuery": "Південноукраїнськ, Південноукраїнськ",
+      "locationAliases": [
+        "Pivdennoukrayins'k",
+        "Voznesens'kii raion * Mikolayivs'ka oblast'",
+        "pivdennoukrainsk",
+        "voznesenskyi raion · mykolaivska oblast"
+      ]
     }
   ],
   "placeCoverage": {
-    "cities": 66,
+    "cities": 79,
     "countries": 23,
     "scope": "Selected documented city and country mappings; street counts below exclude these records."
   },
@@ -4425,10 +5144,10 @@
     {
       "country": "UA",
       "name": "Ukraine",
-      "verifiedStreets": 4338,
-      "renameEvents": 4338,
+      "verifiedStreets": 5111,
+      "renameEvents": 5111,
       "reviewRecords": 28,
-      "publishedLocalities": 203,
+      "publishedLocalities": 206,
       "gaps": [
         "Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete",
         "Postal-classifier captures supplement the cities listed in this report; other municipalities and complete historical rename chains remain gaps",
@@ -4930,6 +5649,13 @@
     },
     {
       "country": "UA",
+      "municipality": "Житомир",
+      "verifiedStreets": 134,
+      "renameEvents": 134,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
       "municipality": "Жовква",
       "verifiedStreets": 3,
       "renameEvents": 3,
@@ -5267,8 +5993,8 @@
     {
       "country": "UA",
       "municipality": "Миколаїв",
-      "verifiedStreets": 2,
-      "renameEvents": 2,
+      "verifiedStreets": 280,
+      "renameEvents": 280,
       "reviewRecords": 0
     },
     {
@@ -5581,6 +6307,13 @@
     },
     {
       "country": "UA",
+      "municipality": "Рівне",
+      "verifiedStreets": 103,
+      "renameEvents": 103,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
       "municipality": "Ріпнів",
       "verifiedStreets": 2,
       "renameEvents": 2,
@@ -5759,6 +6492,13 @@
       "municipality": "Сугрів",
       "verifiedStreets": 1,
       "renameEvents": 1,
+      "reviewRecords": 0
+    },
+    {
+      "country": "UA",
+      "municipality": "Суми",
+      "verifiedStreets": 258,
+      "renameEvents": 258,
       "reviewRecords": 0
     },
     {
@@ -6131,6 +6871,38 @@
       "sha256": "7cf7a137f8ba2f1b7f02def7c6c5ee59a9e0fac96f7baea69202970b2b31f65a",
       "title": "Ukrposhta street address classifier: Черкаси",
       "id": "postal-p4-streets-27760"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=274&district_id=365&city_id=16169&street_ua=",
+      "retrievedAt": "2026-11-14T18:32:52.627747+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "27af9d68223846f63612d5a7225b3b2bcd3827ed5674bb0994e92e9bb832a73f",
+      "title": "Ukrposhta street address classifier: Миколаїв",
+      "id": "postal-p5-streets-16169"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=266&district_id=317&city_id=6708&street_ua=",
+      "retrievedAt": "2026-11-14T18:32:57.734525+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "8247606c3e69b658c85f7fe45261fa24a8f22e52598b9fdc4f7264f6dacd3a6f",
+      "title": "Ukrposhta street address classifier: Житомир",
+      "id": "postal-p5-streets-6708"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=277&district_id=380&city_id=20296&street_ua=",
+      "retrievedAt": "2026-11-14T18:32:59.655277+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "7e13f8d9598cfe0c27102c926aeaec66f87ca2dc904695251151d71f27580912",
+      "title": "Ukrposhta street address classifier: Рівне",
+      "id": "postal-p5-streets-20296"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=278&district_id=385&city_id=21680&street_ua=",
+      "retrievedAt": "2026-11-14T18:33:00.965737+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "e091bebe6e72802cf09ad305cfbc8b66175c9cc1601c4b25a52333a293f6b679",
+      "title": "Ukrposhta street address classifier: Суми",
+      "id": "postal-p5-streets-21680"
     },
     {
       "url": "https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx",
@@ -6583,6 +7355,110 @@
       "sha256": "5177a61c1bd2af13c951d4cf652c0095b59807a19d18f517a9c9df26563a9630",
       "title": "prayagraj-history",
       "id": "prayagraj-history"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80",
+      "retrievedAt": "2026-11-14T18:33:43.268213+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "b596a54949d688b169c9f26873779894fd22bbe9594f7029804cf9b62923db90",
+      "title": "Ukrposhta city address classifier: Самар",
+      "id": "postal-p5-place-a8b477e30c"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5",
+      "retrievedAt": "2026-11-14T18:33:43.739657+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "a602ed9aaf373febb5b11325973bafa06be5d933aef610a4603cb6d92d19bcd0",
+      "title": "Ukrposhta city address classifier: Шахтарське",
+      "id": "postal-p5-place-9e40a0b4bb"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA",
+      "retrievedAt": "2026-11-14T18:33:44.210869+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "d29c73ffa8d3b1866ae1fdc950c0601b0cd67eb2f5a8148bde01838510b12206",
+      "title": "Ukrposhta city address classifier: Сокологірськ",
+      "id": "postal-p5-place-9f380fb93e"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0",
+      "retrievedAt": "2026-11-14T18:33:44.662333+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "285c3dd9e1d943ee5c818d58e22e5e2130df32d28fa6fc5b67bce9bd976970fe",
+      "title": "Ukrposhta city address classifier: Отаманівка",
+      "id": "postal-p5-place-bb041a79e3"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA",
+      "retrievedAt": "2026-11-14T18:33:45.094830+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "840088fb035fd4f7daabf40a2b7b19be3161d5991a7b44d5369f528d8e0876c0",
+      "title": "Ukrposhta city address classifier: Сіверськодонецьк",
+      "id": "postal-p5-place-11e71ccb52"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9",
+      "retrievedAt": "2026-11-14T18:33:45.492956+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "d993926af151d34307842ff4d1f1bd52619979878d68562116bc0e92af549f7e",
+      "title": "Ukrposhta city address classifier: Шептицький",
+      "id": "postal-p5-place-dcf49741c2"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9",
+      "retrievedAt": "2026-11-14T18:33:45.934340+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "7596817cc201fe9076b3d0889e25dfa22d9c2313331a2c877837bc84f6f9208b",
+      "title": "Ukrposhta city address classifier: Хутір-Михайлівський",
+      "id": "postal-p5-place-ea24ab6793"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD",
+      "retrievedAt": "2026-11-14T18:33:46.468385+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "6c4899e15e2095a45e7c6a064389616fbf218c8b083c6ac7e9120ced98851382",
+      "title": "Ukrposhta city address classifier: Берестин",
+      "id": "postal-p5-place-e4cff0aaee"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+      "retrievedAt": "2026-11-14T18:33:46.923484+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "dcfa204223e04022368763009f1e54b1b8ab916cad9547b1794709a40cf08202",
+      "title": "Ukrposhta city address classifier: Златопіль",
+      "id": "postal-p5-place-a3abecc869"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5",
+      "retrievedAt": "2026-11-14T18:33:47.356729+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "174a0229970a4a3b1653309cbda09057e43d71f434db85fcf83e8964be42409a",
+      "title": "Ukrposhta city address classifier: Багачеве",
+      "id": "postal-p5-place-520f38974e"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94",
+      "retrievedAt": "2026-11-14T18:33:47.781359+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "58a798dc75946b834828f0fd76e92c9ef7a46958cce41d3f750e2b414fa126cb",
+      "title": "Ukrposhta city address classifier: Підгороднє",
+      "id": "postal-p5-place-82bdab746e"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5",
+      "retrievedAt": "2026-11-14T18:33:48.210857+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "aa66ed522d5e1d73e6428d594b9f4fba98e44747e4cdfbe89fb25ae10fdbc8a1",
+      "title": "Ukrposhta city address classifier: Південне",
+      "id": "postal-p5-place-39e797f7f7"
+    },
+    {
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA",
+      "retrievedAt": "2026-11-14T18:33:48.645179+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "sha256": "6cb464dc85ce0033deccbf225706c5940da5258cbf66e34d7fd177306ed8fad2",
+      "title": "Ukrposhta city address classifier: Південноукраїнськ",
+      "id": "postal-p5-place-c0139b006f"
     }
   ],
   "sourceAttempts": [
@@ -7730,6 +8606,258 @@
       "sha256": "7cf7a137f8ba2f1b7f02def7c6c5ee59a9e0fac96f7baea69202970b2b31f65a",
       "status": "downloaded",
       "retrievedAt": "2026-11-14T18:29:05.560443+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-cities-60d6c58d1f",
+      "country": "UA",
+      "title": "Ukrposhta city search: Миколаїв",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2",
+      "file": "postal-p5-cities-60d6c58d1f.json",
+      "sha256": "8a1ff273dbd16126f60abb0078d9315b44410a14159553cfcd1dbfbffc76a09a",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:50.334850+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-streets-16169",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Миколаїв",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=274&district_id=365&city_id=16169&street_ua=",
+      "file": "postal-p5-streets-16169.json",
+      "sha256": "27af9d68223846f63612d5a7225b3b2bcd3827ed5674bb0994e92e9bb832a73f",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:52.627747+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-cities-abf47b09bf",
+      "country": "UA",
+      "title": "Ukrposhta city search: Житомир",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80",
+      "file": "postal-p5-cities-abf47b09bf.json",
+      "sha256": "fa2f45da036cf224094205bc37ccf851266c4722e5d97e23d6e7b168a141c01e",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:53.077038+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-streets-6708",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Житомир",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=266&district_id=317&city_id=6708&street_ua=",
+      "file": "postal-p5-streets-6708.json",
+      "sha256": "8247606c3e69b658c85f7fe45261fa24a8f22e52598b9fdc4f7264f6dacd3a6f",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:57.734525+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-cities-01aadea6be",
+      "country": "UA",
+      "title": "Ukrposhta city search: Рівне",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A0%D1%96%D0%B2%D0%BD%D0%B5",
+      "file": "postal-p5-cities-01aadea6be.json",
+      "sha256": "7ea544652f44923ee55fc7fad0b045b60852ba24f539529a942c93b0726cd73c",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:58.208971+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-streets-20296",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Рівне",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=277&district_id=380&city_id=20296&street_ua=",
+      "file": "postal-p5-streets-20296.json",
+      "sha256": "7e13f8d9598cfe0c27102c926aeaec66f87ca2dc904695251151d71f27580912",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:32:59.655277+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-cities-60059427df",
+      "country": "UA",
+      "title": "Ukrposhta city search: Суми",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%83%D0%BC%D0%B8",
+      "file": "postal-p5-cities-60059427df.json",
+      "sha256": "3323f929b4bfb5149bc08acf8dd0d9ceb55c0eeaa8d62e0375fcaf00f431474b",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:00.171159+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-streets-21680",
+      "country": "UA",
+      "title": "Ukrposhta street address classifier: Суми",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=278&district_id=385&city_id=21680&street_ua=",
+      "file": "postal-p5-streets-21680.json",
+      "sha256": "e091bebe6e72802cf09ad305cfbc8b66175c9cc1601c4b25a52333a293f6b679",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:00.965737+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-a8b477e30c",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Самар",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80",
+      "file": "postal-p5-place-a8b477e30c.json",
+      "sha256": "b596a54949d688b169c9f26873779894fd22bbe9594f7029804cf9b62923db90",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:43.268213+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-9e40a0b4bb",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Шахтарське",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5",
+      "file": "postal-p5-place-9e40a0b4bb.json",
+      "sha256": "a602ed9aaf373febb5b11325973bafa06be5d933aef610a4603cb6d92d19bcd0",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:43.739657+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-9f380fb93e",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Сокологірськ",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA",
+      "file": "postal-p5-place-9f380fb93e.json",
+      "sha256": "d29c73ffa8d3b1866ae1fdc950c0601b0cd67eb2f5a8148bde01838510b12206",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:44.210869+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-bb041a79e3",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Отаманівка",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0",
+      "file": "postal-p5-place-bb041a79e3.json",
+      "sha256": "285c3dd9e1d943ee5c818d58e22e5e2130df32d28fa6fc5b67bce9bd976970fe",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:44.662333+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-11e71ccb52",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Сіверськодонецьк",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA",
+      "file": "postal-p5-place-11e71ccb52.json",
+      "sha256": "840088fb035fd4f7daabf40a2b7b19be3161d5991a7b44d5369f528d8e0876c0",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:45.094830+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-dcf49741c2",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Шептицький",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9",
+      "file": "postal-p5-place-dcf49741c2.json",
+      "sha256": "d993926af151d34307842ff4d1f1bd52619979878d68562116bc0e92af549f7e",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:45.492956+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-ea24ab6793",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Хутір-Михайлівський",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9",
+      "file": "postal-p5-place-ea24ab6793.json",
+      "sha256": "7596817cc201fe9076b3d0889e25dfa22d9c2313331a2c877837bc84f6f9208b",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:45.934340+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-e4cff0aaee",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Берестин",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD",
+      "file": "postal-p5-place-e4cff0aaee.json",
+      "sha256": "6c4899e15e2095a45e7c6a064389616fbf218c8b083c6ac7e9120ced98851382",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:46.468385+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-a3abecc869",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Златопіль",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+      "file": "postal-p5-place-a3abecc869.json",
+      "sha256": "dcfa204223e04022368763009f1e54b1b8ab916cad9547b1794709a40cf08202",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:46.923484+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-520f38974e",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Багачеве",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5",
+      "file": "postal-p5-place-520f38974e.json",
+      "sha256": "174a0229970a4a3b1653309cbda09057e43d71f434db85fcf83e8964be42409a",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:47.356729+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-82bdab746e",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Підгороднє",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94",
+      "file": "postal-p5-place-82bdab746e.json",
+      "sha256": "58a798dc75946b834828f0fd76e92c9ef7a46958cce41d3f750e2b414fa126cb",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:47.781359+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-39e797f7f7",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Південне",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5",
+      "file": "postal-p5-place-39e797f7f7.json",
+      "sha256": "aa66ed522d5e1d73e6428d594b9f4fba98e44747e4cdfbe89fb25ae10fdbc8a1",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:48.210857+00:00",
+      "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
+      "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
+    },
+    {
+      "id": "postal-p5-place-c0139b006f",
+      "country": "UA",
+      "title": "Ukrposhta city address classifier: Південноукраїнськ",
+      "url": "https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA",
+      "file": "postal-p5-place-c0139b006f.json",
+      "sha256": "6cb464dc85ce0033deccbf225706c5940da5258cbf66e34d7fd177306ed8fad2",
+      "status": "downloaded",
+      "retrievedAt": "2026-11-14T18:33:48.645179+00:00",
       "reuseTerms": "Factual address-name mappings only; source response retained for audit, not served publicly.",
       "retrievalMethod": "Public read-only endpoint used by index.ukrposhta.ua; no authentication required."
     }

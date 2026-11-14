@@ -46,3 +46,11 @@ test('postal snapshot mappings support one-box locality searches without invente
  assert.ok(r);assert.equal(r.currentName,'провулок Бойчуківський');
  assert.equal(r.events[0].date,null);assert.equal(r.events[0].datePrecision,'unknown');
 });
+
+
+test('newly renamed cities use the same search and preserve their region',()=>{
+ for(const [q,name] of [['Новомосковськ','Самар'],['Chervonohrad','Шептицький'],['Южне','Південне']]) {
+  const r=search(all,q).find(r=>r.kind==='city'&&r.currentName===name);
+  assert.ok(r,q);assert.equal(r.events[0].date,null);assert.ok(r.district.includes('область'));
+ }
+});

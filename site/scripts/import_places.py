@@ -12,7 +12,10 @@ def build_places():
     from import_data import source, MAN, finalize
     seeds = json.loads((SOURCES / 'places-seed.json').read_text())
     rows = list(seeds)
-    for item in json.loads((SOURCES / 'places-reviewed.json').read_text()):
+    items=json.loads((SOURCES / 'places-reviewed.json').read_text())
+    for path in sorted(SOURCES.glob('pass-*-places.json')):
+        items += json.loads(path.read_text())
+    for item in items:
         kind, country = item['kind'], item['country']
         old, new = item['formerName'], item['currentName']
         date = item.get('date')

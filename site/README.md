@@ -147,3 +147,16 @@ and non-street objects are held instead of being counted as new coverage.
 No effective date or legal instrument is inferred from a postal snapshot.
 Run `python3 tests/postal_data.py` to compare every published pair with the
 captured source fields and hashes. Source responses remain outside `dist/`.
+
+For homonymous cities, use an explicit region, for example
+`postal_coverage.py 5 Миколаїв::Миколаївська`. An ambiguous city lookup fails
+instead of selecting a region by population or result order. Collision checks
+also retain region and district identity. `postal_places.py PASS CITY ...`
+captures explicit old/current city names separately; its approved
+`pass-N-places.json` files are replayed by `import_places.py`. Village/town
+entries are not silently classified as cities.
+
+Held postal candidates are recorded in the per-pass review files and pass
+summary, rather than inserted as published records or counted as additional
+renames. The coverage report's ordinary review-record counts refer to the
+separate, older municipal import pipeline.

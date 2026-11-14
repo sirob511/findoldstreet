@@ -13,7 +13,7 @@ for r in rows:
     for url in {s['url'] for s in r['sources']}:
         by_url[url].append(r)
 notes = {
-    'postal-classifier-documentation': 'Primary API documentation establishes OLDSTREET_UA previous-name and STREET_UA current-name field semantics.',
+    'postal-classifier-documentation': 'Primary API documentation establishes OLDSTREET_UA/STREET_UA and OLDCITY_UA/CITY_UA previous/current name field semantics.',
     'postal-search': 'Official public lookup client; its read-only endpoint supplies the postal classifier captures.',
     'dnipro-museum-index': '622-entry discovery index examined. Conflicting field/prose pairs found in sample articles; first-pass imports use the explicit postal classifier fields instead.',
     'india-cities-2014': 'No-objection approvals are not proof of effective renaming. Final Karnataka mappings use PCGN confirmation.',
@@ -31,6 +31,7 @@ for manifest in sorted(S.glob('*manifest.json')):
                      reviewRecords=sum(r['status']!='verified' for r in used))
         entry['assessment'] = notes.get(item['id']) or (
             'Cited by records; only explicit, reviewed mappings published.' if used else
+            'City lookup context used to resolve official city, region and district IDs for the street query.' if item['id'].startswith('postal-') and '-cities-' in item['id'] else
             'Retrieval/extraction failed; no mappings published from this attempt.' if item.get('status')=='failed' else
             'Captured lead; no approved mapping currently cites this source. Requires row-level review before import.')
         if item.get('file') and item.get('sha256'):

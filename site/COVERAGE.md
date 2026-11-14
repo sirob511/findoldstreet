@@ -2,13 +2,13 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-5,078 published records across 29 countries: 4,989 streets/segments, 66 cities and 23 country-name mappings.
+5,864 published records across 29 countries: 5,762 streets/segments, 79 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
-| Ukraine | 4338 | 4338 | 203 | 28 |
+| Ukraine | 5111 | 5111 | 206 | 28 |
 | Poland | 213 | 294 | 3 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
@@ -23,6 +23,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 2 | 500 | 759 | 3241 | Kharkiv postal street-name mappings |
 | 3 | 500 | 788 | 4029 | Odesa and Zaporizhzhia postal street-name mappings |
 | 4 | 500 | 1049 | 5078 | Vinnytsia, Poltava, Chernihiv and Cherkasy postal street-name mappings |
+| 5 | 500 | 786 | 5864 | Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames |
 
 ## City and country renamings
 
@@ -117,6 +118,19 @@ Initial selection; the street counts above exclude these records.
 - New Hebrides → Vanuatu (country); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
 - Léopoldville → Kinshasa (city); [source](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present).
 - Allahabad → Prayagraj (city); [source](https://prayagrajdivision.nic.in/about-department/introduction/).
+- Новомосковськ → Самар (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80).
+- Першотравенськ → Шахтарське (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5).
+- Первомайськ → Сокологірськ (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA).
+- Молодогвардійськ → Отаманівка (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0).
+- Сєвєродонецьк → Сіверськодонецьк (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA).
+- Червоноград → Шептицький (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9).
+- Дружба → Хутір-Михайлівський (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9).
+- Красноград → Берестин (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD).
+- Первомайський → Златопіль (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C).
+- Ватутіне → Багачеве (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5).
+- Підгородне → Підгороднє (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94).
+- Южне → Південне (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5).
+- Южноукраїнськ → Південноукраїнськ (city); [source](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA).
 
 ## Locality coverage
 
@@ -183,6 +197,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Дуліби | 1 | 1 | 0 |
 | Ukraine | Жвирка | 1 | 1 | 0 |
 | Ukraine | Жидачів | 1 | 1 | 0 |
+| Ukraine | Житомир | 134 | 134 | 0 |
 | Ukraine | Жовква | 3 | 3 | 0 |
 | Ukraine | Жорниська | 1 | 1 | 0 |
 | Ukraine | Жуличі | 1 | 1 | 0 |
@@ -231,7 +246,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Меденичі | 1 | 1 | 0 |
 | Ukraine | Межиріччя | 1 | 1 | 0 |
 | Ukraine | Миклашів | 1 | 1 | 0 |
-| Ukraine | Миколаїв | 2 | 2 | 0 |
+| Ukraine | Миколаїв | 280 | 280 | 0 |
 | Ukraine | Михайлевичі | 1 | 1 | 0 |
 | Ukraine | Молодинче | 1 | 1 | 0 |
 | Ukraine | Мочеради | 1 | 1 | 0 |
@@ -276,6 +291,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Радехів | 1 | 1 | 0 |
 | Ukraine | Ралівка | 2 | 2 | 0 |
 | Ukraine | Руда | 1 | 1 | 0 |
+| Ukraine | Рівне | 103 | 103 | 0 |
 | Ukraine | Ріпнів | 2 | 2 | 0 |
 | Ukraine | Річки | 1 | 1 | 0 |
 | Ukraine | Садове товариство «Калійник» міста Стебник | 1 | 1 | 0 |
@@ -302,6 +318,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Стрілки | 1 | 1 | 0 |
 | Ukraine | Стрілковичі | 1 | 1 | 0 |
 | Ukraine | Сугрів | 1 | 1 | 0 |
+| Ukraine | Суми | 258 | 258 | 0 |
 | Ukraine | Сілець | 1 | 1 | 0 |
 | Ukraine | Тамановичі | 1 | 1 | 0 |
 | Ukraine | Тершаків | 1 | 1 | 0 |
@@ -356,6 +373,10 @@ Initial selection; the street counts above exclude these records.
 - [Ukrposhta street address classifier: Полтава](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=276&district_id=377&city_id=19234&street_ua=) — retrieved 2026-11-14T18:28:59.331262+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [Ukrposhta street address classifier: Чернігів](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=285&district_id=418&city_id=29712&street_ua=) — retrieved 2026-11-14T18:29:02.130926+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [Ukrposhta street address classifier: Черкаси](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=283&district_id=408&city_id=27760&street_ua=) — retrieved 2026-11-14T18:29:05.560443+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Миколаїв](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=274&district_id=365&city_id=16169&street_ua=) — retrieved 2026-11-14T18:32:52.627747+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Житомир](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=266&district_id=317&city_id=6708&street_ua=) — retrieved 2026-11-14T18:32:57.734525+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Рівне](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=277&district_id=380&city_id=20296&street_ua=) — retrieved 2026-11-14T18:32:59.655277+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Суми](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=278&district_id=385&city_id=21680&street_ua=) — retrieved 2026-11-14T18:33:00.965737+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [warsaw1](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx) — retrieved 2026-11-14T05:29:17.305724+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [warsaw2](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx) — retrieved 2026-11-14T05:29:14.328887+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [krakow-law](https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf) — retrieved 2026-11-14T05:41:41.578526+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -413,6 +434,19 @@ Initial selection; the street counts above exclude these records.
 - [za-factfile](https://assets.publishing.service.gov.uk/media/698dcb6843eb912f2e15b351/South_Africa_toponymic_factfile.pdf) — retrieved 2026-11-14T17:54:19.673196+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [country-timeline](https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present) — retrieved 2026-11-14T17:52:17.949846+00:00; Factual mappings only; captured source retained for audit, not served publicly.
 - [prayagraj-history](https://prayagrajdivision.nic.in/about-department/introduction/) — retrieved 2026-11-14T17:57:23.415657+00:00; Factual mappings only; captured source retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Самар](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%B0%D0%BC%D0%B0%D1%80) — retrieved 2026-11-14T18:33:43.268213+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Шахтарське](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5) — retrieved 2026-11-14T18:33:43.739657+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Сокологірськ](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA) — retrieved 2026-11-14T18:33:44.210869+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Отаманівка](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9E%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D0%BA%D0%B0) — retrieved 2026-11-14T18:33:44.662333+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Сіверськодонецьк](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA) — retrieved 2026-11-14T18:33:45.094830+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Шептицький](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A8%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9) — retrieved 2026-11-14T18:33:45.492956+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Хутір-Михайлівський](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%A5%D1%83%D1%82%D1%96%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9) — retrieved 2026-11-14T18:33:45.934340+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Берестин](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BD) — retrieved 2026-11-14T18:33:46.468385+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Златопіль](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%BF%D1%96%D0%BB%D1%8C) — retrieved 2026-11-14T18:33:46.923484+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Багачеве](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%91%D0%B0%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B5) — retrieved 2026-11-14T18:33:47.356729+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Підгороднє](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94) — retrieved 2026-11-14T18:33:47.781359+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Південне](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B5) — retrieved 2026-11-14T18:33:48.210857+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta city address classifier: Південноукраїнськ](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_city_by_region_id_and_district_id_and_city_ua&city_ua=%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA) — retrieved 2026-11-14T18:33:48.645179+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 
 ## Gaps
 

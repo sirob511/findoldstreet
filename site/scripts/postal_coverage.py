@@ -2,6 +2,7 @@
 The source documents OLDSTREET_UA as the previous Ukrainian street name.
 No rename date, legal act, geometry, street segment or house correspondence is inferred.
 Usage: python scripts/postal_coverage.py PASS CITY [CITY ...]
+Use CITY::REGION for homonymous cities (region name without область).
 Review the per-pass decision file before importing.
 """
 import collections
@@ -65,17 +66,17 @@ def curate(raw,existing):
         elif re.search(r'частин|колишн|без назв|не має|б/н|новий проїзд',old,re.I):reason='Partial, unnamed or descriptive previous-name field requires review.'
         if reason:
             decisions.append(row|dict(outcome='held',reason=reason));continue
-        row['_raw']=x;row['_type']=typ;row['_old']=norm(old);row['_new']=norm(new)
+        row['_raw']=x;row['_region']=clean(x.get('REGION_UA'));row['_district']=clean(x.get('DISTRICT_UA'));row['_type']=typ;row['_old']=norm(old);row['_new']=norm(new)
         candidates.append(row)
     # Distinct postal IDs do not automatically establish distinct renamed streets.
     by_old=collections.defaultdict(set);by_new=collections.defaultdict(set)
     for r in candidates:
-        scope=(r['city'],r['_type'])
+        scope=(r['city'],r['_region'],r['_district'],r['_type'])
         by_old[scope+(r['_old'],)].add(r['_new'])
         by_new[scope+(r['_new'],)].add(r['_old'])
     seen=set();approved=[]
     for row in candidates:
-        scope=(row['city'],row['_type']);pair=scope+(row['_old'],row['_new']);x=row.pop('_raw')
+        scope=(row['city'],row['_region'],row['_district'],row['_type']);pair=scope+(row['_old'],row['_new']);x=row.pop('_raw')
         reason=None
         if len(by_old[scope+(row['_old'],)])>1 or len(by_new[scope+(row['_new'],)])>1:
             reason='Names collide across postal IDs; separate objects versus historical chains unresolved.'
@@ -99,16 +100,22 @@ def curate(raw,existing):
         decisions.append({k:v for k,v in row.items() if not k.startswith('_')}|dict(outcome='approved',reason='Explicit previous/current fields; no conflicting or duplicate name mapping in this captured city response.'))
     return approved,decisions
 
+def resolve_city(found,selector):
+    city,_,region=selector.partition('::')
+    matches=[c for c in found if c.get('CITY_UA')==city and c.get('CITYTYPE_UA')=='місто' and (not region or c.get('REGION_UA')==region)]
+    if len(matches)!=1:
+        raise ValueError(f'{selector}: expected one city, found {len(matches)}; specify CITY::REGION for homonyms')
+    return matches[0]
+
 def main():
     number,*cities=sys.argv[1:]
     existing=[r for c in ['UA','PL','ZA','VN','KZ','IN','places'] for r in json.loads((ROOT/'data'/f'{c}.json').read_text())]
     raw=[]
-    for city in cities:
+    for selector in cities:
+        city=selector.partition('::')[0]
         slug=hashlib.sha256(city.encode()).hexdigest()[:10]
         found=fetch(number,f'postal-p{number}-cities-{slug}',dict(method='get_city_by_region_id_and_district_id_and_city_ua',city_ua=city),f'Ukrposhta city search: {city}')
-        matches=[c for c in found if c['CITY_UA']==city and c['CITYTYPE_UA']=='місто']
-        assert len(matches)==1,(city,len(matches))
-        c=matches[0];key=f"postal-p{number}-streets-{c['CITY_ID']}"
+        c=resolve_city(found,selector);key=f"postal-p{number}-streets-{c['CITY_ID']}"
         streets=fetch(number,key,dict(method='get_street_by_region_id_and_district_id_and_city_id_and_street_ua',region_id=c['REGION_ID'],district_id=c['DISTRICT_ID'],city_id=c['CITY_ID'],street_ua=''),f'Ukrposhta street address classifier: {city}')
         assert all(x['CITY_ID']==c['CITY_ID'] for x in streets)
         raw += [(s,key) for s in streets]

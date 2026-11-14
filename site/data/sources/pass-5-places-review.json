@@ -1,0 +1,109 @@
+{
+  "approved": 13,
+  "decisions": [
+    {
+      "source": "postal-p5-place-a8b477e30c",
+      "sourceCityId": "4630",
+      "formerName": "Новомосковськ",
+      "currentName": "Самар",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-9e40a0b4bb",
+      "sourceCityId": "4981",
+      "formerName": "Першотравенськ",
+      "currentName": "Шахтарське",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-9f380fb93e",
+      "sourceCityId": "12743",
+      "formerName": "Первомайськ",
+      "currentName": "Сокологірськ",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-bb041a79e3",
+      "sourceCityId": "12939",
+      "formerName": "Молодогвардійськ",
+      "currentName": "Отаманівка",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-11e71ccb52",
+      "sourceCityId": "13310",
+      "formerName": "Сєвєродонецьк",
+      "currentName": "Сіверськодонецьк",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-dcf49741c2",
+      "sourceCityId": "15273",
+      "formerName": "Червоноград",
+      "currentName": "Шептицький",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-ea24ab6793",
+      "sourceCityId": "21776",
+      "formerName": "Дружба",
+      "currentName": "Хутір-Михайлівський",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-e4cff0aaee",
+      "sourceCityId": "23694",
+      "formerName": "Красноград",
+      "currentName": "Берестин",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-a3abecc869",
+      "sourceCityId": "24343",
+      "formerName": "Первомайський",
+      "currentName": "Златопіль",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-520f38974e",
+      "sourceCityId": "26941",
+      "formerName": "Ватутіне",
+      "currentName": "Багачеве",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-82bdab746e",
+      "sourceCityId": "3752",
+      "formerName": "Підгородне",
+      "currentName": "Підгороднє",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-39e797f7f7",
+      "sourceCityId": "17103",
+      "formerName": "Южне",
+      "currentName": "Південне",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    },
+    {
+      "source": "postal-p5-place-c0139b006f",
+      "sourceCityId": "16062",
+      "formerName": "Южноукраїнськ",
+      "currentName": "Південноукраїнськ",
+      "outcome": "approved",
+      "reason": "Explicit former/current city fields and city classification, with region retained."
+    }
+  ]
+}

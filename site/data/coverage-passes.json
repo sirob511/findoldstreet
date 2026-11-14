@@ -57,5 +57,22 @@
       "Static build and SEO checks",
       "Mobile search → detail → source browser check"
     ]
+  },
+  {
+    "passNumber": 5,
+    "target": 500,
+    "newPublishedRecords": 786,
+    "totalPublishedRecords": 5864,
+    "scope": "Mykolaiv, Zhytomyr, Rivne and Sumy street mappings, plus 13 city renames",
+    "heldCandidates": 80,
+    "sourceReview": "853 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names, existing-record overlaps and non-street objects excluded. Additionally, 13 explicit old/current city mappings were captured and checked against city type and regional identity.",
+    "validation": [
+      "Captured-field equality and SHA-256 checks",
+      "Search regression tests",
+      "Static build and SEO checks",
+      "Mobile search → detail → source browser check"
+    ],
+    "newStreets": 773,
+    "newCities": 13
   }
 ]

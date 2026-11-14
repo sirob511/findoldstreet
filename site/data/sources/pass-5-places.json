@@ -1,0 +1,184 @@
+[
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Новомосковськ",
+    "currentName": "Самар",
+    "district": "Самарівський район · Дніпропетровська область",
+    "source": "postal-p5-place-a8b477e30c",
+    "sourceCityId": "4630",
+    "aliases": [
+      "SAMAR"
+    ],
+    "locator": "Entry with CITY_ID=4630; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Першотравенськ",
+    "currentName": "Шахтарське",
+    "district": "Синельниківський район · Дніпропетровська область",
+    "source": "postal-p5-place-9e40a0b4bb",
+    "sourceCityId": "4981",
+    "aliases": [
+      "SHAKHTARSKE"
+    ],
+    "locator": "Entry with CITY_ID=4981; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Первомайськ",
+    "currentName": "Сокологірськ",
+    "district": "Алчевський район · Луганська область",
+    "source": "postal-p5-place-9f380fb93e",
+    "sourceCityId": "12743",
+    "aliases": [
+      "SOKOLOHIRSK"
+    ],
+    "locator": "Entry with CITY_ID=12743; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Молодогвардійськ",
+    "currentName": "Отаманівка",
+    "district": "Луганський район · Луганська область",
+    "source": "postal-p5-place-bb041a79e3",
+    "sourceCityId": "12939",
+    "aliases": [
+      "OTAMANIVKA"
+    ],
+    "locator": "Entry with CITY_ID=12939; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Сєвєродонецьк",
+    "currentName": "Сіверськодонецьк",
+    "district": "Сіверськодонецький район · Луганська область",
+    "source": "postal-p5-place-11e71ccb52",
+    "sourceCityId": "13310",
+    "aliases": [
+      "SIVERSKODONETSK"
+    ],
+    "locator": "Entry with CITY_ID=13310; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Червоноград",
+    "currentName": "Шептицький",
+    "district": "Шептицький район · Львівська область",
+    "source": "postal-p5-place-dcf49741c2",
+    "sourceCityId": "15273",
+    "aliases": [
+      "SHEPTYTSKYI"
+    ],
+    "locator": "Entry with CITY_ID=15273; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Дружба",
+    "currentName": "Хутір-Михайлівський",
+    "district": "Шосткинський район · Сумська область",
+    "source": "postal-p5-place-ea24ab6793",
+    "sourceCityId": "21776",
+    "aliases": [
+      "KHUTIR-MYKHAILIVSKYI"
+    ],
+    "locator": "Entry with CITY_ID=21776; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Красноград",
+    "currentName": "Берестин",
+    "district": "Берестинський район · Харківська область",
+    "source": "postal-p5-place-e4cff0aaee",
+    "sourceCityId": "23694",
+    "aliases": [
+      "BERESTYN"
+    ],
+    "locator": "Entry with CITY_ID=23694; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Первомайський",
+    "currentName": "Златопіль",
+    "district": "Лозівський район · Харківська область",
+    "source": "postal-p5-place-a3abecc869",
+    "sourceCityId": "24343",
+    "aliases": [
+      "ZLATOPIL"
+    ],
+    "locator": "Entry with CITY_ID=24343; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Ватутіне",
+    "currentName": "Багачеве",
+    "district": "Звенигородський район · Черкаська область",
+    "source": "postal-p5-place-520f38974e",
+    "sourceCityId": "26941",
+    "aliases": [
+      "BAHACHEVE"
+    ],
+    "locator": "Entry with CITY_ID=26941; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Підгородне",
+    "currentName": "Підгороднє",
+    "district": "Дніпровський район · Дніпропетровська область",
+    "source": "postal-p5-place-82bdab746e",
+    "sourceCityId": "3752",
+    "aliases": [
+      "PIDHORODNIE"
+    ],
+    "locator": "Entry with CITY_ID=3752; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Южне",
+    "currentName": "Південне",
+    "district": "Одеський район · Одеська область",
+    "source": "postal-p5-place-39e797f7f7",
+    "sourceCityId": "17103",
+    "aliases": [
+      "PIVDENNE"
+    ],
+    "locator": "Entry with CITY_ID=17103; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  },
+  {
+    "country": "UA",
+    "kind": "city",
+    "formerName": "Южноукраїнськ",
+    "currentName": "Південноукраїнськ",
+    "district": "Вознесенський район · Миколаївська область",
+    "source": "postal-p5-place-c0139b006f",
+    "sourceCityId": "16062",
+    "aliases": [
+      "PIVDENNOUKRAINSK"
+    ],
+    "locator": "Entry with CITY_ID=16062; OLDCITY_UA → CITY_UA; CITYTYPE_UA=місто",
+    "nameNote": "Previous and current city names recorded by Ukrposhta’s address classifier at retrieval. The source does not provide the effective rename date or legal instrument. Administrative labels follow the captured postal record; historical boundaries are not verified."
+  }
+]
