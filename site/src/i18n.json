@@ -63,7 +63,11 @@
       "VN": "Vietnam",
       "KZ": "Kazakhstan",
       "IN": "India"
-    }
+    },
+    "copyLink": "Copy link",
+    "copied": "Link copied",
+    "copyFailed": "Copy the address from your browser to share this page.",
+    "searchHelp": "Search an old or new street name. Add a city to narrow the results."
   },
   "uk": {
     "name": "Українська",
@@ -129,7 +133,11 @@
       "VN": "В’єтнам",
       "KZ": "Казахстан",
       "IN": "Індія"
-    }
+    },
+    "copyLink": "Копіювати посилання",
+    "copied": "Посилання скопійовано",
+    "copyFailed": "Скопіюйте адресу сторінки з браузера.",
+    "searchHelp": "Шукайте стару або нову назву вулиці. Додайте місто, щоб уточнити результати."
   },
   "ru": {
     "name": "Русский",
@@ -195,7 +203,11 @@
       "VN": "Вьетнам",
       "KZ": "Казахстан",
       "IN": "Индия"
-    }
+    },
+    "copyLink": "Копировать ссылку",
+    "copied": "Ссылка скопирована",
+    "copyFailed": "Скопируйте адрес страницы из браузера.",
+    "searchHelp": "Ищите старое или новое название улицы. Укажите город, чтобы уточнить результаты."
   },
   "pl": {
     "name": "Polski",
@@ -261,7 +273,11 @@
       "VN": "Wietnam",
       "KZ": "Kazachstan",
       "IN": "Indie"
-    }
+    },
+    "copyLink": "Kopiuj link",
+    "copied": "Link skopiowany",
+    "copyFailed": "Skopiuj adres strony z przeglądarki.",
+    "searchHelp": "Wpisz dawną lub nową nazwę ulicy. Dodaj miasto, aby zawęzić wyniki."
   },
   "vi": {
     "name": "Tiếng Việt",
@@ -327,7 +343,11 @@
       "VN": "Việt Nam",
       "KZ": "Kazakhstan",
       "IN": "Ấn Độ"
-    }
+    },
+    "copyLink": "Sao chép liên kết",
+    "copied": "Đã sao chép",
+    "copyFailed": "Sao chép địa chỉ trang từ trình duyệt.",
+    "searchHelp": "Tìm tên đường cũ hoặc mới. Thêm thành phố để thu hẹp kết quả."
   },
   "zu": {
     "name": "isiZulu",
@@ -393,7 +413,11 @@
       "VN": "IVietnam",
       "KZ": "IKazakhstan",
       "IN": "I-India"
-    }
+    },
+    "copyLink": "Kopisha isixhumanisi",
+    "copied": "Isixhumanisi sikopishiwe",
+    "copyFailed": "Kopisha ikheli lekhasi esipheqululini.",
+    "searchHelp": "Sesha igama lomgwaqo elidala noma elisha. Faka idolobha ukuze unciphise imiphumela."
   },
   "kk": {
     "name": "Қазақша",
@@ -459,7 +483,11 @@
       "VN": "Вьетнам",
       "KZ": "Қазақстан",
       "IN": "Үндістан"
-    }
+    },
+    "copyLink": "Сілтемені көшіру",
+    "copied": "Сілтеме көшірілді",
+    "copyFailed": "Браузерден беттің мекенжайын көшіріңіз.",
+    "searchHelp": "Көшенің ескі немесе жаңа атауын іздеңіз. Нәтижелерді нақтылау үшін қаланы қосыңыз."
   },
   "hi": {
     "name": "हिन्दी",
@@ -525,7 +553,11 @@
       "VN": "वियतनाम",
       "KZ": "कज़ाख़स्तान",
       "IN": "भारत"
-    }
+    },
+    "copyLink": "लिंक कॉपी करें",
+    "copied": "लिंक कॉपी हो गया",
+    "copyFailed": "ब्राउज़र से पृष्ठ का पता कॉपी करें।",
+    "searchHelp": "सड़क का पुराना या नया नाम खोजें। परिणाम सीमित करने के लिए शहर जोड़ें।"
   },
   "mr": {
     "name": "मराठी",
@@ -591,7 +623,11 @@
       "VN": "व्हिएतनाम",
       "KZ": "कझाकस्तान",
       "IN": "भारत"
-    }
+    },
+    "copyLink": "दुवा कॉपी करा",
+    "copied": "दुवा कॉपी केला",
+    "copyFailed": "ब्राउझरमधून पृष्ठाचा पत्ता कॉपी करा.",
+    "searchHelp": "रस्त्याचे जुने किंवा नवे नाव शोधा. निकाल मर्यादित करण्यासाठी शहर जोडा."
   },
   "bn": {
     "name": "বাংলা",
@@ -657,7 +693,11 @@
       "VN": "ভিয়েতনাম",
       "KZ": "কাজাখস্তান",
       "IN": "ভারত"
-    }
+    },
+    "copyLink": "লিঙ্ক কপি করুন",
+    "copied": "লিঙ্ক কপি হয়েছে",
+    "copyFailed": "ব্রাউজার থেকে পৃষ্ঠার ঠিকানা কপি করুন।",
+    "searchHelp": "রাস্তার পুরোনো বা নতুন নাম খুঁজুন। ফলাফল সীমিত করতে শহর যোগ করুন।"
   },
   "ta": {
     "name": "தமிழ்",
@@ -723,6 +763,10 @@
       "VN": "வியட்நாம்",
       "KZ": "கசகஸ்தான்",
       "IN": "இந்தியா"
-    }
+    },
+    "copyLink": "இணைப்பை நகலெடு",
+    "copied": "இணைப்பு நகலெடுக்கப்பட்டது",
+    "copyFailed": "உலாவியிலிருந்து பக்க முகவரியை நகலெடுக்கவும்.",
+    "searchHelp": "தெருவின் பழைய அல்லது புதிய பெயரைத் தேடவும். முடிவுகளைக் குறைக்க நகரத்தைச் சேர்க்கவும்."
   }
 }

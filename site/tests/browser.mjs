@@ -12,4 +12,16 @@ for(const locale of ['en','uk','ru','pl','vi','zu','kk','hi','mr','bn','ta']){
  await page.goto(`http://localhost:4173/${locale}/`);
  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Overflow '+locale);
 }
+await page.goto('http://localhost:4173/en/');
+await page.waitForFunction(()=>document.querySelector('#cities').options.length>0);
+await page.locator('#query').fill('123 Smith Street');
+await page.waitForFunction(()=>document.querySelector('#resultgrid').textContent.includes('Anton Lembede') && document.querySelectorAll('#resultgrid .card').length===1);
+if(!(await page.locator('#resultcount').innerText()).includes('1'))throw Error('Live result count failed');
+if(!await page.locator('footer a[href="https://oddlogic.ai"]').isVisible())throw Error('Footer credit missing');
+await page.locator('#query').fill('not-a-real-street-xyz');
+await page.locator('#empty').waitFor({state:'visible'});
+if(!await page.locator('#empty a[href="/en/coverage/"]').isVisible())throw Error('Empty-result guidance missing');
+await page.locator('#clear').click();
+if(await page.locator('#query').inputValue())throw Error('Clear failed');
+if(errors.length)throw Error(errors.join('\n'));
 console.log(JSON.stringify({desktopSearch:true,detail:true,localeSwitch:true,mobileLocales:11,errors}));await browser.close();

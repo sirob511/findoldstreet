@@ -8,3 +8,12 @@ test('same former name in distinct Almaty districts stays separate',()=>{const r
 test('partial renames retain scope and never claim house-number carryover',()=>{for(const c of ['KZ','VN']){const r=all.find(r=>r.country===c&&r.segment&&r.status==='verified');assert.ok(r.segment.length>25);assert.equal(r.houseNumbersVerified,false);assert.equal(r.geometry,null)}});
 test('stable identifiers are unique; review records never searchable',()=>{assert.equal(new Set(all.map(r=>r.id)).size,all.length);const r=all.find(r=>r.status==='review');assert.ok(r);assert.ok(!search(all,r.formerName).some(x=>x.id===r.id));for(const r of all)assert.ok(r.events.every(e=>e.sourceUrl&&e.locator))});
 test('locale dictionaries complete',()=>{const t=JSON.parse(fs.readFileSync(new URL('../src/i18n.json',import.meta.url)));const keys=Object.keys(t.en).sort();assert.equal(Object.keys(t).length,11);for(const [l,d] of Object.entries(t))assert.deepEqual(Object.keys(d).sort(),keys,l)});
+
+test('numbered names remain distinct and house-number fallback stays street-level',()=>{
+ const make=(id,name)=>({id,formerName:name,currentName:name,city:'Example',country:'ZA',status:'verified',events:[],aliases:[],transliterations:[]});
+ const rows=[make('a','1 May Street'),make('b','2 May Street'),make('c','Smith Road')];
+ assert.deepEqual(search(rows,'1 May Street').map(r=>r.id),['a']);
+ assert.deepEqual(search(rows,'123 Smith Rd').map(r=>r.id),['c']);
+ assert.equal(search(rows,'999').length,0);
+ assert.equal(search(rows,'Smith Rd','Wrong City').length,0);
+});

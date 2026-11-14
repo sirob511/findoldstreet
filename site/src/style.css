@@ -5,3 +5,12 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 .badge:empty{display:none}
+
+/* Search assistance and compact locality navigation. */
+.searchhelp{font-size:.85rem;color:#52635c;margin:16px 0 0;max-width:75ch;line-height:1.6}
+.citybrowse{margin:32px 0}.citybrowse summary{cursor:pointer;font-weight:650;padding:18px 0}
+.citylinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;max-height:360px;overflow:auto;padding:12px 4px 20px}
+.citylinks a{font-size:.9rem;line-height:1.5}.sharetools{display:flex;align-items:center;gap:14px;margin-top:30px;flex-wrap:wrap;font-size:.85rem}
+.footer{flex-wrap:wrap;gap:18px}.footer a{overflow-wrap:anywhere}
+button,input,select,summary,a{touch-action:manipulation} :focus-visible{outline:3px solid #ba641d;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
