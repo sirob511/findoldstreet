@@ -15,5 +15,7 @@ test('numbered names remain distinct and house-number fallback stays street-leve
  assert.deepEqual(search(rows,'1 May Street').map(r=>r.id),['a']);
  assert.deepEqual(search(rows,'123 Smith Rd').map(r=>r.id),['c']);
  assert.equal(search(rows,'999').length,0);
+ assert.deepEqual(search(rows,'123 Smith Rd, South Africa').map(r=>r.id),['c']);
+ assert.deepEqual(search(rows,'1 May St').map(r=>r.id),['a']);
  assert.equal(search(rows,'Smith Rd','Wrong City').length,0);
 });
