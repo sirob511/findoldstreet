@@ -65,3 +65,22 @@ test('international source pairs work in the single box with locality aliases',(
   }
  }
 });
+
+test('historic city names qualify a street in the same box',()=>{
+ for(const city of ['Днепропетровск','Дніпропетровськ','Dnipropetrovsk','Dnipro']){
+  assert.ok(search(all,`Проспект Карла Маркса ${city}`).some(r=>r.currentName==='проспект Дмитра Яворницького'),city);
+ }
+ assert.ok(search(all,'Проспект Карла Маркса','Днепропетровск').some(r=>r.currentName==='проспект Дмитра Яворницького'));
+ assert.ok(!search(all,'Проспект Карла Маркса Warsaw').some(r=>r.currentName==='проспект Дмитра Яворницького'));
+ assert.ok(!search(all,'Проспект Карла Маркса Днепропетровск','','PL').length);
+ assert.equal(search(all,'Днепропетровск')[0].id,'city-dnipro');
+});
+
+test('city aliases do not cross countries or leak across datasets',()=>{
+ const street={id:'s',formerName:'Old Road',currentName:'New Road',city:'Newtown',country:'UA',status:'verified'};
+ const city={id:'c',kind:'city',formerName:'Oldtown',currentName:'Newtown',city:'Newtown',country:'UA',status:'verified'};
+ assert.equal(search([street,city],'Old Road Oldtown').length,1);
+ assert.equal(search([street],'Old Road Oldtown').length,0);
+ assert.equal(search([{...street,country:'PL'},city],'Old Road Oldtown').length,0);
+ assert.equal(search([street,city,{...city,id:'c2',district:'Other district'}],'Old Road Oldtown').length,0);
+});

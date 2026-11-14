@@ -12,7 +12,7 @@ if(form){
  const results=document.querySelector('#results'),choices=document.querySelector('#locations');
  let country='',selectedLocation='',limit=12,matched=[],timer;
  const locationKey=r=>JSON.stringify([r.country,r.city,r.district||'']);
- const row=r=>`<article class="answer-row"><div><div class="answer-names"><span>${esc(r.formerName)}</span><span class="answer-arrow"> → </span><strong>${esc(r.currentName)}</strong></div><p>${esc([t[(r.kind||'street')+'TypeLabel'],r.city,r.district,t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}</p></div><a class="detail-link" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} →</a></article>`;
+ const row=r=>`<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">${esc(t.old)}</span><span>${esc(r.formerName)}</span></div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">${esc(t.current)}</span><strong>${esc(r.currentName)}</strong></div></div><p>${esc([t[(r.kind||'street')+'TypeLabel'],r.city,r.district,t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}</p></div><a class="detail-link" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} →</a></article>`;
  function render(){
   const visible=selectedLocation?matched.filter(r=>locationKey(r)===selectedLocation):matched;
   grid.innerHTML=visible.slice(0,limit).map(row).join('');

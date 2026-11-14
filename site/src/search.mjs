@@ -20,11 +20,42 @@ function indexed(r) {
   }
   return cache.get(r);
 }
+// Resolve historic city spellings from verified city records, scoped by country.
+// Cache per dataset so one dataset cannot leak aliases into another.
+const datasetCache = new WeakMap();
+function datasetIndex(records) {
+  if (datasetCache.has(records)) return datasetCache.get(records);
+  const cities = records.filter(r => r.kind === 'city' && r.status === 'verified');
+  const byLocation = new Map();
+  for (const city of cities) {
+    for (const name of [city.city, city.currentName]) {
+      const key = city.country + ':' + canonical(name);
+      if (!byLocation.has(key)) byLocation.set(key, new Set());
+      byLocation.get(key).add(city);
+    }
+  }
+  const result = new Map(records.map(r => {
+    const matches = new Set();
+    if (!r.kind || r.kind === 'street') {
+      for (const name of [r.city, ...(r.locationAliases || []), ...(cityAliases[r.city] || [])]) {
+        const found = byLocation.get(r.country + ':' + canonical(name));
+        // A shared locality name is insufficient to identify a city.
+        if (found?.size === 1) matches.add([...found][0]);
+      }
+    }
+    const aliases = matches.size === 1 ? indexed([...matches][0]).names.join(' ') : '';
+    const base = indexed(r);
+    return [r, {...base, text: base.text + ' ' + aliases, location: base.location + ' ' + aliases}];
+  }));
+  datasetCache.set(records, result);
+  return result;
+}
 export function searchable(r) { return indexed(r).text; }
 export function search(records, query = '', city = '', country = '') {
+  const index = datasetIndex(records);
   const q = canonical(query), tokens = q.split(' ').filter(Boolean), loc = canonical(city).split(' ').filter(Boolean);
-  const candidates = records.filter(r => r.status === 'verified' && (!country || r.country === country) && loc.every(t => indexed(r).location.includes(t)));
-  const match = words => candidates.filter(r => words.every(t => { const text=indexed(r).text; return /^\d+$/.test(t) ? text.split(' ').includes(t) : t==='st' ? ['street','saint','st'].some(v=>text.split(' ').includes(v)) : text.includes(t); }));
+  const candidates = records.filter(r => r.status === 'verified' && (!country || r.country === country) && loc.every(t => index.get(r).location.includes(t)));
+  const match = words => candidates.filter(r => words.every(t => { const text=index.get(r).text; return /^\d+$/.test(t) ? text.split(' ').includes(t) : t==='st' ? ['street','saint','st'].some(v=>text.split(' ').includes(v)) : text.includes(t); }));
   let results = match(tokens);
   // Preserve numbered street names first. Only retry a failed address without a leading house number.
   if (!results.length && tokens.length > 1 && /^\d+[a-zа-я]?$/u.test(tokens[0])) results = match(tokens.slice(1));

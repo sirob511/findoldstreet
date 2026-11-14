@@ -14,7 +14,7 @@ def record_path(r):return ('place/' if r.get('kind') else 'street/')+r['id']+'/'
 def card(r,l):
  t=T[l];url=path(l,record_path(r));kind=r.get('kind','street')
  location=' · '.join(filter(None,[t[kind+'TypeLabel'],r['city'],r['district'],t['countryNames'][r['country']]]))
- return f'<article class="answer-row"><div><div class="answer-names"><span>{e(r["formerName"])}</span><span class="answer-arrow"> → </span><strong>{e(r["currentName"])}</strong></div><p>{e(location)}{(" · "+e(t["partial"])) if r.get("segment") else ""}</p></div><a class="detail-link" href="{url}">{e(t["detail"])} →</a></article>'
+ return f'<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">{e(t["old"])}</span><span>{e(r["formerName"])}</span></div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">{e(t["current"])}</span><strong>{e(r["currentName"])}</strong></div></div><p>{e(location)}{(" · "+e(t["partial"])) if r.get("segment") else ""}</p></div><a class="detail-link" href="{url}">{e(t["detail"])} →</a></article>'
 def lookup(l,interactive=False):
  t=T[l]
  return f'<form {"id=searchform" if interactive else ""} class="lookup-form" action="/{l}/" method="get"><label class="sr-only" for="query">{e(t["query"])}</label><div class="lookup-controls"><input id="query" name="q" type="search" placeholder="{e(t["placeholder"])}" autocomplete="off"><button class="primary" type="submit">{e(t["submit"])}</button></div></form>'
