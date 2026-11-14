@@ -42,5 +42,20 @@
       "Static build and SEO checks",
       "Mobile search → detail → source browser check"
     ]
+  },
+  {
+    "passNumber": 4,
+    "target": 500,
+    "newPublishedRecords": 1049,
+    "totalPublishedRecords": 5078,
+    "scope": "Vinnytsia, Poltava, Chernihiv and Cherkasy postal street-name mappings",
+    "heldCandidates": 71,
+    "sourceReview": "1120 explicit previous-name entries examined; compound histories, collisions, duplicates, unchanged names, existing-record overlaps and non-street objects excluded.",
+    "validation": [
+      "Captured-field equality and SHA-256 checks",
+      "Search regression tests",
+      "Static build and SEO checks",
+      "Mobile search → detail → source browser check"
+    ]
   }
 ]

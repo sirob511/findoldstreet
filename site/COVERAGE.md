@@ -2,13 +2,13 @@
 
 As of 14 November 2026. Initial, incomplete source-backed release. A verified row establishes a documented rename, not a verified present-day map identity.
 
-4,029 published records across 29 countries: 3,940 streets/segments, 66 cities and 23 country-name mappings.
+5,078 published records across 29 countries: 4,989 streets/segments, 66 cities and 23 country-name mappings.
 
 The [source audit](data/source-audit.json) inventories all repository source manifests, including failures and uncited leads. It is not an exhaustive worldwide source census.
 
 | Country | Published streets / segments | Rename events | Localities | Review |
 |---|---:|---:|---:|---:|
-| Ukraine | 3289 | 3289 | 199 | 28 |
+| Ukraine | 4338 | 4338 | 203 | 28 |
 | Poland | 213 | 294 | 3 | 0 |
 | South Africa | 81 | 81 | 4 | 9 |
 | Vietnam | 3 | 3 | 1 | 2 |
@@ -22,6 +22,7 @@ The [source audit](data/source-audit.json) inventories all repository source man
 | 1 | 500 | 837 | 2482 | Dnipro postal street-name mappings |
 | 2 | 500 | 759 | 3241 | Kharkiv postal street-name mappings |
 | 3 | 500 | 788 | 4029 | Odesa and Zaporizhzhia postal street-name mappings |
+| 4 | 500 | 1049 | 5078 | Vinnytsia, Poltava, Chernihiv and Cherkasy postal street-name mappings |
 
 ## City and country renamings
 
@@ -157,6 +158,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Вороблевичі | 1 | 1 | 0 |
 | Ukraine | Вороців | 2 | 2 | 0 |
 | Ukraine | Вузлове | 2 | 2 | 0 |
+| Ukraine | Вінниця | 323 | 323 | 0 |
 | Ukraine | Вістовичі | 1 | 1 | 0 |
 | Ukraine | Гамаліївка | 1 | 1 | 0 |
 | Ukraine | Глинськ | 1 | 1 | 0 |
@@ -255,6 +257,7 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Плеників | 1 | 1 | 0 |
 | Ukraine | Поздимир | 1 | 1 | 0 |
 | Ukraine | Полове | 1 | 1 | 0 |
+| Ukraine | Полтава | 300 | 300 | 0 |
 | Ukraine | Поляни | 1 | 1 | 0 |
 | Ukraine | Поріччя Задвірне | 1 | 1 | 0 |
 | Ukraine | Поріччя-Грунтове | 1 | 1 | 0 |
@@ -312,9 +315,11 @@ Initial selection; the street counts above exclude these records.
 | Ukraine | Харків | 807 | 807 | 0 |
 | Ukraine | Ходорів | 1 | 1 | 0 |
 | Ukraine | Червоноград | 4 | 4 | 0 |
+| Ukraine | Черкаси | 191 | 191 | 0 |
 | Ukraine | Черляни | 1 | 1 | 0 |
 | Ukraine | Черлянське Передмістя | 1 | 1 | 0 |
 | Ukraine | Чернилява | 1 | 1 | 0 |
+| Ukraine | Чернігів | 235 | 235 | 0 |
 | Ukraine | Шегині | 1 | 1 | 0 |
 | Ukraine | Юшківці | 2 | 2 | 0 |
 | Ukraine | Яворів | 3 | 3 | 0 |
@@ -347,6 +352,10 @@ Initial selection; the street counts above exclude these records.
 - [Ukrposhta street address classifier: Харків](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=280&district_id=395&city_id=24550&street_ua=) — retrieved 2026-11-14T18:22:40.815700+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [Ukrposhta street address classifier: Одеса](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=275&district_id=371&city_id=17069&street_ua=) — retrieved 2026-11-14T18:25:12.398557+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [Ukrposhta street address classifier: Запоріжжя](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=268&district_id=328&city_id=8968&street_ua=) — retrieved 2026-11-14T18:25:15.132488+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Вінниця](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=262&district_id=291&city_id=1057&street_ua=) — retrieved 2026-11-14T18:28:57.156527+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Полтава](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=276&district_id=377&city_id=19234&street_ua=) — retrieved 2026-11-14T18:28:59.331262+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Чернігів](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=285&district_id=418&city_id=29712&street_ua=) — retrieved 2026-11-14T18:29:02.130926+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
+- [Ukrposhta street address classifier: Черкаси](https://index.ukrposhta.ua/endpoints-for-apps/index.php?method=get_street_by_region_id_and_district_id_and_city_id_and_street_ua&region_id=283&district_id=408&city_id=27760&street_ua=) — retrieved 2026-11-14T18:29:05.560443+00:00; Factual address-name mappings only; source response retained for audit, not served publicly.
 - [warsaw1](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%201%20-%20Rada%20Miasta%206%20ulic%20%289%2C7%20kB%29.xlsx) — retrieved 2026-11-14T05:29:17.305724+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [warsaw2](https://warszawa19115.pl/documents/20184/17793521/Wykaz%20nr%202%20Dekomunizacja%20%2818%2C4%20kB%29.xlsx) — retrieved 2026-11-14T05:29:14.328887+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
 - [krakow-law](https://edziennik.malopolska.uw.gov.pl/WDU_K/2017/5597/akt.pdf) — retrieved 2026-11-14T05:41:41.578526+00:00; No explicit reuse licence established; factual name mappings only; source documents retained for audit, not served publicly.
@@ -409,7 +418,7 @@ Initial selection; the street counts above exclude these records.
 
 ### Ukraine
 - Current national directory and Kyiv street register not reconciled; Kharkiv includes the 48 street entries of order 513 В (26 July 2024) plus non-overlapping postal-classifier mappings; full legal-history and geometry reconciliation remains incomplete
-- Coverage outside Kyiv and the captured Lviv-region appendix remains unimported: Mykolaiv, Poltava, Vinnytsia, Chernihiv, Sumy, Zhytomyr, Rivne and other municipalities
+- Postal-classifier captures supplement the cities listed in this report; other municipalities and complete historical rename chains remain gaps
 - Lviv appendix 2 recovered: 118 published mappings; 10 Lviv/Briukhovychi rows held for municipal-decision reconciliation
 ### Poland
 - TERYT/ULIC current-register comparison not completed; Łódź has 151 reviewed mappings, including historical chains and current-register checks for the 46 additions; not its full historical inventory
