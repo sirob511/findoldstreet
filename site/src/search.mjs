@@ -45,10 +45,22 @@ function datasetIndex(records) {
     }
     const aliases = matches.size === 1 ? indexed([...matches][0]).names.join(' ') : '';
     const base = indexed(r);
-    return [r, {...base, text: base.text + ' ' + aliases, location: base.location + ' ' + aliases}];
+    return [r, {...base, cityRecord: matches.size === 1 ? [...matches][0] : null, text: base.text + ' ' + aliases, location: base.location + ' ' + aliases}];
   }));
   datasetCache.set(records, result);
   return result;
+}
+// Only echo a historical city name when the query identifies it. A street
+// rename and a city rename need not have occurred at the same time.
+export function cityComparison(records, record, query = '') {
+  if (record.kind && record.kind !== 'street') return null;
+  const current = record.city;
+  const city = datasetIndex(records).get(record)?.cityRecord;
+  const q = ' ' + canonical(query) + ' ';
+  const names = city ? [city.formerName, ...(city.aliases || []), ...(city.transliterations || []), city.currentName] : [];
+  const matched = names.filter(Boolean).sort((a,b) => b.length-a.length)
+    .find(name => q.includes(' ' + canonical(name) + ' '));
+  return {former: matched || current, current};
 }
 export function searchable(r) { return indexed(r).text; }
 export function search(records, query = '', city = '', country = '') {

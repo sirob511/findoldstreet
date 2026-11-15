@@ -29,3 +29,5 @@ button,input,select,summary,a{touch-action:manipulation} :focus-visible{outline:
 body:has(.lookup-hero.has-results) section:has(>.countries){display:none}body:has(.lookup-hero.has-results) .citybrowse{display:none}
 @media(max-width:600px){#results{padding:20px 14px}.answer-names{grid-template-columns:minmax(0,1fr) 16px minmax(0,1fr);gap:6px;font-size:16px}.answer-before,.answer-after{padding:10px 8px}.answer-label{font-size:10px}.answer-row{padding:16px 0}.answer-row .detail-link{align-self:flex-end}}
 @media(max-width:600px){.answer-names{grid-template-columns:minmax(0,1fr);gap:6px;font-size:18px}.answer-arrow{justify-self:center;transform:rotate(90deg);line-height:1}.answer-before,.answer-after{padding:12px}.answer-label{font-size:11px}}
+
+.answer-city{margin-top:14px;padding-top:10px;border-top:1px solid var(--line);font-size:17px}.answer-city .answer-label{margin-bottom:3px}

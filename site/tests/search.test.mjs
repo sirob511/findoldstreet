@@ -1,4 +1,4 @@
-import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {search,normalize} from '../src/search.mjs';
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {search,normalize,cityComparison} from '../src/search.mjs';
 const countries=['UA','PL','ZA','VN','KZ','IN','international','places'];const all=countries.flatMap(c=>JSON.parse(fs.readFileSync(new URL('../data/'+c+'.json',import.meta.url))));
 test('exact old-name lookup in each country',()=>{for(const [q,c,target] of [['Горького','UA','Антоновича'],['Lecha Kaczyńskiego','PL','Armii Ludowej'],['Smith Street','ZA','Anton Lembede'],['Xa lộ Hà Nội','VN','Võ Nguyên Giáp'],['Юрия Гагарина','KZ','Серкебаева'],['Aurangzeb Road','IN','Abdul Kalam']])assert.ok(search(all,q,'',c).some(r=>r.currentName.includes(target)),c)});
 test('accentless, generated transliteration, city alias, partial address',()=>{assert.ok(search(all,'Xa lo Ha Noi','Saigon').length);assert.ok(search(all,'Horkoho','Kyiv').length);assert.ok(search(all,'123 Smith Street','eThekwini').length);assert.ok(search(all,'Lecha Kaczynskiego','Warsaw').length)});
@@ -83,4 +83,12 @@ test('city aliases do not cross countries or leak across datasets',()=>{
  assert.equal(search([street],'Old Road Oldtown').length,0);
  assert.equal(search([{...street,country:'PL'},city],'Old Road Oldtown').length,0);
  assert.equal(search([street,city,{...city,id:'c2',district:'Other district'}],'Old Road Oldtown').length,0);
+});
+
+
+test('address comparison shows the queried historic city and current city without guessing a past city',()=>{
+ const r=search(all,'Проспект Карла Маркса Днепропетровск')[0];
+ assert.deepEqual(cityComparison(all,r,'Проспект Карла Маркса Днепропетровск'),{former:'Днепропетровск',current:'Дніпро'});
+ assert.deepEqual(cityComparison(all,r,'Карла Маркса'),{former:'Дніпро',current:'Дніпро'});
+ assert.equal(cityComparison(all,all.find(r=>r.id==='city-dnipro'),'Днепропетровск'),null);
 });

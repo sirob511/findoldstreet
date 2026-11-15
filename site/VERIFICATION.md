@@ -2,7 +2,7 @@
 
 The tested flow is one-box search → downloaded static dataset → name/locality matching → stable detail page → source and map-search links.
 
-- 16 search regression tests cover streets, cities, countries, transliteration, locality aliases, numbered streets, reversals, partial renames, disambiguation and record identifiers. Combined street/city queries resolve historical city aliases from verified city records, with country scoping and dataset isolation checks.
+- 17 search regression tests cover streets, cities, countries, transliteration, locality aliases, numbered streets, reversals, partial renames, disambiguation and record identifiers. Combined street/city queries resolve historical city aliases from verified city records, with country scoping and dataset isolation checks. Street answers include the queried city spelling and current city inside the comparison; unqualified searches do not infer a historically concurrent city name.
 - All 3,811 international additions are checked against captured source fields and hashes. Checks include current-name/type matches for Wrocław, road-name matches for Vilnius, abolished-street exclusions for Brno, PDF table-cell evidence for Chișinău and EKI fields for Tallinn.
 - Final review withheld 59 Brno compound, alternate-label-list or isolated-house entries. The retained Brno pass contains 510 mappings.
 - Existing curated, expanded and postal-data checks pass, including all 4,206 postal street mappings and 13 city additions from the previous five passes. All 5,906 pre-expansion records, including review rows, remain unchanged.

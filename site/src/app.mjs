@@ -1,4 +1,4 @@
-import {search} from './search.mjs';
+import {search,cityComparison} from './search.mjs';
 const locale=document.documentElement.lang||'en';
 document.querySelector('#locale')?.addEventListener('change',e=>{const parts=location.pathname.split('/');if(parts[1]===locale)parts[1]=e.target.value;else parts.splice(1,0,e.target.value);location.href=parts.join('/')+location.search+location.hash});
 const share=document.querySelector('#copylink');
@@ -12,7 +12,7 @@ if(form){
  const results=document.querySelector('#results'),choices=document.querySelector('#locations');
  let country='',selectedLocation='',limit=12,matched=[],timer;
  const locationKey=r=>JSON.stringify([r.country,r.city,r.district||'']);
- const row=r=>`<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">${esc(t.old)}</span><span>${esc(r.formerName)}</span></div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">${esc(t.current)}</span><strong>${esc(r.currentName)}</strong></div></div><p>${esc([t[(r.kind||'street')+'TypeLabel'],r.city,r.district,t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}</p></div><a class="detail-link" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} →</a></article>`;
+ const row=r=>{const city=cityComparison(records,r,query.value);return `<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">${esc(t.old)}</span><span>${esc(r.formerName)}</span>${city?`<div class="answer-city"><span class="answer-label">${esc(t.cityTypeLabel)}</span>${esc(city.former)}</div>`:''}</div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">${esc(t.current)}</span><strong>${esc(r.currentName)}</strong>${city?`<div class="answer-city"><span class="answer-label">${esc(t.cityTypeLabel)}</span><strong>${esc(city.current)}</strong></div>`:''}</div></div><p>${esc([t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}</p></div><a class="detail-link" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} →</a></article>`;};
  function render(){
   const visible=selectedLocation?matched.filter(r=>locationKey(r)===selectedLocation):matched;
   grid.innerHTML=visible.slice(0,limit).map(row).join('');
