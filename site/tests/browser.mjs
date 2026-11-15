@@ -6,6 +6,8 @@ const home='http://localhost:4173/en/';
 await page.goto(home);
 await expect(page.locator('#results')).toBeHidden();
 await expect(page.locator('input')).toHaveCount(1);
+await expect(page.locator('#locale option')).toHaveCount(3);
+await expect(page.locator('#locale option')).toHaveText(['English','Українська','Русский']);
 await expect(page.locator('[data-query]')).toHaveCount(2);
 await page.screenshot({path:'/tmp/findoldstreet-desktop.png',fullPage:true});
 await page.locator('[data-query="Pushkinskaya, Kyiv"]').click();
@@ -54,7 +56,7 @@ await expect(page.locator('#empty')).toContainText('No historic names found for 
 await page.locator('#clear').click();
 await expect(page.locator('#results')).toBeHidden();
 await page.setViewportSize({width:390,height:844});
-for(const locale of ['en','uk','ru','pl','vi','zu','kk','hi','mr','bn','ta']){
+for(const locale of ['en','uk','ru']){
  await page.goto(`http://localhost:4173/${locale}/`);
  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Overflow '+locale);
 }
@@ -76,5 +78,5 @@ await page.locator('.detail-link').click();
 await expect(page.locator('.note')).toContainText('formal');
 await expect(page.locator('input[type=search]')).toHaveCount(1);
 if(errors.length)throw Error(errors.join('\n'));
-console.log('One-box lookup, disambiguation, shared URLs, place details, legacy links, empty/reset, and 11 mobile locales passed.');
+console.log('One-box lookup, disambiguation, shared URLs, place details, legacy links, empty/reset, and 3 mobile locales passed.');
 await browser.close();

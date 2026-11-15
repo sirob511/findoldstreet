@@ -2,6 +2,11 @@ from pathlib import Path
 from html.parser import HTMLParser
 import json,xml.etree.ElementTree as ET
 D=Path('dist');data=json.loads((D/'records.json').read_text());langs=list(json.loads((D/'i18n.json').read_text()))
+assert langs == ['en','uk','ru']
+for removed in ['pl','vi','zu','kk','hi','mr','bn','ta']:
+ assert not (D/removed).exists(), removed
+ assert not (D/f'sitemap-{removed}.xml').exists(), removed
+assert json.loads((D/'coverage-report.json').read_text())['languages'] == langs
 class Links(HTMLParser):
  def __init__(self):super().__init__();self.links=[]
  def handle_starttag(self,tag,attrs):

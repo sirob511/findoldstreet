@@ -818,7 +818,7 @@ Initial selection; the street counts above exclude these records.
 
 ## Languages
 
-en, uk, ru, pl, vi, zu, kk, hi, mr, bn, ta
+en, uk, ru
 
 ## Sample searches
 

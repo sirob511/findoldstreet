@@ -7,7 +7,7 @@ The tested flow is one-box search → downloaded static dataset → name/localit
 - Final review withheld 59 Brno compound, alternate-label-list or isolated-house entries. The retained Brno pass contains 510 mappings.
 - Existing curated, expanded and postal-data checks pass, including all 4,206 postal street mappings and 13 city additions from the previous five passes. All 5,906 pre-expansion records, including review rows, remain unchanged.
 - All eight data files replay deterministically from captured evidence without network requests; the published JSON matches the verified source records.
-- Browser checks cover searches and source links for every new country/city group, existing postal searches, country and city details, legacy links, locale switching, empty/reset behavior and mobile overflow in all 11 locales.
+- Browser checks cover searches and source links for every new country/city group, existing postal searches, country and city details, legacy links, locale switching, empty/reset behavior and mobile overflow in the three supported locales (English, Ukrainian and Russian).
 - Metadata tests, reciprocal hreflang, canonical links and every locale sitemap target pass. Withheld entries have no published detail pages.
 - The retained dataset contains 9,675 records across 33 countries. Unknown effective dates remain null; decision dates are kept separately.
 

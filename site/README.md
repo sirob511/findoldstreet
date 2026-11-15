@@ -40,7 +40,7 @@ node tests/international_browser.mjs
 node tests/postal_browser.mjs
 ```
 
-Tests use real records for exact/partial/transliterated queries, disambiguation, repeated renames, reversals and partial streets. Browser checks cover desktop search → detail → locale switching and mobile overflow in all 11 languages.
+Tests use real records for exact/partial/transliterated queries, disambiguation, repeated renames, reversals and partial streets. Browser checks cover desktop search → detail → locale switching and mobile overflow in English, Ukrainian and Russian.
 
 ## Hosting and indexing
 

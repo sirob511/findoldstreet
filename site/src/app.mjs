@@ -47,4 +47,4 @@ if(form){
  restore();window.addEventListener('popstate',restore);
  }catch(error){const note=document.createElement('p');note.className='error';note.setAttribute('role','alert');note.textContent=translationsFallback(locale);form.after(note);form.querySelector('button[type=submit]').disabled=true;console.error(error)}
 }
-function translationsFallback(l){return ({en:'Search data could not load. Please reload the page.',uk:'Не вдалося завантажити дані. Оновіть сторінку.',ru:'Не удалось загрузить данные. Обновите страницу.',pl:'Nie udało się wczytać danych. Odśwież stronę.',vi:'Không tải được dữ liệu. Vui lòng tải lại trang.',kk:'Деректер жүктелмеді. Бетті жаңартыңыз.',hi:'डेटा लोड नहीं हुआ। पृष्ठ फिर लोड करें।',zu:'Idatha ayilayishwanga. Vuselela ikhasi.',ta:'தரவை ஏற்ற முடியவில்லை. பக்கத்தை மீண்டும் ஏற்றவும்.',mr:'माहिती लोड झाली नाही. पृष्ठ पुन्हा उघडा.',bn:'তথ্য লোড হয়নি। পাতা আবার খুলুন।'})[l]}
+function translationsFallback(l){return ({en:'Search data could not load. Please reload the page.',uk:'Не вдалося завантажити дані. Оновіть сторінку.',ru:'Не удалось загрузить данные. Обновите страницу.'})[l]}
