@@ -12,7 +12,13 @@ if(form){
  const results=document.querySelector('#results'),choices=document.querySelector('#locations');
  let country='',selectedLocation='',limit=12,matched=[],timer;
  const locationKey=r=>JSON.stringify([r.country,r.city,r.district||'']);
- const row=r=>{const city=cityComparison(records,r,query.value);return `<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">${esc(t.old)}</span><span>${esc(r.formerName)}</span>${city?`<div class="answer-city"><span class="answer-label">${esc(t.cityTypeLabel)}</span>${esc(city.former)}</div>`:''}</div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">${esc(t.current)}</span><strong>${esc(r.currentName)}</strong>${city?`<div class="answer-city"><span class="answer-label">${esc(t.cityTypeLabel)}</span><strong>${esc(city.current)}</strong></div>`:''}</div></div><p>${esc([t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}</p></div><a class="detail-link" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} →</a></article>`;};
+ const row=r=>{
+  const city=cityComparison(records,r,query.value);
+  const locality=city?(city.former===city.current?city.current:`${city.former} → ${city.current}`):'';
+  const type=r.sourceStreetId&&!/^(?:вулиця|вул\.?|провулок|пров\.?|проспект|просп\.?|пр-т|бульвар|бул\.?|площа|пл\.?|узвіз|тупик|проїзд|шосе|набережна|наб\.?|дорога|в[’'ʼ]їзд)\s/iu.test(r.formerName)?r.streetType:'';
+  return `<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="sr-only">${esc(t.old)}: </span>${esc(r.formerName)}</div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="sr-only">${esc(t.current)}: </span><strong>${esc(r.currentName)}</strong></div></div><p class="answer-location">${esc([locality,t.countryNames[r.country]].filter(Boolean).join(' · '))}${r.segment?' · '+esc(t.partial):''}${type?` <span class="answer-type" title="${esc(t.typeContext)}">${esc(t.recordedType)}: ${esc(type)}</span>`:''}</p></div><a class="detail-link" aria-label="${esc(t.detail+': '+r.formerName+' → '+r.currentName)}" href="/${locale}/${r.kind?'place':'street'}/${encodeURIComponent(r.id)}/">${esc(t.detail)} <span aria-hidden="true">↗</span></a></article>`;
+ };
+
  function render(){
   const visible=selectedLocation?matched.filter(r=>locationKey(r)===selectedLocation):matched;
   grid.innerHTML=visible.slice(0,limit).map(row).join('');

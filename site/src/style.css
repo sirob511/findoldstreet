@@ -20,14 +20,29 @@ button,input,select,summary,a{touch-action:manipulation} :focus-visible{outline:
 @media(max-width:600px){.wrap{padding:0 20px}.nav{gap:12px;min-height:80px}.brand{font-size:18px}.language-label{font-size:0}.language{max-width:115px;font-size:12px}.lookup-hero{min-height:calc(100svh - 80px);padding:70px 0 100px}.lookup-hero h1{letter-spacing:-1.3px}.lookup-controls{gap:0;padding:5px}.lookup-controls input{padding:10px;font-size:16px}.lookup-controls input::placeholder{font-size:12px}.lookup-controls .primary{min-width:65px;padding:12px}.examples{gap:8px;flex-wrap:wrap}.answer-row{align-items:flex-start;flex-direction:column;gap:12px;padding:20px 0}.answer-names{font-size:18px}.answer-arrow{padding:0 4px}.detail-link{white-space:normal}.countries{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .lookup-hero.has-results{min-height:0;padding:48px 0 32px}.lookup-hero.has-results h1{font-size:clamp(28px,3vw,40px)}.lookup-hero.has-results .intro{margin-bottom:20px}
 
-/* Keep the answer distinct from the archive browsing below it. */
+/* Compact, aligned name comparisons with one shared location line. */
 #results{background:var(--paper);border:1px solid #b8cabc;border-top:4px solid var(--green);border-radius:12px;padding:24px 28px;box-shadow:var(--shadow)}
-#results .sectiontop{margin:0 0 24px}
-.answer-row>div{flex:1;width:100%}.answer-names{display:grid;grid-template-columns:minmax(0,1fr) 28px minmax(0,1fr);gap:16px;align-items:stretch}
-.answer-before,.answer-after{padding:12px 16px;border-radius:6px;min-width:0}.answer-before{background:#f5f4f0}.answer-after{background:#eaf3ec;border-left:3px solid var(--green)}
-.answer-label{display:block;font-size:11px;font-weight:600;letter-spacing:.04em;color:var(--muted);margin-bottom:6px}.answer-arrow{padding:0;align-self:center;text-align:center}.answer-row p{margin:12px 0 0}.answer-row:last-child{border-bottom:0}
+#results .sectiontop{margin:0 0 20px}
+.answer-row{gap:22px;padding:18px 4px}
+.answer-row>div{flex:1;width:100%}
+.answer-names{display:grid;grid-template-columns:minmax(0,1fr) 20px minmax(0,1.2fr);gap:14px;align-items:baseline;font-size:18px;line-height:1.45}
+.answer-before,.answer-after{min-width:0}
+.answer-before{color:var(--muted)}
+.answer-after strong{font-weight:650}
+.answer-arrow{padding:0;text-align:center;color:#8a9b92}
+.answer-row .answer-location{margin:7px 0 0;font-size:12px;line-height:1.6}
+.answer-type{display:inline-block;margin-left:8px;padding:0 6px;background:var(--soft);border-radius:4px;font-size:11px}
+.answer-row .detail-link{font-size:12px;padding:8px 0}
+.answer-row:last-child{border-bottom:0}
 body:has(.lookup-hero.has-results) section:has(>.countries){display:none}body:has(.lookup-hero.has-results) .citybrowse{display:none}
-@media(max-width:600px){#results{padding:20px 14px}.answer-names{grid-template-columns:minmax(0,1fr) 16px minmax(0,1fr);gap:6px;font-size:16px}.answer-before,.answer-after{padding:10px 8px}.answer-label{font-size:10px}.answer-row{padding:16px 0}.answer-row .detail-link{align-self:flex-end}}
-@media(max-width:600px){.answer-names{grid-template-columns:minmax(0,1fr);gap:6px;font-size:18px}.answer-arrow{justify-self:center;transform:rotate(90deg);line-height:1}.answer-before,.answer-after{padding:12px}.answer-label{font-size:11px}}
-
-.answer-city{margin-top:14px;padding-top:10px;border-top:1px solid var(--line);font-size:17px}.answer-city .answer-label{margin-bottom:3px}
+@media(max-width:600px){
+ #results{padding:20px 14px}
+ .answer-row{gap:2px;padding:16px 0}
+ .answer-names{grid-template-columns:16px minmax(0,1fr);gap:4px 8px;font-size:17px}
+ .answer-before{grid-column:2}
+ .answer-arrow{grid-row:2;grid-column:1}
+ .answer-after{grid-row:2;grid-column:2}
+ .answer-row .answer-location{margin-left:24px}
+ .answer-type{margin-left:0;margin-right:6px}
+ .answer-row .detail-link{align-self:flex-end;min-height:36px}
+}

@@ -1,4 +1,4 @@
-import json,pathlib,html,shutil,os,collections,hashlib,urllib.parse
+import re,json,pathlib,html,shutil,os,collections,hashlib,urllib.parse
 from seo import site_origin, metadata
 ORIGIN=site_origin()
 R=pathlib.Path(__file__).resolve().parents[1];D=R/'dist'
@@ -13,9 +13,11 @@ def path(lang,suffix=''):return f'/{lang}/{suffix}'
 def record_path(r):return ('place/' if r.get('kind') else 'street/')+r['id']+'/'
 def card(r,l):
  t=T[l];url=path(l,record_path(r));kind=r.get('kind','street')
- city=f'<div class="answer-city"><span class="answer-label">{e(t["cityTypeLabel"])}</span>{e(r["city"])}</div>' if kind=='street' else ''
- location=' · '.join(filter(None,[t['countryNames'][r['country']]]))
- return f'<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="answer-label">{e(t["old"])}</span><span>{e(r["formerName"])}</span>{city}</div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="answer-label">{e(t["current"])}</span><strong>{e(r["currentName"])}</strong>{city}</div></div><p>{e(location)}{(" · "+e(t["partial"])) if r.get("segment") else ""}</p></div><a class="detail-link" href="{url}">{e(t["detail"])} →</a></article>'
+ location=' · '.join(filter(None,[r['city'] if kind=='street' else '',t['countryNames'][r['country']]]))
+ typ=r.get('streetType') if r.get('sourceStreetId') and not re.match(r"^(?:вулиця|вул\.?|провулок|пров\.?|проспект|просп\.?|пр-т|бульвар|бул\.?|площа|пл\.?|узвіз|тупик|проїзд|шосе|набережна|наб\.?|дорога|в[’'ʼ]їзд)\s",r['formerName'],re.I) else None
+ context=f' <span class="answer-type" title="{e(t["typeContext"])}">{e(t["recordedType"])}: {e(typ)}</span>' if typ else ''
+ return f'<article class="answer-row"><div><div class="answer-names"><div class="answer-before"><span class="sr-only">{e(t["old"])}: </span>{e(r["formerName"])}</div><span class="answer-arrow" aria-hidden="true">→</span><div class="answer-after"><span class="sr-only">{e(t["current"])}: </span><strong>{e(r["currentName"])}</strong></div></div><p class="answer-location">{e(location)}{(" · "+e(t["partial"])) if r.get("segment") else ""}{context}</p></div><a class="detail-link" aria-label="{e(t["detail"]+": "+r["formerName"]+" → "+r["currentName"])}" href="{url}">{e(t["detail"])} <span aria-hidden="true">↗</span></a></article>'
+
 def lookup(l,interactive=False):
  t=T[l]
  return f'<form {"id=searchform" if interactive else ""} class="lookup-form" action="/{l}/" method="get"><label class="sr-only" for="query">{e(t["query"])}</label><div class="lookup-controls"><input id="query" name="q" type="search" placeholder="{e(t["placeholder"])}" autocomplete="off"><button class="primary" type="submit">{e(t["submit"])}</button></div></form>'

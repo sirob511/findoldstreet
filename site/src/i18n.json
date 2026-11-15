@@ -99,7 +99,9 @@
     "streetTypeLabel": "Street",
     "cityTypeLabel": "City",
     "countryTypeLabel": "Country",
-    "allLocations": "All locations"
+    "allLocations": "All locations",
+    "recordedType": "Recorded type",
+    "typeContext": "Street type recorded for the current name; the source does not specify the former designation."
   },
   "uk": {
     "name": "Українська",
@@ -201,7 +203,9 @@
     "streetTypeLabel": "Вулиця",
     "cityTypeLabel": "Місто",
     "countryTypeLabel": "Країна",
-    "allLocations": "Усі місця"
+    "allLocations": "Усі місця",
+    "recordedType": "Тип у джерелі",
+    "typeContext": "Тип вулиці для поточної назви; джерело не вказує колишнього типу."
   },
   "ru": {
     "name": "Русский",
@@ -303,6 +307,8 @@
     "streetTypeLabel": "Улица",
     "cityTypeLabel": "Город",
     "countryTypeLabel": "Страна",
-    "allLocations": "Все места"
+    "allLocations": "Все места",
+    "recordedType": "Тип в источнике",
+    "typeContext": "Тип улицы для текущего названия; источник не указывает прежнего типа."
   }
 }

@@ -1,7 +1,10 @@
-import {chromium,expect} from '@playwright/test';
+import {chromium,expect as baseExpect} from '@playwright/test';
+const expect=baseExpect.configure({timeout:20000});
 const browser=await chromium.launch({headless:true});
 const errors=[];const page=await browser.newPage({viewport:{width:1440,height:1000}});
 page.on('pageerror',e=>errors.push(e.message));
+// Keep external font latency out of functional browser checks.
+await page.route('https://fonts.googleapis.com/**', route=>route.abort());
 const home='http://localhost:4173/en/';
 await page.goto(home);
 await expect(page.locator('#results')).toBeHidden();
@@ -41,11 +44,14 @@ await expect(page.locator('#resultgrid .answer-row')).toHaveCount(1);
 await page.goto(home+'?q='+encodeURIComponent('Проспект Карла Маркса Днепропетровск'));
 await expect(page.locator('#resultgrid')).toContainText('проспект Дмитра Яворницького');
 await expect(page.locator('.answer-before').first()).toContainText('Former name');
-await expect(page.locator('.answer-before .answer-city').first()).toContainText('Днепропетровск');
-await expect(page.locator('.answer-after .answer-city').first()).toContainText('Дніпро');
+await expect(page.locator('.answer-location').first()).toContainText('Днепропетровск');
+await expect(page.locator('.answer-location').first()).toContainText('Дніпро');
 await expect(page.locator('#resultgrid')).not.toContainText('Дніпровський район');
 await expect(page.locator('.answer-after').first()).toContainText('Latest documented name');
 await expect(page.locator('.countries')).toBeHidden();
+await expect(page.locator('.answer-type').first()).toContainText('Recorded type: проспект');
+await expect(page.locator('.answer-type').first()).toHaveAttribute('title', /does not specify the former designation/);
+if((await page.locator('.answer-row').first().boundingBox()).height>140)throw Error('Desktop result is no longer compact');
 await page.screenshot({path:'/tmp/findoldstreet-combined-address.png',fullPage:true});
 await page.setViewportSize({width:390,height:844});
 if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Combined address mobile overflow');
